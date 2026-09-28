@@ -1,0 +1,1122 @@
+{
+  "attributes": {
+    "slug": "service",
+    "title": "Bridgeway Digital",
+    "template": "service",
+    "is_cms_managed": true,
+    "status": true,
+    "sort_order": 0
+  },
+  "seo": {
+    "meta_title": "Bridgeway Digital",
+    "meta_description": "Bridgeway Digital",
+    "seo_content": null,
+    "schema": null,
+    "microdata": null,
+    "enable_schema": true,
+    "enable_microdata": false,
+    "robots_index": "index",
+    "robots_follow": "follow",
+    "og_tags": null,
+    "canonical_url": "/service",
+    "keywords": null,
+    "og_title": null,
+    "og_description": null,
+    "og_type": null,
+    "og_url": null,
+    "og_image": null,
+    "twitter_card": null,
+    "twitter_title": null,
+    "twitter_description": null,
+    "twitter_image": null
+  },
+  "images": [],
+  "sections": [
+    {
+      "id": "service-hero",
+      "type": "serviceHero",
+      "enabled": true,
+      "data": {
+        "heading": "International SEO Services — Expand Globally With Genuine Organic Reach",
+        "description": "Revamp your website’s global potential with expert International SEO services. Get insights and targeted optimization—drive tangible expansion in global markets now.",
+        "btn": {
+          "text": "Get Your Free Quote"
+        },
+        "services": [
+          {
+            "value": "3.1x",
+            "label": "Increase in Global Search Visibility",
+            "average": "1.9x"
+          },
+          {
+            "value": "2.6x",
+            "label": "Growth in International Traffic",
+            "average": "1.5x"
+          },
+          {
+            "value": "4.3x",
+            "label": "Improvement in Global Engagement",
+            "average": "2.1x"
+          }
+        ],
+        "form": {
+          "label": "Enter your details",
+          "placeholder": "Enter your details",
+          "submitText": "Get Your Free Quote"
+        },
+        "testimonial": {
+          "decoration": {
+            "src": "/images/service/middle-box-top.svg",
+            "width": 143,
+            "height": 28,
+            "alt": ""
+          },
+          "quote": "Bridgeway has been a game-changer for our web strategy.",
+          "sourceLogo": {
+            "src": "/images/service/service-clutch-icon.svg",
+            "width": 27,
+            "height": 30,
+            "alt": "Clutch"
+          },
+          "company": "U.S. Healthcare Company",
+          "source": "Review from Clutch.co",
+          "ratingImage": {
+            "src": "/images/service/rating-star.svg",
+            "width": 66,
+            "height": 11,
+            "alt": "Review rating"
+          },
+          "ratings": [
+            {
+              "label": "Rated 4.9/5 stars on G2"
+            },
+            {
+              "label": "Rated 4.9/5 stars on Clutch"
+            }
+          ],
+          "averageLabel": "Industry average"
+        }
+      }
+    },
+    {
+      "id": "ser-logo",
+      "type": "serLogo",
+      "enabled": true,
+      "data": {
+        "title": "Trusted by startups and Fortune 500 companies",
+        "highlight": "500",
+        "logos": [
+          {
+            "ImgSrc": "/images/service/ser-logo-1.svg"
+          },
+          {
+            "ImgSrc": "/images/service/ser-logo-2.webp"
+          },
+          {
+            "ImgSrc": "/images/service/ser-logo-3.webp"
+          },
+          {
+            "ImgSrc": "/images/service/ser-logo-4.webp"
+          },
+          {
+            "ImgSrc": "/images/service/ser-logo-5.webp"
+          },
+          {
+            "ImgSrc": "/images/service/ser-logo-6.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sub-service",
+      "type": "subService",
+      "enabled": true,
+      "data": {
+        "MainTitle": "Enhance Your Online Presence Via Robust Angular JS Development Services",
+        "desc": "Whether you’re looking to upgrade your current website or build a new, dynamic web application, our customizable AngularJS development services can help. Learn more about our tailored plans for creating responsive, scalable applications that engage users and drive business growth.",
+        "btnText": "SEND ME A PROPOSAL ➜",
+        "SubServiceData": [
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "AngularJS Template Development",
+            "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "Custom Web Application Development",
+            "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "API Integration & Development",
+            "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "UI/UX Design & Frontend Engineering",
+            "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "Performance Optimization",
+            "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "Maintenance & Support Services",
+            "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+          }
+        ],
+        "btnHref": "/get-a-free-quote"
+      }
+    },
+    {
+      "id": "cta-one",
+      "type": "ctaOne",
+      "enabled": true,
+      "data": {
+        "left": {
+          "heading": "Maximize Your Web Potential with Leading Angular JS Web Development Company",
+          "description": "Elevate your digital experience by leveraging the full potential of this powerful framework. Let’s begin, shall we?"
+        },
+        "right": {
+          "heading": "Get Superior Software Performance on Every Project",
+          "description": "Clients trust our AngularJS solutions to deliver fast, efficient, and scalable web applications. Our expertise ensures you get maximum value from every project. Gain deeper insights into how your app performs, streamline updates, and improve user satisfaction.",
+          "list": [
+            "Enhance your web application’s responsiveness with AngularJS.",
+            "Optimize every interaction to boost user engagement and retention.",
+            "Implement cutting-edge features to stay ahead in the competitive landscape."
+          ]
+        },
+        "logo": {
+          "src": "/images/white-logo.svg",
+          "width": 200,
+          "height": 200,
+          "alt": "BridgeWay Digital"
+        },
+        "button": {
+          "href": "/get-a-free-quote",
+          "text": "GET STARTED ➜"
+        }
+      }
+    },
+    {
+      "id": "ser-price",
+      "type": "serPrice",
+      "enabled": true,
+      "data": {
+        "heading": "Affordable International SEO Services Designed for Your Needs",
+        "description": "At BridgeWay Digital, we understand that breaking into international markets requires more than just translation. Our international SEO services are designed to optimize your website for global search engines, ensuring your content resonates with diverse audiences across the world.",
+        "leftData": {
+          "heading": "International SEO Packages",
+          "value": "$1,500",
+          "offerings": [
+            {
+              "imgSrc": "/images/service/ser-price-icon-1.svg",
+              "title": "International Keyword Optimization",
+              "desc": "We research and implement high-performing keywords tailored to each specific market. Our strategies ensure your website is not just visible but highly competitive in the target region, driving relevant traffic that converts."
+            },
+            {
+              "imgSrc": "/images/service/ser-price-icon-1.svg",
+              "title": "High Authority International Backlinking",
+              "desc": "Boost your site’s credibility and rankings with high-quality backlinks from authoritative sources in your target regions. Our international backlinking strategies are designed to improve your domain authority on a global scale."
+            },
+            {
+              "imgSrc": "/images/service/ser-price-icon-1.svg",
+              "title": "Geo-Targeted SEO Tactics",
+              "desc": "We employ advanced geo-targeting techniques to optimize your website for various locations, ensuring your content is highly relevant and accessible to users in specific regions. This targeted approach enhances visibility and engagement for local audiences."
+            }
+          ]
+        },
+        "rightData": {
+          "heading": "Included in All International SEO Projects:",
+          "points": [
+            {
+              "point": "Professionally styled, custom designs that match your branding and vision"
+            },
+            {
+              "point": "Positive user experience navigation"
+            },
+            {
+              "point": "Responsive design"
+            },
+            {
+              "point": "Lead-generating and performance-tested web applications"
+            },
+            {
+              "point": "Code and logic optimized for SEO"
+            },
+            {
+              "point": "Custom API integration"
+            },
+            {
+              "point": "Database integration"
+            },
+            {
+              "point": "New application page creation"
+            },
+            {
+              "point": "Closed-loop call, lead, customer journey, and revenue tracking"
+            },
+            {
+              "point": "Tracking website performance with Google Analytics setup and integration."
+            }
+          ]
+        },
+        "ui": {
+          "icon": {
+            "src": "/images/service/ser-price-img-1.svg",
+            "alt": "Custom development"
+          },
+          "startingAt": "Starting at",
+          "priceSuffix": "/ project",
+          "includedTitle": "What’s Included:",
+          "button": {
+            "href": "/get-a-free-quote",
+            "text": "GET MY CUSTOM QUOTE ➜"
+          },
+          "background": {
+            "src": "/images/service/SerPrice-bg.webp",
+            "alt": ""
+          }
+        }
+      }
+    },
+    {
+      "id": "expert-team",
+      "type": "expertTeam",
+      "enabled": true,
+      "data": {
+        "labels": {
+          "organization": "ORGANIZATION:",
+          "challenge": "CHALLENGE",
+          "initiatives": "RECENT INITIATIVES",
+          "result": "RESULT"
+        },
+        "imgAlt": "Expert Team",
+        "MainTitle": "Custom Angular JS Development Solutions Tailored to your Problem",
+        "desc": "Explore our collection of case studies that showcase how our custom Angular JS development solutions have solved complex problems for diverse clients. Get a glimpse of the talented team driving these successes.",
+        "imgSrc": "/images/home/expert-team-img.webp",
+        "style": {
+          "height": "600px"
+        },
+        "sliderData": [
+          {
+            "title": "Educational Client",
+            "organization": "",
+            "challenge": "Increase student interaction on an online learning platform.",
+            "initiativeTextOne": "Development of interactive Angular JS quizzes and modules.",
+            "initiativeTextTwo": "Enhancement of real-time chat and discussion features.",
+            "initiativeTextThree": "Streamlining course navigation with Angular JS routing.",
+            "percentage": "65%",
+            "increase": "INCREASE IN STUDENT PARTICIPATION"
+          },
+          {
+            "title": "SEO",
+            "organization": "Greenleaf Landscaping",
+            "challenge": "Increase organic search visibility and drive more qualified leads to the website.",
+            "initiativeTextOne": "Conducted an in-depth SEO audit and implemented on-page and off-page optimization strategies.",
+            "initiativeTextTwo": "Enhanced keyword targeting and content quality to improve search engine rankings.",
+            "initiativeTextThree": "Developed a comprehensive backlink strategy to build domain authority.",
+            "percentage": "90%",
+            "increase": "Increase in organic traffic"
+          },
+          {
+            "title": "Digital Marketing",
+            "organization": "UrbanTrend Clothing",
+            "challenge": "Boost brand awareness and drive online sales through targeted digital marketing campaigns.",
+            "initiativeTextOne": "Created and executed multi-channel marketing campaigns across social media, email, and PPC platforms.",
+            "initiativeTextTwo": "Developed engaging content and eye-catching ad creatives to capture audience attention.",
+            "initiativeTextThree": "Utilized data analytics to fine-tune campaigns and maximize ROI.",
+            "percentage": "60%",
+            "increase": "Increase in brand engagement"
+          },
+          {
+            "title": "Video Animation",
+            "organization": "BrightMinds Learning",
+            "challenge": "Create engaging educational content to enhance student learning and retention.",
+            "initiativeTextOne": "Produced a series of animated educational videos with high-quality visuals and clear explanations.",
+            "initiativeTextTwo": "Incorporated interactive elements to make learning more engaging.",
+            "initiativeTextThree": "Ensured all videos were optimized for various devices and platforms.",
+            "percentage": "70%",
+            "increase": "Improved engagement"
+          },
+          {
+            "title": "Amazon Marketing",
+            "organization": "TechGiant Electronics",
+            "challenge": "Increase product visibility and sales on the Amazon marketplace.",
+            "initiativeTextOne": "Optimized product listings with targeted keywords and high-quality images.",
+            "initiativeTextTwo": "Implemented advanced PPC strategies to boost product ranking and visibility.",
+            "initiativeTextThree": "Monitored and adjusted campaigns based on performance data to maximize results.",
+            "percentage": "45%",
+            "increase": "Increase in sales"
+          },
+          {
+            "title": "Performance Marketing",
+            "organization": "FitPro Supplements",
+            "challenge": "Enhance the effectiveness of marketing campaigns to achieve higher conversion rates.",
+            "initiativeTextOne": "Developed and executed performance-driven marketing strategies with a focus on conversion optimization.",
+            "initiativeTextTwo": "Utilized A/B testing and data analysis to refine ad creatives and targeting.",
+            "initiativeTextThree": "Implemented advanced tracking and reporting tools to measure campaign success.",
+            "percentage": "50%",
+            "increase": "Increase in conversions"
+          }
+        ]
+      }
+    },
+    {
+      "id": "feature-comparison",
+      "type": "featureComparison",
+      "enabled": true,
+      "data": {
+        "heading": "Expert Technical SEO Services for Solid Digital Growth",
+        "comparisonTableData": {
+          "headings": {
+            "left": "WITH BRIDGEWAY DIGITAL",
+            "right": "WITHOUT BRIDGEWAY DIGITAL"
+          },
+          "rows": [
+            {
+              "left": "Hreflang implementation to target multiple languages and regions",
+              "right": "Incorrect hreflang tags leading to content mismatch in different regions"
+            },
+            {
+              "left": "International link building for authoritative global backlinks",
+              "right": "Lack of quality backlinks impacting global search engine rankings"
+            },
+            {
+              "left": "Geo-targeting strategies to optimize content for specific countries",
+              "right": "Poor geo-targeting resulting in irrelevant content for users"
+            },
+            {
+              "left": "Optimized global website structure for seamless user experience",
+              "right": "Disorganized site structure confusing users across different regions"
+            },
+            {
+              "left": "Regular updates to adapt to changing international SEO trends",
+              "right": "Falling behind competitors due to outdated international SEO strategies"
+            }
+          ]
+        },
+        "rightData": {
+          "comment": "Our website was struggling with slow load times and poor search rankings until BridgeWay Digital stepped in. They optimized our site's technical structure, implemented HTTPS, and improved our mobile responsiveness. The results were immediate and impressive.",
+          "customerName": "Alex P, Sr Executive",
+          "achivements": [
+            {
+              "value": "80%",
+              "detail": "of clients saw increased international traffic with our SEO, outpacing competitors' 25% growth."
+            },
+            {
+              "value": "85%",
+              "detail": "Clients reported better global engagement from localized content and geo-targeted strategies."
+            }
+          ]
+        },
+        "icon": {
+          "src": "/images/service/Sub_Service-1.svg",
+          "alt": "Code"
+        }
+      }
+    },
+    {
+      "id": "sub-service-2",
+      "type": "subService",
+      "enabled": true,
+      "data": {
+        "MainTitle": "Enhance Your Online Presence Via Robust Angular JS Development Services",
+        "desc": "Whether you’re looking to upgrade your current website or build a new, dynamic web application, our customizable AngularJS development services can help. Learn more about our tailored plans for creating responsive, scalable applications that engage users and drive business growth.",
+        "btnText": "",
+        "SubServiceData": [
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "AngularJS Template Development",
+            "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "Custom Web Application Development",
+            "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "API Integration & Development",
+            "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "UI/UX Design & Frontend Engineering",
+            "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "Performance Optimization",
+            "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "API Integration & Development",
+            "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "UI/UX Design & Frontend Engineering",
+            "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "Performance Optimization",
+            "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+          },
+          {
+            "ImgSrc": "/images/service/Sub_Service-1.svg",
+            "title": "Maintenance & Support Services",
+            "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+          }
+        ],
+        "btnHref": "/get-a-free-quote"
+      }
+    },
+    {
+      "id": "ser-why-business",
+      "type": "serWhyBusiness",
+      "enabled": true,
+      "data": {
+        "tabs": [
+          {
+            "id": "TechWave",
+            "label": "TechWave Solutions"
+          },
+          {
+            "id": "GreenLine",
+            "label": "GreenLine Innovations"
+          },
+          {
+            "id": "Pioneer",
+            "label": "Pioneer Tech Labs"
+          },
+          {
+            "id": "Quantum",
+            "label": "Quantum IT Solutions"
+          }
+        ],
+        "tabContent": {
+          "TechWave": {
+            "title": "When TechWave Solutions needed to enhance their platform, they turned to BridgeWay Digital. Discover how our collaboration doubled their user engagement.",
+            "para": "Our Angular JS implementation with BridgeWay Digital significantly enhanced our platform's performance. The user engagement has doubled within six months, thanks to their expertise.",
+            "asideValue": "2X",
+            "asideText": "Increase in User Engagement"
+          },
+          "GreenLine": {
+            "bg": "/images/home/success-graph-img.webp",
+            "title": "Revenue Performance",
+            "para": "Our strategies boosted client revenue by over 30% within 6 months.",
+            "asideValue": "+30%",
+            "asideText": "Revenue Growth"
+          },
+          "Pioneer": {
+            "bg": "/images/home/revenue-img.webp",
+            "title": "Revenue Performance",
+            "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+            "asideValue": "+35%",
+            "asideText": "Revenue Growth"
+          },
+          "Quantum": {
+            "bg": "/images/home/revenue-img.webp",
+            "title": "Revenue Performance",
+            "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+            "asideValue": "+35%",
+            "asideText": "Revenue Growth"
+          }
+        },
+        "heading": {
+          "beforeIcon": "Here’s why Businesses",
+          "icon": {
+            "src": "/images/home/headt-img.webp",
+            "width": 50,
+            "height": 50,
+            "alt": ""
+          },
+          "afterIcon": "BridgeWay Digital",
+          "ratingImage": {
+            "src": "/images/home/why-businesses-star.webp",
+            "width": 180,
+            "height": 24,
+            "alt": "Five-star rating"
+          }
+        }
+      }
+    },
+    {
+      "id": "goals",
+      "type": "goals",
+      "enabled": true,
+      "data": {
+        "MainTitle": "Yes. We cover your Angular JS development needs.",
+        "desc": "Our expert team of Angular JS developers have every possible contingency covered for you!",
+        "cards": [
+          "Hreflang Tags",
+          "Geo-Targeting",
+          "Localized Keywords",
+          "Multilingual Content",
+          "Global Backlinks",
+          "Regional Domains",
+          "Mobile Optimization",
+          "Hreflang Tags",
+          "Geo-Targeting",
+          "Localized Keywords",
+          "Multilingual Content",
+          "Global Backlinks",
+          "Regional Domains",
+          "Mobile Optimization"
+        ],
+        "bottomCards": [
+          "Cultural Adaptation",
+          "Local Hosting",
+          "International Site Structure",
+          "Country-Specific URLs",
+          "Regional Social Media",
+          "Language Targeting",
+          "Cross-Border Analytics",
+          "Regional Content Optimization",
+          "Cultural Adaptation",
+          "Local Hosting",
+          "International Site Structure",
+          "Country-Specific URLs",
+          "Regional Social Media",
+          "Language Targeting",
+          "Cross-Border Analytics",
+          "Regional Content Optimization"
+        ]
+      }
+    },
+    {
+      "id": "why-trust",
+      "type": "whyTrust",
+      "enabled": true,
+      "data": {
+        "tag": "Why Companies Trust",
+        "heading": "BridgeWay Digital As the Best Angular JS Web Development Company",
+        "description": "BridgeWay Digital excels in harnessing the power of Angular JS to deliver dynamic web applications. We prioritize the client experience by focusing on seamless, scalable solutions that drive business growth and enhance user engagement.",
+        "cardContent": [
+          {
+            "imgSrc": "/images/service/WhyTrust-icon.svg",
+            "title": "Performance-Driven Development",
+            "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+          },
+          {
+            "imgSrc": "/images/service/WhyTrust-icon-2.webp",
+            "title": "Performance-Driven Development",
+            "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+          },
+          {
+            "imgSrc": "/images/service/WhyTrust-icon-3.webp",
+            "title": "Performance-Driven Development",
+            "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+          },
+          {
+            "imgSrc": "/images/service/WhyTrust-icon-4.webp",
+            "title": "Performance-Driven Development",
+            "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+          },
+          {
+            "imgSrc": "/images/service/WhyTrust-icon-5.webp",
+            "title": "Performance-Driven Development",
+            "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+          },
+          {
+            "imgSrc": "/images/service/WhyTrust-icon-6.webp",
+            "title": "Performance-Driven Development",
+            "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+          }
+        ]
+      }
+    },
+    {
+      "id": "real-world-ticker",
+      "type": "realWorldTicker",
+      "enabled": true,
+      "data": {
+        "title": "Real World Success With Angular JS Development",
+        "items": [
+          {
+            "count": "500+",
+            "title": "Websites Developed",
+            "description": "Enhancing businesses with Angular JS expertise."
+          },
+          {
+            "count": "98%",
+            "title": "Client Satisfaction",
+            "description": "Delivering reliable and scalable Angular solutions."
+          },
+          {
+            "count": "15+",
+            "title": "Years Experience",
+            "description": "Building enterprise-grade web applications."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ser-table",
+      "type": "serTable",
+      "enabled": true,
+      "data": {
+        "heading": "Website Development Services Deliverables",
+        "description": "An in-depth overview of the deliverables for each web development service offered by BridgeWay Digital.",
+        "tableData": {
+          "columns": [
+            "Basic Package",
+            "Advanced Package",
+            "Premium Package"
+          ],
+          "features": [
+            {
+              "title": "Products",
+              "values": [
+                "text:Up to 5",
+                "text:Up to 10",
+                "text:Up to 15"
+              ]
+            },
+            {
+              "title": "Keyword Research",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Campaign Setup",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Ad Copywriting",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Bid Management",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Negative Keyword Optimization",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Ad Extensions",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "A/B Testing",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Campaign Monitoring",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Budget Management",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Search Term Analysis",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Competitor Analysis",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Conversion Tracking",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Geotargeting",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Performance Reporting",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Continuous Optimization",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Progressive Monthly Management Fee",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            }
+          ],
+          "title": "Features"
+        },
+        "staticRowData": {
+          "title": "Connect With An Website Development Expert",
+          "phone": {
+            "text": "{{contact.phone.display}}",
+            "link": "{{contact.phone.href}}"
+          },
+          "values": [
+            {
+              "link": "/get-a-free-quote",
+              "text": "GET STARTED"
+            },
+            {
+              "link": "/get-a-free-quote",
+              "text": "GET STARTED"
+            },
+            {
+              "link": "/get-a-free-quote",
+              "text": "GET STARTED"
+            }
+          ]
+        },
+        "scrollHint": "👉 Swipe to view more"
+      }
+    },
+    {
+      "id": "ser-cta",
+      "type": "serCta",
+      "enabled": true,
+      "data": {
+        "title": "Bridgeway Digital has earned hundreds of reviews praising our efficiency, expertise, and client-focused approach.",
+        "button": {
+          "href": "#",
+          "text": "Client Testimonials âžœ"
+        },
+        "image": {
+          "src": "/images/service/ser-cta-img.webp",
+          "width": 258,
+          "height": 255,
+          "alt": "Client Testimonials"
+        },
+        "rating": {
+          "label": "BRIDGEWAY DIGITAL AGENCY RATING",
+          "stars": {
+            "src": "/images/service/ser-star.svg",
+            "width": 114,
+            "height": 18,
+            "alt": "star"
+          },
+          "value": "4.9/5",
+          "detail": "BASED ON OVER 500 THIRD-PARTY REVIEWS"
+        }
+      }
+    },
+    {
+      "id": "ser-faq",
+      "type": "serFaq",
+      "enabled": true,
+      "data": {
+        "MainTitle": "Frequently Asked Questions",
+        "faqData": [
+          {
+            "question": "What is Angular JS, and why should I choose it for my web development project?",
+            "answer": "Angular JS is a popular open-source framework maintained by Google that allows developers to build dynamic, single-page applications. Its two-way data binding and dependency injection make development more efficient and robust, providing a seamless user experience."
+          },
+          {
+            "question": "Do you offer customer support?",
+            "answer": "Yes, our support team is available 24/7 via chat and email."
+          },
+          {
+            "question": "How long does it take to get started?",
+            "answer": "You can get started within minutes by signing up and following the onboarding process."
+          },
+          {
+            "question": "Do you offer customer support?",
+            "answer": "Yes, our support team is available 24/7 via chat and email."
+          },
+          {
+            "question": "Do you offer customer support?",
+            "answer": "Yes, our support team is available 24/7 via chat and email."
+          },
+          {
+            "question": "Do you offer customer support?",
+            "answer": "Yes, our support team is available 24/7 via chat and email."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ser-cta-two",
+      "type": "serCtaTwo",
+      "enabled": true,
+      "data": {
+        "title": "Expand Your Reach with BridgeWay Digital’s Professional International SEO Services!",
+        "button": {
+          "text": "GET STARTED NOW ➜",
+          "href": "/contact-us"
+        },
+        "description": "BridgeWay Digital offers tailored Angular JS web development services that deliver high performance and superior user experiences.",
+        "highlightText": "Start your project with us today!",
+        "image": {
+          "src": "/images/service/SerCtaTwo-img.webp",
+          "alt": "Angular JS Development",
+          "width": 600,
+          "height": 280
+        }
+      }
+    },
+    {
+      "id": "development-cost",
+      "type": "developmentCost",
+      "enabled": true,
+      "data": {
+        "MainTitle": "How Much Does Angular JS Website Development Cost?",
+        "desc": "The cost of Angular JS website development can vary significantly depending on the scope and complexity of the project. Prices typically start at around $3,500 for basic applications and can go up to $60,000 for more advanced, feature-rich solutions. Each project is tailored to meet specific needs and budget requirements.",
+        "tabs": [
+          {
+            "label": "01   Project Complexity"
+          },
+          {
+            "label": "02   Custom Features"
+          },
+          {
+            "label": "03   Third-Party Integrations"
+          },
+          {
+            "label": "04   Design Requirements"
+          },
+          {
+            "label": "05   Cross-Platform Support"
+          },
+          {
+            "label": "06   Team Expertise"
+          }
+        ],
+        "tabContent": [
+          {
+            "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+            "title": "Project Complexity",
+            "para": "The overall complexity of your Angular JS project..."
+          },
+          {
+            "ImgSrc": "/images/home/success-graph-img.webp",
+            "title": "Custom Features",
+            "para": "Features like user login, admin panel, etc., increase cost..."
+          },
+          {
+            "ImgSrc": "/images/home/success-graph-img.webp",
+            "title": "Third-Party Integrations",
+            "para": "APIs, payment gateways, and CRMs add to the budget..."
+          },
+          {
+            "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+            "title": "Design Requirements",
+            "para": "Unique UI/UX needs impact both cost and timeline..."
+          },
+          {
+            "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+            "title": "Cross-Platform Support",
+            "para": "Supporting mobile, tablet, and desktop adds effort..."
+          },
+          {
+            "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+            "title": "Team Expertise",
+            "para": "Experienced teams may cost more but deliver better quality..."
+          }
+        ],
+        "button": {
+          "href": "/get-a-free-quote",
+          "text": "GET YOUR FREE AUDIT →"
+        }
+      }
+    },
+    {
+      "id": "table-of-content",
+      "type": "tableOfContent",
+      "enabled": true,
+      "data": {
+        "content": [
+          {
+            "className": "box-text-1",
+            "text": "Increase Your Amazon Store Revenue With Targeted Amazon Marketing Services"
+          },
+          {
+            "className": "box-text-2",
+            "text": "Harness the power of Amazon's sophisticated A10 algorithm by optimizing your product listings with high-conversion keywords and engaging content. We strategically position your ads using Amazon PPC campaigns to maximize visibility and click-through rates, consistently achieving an average ACoS reduction of 30% MoM and over 200% increase in revenues YoY."
+          },
+          {
+            "className": "box-text-2",
+            "text": "Our data-driven approach includes in-depth market analysis, enabling us to tailor campaigns that connect directly with your target audience, boosting your sales volume and store profitability on the world’s largest"
+          },
+          {
+            "className": "box-text-3",
+            "text": "Why Choose BridgeWayDigital As Your Amazon Marketing Company?"
+          },
+          {
+            "className": "box-text-2",
+            "text": "By consistently outperforming industry benchmarks by 3x, we ensure our clients get the unfair advantage that translates into increasing revenues, sky rocketing conversion rates, and flourishing ROI. Trust us to bring these results to your business, transforming challenges into growth opportunities on Amazon."
+          },
+          {
+            "className": "box-text-5",
+            "beforePhone": "Call us at ",
+            "phone": "{{contact.phone.display}}",
+            "phoneHref": "{{contact.phone.href}}",
+            "betweenText": " or email us at ",
+            "email": "{{contact.email}}",
+            "emailHref": "mailto:{{contact.email}}",
+            "afterText": " to unlock the BridgeWayDigital advantage today!"
+          }
+        ],
+        "toc": {
+          "title": "Table of Contents",
+          "arrowIcon": "/images/service/black-arrow.svg",
+          "links": [
+            {
+              "text": "Get A Free Audit",
+              "href": "#hero"
+            },
+            {
+              "text": "Types of Amazon Marketing Services",
+              "href": "#ppc-accordion"
+            },
+            {
+              "text": "Amazon Marketing Challenges Abridged!",
+              "href": "#sert-card"
+            },
+            {
+              "text": "Can Your Amazon Store Perform Better?",
+              "href": "#perform-card"
+            },
+            {
+              "text": "Amazon Marketing Pricing",
+              "href": "#packages"
+            },
+            {
+              "text": "Amazon Marketing Services Comparison",
+              "href": "#benifits"
+            },
+            {
+              "text": "Amazon Marketing Services Packages & Deliverables",
+              "href": "#ser-table"
+            },
+            {
+              "text": "Amazon Marketing FAQs",
+              "href": "#faq"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ser-cta-three",
+      "type": "serCtaThree",
+      "enabled": true,
+      "data": {
+        "title": "International SEO Services with BridgeWay Digital!",
+        "button": {
+          "text": "GET STARTED NOW ➜",
+          "href": "/get-a-free-quote-now"
+        },
+        "image": {
+          "src": "/images/service/cta-three-img.webp",
+          "width": 409,
+          "height": 350,
+          "alt": "Dynamic Web"
+        },
+        "stats": {
+          "value": "105%",
+          "label": "LEAD INCREASE"
+        }
+      }
+    },
+    {
+      "id": "ser-contact-form",
+      "type": "serContactForm",
+      "enabled": true,
+      "data": {
+        "uploadLabel": "Upload Reference/Sample (can send later as well)",
+        "uploadAccessibleLabel": "Upload reference or sample file",
+        "heading": "Get Angular JS Web Solutions in the shortest possible time across the globe!",
+        "eyebrow": "Engage with us on your terms.",
+        "steps": [
+          "Fill in our quick form",
+          "Our consultant will contact you to discuss your needs",
+          "Receive your website delivered securely before the deadline"
+        ],
+        "formTitle": "Book a Consultation",
+        "formNotice": "No Payment or Credit Card Required. Initially",
+        "formDescription": "Complete the form below and we’ll contact you with further instructions and details about your project.",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "placeholder": "Name:"
+          },
+          "email": {
+            "label": "Email",
+            "placeholder": "Email:"
+          },
+          "phone": {
+            "label": "Phone Number",
+            "placeholder": "Phone Number:"
+          },
+          "projectDetails": {
+            "label": "Define Your Project",
+            "placeholder": "Define Your Project (Optional)"
+          }
+        },
+        "submitText": "Submit"
+      }
+    }
+  ]
+}

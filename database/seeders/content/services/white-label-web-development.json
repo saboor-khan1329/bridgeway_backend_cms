@@ -1,0 +1,1288 @@
+{
+    "attributes": {
+        "title": "White Label Web Development Agency | BridgeWayDigital",
+        "short_description": "Offer more with our white label web development agency. Full-service white label web development built to scale your digital capabilities fast.",
+        "status": true,
+        "is_featured": false
+    },
+    "seo": {
+        "meta_title": "White Label Web Development Agency | BridgeWayDigital",
+        "meta_description": "Offer more with our white label web development agency. Full-service white label web development built to scale your digital capabilities fast.",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/white-label-web-development",
+        "keywords": null,
+        "og_title": "White Label Web Development Agency | BridgeWayDigital",
+        "og_description": "Offer more with our white label web development agency. Full-service white label web development built to scale your digital capabilities fast.",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/white-label-web-development",
+        "og_image": null,
+        "twitter_card": "summary_large_image",
+        "twitter_title": "White Label Web Development Agency | BridgeWayDigital",
+        "twitter_description": "Offer more with our white label web development agency. Full-service white label web development built to scale your digital capabilities fast.",
+        "twitter_image": null
+    },
+    "images": [],
+    "slug": "white-label-web-development",
+    "categories": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "serviceHero",
+            "enabled": true,
+            "data": {
+                "heading": "White Label Web Development Services— Deliver Exceptional Solutions Across The Board!",
+                "description": "Offer more with our white label web development agency. Full-service white label web development built to scale your digital capabilities fast.",
+                "btn": {
+                    "text": "Get Your Free Quote"
+                },
+                "services": [
+                    {
+                        "value": "3.1x",
+                        "label": "Increase in Global Search Visibility",
+                        "average": "1.9x"
+                    },
+                    {
+                        "value": "2.6x",
+                        "label": "Growth in International Traffic",
+                        "average": "1.5x"
+                    },
+                    {
+                        "value": "4.3x",
+                        "label": "Improvement in Global Engagement",
+                        "average": "2.1x"
+                    }
+                ],
+                "form": {
+                    "label": "Enter your details",
+                    "placeholder": "Enter your details",
+                    "submitText": "Get Your Free Quote"
+                },
+                "testimonial": {
+                    "decoration": {
+                        "src": "/images/service/middle-box-top.svg",
+                        "width": 143,
+                        "height": 28,
+                        "alt": ""
+                    },
+                    "quote": "Bridgeway has been a game-changer for our web strategy.",
+                    "sourceLogo": {
+                        "src": "/images/service/service-clutch-icon.svg",
+                        "width": 27,
+                        "height": 30,
+                        "alt": "Clutch"
+                    },
+                    "company": "U.S. Healthcare Company",
+                    "source": "Review from Clutch.co",
+                    "ratingImage": {
+                        "src": "/images/service/rating-star.svg",
+                        "width": 66,
+                        "height": 11,
+                        "alt": "Review rating"
+                    },
+                    "ratings": [
+                        {
+                            "label": "Rated 4.9/5 stars on G2"
+                        },
+                        {
+                            "label": "Rated 4.9/5 stars on Clutch"
+                        }
+                    ],
+                    "averageLabel": "Industry average"
+                }
+            }
+        },
+        {
+            "id": "logos",
+            "type": "serLogo",
+            "enabled": true,
+            "data": {
+                "title": "Trusted by startups and Fortune 500 companies",
+                "highlight": "500",
+                "logos": [
+                    {
+                        "ImgSrc": "/images/service/ser-logo-1.svg",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-2.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-3.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-4.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-5.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-6.webp",
+                        "alt": "Client logo"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sub-service",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Drive Client Success With Leading White Label Web Development Agency",
+                "desc": "Whether you're looking to expand your services or need turnkey white label web development solutions, our custom-tailored services can help. Learn more about our tailored strategies for creating high-performing websites that meet your clients' needs and boost your agency's success below.",
+                "btnText": "SEND ME A PROPOSAL ➜",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ],
+                "btnHref": "/get-a-free-quote"
+            }
+        },
+        {
+            "id": "cta-one",
+            "type": "ctaOne",
+            "enabled": true,
+            "data": {
+                "left": {
+                    "heading": "Launch Top-Tier Websites Under Your Brand with BridgeWay Digital!",
+                    "description": "Create and deploy fully customized websites for your clients without the hassle of development. Let us handle the heavy lifting while you focus on scaling your business. What are you waiting for?"
+                },
+                "right": {
+                    "heading": "Get Complete Control and Customization for Every Project",
+                    "description": "Clients trust you to deliver exceptional websites, and with BridgeWay Digital’s white label web development services, you can do just that. Our solutions give you full control and flexibility, ensuring each project meets your client’s unique needs and expectations.",
+                    "list": [
+                        "Deliver bespoke website designs that reflect your client's brand identity.",
+                        "Ensure top-notch performance and security with our robust development processes.",
+                        "Provide ongoing support and updates to keep websites running smoothly."
+                    ]
+                },
+                "logo": {
+                    "src": "/images/white-logo.svg",
+                    "width": 200,
+                    "height": 200,
+                    "alt": "BridgeWay Digital"
+                },
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET STARTED ➜"
+                }
+            }
+        },
+        {
+            "id": "pricing",
+            "type": "serPrice",
+            "enabled": true,
+            "data": {
+                "heading": "Transparent White Label Website Development Pricing Tailored to Your Clients' Needs",
+                "description": "Many white label development services offer generic solutions, but BridgeWay Digital takes a different approach. We deliver customized website development services that align with your client's business goals and brand identity. Partner with us for a tailored website quote and exceptional results.",
+                "leftData": {
+                    "heading": "WHITE LABEL WEBSITE DEVELOPMENT SERVICES",
+                    "value": "$4,500",
+                    "offerings": [
+                        {
+                            "imgSrc": "/new_assets/images/application-icon-for-project-management.webp",
+                            "title": "Client Requirements and Customization",
+                            "desc": "Whether your client needs a simple website or a complex, feature-rich platform, the level of customization and specific features required will influence the cost. We work closely with you to ensure the final product meets your client's unique needs."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/project-icon-for-digital-project-management.webp",
+                            "title": "Timeline and Delivery Schedule",
+                            "desc": "The project timeline can affect pricing, especially if there is a need for an expedited delivery. We’ll collaborate with you to find the right balance between meeting deadlines and staying within budget."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/digital-marketing-icon-for-online-services.webp",
+                            "title": "Ongoing Support and Maintenance",
+                            "desc": "Websites need regular updates and maintenance to remain secure and effective. Our pricing includes options for ongoing support, so your clients' websites continue to perform optimally."
+                        }
+                    ]
+                },
+                "rightData": {
+                    "heading": "Included in All White Label Development Projects:",
+                    "points": [
+                        {
+                            "point": "Custom website design tailored to client branding"
+                        },
+                        {
+                            "point": "Mobile-responsive design ensuring a seamless experience across devices"
+                        },
+                        {
+                            "point": "SEO-friendly development to improve search rankings"
+                        },
+                        {
+                            "point": "Integration with essential third-party tools and plugins"
+                        },
+                        {
+                            "point": "Secure and scalable hosting solutions"
+                        },
+                        {
+                            "point": "Post-launch support and training for your team"
+                        },
+                        {
+                            "point": "Detailed documentation and guidelines for easy handoff"
+                        },
+                        {
+                            "point": "Performance analytics and tracking tools for ongoing optimization"
+                        }
+                    ]
+                },
+                "ui": {
+                    "icon": {
+                        "src": "/images/service/ser-price-img-1.svg",
+                        "alt": "Custom development"
+                    },
+                    "startingAt": "Starting at",
+                    "priceSuffix": "/ project",
+                    "includedTitle": "What’s Included:",
+                    "button": {
+                        "href": "/get-a-free-quote",
+                        "text": "GET MY CUSTOM QUOTE ➜"
+                    },
+                    "background": {
+                        "src": "/images/service/SerPrice-bg.webp",
+                        "alt": ""
+                    }
+                }
+            }
+        },
+        {
+            "id": "expert-team",
+            "type": "expertTeam",
+            "enabled": true,
+            "data": {
+                "labels": {
+                    "organization": "ORGANIZATION:",
+                    "challenge": "CHALLENGE",
+                    "initiatives": "RECENT INITIATIVES",
+                    "result": "RESULT"
+                },
+                "imgAlt": "Expert Team",
+                "MainTitle": "Partner with the Team That’s Built Over 1,000 Websites",
+                "desc": "BridgeWay Digital doesn’t just develop websites; we empower agencies to deliver exceptional results for their clients. As the leading white label web development agency, we ensure that your dedicated project manager will work with you to understand your client's needs, ensuring that every website we build not only meets but exceeds expectations, driving real results.",
+                "imgSrc": "/images/home/expert-team-img.webp",
+                "style": {
+                    "height": "600px"
+                },
+                "sliderData": [
+                    {
+                        "title": "Educational Client",
+                        "organization": "",
+                        "challenge": "Increase student interaction on an online learning platform.",
+                        "initiativeTextOne": "Development of interactive Angular JS quizzes and modules.",
+                        "initiativeTextTwo": "Enhancement of real-time chat and discussion features.",
+                        "initiativeTextThree": "Streamlining course navigation with Angular JS routing.",
+                        "percentage": "65%",
+                        "increase": "INCREASE IN STUDENT PARTICIPATION"
+                    },
+                    {
+                        "title": "SEO",
+                        "organization": "Greenleaf Landscaping",
+                        "challenge": "Increase organic search visibility and drive more qualified leads to the website.",
+                        "initiativeTextOne": "Conducted an in-depth SEO audit and implemented on-page and off-page optimization strategies.",
+                        "initiativeTextTwo": "Enhanced keyword targeting and content quality to improve search engine rankings.",
+                        "initiativeTextThree": "Developed a comprehensive backlink strategy to build domain authority.",
+                        "percentage": "90%",
+                        "increase": "Increase in organic traffic"
+                    },
+                    {
+                        "title": "Digital Marketing",
+                        "organization": "UrbanTrend Clothing",
+                        "challenge": "Boost brand awareness and drive online sales through targeted digital marketing campaigns.",
+                        "initiativeTextOne": "Created and executed multi-channel marketing campaigns across social media, email, and PPC platforms.",
+                        "initiativeTextTwo": "Developed engaging content and eye-catching ad creatives to capture audience attention.",
+                        "initiativeTextThree": "Utilized data analytics to fine-tune campaigns and maximize ROI.",
+                        "percentage": "60%",
+                        "increase": "Increase in brand engagement"
+                    },
+                    {
+                        "title": "Video Animation",
+                        "organization": "BrightMinds Learning",
+                        "challenge": "Create engaging educational content to enhance student learning and retention.",
+                        "initiativeTextOne": "Produced a series of animated educational videos with high-quality visuals and clear explanations.",
+                        "initiativeTextTwo": "Incorporated interactive elements to make learning more engaging.",
+                        "initiativeTextThree": "Ensured all videos were optimized for various devices and platforms.",
+                        "percentage": "70%",
+                        "increase": "Improved engagement"
+                    },
+                    {
+                        "title": "Amazon Marketing",
+                        "organization": "TechGiant Electronics",
+                        "challenge": "Increase product visibility and sales on the Amazon marketplace.",
+                        "initiativeTextOne": "Optimized product listings with targeted keywords and high-quality images.",
+                        "initiativeTextTwo": "Implemented advanced PPC strategies to boost product ranking and visibility.",
+                        "initiativeTextThree": "Monitored and adjusted campaigns based on performance data to maximize results.",
+                        "percentage": "45%",
+                        "increase": "Increase in sales"
+                    },
+                    {
+                        "title": "Performance Marketing",
+                        "organization": "FitPro Supplements",
+                        "challenge": "Enhance the effectiveness of marketing campaigns to achieve higher conversion rates.",
+                        "initiativeTextOne": "Developed and executed performance-driven marketing strategies with a focus on conversion optimization.",
+                        "initiativeTextTwo": "Utilized A/B testing and data analysis to refine ad creatives and targeting.",
+                        "initiativeTextThree": "Implemented advanced tracking and reporting tools to measure campaign success.",
+                        "percentage": "50%",
+                        "increase": "Increase in conversions"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "feature-comparison",
+            "type": "featureComparison",
+            "enabled": true,
+            "data": {
+                "heading": "Expert Technical SEO Services for Solid Digital Growth",
+                "comparisonTableData": {
+                    "headings": {
+                        "left": "WITH BRIDGEWAY DIGITAL",
+                        "right": "WITHOUT BRIDGEWAY DIGITAL"
+                    },
+                    "rows": [
+                        {
+                            "left": "Hreflang implementation to target multiple languages and regions",
+                            "right": "Incorrect hreflang tags leading to content mismatch in different regions"
+                        },
+                        {
+                            "left": "International link building for authoritative global backlinks",
+                            "right": "Lack of quality backlinks impacting global search engine rankings"
+                        },
+                        {
+                            "left": "Geo-targeting strategies to optimize content for specific countries",
+                            "right": "Poor geo-targeting resulting in irrelevant content for users"
+                        },
+                        {
+                            "left": "Optimized global website structure for seamless user experience",
+                            "right": "Disorganized site structure confusing users across different regions"
+                        },
+                        {
+                            "left": "Regular updates to adapt to changing international SEO trends",
+                            "right": "Falling behind competitors due to outdated international SEO strategies"
+                        }
+                    ]
+                },
+                "rightData": {
+                    "comment": "Our website was struggling with slow load times and poor search rankings until BridgeWay Digital stepped in. They optimized our site's technical structure, implemented HTTPS, and improved our mobile responsiveness. The results were immediate and impressive.",
+                    "customerName": "Alex P, Sr Executive",
+                    "achivements": [
+                        {
+                            "value": "80%",
+                            "detail": "of clients saw increased international traffic with our SEO, outpacing competitors' 25% growth."
+                        },
+                        {
+                            "value": "85%",
+                            "detail": "Clients reported better global engagement from localized content and geo-targeted strategies."
+                        }
+                    ]
+                },
+                "icon": {
+                    "src": "/images/service/Sub_Service-1.svg",
+                    "alt": "Code"
+                }
+            }
+        },
+        {
+            "id": "sub-service-2",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Elevate Your Brand with The Best White Label Web Development Agency",
+                "desc": "Deliver exceptional, custom websites under your brand while leveraging our expertise and seamless support.",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-business",
+            "type": "serWhyBusiness",
+            "enabled": true,
+            "data": {
+                "tabs": [
+                    {
+                        "id": "TechWave",
+                        "label": "TechWave Solutions"
+                    },
+                    {
+                        "id": "GreenLine",
+                        "label": "GreenLine Innovations"
+                    },
+                    {
+                        "id": "Pioneer",
+                        "label": "Pioneer Tech Labs"
+                    },
+                    {
+                        "id": "Quantum",
+                        "label": "Quantum IT Solutions"
+                    }
+                ],
+                "tabContent": {
+                    "TechWave": {
+                        "title": "When TechWave Solutions needed to enhance their platform, they turned to BridgeWay Digital. Discover how our collaboration doubled their user engagement.",
+                        "para": "Our Angular JS implementation with BridgeWay Digital significantly enhanced our platform's performance. The user engagement has doubled within six months, thanks to their expertise.",
+                        "asideValue": "2X",
+                        "asideText": "Increase in User Engagement"
+                    },
+                    "GreenLine": {
+                        "bg": "/images/home/success-graph-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 30% within 6 months.",
+                        "asideValue": "+30%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Pioneer": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Quantum": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    }
+                },
+                "heading": {
+                    "beforeIcon": "Here’s why Businesses",
+                    "icon": {
+                        "src": "/images/home/headt-img.webp",
+                        "width": 50,
+                        "height": 50,
+                        "alt": ""
+                    },
+                    "afterIcon": "BridgeWay Digital",
+                    "ratingImage": {
+                        "src": "/images/home/why-businesses-star.webp",
+                        "width": 180,
+                        "height": 24,
+                        "alt": "Five-star rating"
+                    }
+                }
+            }
+        },
+        {
+            "id": "goals",
+            "type": "goals",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Yes. We cover your Angular JS development needs.",
+                "desc": "Our expert team of Angular JS developers have every possible contingency covered for you!",
+                "cards": [
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization",
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization"
+                ],
+                "bottomCards": [
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization",
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization"
+                ],
+                "heading": "Yes, Our White Label Web Development Includes All.",
+                "description": "Our expert white label web developers ensure we’ve got every facet of your project covered!",
+                "goalsList": [
+                    {
+                        "text": "Custom Development"
+                    },
+                    {
+                        "text": "Responsive Design"
+                    },
+                    {
+                        "text": "CMS Integration"
+                    },
+                    {
+                        "text": "E-commerce Solutions"
+                    },
+                    {
+                        "text": "API Integration"
+                    },
+                    {
+                        "text": "SEO Optimization"
+                    },
+                    {
+                        "text": "Performance Optimization"
+                    },
+                    {
+                        "text": "Security Implementation"
+                    },
+                    {
+                        "text": "Maintenance and Support"
+                    },
+                    {
+                        "text": "Cross-Platform Compatibility"
+                    },
+                    {
+                        "text": "UX/UI Design"
+                    },
+                    {
+                        "text": "Third-Party Integrations"
+                    },
+                    {
+                        "text": "Scalability"
+                    },
+                    {
+                        "text": "Testing and Debugging"
+                    },
+                    {
+                        "text": "Project Management"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-trust",
+            "type": "whyTrust",
+            "enabled": true,
+            "data": {
+                "tag": "Why Companies Trust",
+                "heading": "Why Companies Trust BridgeWay Digital for White Label Website Development",
+                "description": "BridgeWay Digital focuses on a client-first approach in website development, ensuring that your brand remains at the forefront. We go beyond expectations to integrate the latest technologies and streamlined processes, making us your reliable partner in delivering exceptional websites under your brand.",
+                "cardContent": [
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon.svg",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-2.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-3.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-4.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-5.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-6.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    }
+                ],
+                "cards": [
+                    {
+                        "icon": "/new_assets/images/vector-performance-illustration-for-data-analysis.webp",
+                        "title": "Brand-Centric Solutions",
+                        "description": "Your brand’s identity is preserved in every project. Our white label web development services are designed to keep your brand in the spotlight while delivering top-tier websites that meet your clients’ unique needs."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-scalable-illustration-for-business-growth.webp",
+                        "title": "Scalable Development",
+                        "description": "Whether your needs are simple or complex, our scalable solutions grow with your business. We provide flexible options that allow you to expand your service offerings without the need for additional in-house resources."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-data-illustration-for-analytics.webp",
+                        "title": "Custom Design Expertise",
+                        "description": "Our team of white label developers and designers work closely with you to create custom website designs that align with your brand’s vision. We ensure each website not only looks stunning but also delivers optimal performance."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-user-illustration-for-user-experience.webp",
+                        "title": "Data-Driven Approach",
+                        "description": "We utilize data-driven strategies to enhance the performance of each website we develop. By analyzing user behavior and trends, we optimize designs and functionalities to ensure maximum user engagement and satisfaction."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-secure-illustration-for-cybersecurity.webp",
+                        "title": "Seamless Integration",
+                        "description": "Our white label development services are built to integrate smoothly with your existing offerings. We work in the background, allowing you to deliver a complete solution to your clients without disruption."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-shield-illustration-for-security.webp",
+                        "title": "Ongoing Support and Maintenance",
+                        "description": "BridgeWay Digital doesn’t just deliver a website and walk away. We provide continuous support and maintenance, ensuring that the websites we develop for you remain up-to-date and perform at their best over time."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "real-world-ticker",
+            "type": "realWorldTicker",
+            "enabled": true,
+            "data": {
+                "title": "Real World Success With Angular JS Development",
+                "items": [
+                    {
+                        "count": "500+",
+                        "title": "Websites Developed",
+                        "description": "Enhancing businesses with Angular JS expertise."
+                    },
+                    {
+                        "count": "98%",
+                        "title": "Client Satisfaction",
+                        "description": "Delivering reliable and scalable Angular solutions."
+                    },
+                    {
+                        "count": "15+",
+                        "title": "Years Experience",
+                        "description": "Building enterprise-grade web applications."
+                    }
+                ],
+                "heading": "Award-winning White Label Web Development Services Trusted By Agencies Worldwide",
+                "tickerData": [
+                    {
+                        "value": "1k+",
+                        "title": "Websites successfully",
+                        "description": "developed and launched for partner agencies."
+                    },
+                    {
+                        "value": "12",
+                        "title": "recognitions for",
+                        "description": "our excellence in white label solutions."
+                    },
+                    {
+                        "value": "95%",
+                        "title": "Client retention rate,",
+                        "description": "reflecting our commitment to quality and service."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Website Development Services Deliverables",
+                "description": "An in-depth overview of the deliverables for each web development service offered by BridgeWay Digital.",
+                "tableData": {
+                    "columns": [
+                        "Basic Package",
+                        "Advanced Package",
+                        "Premium Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Products",
+                            "values": [
+                                "text:Up to 5",
+                                "text:Up to 10",
+                                "text:Up to 15"
+                            ]
+                        },
+                        {
+                            "title": "Keyword Research",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Copywriting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Bid Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Negative Keyword Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Extensions",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "A/B Testing",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Monitoring",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Budget Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Search Term Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Competitor Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Conversion Tracking",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Geotargeting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance Reporting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Continuous Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Progressive Monthly Management Fee",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        }
+                    ],
+                    "title": "Features"
+                },
+                "staticRowData": {
+                    "title": "Connect With An Website Development Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "ser-cta",
+            "type": "serCta",
+            "enabled": true,
+            "data": {
+                "title": "Bridgeway Digital has earned hundreds of reviews praising our efficiency, expertise, and client-focused approach.",
+                "button": {
+                    "href": "#",
+                    "text": "Client Testimonials ➜"
+                },
+                "image": {
+                    "src": "/images/service/ser-cta-img.webp",
+                    "width": 258,
+                    "height": 255,
+                    "alt": "Client Testimonials"
+                },
+                "rating": {
+                    "label": "BRIDGEWAY DIGITAL AGENCY RATING",
+                    "stars": {
+                        "src": "/images/service/ser-star.svg",
+                        "width": 114,
+                        "height": 18,
+                        "alt": "star"
+                    },
+                    "value": "4.9/5",
+                    "detail": "BASED ON OVER 500 THIRD-PARTY REVIEWS"
+                }
+            }
+        },
+        {
+            "id": "ser-faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is white label web development?",
+                        "answer": "White label web development refers to a service where BridgeWay Digital creates websites on behalf of another company, allowing them to rebrand and sell the service as their own."
+                    },
+                    {
+                        "question": "How does white label web development work?",
+                        "answer": "BridgeWay Digital partners with agencies or businesses to handle the technical aspects of website development while they focus on client management and branding."
+                    },
+                    {
+                        "question": "Who can benefit from white label web development services?",
+                        "answer": "Digital agencies, marketing firms, and businesses looking to expand their service offerings without the need for an in-house development team."
+                    },
+                    {
+                        "question": "What technologies do you use for white label web development?",
+                        "answer": "We utilize a wide range of technologies including HTML, CSS, JavaScript, PHP, WordPress, Magento, and more."
+                    },
+                    {
+                        "question": "Can I customize the websites built under the white label service?",
+                        "answer": "Yes, all websites are fully customizable to meet your specific needs and those of your clients."
+                    },
+                    {
+                        "question": "Do you offer ongoing support and maintenance?",
+                        "answer": "Yes, we provide ongoing support and maintenance as part of our white label web development services to ensure your websites run smoothly."
+                    },
+                    {
+                        "question": "Is SEO included in your white label web development services?",
+                        "answer": "Yes, all our white label websites are built with SEO best practices to ensure high visibility in search engines."
+                    },
+                    {
+                        "question": "How do you ensure the quality of your white label websites?",
+                        "answer": "Our experienced team follows strict quality assurance protocols, including testing for functionality, compatibility, and performance before delivery."
+                    },
+                    {
+                        "question": "Can you integrate third-party tools and APIs?",
+                        "answer": "Absolutely. We can integrate a variety of third-party tools and APIs to enhance the functionality of your websites."
+                    },
+                    {
+                        "question": "What is the turnaround time for a typical white label website project?",
+                        "answer": "The turnaround time varies depending on the complexity of the project, but most websites are delivered within 4-6 weeks."
+                    },
+                    {
+                        "question": "Do you handle website migrations as part of white label web development?",
+                        "answer": "Yes, we can assist with migrating existing websites to new platforms as part of our service."
+                    },
+                    {
+                        "question": "Are the websites mobile-responsive?",
+                        "answer": "Yes, all websites developed by BridgeWay Digital are fully responsive and optimized for mobile devices."
+                    },
+                    {
+                        "question": "How do you handle client communication in a white label partnership?",
+                        "answer": "We provide you with all the necessary updates and reports, allowing you to communicate directly with your clients under your brand."
+                    },
+                    {
+                        "question": "What industries do you specialize in for white label web development?",
+                        "answer": "We have experience across a wide range of industries including e-commerce, real estate, healthcare, and more."
+                    },
+                    {
+                        "question": "Can you develop e-commerce websites under white label services?",
+                        "answer": "Yes, we have extensive experience in developing robust e-commerce websites as part of our white label services."
+                    },
+                    {
+                        "question": "What is the cost structure for your white label web development services?",
+                        "answer": "Pricing is based on the scope and complexity of the project. We offer competitive rates tailored to your business needs."
+                    },
+                    {
+                        "question": "Do you offer any white label branding options?",
+                        "answer": "Yes, we can provide branding options including custom logos, colors, and other elements to ensure the final product reflects your brand."
+                    },
+                    {
+                        "question": "How do I get started with BridgeWay Digital's white label web development services?",
+                        "answer": "Simply contact us to discuss your needs, and we’ll guide you through the process from concept to delivery."
+                    },
+                    {
+                        "question": "What makes BridgeWay Digital different from other white label web development agencies?",
+                        "answer": "Our commitment to quality, transparency, and client satisfaction sets us apart. We work closely with our partners to ensure every project is a success."
+                    },
+                    {
+                        "question": "Can you handle high-volume web development projects?",
+                        "answer": "Yes, our team is equipped to handle high-volume projects efficiently while maintaining the highest standards of quality."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-cta-two",
+            "type": "serCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Start Growing Your Client Portfolio Today with BridgeWay Digital!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/contact-us"
+                },
+                "description": "BridgeWay Digital offers tailored Angular JS web development services that deliver high performance and superior user experiences.",
+                "highlightText": "Start your project with us today!",
+                "image": {
+                    "src": "/images/service/SerCtaTwo-img.webp",
+                    "alt": "Angular JS Development",
+                    "width": 600,
+                    "height": 280
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "How Much Does Angular JS Website Development Cost?",
+                "desc": "The cost of Angular JS website development can vary significantly depending on the scope and complexity of the project. Prices typically start at around $3,500 for basic applications and can go up to $60,000 for more advanced, feature-rich solutions. Each project is tailored to meet specific needs and budget requirements.",
+                "tabs": [
+                    {
+                        "label": "01   Project Complexity"
+                    },
+                    {
+                        "label": "02   Custom Features"
+                    },
+                    {
+                        "label": "03   Third-Party Integrations"
+                    },
+                    {
+                        "label": "04   Design Requirements"
+                    },
+                    {
+                        "label": "05   Cross-Platform Support"
+                    },
+                    {
+                        "label": "06   Team Expertise"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Project Complexity",
+                        "para": "The overall complexity of your Angular JS project..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Custom Features",
+                        "para": "Features like user login, admin panel, etc., increase cost..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Third-Party Integrations",
+                        "para": "APIs, payment gateways, and CRMs add to the budget..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Design Requirements",
+                        "para": "Unique UI/UX needs impact both cost and timeline..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Cross-Platform Support",
+                        "para": "Supporting mobile, tablet, and desktop adds effort..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Team Expertise",
+                        "para": "Experienced teams may cost more but deliver better quality..."
+                    }
+                ],
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                },
+                "points": [
+                    {
+                        "number": "01",
+                        "title": "Project Complexity",
+                        "description": "The overall complexity of your white label web development project significantly impacts the cost. For basic projects with standard functionalities, the cost might range from $2,000 to $5,000. However, as the complexity increases with custom integrations and advanced features, the cost can escalate, contributing significantly to the overall project budget. Working with a reputable white label web agency can help manage these complexities efficiently."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Customized Features",
+                        "description": "Customized features are a major cost factor in white label web development. At a basic level, implementing standard functionalities might add around $4,000 to $8,000 to the project. However, more sophisticated customizations, such as unique user interfaces or specialized e-commerce functionalities, require additional development time and expertise, potentially increasing the overall project cost significantly. A specialized white label web developer can provide detailed estimates based on specific needs."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Third-Party Integrations",
+                        "description": "The cost of integrating third-party services can vary widely in white label web development. Basic integrations, using pre-built solutions, typically cost between $1,500 and $4,000. However, if the project requires more complex integrations, like custom API development or extensive synchronization with external systems, these can add up to $10,000 or more per integration, significantly raising the total project cost. Partnering with a skilled white label web development agency can streamline these integrations effectively."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Boost Your Agency's Offerings with White Label Website Development"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Elevate your agency's performance with expert white label web development services, designed to seamlessly integrate into your brand while delivering high-quality results for your clients. By partnering with a proficient white label web agency, you can expand your service portfolio without the overhead of maintaining an in-house development team. Our approach involves understanding your client’s needs, utilizing the latest technologies, and delivering custom solutions that align with your agency's goals. With our white label web development services, you can confidently offer advanced, scalable, and secure websites that drive results for your clients."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Choose BridgeWay Digital as Your Strategic White Label Web Development Partner"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "At BridgeWay Digital, we don't just develop websites; we empower your agency to grow. Our white label web development agency goes beyond simply fulfilling technical requirements by integrating best practices in design, user experience, and SEO to create websites that perform. Our commitment to excellence ensures that you not only meet but exceed your clients' expectations, leading to long-term partnerships and repeat business. With our white label web development services, your agency will be equipped to handle a wide range of projects with confidence and precision, resulting in increased client satisfaction and business growth."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWayDigital advantage today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon Marketing Services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Amazon Marketing Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can Your Amazon Store Perform Better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon Marketing Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Comparison",
+                            "href": "#benifits"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Packages & Deliverables",
+                            "href": "#ser-table"
+                        },
+                        {
+                            "text": "Amazon Marketing FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ser-cta-three",
+            "type": "serCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Start Elevating Your Agency’s Services with BridgeWay Digital!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/get-a-free-quote-now"
+                },
+                "image": {
+                    "src": "/images/service/cta-three-img.webp",
+                    "width": 409,
+                    "height": 350,
+                    "alt": "Dynamic Web"
+                },
+                "stats": {
+                    "value": "105%",
+                    "label": "LEAD INCREASE"
+                }
+            }
+        },
+        {
+            "id": "ser-contact-form",
+            "type": "serContactForm",
+            "enabled": true,
+            "data": {
+                "uploadLabel": "Upload Reference/Sample (can send later as well)",
+                "uploadAccessibleLabel": "Upload reference or sample file",
+                "heading": "Get White Label Web Solutions in the shortest possible time across the globe!",
+                "eyebrow": "Engage with us on your terms.",
+                "steps": [
+                    "Fill in our quick form",
+                    "Our consultant will contact you to discuss your needs",
+                    "Receive your website delivered securely before the deadline"
+                ],
+                "formTitle": "Book a Consultation",
+                "formNotice": "No Payment or Credit Card Required. Initially",
+                "formDescription": "Complete the form below and we'll contact you with further instructions and details about your project.",
+                "fields": {
+                    "name": {
+                        "label": "Name",
+                        "placeholder": "Name:"
+                    },
+                    "email": {
+                        "label": "Email",
+                        "placeholder": "Email:"
+                    },
+                    "phone": {
+                        "label": "Phone Number",
+                        "placeholder": "Phone Number:"
+                    },
+                    "projectDetails": {
+                        "label": "Define Your Project",
+                        "placeholder": "Define Your Project (Optional)"
+                    }
+                },
+                "submitText": "Submit"
+            }
+        }
+    ]
+}

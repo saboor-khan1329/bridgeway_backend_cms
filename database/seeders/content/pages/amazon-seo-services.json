@@ -1,0 +1,1264 @@
+{
+    "attributes": {
+        "slug": "amazon-seo-services",
+        "title": "Amazon SEO Services | Amazon SEO Agency | BridgeWayDigital",
+        "template": "amazon-service",
+        "is_cms_managed": true,
+        "status": true,
+        "sort_order": 0
+    },
+    "seo": {
+        "meta_title": "Amazon SEO Services | Amazon SEO Agency | BridgeWayDigital",
+        "meta_description": "Secure a top 3 position in Amazon listings with the best Amazon SEO services. Choose Bridgeway Digital as your SEO agency to fast-track your climb to the top!",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/amazon-seo-services",
+        "keywords": "Amazon SEO agency",
+        "og_title": "Amazon SEO Services | Amazon SEO Agency | BridgeWayDigital",
+        "og_description": "Secure a top 3 position in Amazon listings with the best Amazon SEO services. Choose Bridgeway Digital as your SEO agency to fast-track your climb to the top!",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/amazon-seo-services",
+        "og_image": "/images/og/amazon-seo-services.jpg",
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Amazon SEO Services | Amazon SEO Agency | BridgeWayDigital",
+        "twitter_description": "Secure a top 3 position in Amazon listings with the best Amazon SEO services. Choose Bridgeway Digital as your SEO agency to fast-track your climb to the top!",
+        "twitter_image": "/images/og/amazon-seo-services.jpg"
+    },
+    "images": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "sertHero",
+            "enabled": true,
+            "data": {
+                "title": "Amazon SEO Services",
+                "del": "Upsell Trap. False Guarantees. Hidden Fees",
+                "detail": "Transparent Pricing, Enhanced Rankings, Lasting Results!",
+                "furtherDetail": "Unlock the full potential of your presence with our Amazon SEO services.<span> Engage with our Amazon SEO experts</span> or get a <span>Free SEO audit of your Amazon Store</span> to discover how we improve search rankings and drive organic traffic for brands just like yours!",
+                "logos": [
+                    {
+                        "src": "/images/service/hero-logo-1.webp",
+                        "alt": "Logo 1",
+                        "width": 150,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-2.webp",
+                        "alt": "Logo 2",
+                        "width": 215,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-3.webp",
+                        "alt": "Logo 3",
+                        "width": 100,
+                        "height": 80
+                    }
+                ],
+                "formContent": {
+                    "title": "Get a Free Amazon Store Audit!",
+                    "fields": {
+                        "fullName": {
+                            "label": "Full Name",
+                            "placeholder": "Full Name"
+                        },
+                        "email": {
+                            "label": "Email Address",
+                            "placeholder": "Your Email"
+                        },
+                        "phone": {
+                            "label": "Phone Number",
+                            "placeholder": "(201) 555-0123"
+                        },
+                        "products": {
+                            "label": "Number of Products Listed",
+                            "placeholder": "Please Select",
+                            "options": [
+                                {
+                                    "value": "1-10",
+                                    "label": "1-10"
+                                },
+                                {
+                                    "value": "11-50",
+                                    "label": "11-50"
+                                },
+                                {
+                                    "value": "51-100",
+                                    "label": "51-100"
+                                },
+                                {
+                                    "value": "100+",
+                                    "label": "100+"
+                                }
+                            ]
+                        },
+                        "country": {
+                            "label": "Country"
+                        },
+                        "storeUrl": {
+                            "label": "Website URL/Amazon Store URL",
+                            "placeholder": "Website URL/Amazon Store URL"
+                        },
+                        "budget": {
+                            "label": "Estimated Budget",
+                            "placeholder": "Select Price",
+                            "options": [
+                                {
+                                    "value": "$0 - $500",
+                                    "label": "$0 - $500"
+                                },
+                                {
+                                    "value": "$500 - $1000",
+                                    "label": "$500 - $1000"
+                                },
+                                {
+                                    "value": "$1000 - $5000",
+                                    "label": "$1000 - $5000"
+                                },
+                                {
+                                    "value": "$5000+",
+                                    "label": "$5000+"
+                                }
+                            ]
+                        },
+                        "expectations": {
+                            "label": "What are your expectations from us?",
+                            "placeholder": "Let's break the ice. Write in as much detail as you want."
+                        }
+                    },
+                    "complimentaryTitle": "Complimentary Audit Includes:",
+                    "complimentaryItems": [
+                        "Keyword Research",
+                        "Growth Potential",
+                        "Expert Recommendations"
+                    ],
+                    "ratings": [
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        },
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        }
+                    ],
+                    "submitText": "SUBMIT"
+                }
+            }
+        },
+        {
+            "id": "sert-slider",
+            "type": "sertSlider",
+            "enabled": true,
+            "data": {
+                "sliderSettings": {
+                    "delay": 2000
+                },
+                "slides": [
+                    {
+                        "alignCenter": false,
+                        "items": [
+                            {
+                                "type": "text",
+                                "value": "$5M+",
+                                "label": "Revenue Driven"
+                            },
+                            {
+                                "type": "text",
+                                "value": "75+",
+                                "label": "Brands Managed"
+                            },
+                            {
+                                "type": "text",
+                                "value": "3.5M",
+                                "label": "Sessions Generated"
+                            },
+                            {
+                                "type": "text",
+                                "value": "10+",
+                                "label": "Impressions Created"
+                            },
+                            {
+                                "type": "text",
+                                "value": "1M+",
+                                "label": "Product Sold"
+                            }
+                        ]
+                    },
+                    {
+                        "alignCenter": true,
+                        "items": [
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-1.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-2.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-3.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-4.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-5.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "Across the board Amazon SEO Services to Dominate The Rankings",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Amazon SEO Strategy Development",
+                        "icon": "/website/images/image-showcasing-vibrant-layout-design-with-animation-effects.webp",
+                        "contentTitle": "Strategic SEO Blueprint",
+                        "contentDesc": "Establish a solid foundation for your Amazon presence with our Amazon SEO services. We initiate with an in-depth SERP analysis, competitive benchmarking, and algorithmic trend assessment to construct a tailored SEO blueprint that targets crucial performance metrics. Our Amazon optimization service encompasses comprehensive on-page optimizations, schema markup for enhanced indexing, and continuous refinement of search algorithms. Our Amazon SEO company not only boost your organic search rankings but also increase your digital footprint, driving higher traffic and enhancing conversion opportunities through improved search visibility.",
+                        "image": "/images/amazon-seo-services/seo-strategy-image-for-search-engine-optimization-success.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Amazon Ranking Service",
+                        "icon": "/website/images/image-demonstrating-user-focused-web-design-with-clean-animation-effects.webp",
+                        "contentTitle": "Precision Keyword Mapping",
+                        "contentDesc": "Leverage our advanced keyword research service to capitalize on organic search opportunities. Utilizing proprietary SEO tools and sophisticated data analytics, our amazon SEO experts conduct exhaustive keyword discovery and demand analysis to pinpoint high-leverage keywords integral for organic discovery. Strategic incorporation of these keywords optimizes your listings for Amazon’s A10 algorithm, elevating their position in search results and significantly enhancing organic reach. Our Amazon ranking service hence maximizes your exposure and aligns your products with the search intent of your ideal customer base.",
+                        "image": "/images/amazon-seo-services/seo-2.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Technical SEO Enhancements",
+                        "icon": "/website/images/image-showcasing-smooth-user-interaction-with-advanced-web-animation.webp",
+                        "contentTitle": "Optimize Structural SEO",
+                        "contentDesc": "Optimize your Amazon listings’ technical framework with our technical SEO enhancements service. Focusing on crucial elements such as URL structuring, canonical tags, and XML sitemaps, our dedicated amazon SEO expert ensures that your listings are meticulously aligned with Amazon’s indexing protocols. These enhancements facilitate smoother crawling and indexing by Amazon’s search bots, improving your products' visibility and searchability. Our SEO services for Amazon provide a strong foundation that supports higher organic rankings and drives increased traffic through improved algorithmic relevance.",
+                        "image": "/images/amazon-seo-services/seo-3.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Content Optimization for SEO",
+                        "icon": "/website/images/image-illustrating-creative-layout-and-interactive-web-features.webp",
+                        "contentTitle": "Sharpen Content Dynamics",
+                        "contentDesc": "Refine your product listings with our Amazon content optimization services. We enhance your textual content by integrating strategic keywords with high search volume and optimizing meta descriptions to engage both Amazon’s algorithms and potential buyers. Our dedicated Amazon SEO expert focuses on increasing the semantic richness of your content, utilizing LSI (Latent Semantic Indexing) keywords to boost relevance and engage shoppers effectively. These adjustments ensure that your listings on Amazon are not only more discoverable but also more compelling, leading to higher engagement rates and improved conversion ratios.",
+                        "image": "/images/amazon-seo-services/seo-4.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Backlink and Authority Building",
+                        "icon": "/website/images/enhanced-brand-content-layout-sample.webp",
+                        "contentTitle": "Amplify Link Equity",
+                        "contentDesc": "Enhance the authority of your Amazon storefront with our backlink and authority building service. By cultivating high- quality backlinks from esteemed industry portals and leveraging influencer partnerships, our Amazon SEO specialists amplify your listings’ domain authority and link equity. This strategic link- building initiative not only augments your SEO performance but also enhances referral traffic, which can significantly elevate sales and broaden your online presence. Effective backlink strategies reinforce your marketplace authority, providing a dual benefit of improved rankings and increased direct traffic.",
+                        "image": "/images/amazon-seo-services/seo-5.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-call",
+            "type": "serCall",
+            "enabled": true,
+            "data": {
+                "contactOptions": [
+                    {
+                        "icon": "/images/service/SerCallbox-icon-1.svg",
+                        "eyebrow": "Toll Free",
+                        "label": "{{contact.phone.display}}",
+                        "href": "{{contact.phone.href}}"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-2.svg",
+                        "eyebrow": "Request",
+                        "label": "Call Back"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-3.svg",
+                        "eyebrow": "Start a",
+                        "label": "Live Chat"
+                    }
+                ],
+                "heading": "Need Amazon SEO services ASAP? We're waiting for your call!",
+                "description": "Whether you need your Amazon SEO optimized from scratch or want to rank higher and drive more traffic, our Amazon SEO experts are behind the desk to start on your project with top priority. Call right away!"
+            }
+        },
+        {
+            "id": "revenue-calculate",
+            "type": "revenueCalculate",
+            "enabled": true,
+            "data": {
+                "titleBefore": "Profitable Amazon SEO Services Starting ",
+                "titleHighlight": "Low As $800",
+                "description": " Dominate the rankings with battle-tested SEO strategies that enhance your organic traffic and conversions. Start today!",
+                "descriptionHighlight": "Unlock your full SEO potential on Amazon. ",
+                "list": [
+                    "SEO Optimized Listings",
+                    "Enhanced Brand Content",
+                    "High Quality Backlinking",
+                    "Keyword Research & Mapping"
+                ],
+                "cardTitle": "Estimated Revenue",
+                "currency": "$",
+                "revenueMultiplier": 4,
+                "sliderIcon": "/images/service/revenue-slider-icon.svg",
+                "buttonText": "GET STARTED WITH",
+                "sliderOptions": [
+                    {
+                        "investment": 800,
+                        "revenue": 2400
+                    },
+                    {
+                        "investment": 1500,
+                        "revenue": 4000
+                    },
+                    {
+                        "investment": 3000,
+                        "revenue": 5600
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-card",
+            "type": "sertCard",
+            "enabled": true,
+            "data": {
+                "title": "Amazon SEO Challenges, now Abridged with ease!",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/expanding-ecommerce-to-global-markets.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Expanding ecommerce to global markets"
+                        },
+                        "title": "Maximize Search Visibility",
+                        "description": "Supercharge your product's online footprint. Our Amazon SEO experts implement advanced tactics including keyword density optimization, keyword mapping, meta-tagging, and alt-text enhancements. Our strategic deployment of search engine listing optimization techniques ensure your listings are highly visible, attract a global audience and induce conversions."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/scale-when-required-for-business-growth-and-scalability.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Scale when required for business growth and scalability"
+                        },
+                        "title": "Elevate Organic Rankings",
+                        "description": "Dominate Amazon SERPs (Search Engine Result Pages). Utilize the expertise of the best-in-class Amazon SEO agency to incorporate on-page and off-page strategies like backlinking and structured data to bolster your product rankings. By aligning with Amazon’s ranking factors, we ensure your listings gain maximum exposure to potential customers."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/navigating-amazon-with-ease-for-effective-seller-strategies.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Navigating Amazon with ease for effective seller strategies"
+                        },
+                        "title": "Improve Conversion Rates",
+                        "description": "Transform browsing into buying through targeted listing optimization. Our Amazon experts apply conversion rate optimization (CRO) strategies, including A/B testing for product descriptions and image placements, to enhance user engagement and persuade potential buyers. Using persuasive SEO content, combined with high-quality visual assets, our SEO agency drives higher conversion rates, boosting your sales volume."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "packages",
+            "type": "sertPackages",
+            "enabled": true,
+            "data": {
+                "title": "Amazon SEO Services Packages Tailored To Your Needs",
+                "packages": [
+                    {
+                        "title": "Standard Package",
+                        "price": "$800",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$2,300",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up To 5 Products",
+                        "features": [
+                            "(Up to 30 Keywords per Product)",
+                            "Product Description & Listing Optimization",
+                            "Campaign Setup",
+                            "Account Management"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=800&package-type=standard&service=seo"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Business Package",
+                        "price": "$1,500",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$4,300",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up To 10 Products",
+                        "features": [
+                            "Keyword Research (Up to 30 Keywords per Product)",
+                            "Product Description & Listing Optimization",
+                            "Image Asset Additions & Optimization",
+                            "Account Management"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=1500&package-type=bussiness&service=seo"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Enterprise Package",
+                        "price": "$3000",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$8,600",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up To 15 Products",
+                        "features": [
+                            "Keyword Research (Up to 30 Keywords per Product)",
+                            "Product Description & Listing Optimization",
+                            "Image/ Video Asset Additions and Optimization",
+                            "Account Management"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=3000&package-type=enterprise&service=seo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta",
+            "type": "sertCta",
+            "enabled": true,
+            "data": {
+                "beforeFirstTag": "With BridgeWayDigital, your SEO services for Amazon get  ",
+                "firstTag": {
+                    "text": "Featured Pack",
+                    "href": "#hero"
+                },
+                "betweenFirstSecondTag": " giving you an unfair advantage of 3x returns in ",
+                "secondTag": {
+                    "text": "Comparison",
+                    "href": "#benefits"
+                },
+                "betweenSecondThirdTag": " to our counterparts, all whilst starting at just ",
+                "thirdTag": {
+                    "text": "$800",
+                    "href": "#packages"
+                },
+                "icons": {
+                    "arrowIcon": "/images/service/SertCta-arrow-icon.svg",
+                    "starIcon": "/images/service/ser-star-icon.svg",
+                    "diamondIcon": "/images/service/ser-dimond-icon.svg",
+                    "heartIcon": "/images/service/ser-heart-icon.svg"
+                }
+            }
+        },
+        {
+            "id": "perform-card",
+            "type": "performCard",
+            "enabled": true,
+            "data": {
+                "heading": "Can Your Amazon SEO Outperform Competitors?",
+                "detail": "We're confident it can! With our advanced tactics and data-driven approaches, our SEO services for Amazon help you outrank your competitor’s products, significantly boosting your visibility and sales.",
+                "cardContent": [
+                    {
+                        "icon": "/website/images/initial-consultation-icon-representing-the-start-of-a-project.webp",
+                        "title": "SEO Audit and Strategy Consultation",
+                        "desc": "Your dedicated Amazon SEO expert begins with a comprehensive SEO audit of your Amazon listings, analyzing current performance, keyword utilization, and alignment with SEO best practices. This detailed evaluation forms the basis for a customized SEO strategy tailored specifically to enhance your competitive edge within your market niche."
+                    },
+                    {
+                        "icon": "/website/images/market-analysis-icon-showcasing-business-data-insights.webp",
+                        "title": "Competitive and Market Analysis",
+                        "desc": "Utilizing cutting-edge analytical tools, our Amazon SEO agency delves into market dynamics and competitive landscapes. This involves scrutinizing competitor keyword strategies, backlink profiles, and content effectiveness to pinpoint actionable opportunities for your SEO campaign."
+                    },
+                    {
+                        "icon": "/website/images/strategic-planning-for-business-growth-and-development.webp",
+                        "title": "SEO Strategy Development",
+                        "desc": "Based on our in-depth analysis, we craft a robust Amazon SEO strategy focused on long-term success. This includes optimizing your listings for Amazon’s A10 algorithm with targeted keyword optimization, strategic meta-data enhancements, and structured data implementation to improve product discoverability and relevance."
+                    },
+                    {
+                        "icon": "/website/images/brand-registry-representing-amazon-brand-protection.webp",
+                        "title": "Implementation of SEO Enhancements",
+                        "desc": "Our Amazon SEO experts meticulously implement the developed SEO strategies, applying on-page and off-page optimizations to your Amazon product listings. This includes refining product titles, enhancing descriptions with SEO-rich content, and optimizing backend search terms to maximize organic search potential."
+                    },
+                    {
+                        "icon": "/website/images/a-content-showcasing-enhanced-product-pages.webp",
+                        "title": "Continuous SEO Performance Monitoring",
+                        "desc": "Our Amazon SEO experts then monitor the performance of your SEO-enhanced listings continuously, using advanced tracking tools to measure improvements and adapt strategies as needed. This ongoing optimization ensures your listings remain competitive and adapt to changes in Amazon’s search algorithms and market trends."
+                    },
+                    {
+                        "icon": "/website/images/product-launch-symbolizing-product-introduction.webp",
+                        "title": "SEO Performance Review and Reporting",
+                        "desc": "When working with the best Amazon SEO agency, you will receive detailed reports outlining the performance and progress of SEO efforts. These reports provide transparency and deliver insights that help refine ongoing strategies and forecast future adjustments, ensuring sustained improvement and ROI from your Amazon SEO initiatives."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta-two",
+            "type": "sertCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Dominate Organic Search Results on Amazon by Spending as low as $800!",
+                "button": {
+                    "url": "/get-a-free-quote?amazon=1&service=seo",
+                    "text": "Let’s Start"
+                },
+                "bgImg": {
+                    "src": "/images/service/SertCtaTwo-bg.webp",
+                    "alt": "sertCtaTwo-bg"
+                }
+            }
+        },
+        {
+            "id": "sert-content",
+            "type": "sertContent",
+            "enabled": true,
+            "data": {
+                "heading": "Feature-Packed Amazon SEO Services To Transform Business Potential Into Real Gains!",
+                "secContent": [
+                    {
+                        "title": "Amazon Ranking Service Optimization",
+                        "textOne": "Unlocking Keyword Potential",
+                        "color": "#F33B3E",
+                        "textTwo": "Unlock the full potential of your Amazon listings with our Amazon ranking service optimization. We employ sophisticated tools to conduct deep keyword research, identifying high-traffic and high-conversion keywords tailored to your products and market niche. Our Amazon SEO experts strategically embed these keywords throughout your product titles, descriptions, and backend search terms, ensuring optimal visibility and relevance to Amazon's search queries. As the leading Amazon SEO agency, our approach includes long-tail keyword strategies that capture niche markets and reduce competition, enhancing your listings' organic reach. Continuous keyword performance monitoring and agile adjustments ensure that your SEO strategy remains effective amidst changing market trends and algorithm updates. With our expert keyword optimization, your products will not only rank higher but also attract more qualified traffic, significantly boosting your sales potential on Amazon.",
+                        "imgSrc": "/website/images/image-featuring-professional-layout-and-creative-web-design.webp"
+                    },
+                    {
+                        "title": "A10 Algorithm Mastery",
+                        "textOne": "Mastering A10, Leveraging Rankings",
+                        "color": "#FFB703",
+                        "textTwo": "Gain a competitive edge with our A10 Algorithm Mastery, designed to decode and leverage Amazon’s latest ranking algorithm for your benefit. Our team of Amazon SEO experts stays at the forefront of Amazon’s SEO developments, adapting swiftly to changes in ranking factors such as click-through rates, conversion rates, and customer satisfaction metrics. As the leading provider of Amazon SEO services, we optimize your listings to perform optimally under the A10 algorithm's unique preferences, focusing on enhancing user experience and product relevance. Our SEO services for Amazon align your listings with these core algorithmic components, ensuring higher rankings and increased visibility on Amazon. Additionally, our team of SEO experts make strategic adjustments with the aim to improve your product's perceived value and customer retention rates, directly contributing to sustained sales success and top SERP placements.",
+                        "imgSrc": "/website/images/image-showcasing-web-design-with-interactive-animated-key-transitions.webp"
+                    },
+                    {
+                        "title": "Semantic SEO Enhancement",
+                        "textOne": "Contextual Relevance Unlocked",
+                        "color": "#FF763A",
+                        "textTwo": "Elevate your listings' searchability with our Semantic SEO Enhancement services. Our SEO services for Amazon go beyond basic keywords to implement semantic search principles that align with how customers naturally search for products on Amazon. By analyzing user intent and contextual relevance, pir Amazon SEO experts refine your listings to answer potential customer queries more effectively. This involves optimizing content to include related terms, synonyms, and thematic keywords that Amazon's search algorithm uses to determine relevancy. As leading Amazon SEO consultants, we provide comprehensive semantic optimization helping your products appear in a broader array of search results, improving visibility and capturing a wider audience. This method not only improves organic search performance but also enhances user engagement by matching the contextual nuances of shopper inquiries, leading to higher conversion rates.",
+                        "imgSrc": "/website/images/semantic-seo-enhancement-for-better-search-engine-rankings.webp"
+                    },
+                    {
+                        "title": "SEO Performance Tracking",
+                        "textOne": "Track, Analyze, Optimize",
+                        "color": "#626BFF",
+                        "textTwo": "Stay ahead of the competition with our SEO Performance Tracking service. Our Amazon SEO services include state-of-the-art analytics tools, which we use to continuously monitor your listings' performance across key metrics such as SERP rankings, organic traffic, and keyword effectiveness. This real-time data allows us to make informed, strategic decisions that keep your listings optimized for Amazon's dynamic search environment. Our performance tracking covers a comprehensive spectrum from initial visibility to conversion analysis, providing a holistic view of your SEO efforts' effectiveness. By identifying trends and pinpointing areas for improvement, our ongoing optimization ensures your listings remain adaptable and competitive, maximizing ROI and securing a dominant online presence.",
+                        "imgSrc": "/website/images/seo-performance-tracking-for-website-optimization.webp"
+                    },
+                    {
+                        "title": "Amazon SERP Feature Targeting",
+                        "textOne": "Feature-Rich Listing Strategies",
+                        "color": "#00A6F6",
+                        "textTwo": "Leverage our Amazon SERP feature targeting to enhance your product listings’ prominence and attractiveness. Our Amazon SEO company specializes in optimizing your listings to qualify for Amazon's coveted SERP features like \"Amazon’s Choice\" and \"Best Seller\" badges. By tailoring your SEO tactics to meet the specific criteria of these features—such as optimized pricing strategies, stellar customer feedback, and high conversion rates—our Amazon SEO services focus to enhance your products' appeal and trustworthiness. Our strategic focus not only elevates your listings in search results but also instils buyer confidence, significantly increasing click-through and conversion rates. This targeted approach ensures that your products stand out in Amazon's vast marketplace, driving increased sales and enhancing brand recognition.",
+                        "imgSrc": "/website/images/image-illustrating-smooth-animation-effects-for-modern-web-design.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ticker",
+            "type": "sertTicker",
+            "enabled": true,
+            "data": {
+                "heading": "Boost Your Rankings With The Top-Tier Amazon SEO Consultant Agency",
+                "description": "Partner with BridgeWayDigital for tailored Amazon SEO services and witness substantial Year on Year (YoY) and Month on Month (MoM) improvements in your search rankings and overall market performance. Elevate your organic visibility, engage more effectively with potential buyers, and significantly enhance your conversion rates—your journey to SEO mastery on Amazon begins here!",
+                "tabContent": [
+                    {
+                        "title": 200,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Revenue YoY"
+                    },
+                    {
+                        "title": 50,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Decrease in ACoS MoM"
+                    },
+                    {
+                        "title": 90,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Conversions YoY"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "made-the-choice",
+            "type": "madeTheChoice",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Leading Amazon Brands That Made The Choice You’re Still Thinking About",
+                "headingclass": "sub-heading-two sub-heading-two-width",
+                "MadeTheChoiceData": [
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-1.webp",
+                        "textone": ">1.3M",
+                        "texttwo": "Views"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-2.webp",
+                        "textone": "3X",
+                        "texttwo": "Faster Time to Launch"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-3.webp",
+                        "textone": "27%",
+                        "texttwo": "Traffic Increases"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-4.webp",
+                        "textone": "4X",
+                        "texttwo": "Faster Speed to Market"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "What YOU get with BridgeWayDigital’s Amazon Product SEO Services",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Unfair Advantage",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Elevate Your SEO Dominance",
+                        "contentDesc": "Leverage cutting-edge SEO methodologies and data-driven insights to surpass your competitors. Experience the transformative power of meticulously optimized SEO that boosts your product's SERP rankings and significantly enhances organic traffic. Elevate your market position with strategies that not only increase visibility but also drive effective conversions, directly benefiting your bottom line.",
+                        "image": "/images/amazon-seo-services/reduced-operational-stress-for-business-efficiency-solutions.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Personalized Support",
+                        "icon": "/images/service/amazon-accordion-icon-2.svg",
+                        "contentTitle": "Custom SEO Solutions Crafted for You",
+                        "contentDesc": "Your SEO campaign is uniquely tailored, aligning precisely with your business goals. Benefit from customized strategies developed exclusively for your brand, ensuring each product performs optimally in Amazon's search ecosystem. Our personalized approach ensures your efforts resonate perfectly with your target audience, maximizing impact and engagement.",
+                        "image": "/images/amazon-seo-services/Unfair Adv.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Reduced Operational Stress",
+                        "icon": "/images/service/amazon-accordion-icon-3.svg",
+                        "contentTitle": "Streamline Your SEO Efforts",
+                        "contentDesc": "Entrust us with the complexities of Amazon SEO. From comprehensive keyword analysis to strategic link building and authoritative content creation, we manage all facets of your SEO. Free yourself from the operational complexities and focus on what you do best—growing your business.",
+                        "image": "/images/amazon-seo-services/Personalized Support.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "More On Hand Time",
+                        "icon": "/images/service/amazon-accordion-icon-4.svg",
+                        "contentTitle": "Reclaim Your Valuable Time",
+                        "contentDesc": "Regain precious hours as our experts proficiently manage and enhance your Amazon SEO. Use this additional time to scale your business, explore new market opportunities, or strengthen other key business functions. With your SEO in expert hands, you can rest assured of continual optimization and top-tier performance.",
+                        "image": "/images/amazon-seo-services/Mpre on Hand Time copy.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Expert Guidance",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Master Amazon SEO with Expert Help",
+                        "contentDesc": "Gain an edge with our seasoned SEO team guiding your Amazon strategy. Every strategy refinement and tactical deployment is thoughtfully designed to boost your visibility and shopper engagement. With our expert guidance, watch your sales rise and experience a substantial uplift in your ROI",
+                        "image": "/images/amazon-seo-services/Expert Guidance.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "benifits",
+            "type": "benefits",
+            "enabled": true,
+            "data": {
+                "title": "Unlock The BridgeWayDigital Advantage with 3x Amazon SEO Services Returns Compared To Other Options",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/bwd-logo-black-design-for-brand-identification.svg",
+                            "width": 180,
+                            "height": 29,
+                            "alt": "BWD logo black design for brand identification"
+                        },
+                        "list": [
+                            "Targeted SEO Strategies Using Advanced Amazon Insights",
+                            "Cost-Effective SEO Resource Management",
+                            "In-Depth Analytics for Precision SEO Adjustments",
+                            "Personalized SEO Services with a Dedicated Specialist"
+                        ]
+                    },
+                    {
+                        "title": "In-House Marketing",
+                        "list": [
+                            "May lack the depth of SEO tools and expertise required to leverage Amazon's complex algorithms fully.",
+                            "Significant expenses related to hiring, training, and equipping an SEO team with specialized knowledge and tools.",
+                            "Basic SEO monitoring might overlook essential data, leading to suboptimal performance and missed optimization opportunities.",
+                            "Limited access to SEO professionals with specific Amazon platform expertise could hinder timely and effective strategy implementation."
+                        ]
+                    },
+                    {
+                        "title": "Typical Marketing Agency",
+                        "list": [
+                            "Often applies generic SEO tactics that do not account for Amazon's unique search dynamics, potentially limiting effectiveness.",
+                            "Likely to incur additional costs for ongoing SEO adjustments and scalability of strategies to meet market demands.",
+                            "Generic analytics services that may not provide the detailed insights needed for custom Amazon SEO strategy development.",
+                            "Divided attention among various clients can dilute the quality and responsiveness of the SEO services provided."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Amazon SEO Service Package Deliverables",
+                "description": "A transparent overview of all the deliverables in our Amazon SEO Service. Choose from options specifically tailored to meet your unique Amazon SEO needs within your allocated budget and products.",
+                "tableData": {
+                    "columns": [
+                        "Basic Package",
+                        "Advanced Package",
+                        "Premium Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Products",
+                            "values": [
+                                "text:Up to 5",
+                                "text:Up to 10",
+                                "text:Up to 15"
+                            ]
+                        },
+                        {
+                            "title": "Dedicated Amazon Marketing Specialist",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Marketing Specialist",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Initial Product Evaluation",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Comprehensive Product Analysis Documentation",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Competitive Product Pricing Assessment",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "User Engagement Analysis for Products",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Keyword Research for Individual Products",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Product Listing Keyword Mapping and Enhancement",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "LSI Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Optimization of Product Titles",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Creation of Initial Product Descriptions",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Optimization of Key Product Attributes",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Fine-Tuning Product Categorization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Product Review Evaluation",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Incorporation of Client-Supplied Videos",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Integration of Client-Supplied Images",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Initial Photo Editing",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Launch of Campaign Development & Strategy",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Enhancement of Existing Product Listings",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Management of Amazon Cases",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Initial Inventory and Backend Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Guidance and Integration for New Product Launches",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Monitoring of In-Stock Rates",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Tracking Perfect Order Percentage",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Oversight of Inventory Planning for Amazon",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Recommendations for Global Marketplace Expansion",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Continuous Product Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Quarterly Updates to Earned Media Content",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Quarterly Competitor Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Monthly Price Monitoring",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Monthly Sales Monitoring",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Monthly Reporting for Amazon",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Weekly Consultation Call",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Progressive Monthly Management Fee",
+                            "values": [
+                                "text:$800/Month",
+                                "text:$1,500/Month",
+                                "text:$3,000/Month"
+                            ]
+                        }
+                    ],
+                    "title": "Features"
+                },
+                "staticRowData": {
+                    "title": "Connect With An Amazon Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=800&package-type=standard&service=seo",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=1500&package-type=bussiness&service=seo",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=3000&package-type=enterprise&service=seo",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "sert-cta-three",
+            "type": "sertCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Can’t Decide Where to Start?",
+                "textBefore": "Get Your ",
+                "textHighlight": " Free Amazon Store Audit",
+                "textAfter": " and see immediate business potential",
+                "button": {
+                    "text": "GET YOUR FREE AUDIT",
+                    "href": "/get-a-free-quote?amazon=1&service=seo"
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "How We Use Amazon SEO to Increase Store Sales?",
+                "desc": "Unlock the full potential of your Amazon store with our strategic Amazon SEO services. At BridgeWay Digital, we specialize in leveraging precise, data-driven SEO techniques to significantly enhance your product visibility and sales performance. By optimizing your listings from the ground up, we ensure that your products not only attract but also engage and convert potential buyers, boosting your bottom line on the world’s largest e-commerce platform.",
+                "tabs": [
+                    {
+                        "title": "   Optimize SERP Performance",
+                        "eventKey": "tab1"
+                    },
+                    {
+                        "title": "   Amplify CTR Optimization",
+                        "eventKey": "tab2"
+                    },
+                    {
+                        "title": "   Streamline Conversion Pathways",
+                        "eventKey": "tab3"
+                    },
+                    {
+                        "title": "   Targeted Keyword Deployment",
+                        "eventKey": "tab4"
+                    },
+                    {
+                        "title": "   Refine SEO Content Tactics",
+                        "eventKey": "tab5"
+                    },
+                    {
+                        "title": "   Enhance User Interaction",
+                        "eventKey": "tab6"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "title": "Optimize SERP Performance",
+                        "para": "Mastering Organic Rankings",
+                        "ImgSrc": "/images/service/web-hosting-img.webp"
+                    },
+                    {
+                        "title": "Amplify CTR Optimization",
+                        "para": "Strategies for Engagement",
+                        "ImgSrc": "/images/service/ctr-optimization-img.webp"
+                    },
+                    {
+                        "title": "Streamline Conversion Pathways",
+                        "para": "Efficient Buyer Conversion",
+                        "ImgSrc": "/images/service/cross-browser-img.webp"
+                    },
+                    {
+                        "title": "Targeted Keyword Deployment",
+                        "para": "Precision in Search Queries",
+                        "ImgSrc": "/images/service/cms-integration-img.webp"
+                    },
+                    {
+                        "title": "Refine SEO Content Tactics",
+                        "para": "Creating Narratives That Sell",
+                        "ImgSrc": "/images/service/responsive-design-img.webp"
+                    },
+                    {
+                        "title": "Enhance User Interaction",
+                        "para": "Optimizing User Experience",
+                        "ImgSrc": "/images/service/user-interaction-img.webp"
+                    }
+                ],
+                "btnLink": "get-a-free-quote?amazon=1&service=seo",
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                }
+            }
+        },
+        {
+            "id": "faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is Amazon SEO?",
+                        "answer": "Amazon SEO (Search Engine Optimization) involves optimizing product listings to rank higher in Amazon's search results. This process includes refining product titles, descriptions, keywords, and images to improve visibility and attract more buyers."
+                    },
+                    {
+                        "question": "What is the difference between Amazon SEO and PPC?",
+                        "answer": "Amazon SEO focuses on optimizing listings to earn organic search rankings, while PPC (Pay-Per-Click) involves paying for advertising spots to enhance visibility. SEO generally requires more time to see results but is cost-effective long-term, whereas PPC offers immediate visibility but at a cost."
+                    },
+                    {
+                        "question": "What are SEO Keywords on Amazon?",
+                        "answer": "SEO keywords on Amazon are specific words or phrases that shoppers use to search for products. Including relevant keywords in your product listings helps improve their visibility, making it easier for potential customers to find your products through search."
+                    },
+                    {
+                        "question": "What is A+ content in Amazon SEO?",
+                        "answer": "A+ content in Amazon SEO refers to enhanced product descriptions that include rich text, images, and comparison charts to help sellers showcase their products' benefits. This premium content feature allows for more detailed, visually appealing information, which can improve conversion rates and enhance brand storytelling."
+                    },
+                    {
+                        "question": "What is Amazon SEO Algorithm?",
+                        "answer": "The Amazon SEO algorithm, often referred to as the A9 algorithm, is the system that determines the ranking of products within Amazon's search results. It analyzes factors such as relevance to search queries, customer satisfaction, price, and sales velocity to rank products."
+                    },
+                    {
+                        "question": "Is Amazon A10 Algorithm for SEO?",
+                        "answer": "Yes, the Amazon A10 algorithm is the latest update to Amazon's ranking mechanism. While Amazon has not officially titled it \"A10,\" this term is used by marketers to describe changes that focus more on customer behavior, including clicks and conversion rates, alongside traditional factors like keywords."
+                    },
+                    {
+                        "question": "How to rank in the USA using Amazon SEO?",
+                        "answer": "To rank effectively in the USA using Amazon SEO, focus on optimizing your product listings with relevant keywords, high-quality images, and detailed, engaging product descriptions. Encourage positive customer reviews, maintain competitive pricing, and ensure your inventory levels are sufficient to meet demand. Continuously analyze performance data and adapt your strategy to align with consumer trends and preferences."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Boost Your Amazon Store Revenue with Advanced SEO Techniques"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Elevate your store's performance with our expert Amazon SEO services, designed to deeply penetrate Amazon's competitive market. By finely tuning your product titles, descriptions, and meta tags with highly targeted keywords, we optimize your visibility across search results. Our team employs a rigorous SEO strategy that includes thorough keyword research, strategic placement, and optimization of backend search terms to improve organic reach and buyer interaction. With continuous adjustments based on evolving market trends and algorithm updates, we ensure your listings maintain top rankings, driving increased traffic and conversions."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Choose BridgeWay Digital as Your Strategic Amazon SEO Partner"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "At BridgeWay Digital, we don’t just optimize; we transform your Amazon presence. Our approach goes beyond traditional SEO by integrating user behavior analytics and competitive landscape analysis to craft strategies that position you ahead of the competition. Our commitment to excellence ensures not only improved visibility but also significant gains in revenue and customer engagement, culminating in a strong ROI."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWay Digital advantage in Amazon Listing Optimization today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon SEO Services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Amazon SEO Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can Your Amazon Store Perform Better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon SEO Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon SEO Services Comparison",
+                            "href": "#benifits"
+                        },
+                        {
+                            "text": "Amazon SEO Services Packages & Deliverables",
+                            "href": "#table"
+                        },
+                        {
+                            "text": "Amazon SEO FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

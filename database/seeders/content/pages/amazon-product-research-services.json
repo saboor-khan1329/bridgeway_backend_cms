@@ -1,0 +1,903 @@
+{
+    "attributes": {
+        "slug": "amazon-product-research-services",
+        "title": "Amazon Product Research Services | Bridgeway Digital",
+        "template": "amazon-service",
+        "is_cms_managed": true,
+        "status": true,
+        "sort_order": 0
+    },
+    "seo": {
+        "meta_title": "Amazon Product Research Services | Bridgeway Digital",
+        "meta_description": "Discover winning products with Amazon product research services at Bridgeway Digital. Get $$$ Amazon product ideas with our research services today!",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/amazon-product-research-services",
+        "keywords": "Amazon Product Research service , Amazon Product Research expert",
+        "og_title": "Amazon Product Research Services | Bridgeway Digital",
+        "og_description": "Discover winning products with Amazon product research services at Bridgeway Digital. Get $$$ Amazon product ideas with our research services today!",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/amazon-product-research-services",
+        "og_image": "/images/og/amazon-product-research-services.jpg",
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Amazon Product Research Services | Bridgeway Digital",
+        "twitter_description": "Discover winning products with Amazon product research services at Bridgeway Digital. Get $$$ Amazon product ideas with our research services today!",
+        "twitter_image": "/images/og/amazon-product-research-services.jpg"
+    },
+    "images": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "sertHero",
+            "enabled": true,
+            "data": {
+                "title": "Amazon Product Research Services",
+                "del": "Upsell Trap. False Guarantees. Hidden Fees",
+                "detail": "Strategic Finds, Data-Driven Selections, Smart Discoveries",
+                "furtherDetail": "Unlock the full potential of your product lineup with our Amazon Product Research services. Automate Amazon product research hiring for your Amazon stores or <span>speak to an Amazon expert</span> to discover how we identify high-potential products for brands just like yours!",
+                "logos": [
+                    {
+                        "src": "/images/service/hero-logo-1.webp",
+                        "alt": "Logo 1",
+                        "width": 150,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-2.webp",
+                        "alt": "Logo 2",
+                        "width": 215,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-3.webp",
+                        "alt": "Logo 3",
+                        "width": 100,
+                        "height": 80
+                    }
+                ],
+                "formContent": {
+                    "title": "Get a Free Amazon Store Audit!",
+                    "fields": {
+                        "fullName": {
+                            "label": "Full Name",
+                            "placeholder": "Full Name"
+                        },
+                        "email": {
+                            "label": "Email Address",
+                            "placeholder": "Your Email"
+                        },
+                        "phone": {
+                            "label": "Phone Number",
+                            "placeholder": "(201) 555-0123"
+                        },
+                        "products": {
+                            "label": "Number of Products Listed",
+                            "placeholder": "Please Select",
+                            "options": [
+                                {
+                                    "value": "1-10",
+                                    "label": "1-10"
+                                },
+                                {
+                                    "value": "11-50",
+                                    "label": "11-50"
+                                },
+                                {
+                                    "value": "51-100",
+                                    "label": "51-100"
+                                },
+                                {
+                                    "value": "100+",
+                                    "label": "100+"
+                                }
+                            ]
+                        },
+                        "country": {
+                            "label": "Country"
+                        },
+                        "storeUrl": {
+                            "label": "Website URL/Amazon Store URL",
+                            "placeholder": "Website URL/Amazon Store URL"
+                        },
+                        "budget": {
+                            "label": "Estimated Budget",
+                            "placeholder": "Select Price",
+                            "options": [
+                                {
+                                    "value": "$0 - $500",
+                                    "label": "$0 - $500"
+                                },
+                                {
+                                    "value": "$500 - $1000",
+                                    "label": "$500 - $1000"
+                                },
+                                {
+                                    "value": "$1000 - $5000",
+                                    "label": "$1000 - $5000"
+                                },
+                                {
+                                    "value": "$5000+",
+                                    "label": "$5000+"
+                                }
+                            ]
+                        },
+                        "expectations": {
+                            "label": "What are your expectations from us?",
+                            "placeholder": "Let's break the ice. Write in as much detail as you want."
+                        }
+                    },
+                    "complimentaryTitle": "Complimentary Audit Includes:",
+                    "complimentaryItems": [
+                        "Keyword Research",
+                        "Growth Potential",
+                        "Expert Recommendations"
+                    ],
+                    "ratings": [
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        },
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        }
+                    ],
+                    "submitText": "SUBMIT"
+                }
+            }
+        },
+        {
+            "id": "sert-slider",
+            "type": "sertSlider",
+            "enabled": true,
+            "data": {
+                "sliderSettings": {
+                    "delay": 2000
+                },
+                "slides": [
+                    {
+                        "alignCenter": false,
+                        "items": [
+                            {
+                                "type": "text",
+                                "value": "$5M+",
+                                "label": "Revenue Driven"
+                            },
+                            {
+                                "type": "text",
+                                "value": "75+",
+                                "label": "Brands Managed"
+                            },
+                            {
+                                "type": "text",
+                                "value": "3.5M",
+                                "label": "Sessions Generated"
+                            },
+                            {
+                                "type": "text",
+                                "value": "10+",
+                                "label": "Impressions Created"
+                            },
+                            {
+                                "type": "text",
+                                "value": "1M+",
+                                "label": "Product Sold"
+                            }
+                        ]
+                    },
+                    {
+                        "alignCenter": true,
+                        "items": [
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-1.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-2.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-3.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-4.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-5.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Amazon FBA Product Research",
+                        "icon": "/website/images/image-showcasing-vibrant-layout-design-with-animation-effects.webp",
+                        "contentTitle": "Optimize Your FBA Success",
+                        "contentDesc": "Maximize efficiency and profitability with our expert Amazon FBA Product Research. We conduct a comprehensive analysis of product viability, storage costs, and fulfillment logistics to ensure your FBA operations are streamlined and cost-effective. By strategically managing your FBA inventory, we assess market demand, analyze competitor inventory strategies, and optimize product selection to reduce overhead and increase your sales velocity. We also help you avoid costly long-term storage fees and capitalize on peak selling periods, significantly boosting your ROI and securing a competitive advantage in the Amazon marketplace.",
+                        "image": "/images/amazon-product-research-services/amazon-fba-img.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Amazon Private Label Research",
+                        "icon": "/website/images/image-demonstrating-user-focused-web-design-with-clean-animation-effects.webp",
+                        "contentTitle": "Strategic Private Label Insights Copy",
+                        "contentDesc": "Elevate your brand with our in-depth Amazon Private Label Research. We delve into market trends, consumer behavior, and competitive landscapes to pinpoint lucrative opportunities for your private label products. Our service includes a thorough analysis of product differentiation potential and branding strategies to establish a strong market presence. Additionally, our team assists in sourcing reliable suppliers and negotiating cost-effective production solutions, ensuring your private label products not only meet market demands but also exceed consumer expectations.",
+                        "image": "/images/amazon-product-research-services/amazon-private-img.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Amazon Seller Product Research",
+                        "icon": "/website/images/image-showcasing-smooth-user-interaction-with-advanced-web-animation.webp",
+                        "contentTitle": "Master Merchant-Fulfilled Potential",
+                        "contentDesc": "Optimize your Amazon Merchant Fulfilled Network (MFN) operations with our specialized FMB Product Research. Our approach integrates detailed logistics analysis, competitive pricing strategies, and market demand assessment to maximize your control and profitability. By analyzing seasonal variations and promotional impacts, we tailor your inventory levels and marketing strategies, ensuring you always meet consumer demand without overstocking. This comprehensive service helps you leverage the flexibility of MFN to adapt quickly to market changes, maintaining a competitive edge and maximizing revenue.",
+                        "image": "/images/amazon-product-research-services/amazon-seller-img.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Helium 10 Product Research",
+                        "icon": "/website/images/image-illustrating-creative-layout-and-interactive-web-features.webp",
+                        "contentTitle": "Leverage Cutting-Edge Market Data",
+                        "contentDesc": "Harness the full power of Helium 10's analytics tools with our expert Product Research. Our experts also guide you in utilizing Helium 10’s tracking and management features to optimize your listings and monitor your market position continuously. This targeted approach ensures that you not only understand the current marketplace but are also equipped to predict future trends and adjust your strategies accordingly, resulting in sustained sales growth and an enhanced online presence.",
+                        "image": "/images/amazon-product-research-services/helium-10-img.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Jungle Scout Product Research",
+                        "icon": "/website/images/enhanced-brand-content-layout-sample.webp",
+                        "contentTitle": "Navigate Your Market Jungle",
+                        "contentDesc": "Take advantage of our Jungle Scout Product Research to effectively pierce through the competitive Amazon market landscape. Our expert use of Jungle Scout’s comprehensive tools enables you to pinpoint profitable product opportunities quickly. Our research includes extensive supplier audits and negotiations to ensure you source high-quality products at the best prices. With these insights, you can confidently expand your portfolio with items that have verified market demand, optimized cost structures, and substantial growth potential, thereby maximizing your return on investment and securing a robust market position.",
+                        "image": "/images/amazon-product-research-services/jungle-scout-img.webp"
+                    }
+                ],
+                "heading": "Full-Spectrum Amazon Product Research Services To Power Your Amazon Presence"
+            }
+        },
+        {
+            "id": "ser-call",
+            "type": "serCall",
+            "enabled": true,
+            "data": {
+                "contactOptions": [
+                    {
+                        "icon": "/images/service/SerCallbox-icon-1.svg",
+                        "eyebrow": "Toll Free",
+                        "label": "{{contact.phone.display}}",
+                        "href": "{{contact.phone.href}}"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-2.svg",
+                        "eyebrow": "Request",
+                        "label": "Call Back"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-3.svg",
+                        "eyebrow": "Start a",
+                        "label": "Live Chat"
+                    }
+                ],
+                "heading": "Need Amazon product research ASAP? We're waiting for your call!",
+                "description": "Whether you need your Amazon product research conducted from scratch or want to find the next big seller, our Amazon research experts are behind the desk to start on your project with top priority. Call right away!"
+            }
+        },
+        {
+            "id": "sert-cta-two",
+            "type": "sertCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Discover the hottest Amazon products as low as 5% of the total order value",
+                "button": {
+                    "url": "/get-a-free-quote?amazon-research=1&service=product_research",
+                    "text": "START WITH A CUSTOM QUOTE"
+                },
+                "bgImg": {
+                    "src": "/images/service/SertCtaTwo-bg.webp",
+                    "alt": "sertCtaTwo-bg"
+                }
+            }
+        },
+        {
+            "id": "sert-card",
+            "type": "sertCard",
+            "enabled": true,
+            "data": {
+                "title": "Amazon Product Research Challenges, now Abridged with ease!",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/expanding-ecommerce-to-global-markets.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Expanding ecommerce to global markets"
+                        },
+                        "title": "Maximize Market Insights",
+                        "description": "Our Amazon Product Research experts deploy advanced research tools, including demographic analysis and competitive benchmarking, to uncover deep insights into consumer behavior and market trends. Our strategic application of market intelligence ensures that you identify high-potential products and market opportunities, attracting a broad customer base and maximizing ROI."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/scale-when-required-for-business-growth-and-scalability.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Scale when required for business growth and scalability"
+                        },
+                        "title": "Identify Profitable Opportunities",
+                        "description": "Leverage the expertise of a top-tier Amazon research agency to utilize sophisticated algorithms and data analytics that spot emerging trends and lucrative product niches. By staying ahead of the market curve, we ensure your inventory is always aligned with consumer demand and positioned for optimal profitability."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/navigating-amazon-with-ease-for-effective-seller-strategies.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Navigating Amazon with ease for effective seller strategies"
+                        },
+                        "title": "Enhance Sourcing Efficiency",
+                        "description": "Our team implements comprehensive sourcing strategies, including supplier evaluations and cost analysis, to enhance your procurement processes. Using targeted research techniques, we help you navigate complex supply chains, ensuring that you source high-quality products efficiently and cost-effectively, thus boosting your operational efficiency and profit margins."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "packages",
+            "type": "sertPackages",
+            "enabled": true,
+            "data": {
+                "title": "Amazon Product Research Packages Tailored To Your Needs",
+                "packages": [
+                    {
+                        "title": "Standard Package",
+                        "price": "Custom Quotation",
+                        "priceDuration": "/Month",
+                        "oldPrice": "",
+                        "discountText": "",
+                        "listTitle": "5-10% of order value",
+                        "features": [
+                            "Market Trend Analysis",
+                            "Competitor Benchmarking",
+                            "Demand Forecasting",
+                            "Keyword Research",
+                            "Supplier Identification",
+                            "Pricing Strategy Development",
+                            "Product Potential Report"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon-research=1&service=product_research&package-type=standard"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Business Package",
+                        "price": "Custom Quotation",
+                        "priceDuration": "/Month",
+                        "oldPrice": "",
+                        "discountText": "",
+                        "listTitle": "10-15% of order value",
+                        "features": [
+                            "Includes all Standard Package Services",
+                            "Advanced Market Analysis",
+                            "Regulatory Compliance Consultation",
+                            "Custom Product Development",
+                            "Brand Development Strategy",
+                            "Enhanced SEO Optimization",
+                            "Sales Channel Diversification"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon-research=1&service=product_research&package-type=bussiness"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta",
+            "type": "sertCta",
+            "enabled": true,
+            "data": {
+                "beforeFirstTag": "With BridgeWayDigital, your Amazon Product Research gets ",
+                "firstTag": {
+                    "text": "Featured Pack",
+                    "href": "#hero"
+                },
+                "betweenFirstSecondTag": " giving you an unfair advantage of 3x returns in ",
+                "secondTag": {
+                    "text": "Comparison",
+                    "href": "#benefits"
+                },
+                "betweenSecondThirdTag": " to our counterparts, all whilst starting at just ",
+                "thirdTag": {
+                    "text": "custom price",
+                    "href": "#packages"
+                },
+                "icons": {
+                    "arrowIcon": "/images/service/SertCta-arrow-icon.svg",
+                    "starIcon": "/images/service/ser-star-icon.svg",
+                    "diamondIcon": "/images/service/ser-dimond-icon.svg",
+                    "heartIcon": "/images/service/ser-heart-icon.svg"
+                }
+            }
+        },
+        {
+            "id": "perform-card",
+            "type": "performCard",
+            "enabled": true,
+            "data": {
+                "heading": "Is Your Product Idea Worth The Effort?",
+                "detail": "We believe it is! Every product has the potential to become a top seller on Amazon. Let us help you research for it!",
+                "cardContent": [
+                    {
+                        "icon": "/website/images/initial-consultation-icon-representing-the-start-of-a-project.webp",
+                        "title": "Market Analysis and Opportunity Identification",
+                        "desc": "Your journey begins with a thorough market analysis conducted by our dedicated Amazon Product Research specialists. We evaluate current market trends, consumer demand, and competitor product offerings to identify untapped opportunities and profitable niches. This foundational insight lays the groundwork for strategic product selection and positioning."
+                    },
+                    {
+                        "icon": "/website/images/market-analysis-icon-showcasing-business-data-insights.webp",
+                        "title": "Supplier Due Diligence",
+                        "desc": "The process starts with rigorous supplier evaluation, where our Amazon Product Research experts apply stringent criteria to assess supplier reliability and production sustainability. This crucial step ensures your sourcing strategy is robust, cost-effective, and capable of scaling to meet market demands."
+                    },
+                    {
+                        "icon": "/website/images/strategic-planning-for-business-growth-and-development.webp",
+                        "title": "Compliance & Viability Analysis",
+                        "desc": "We conduct thorough viability assessments and regulatory compliance checks for each potential product. This phase ensures that every product not only adheres to industry regulations but also aligns with market expectations and your brand goals in general, enhancing its success potential upon launch."
+                    },
+                    {
+                        "icon": "/website/images/brand-registry-representing-amazon-brand-protection.webp",
+                        "title": "Launch Strategy Formulation",
+                        "desc": "Using the insights gained, we outline a strategic product launch plan that includes optimal timing capitalizing on seasonal insights, Amazon SEO tactics for listings, and initial marketing maneuvers to quickly capture buyer attention and place your product as a frontrunner in the market."
+                    },
+                    {
+                        "icon": "/website/images/a-content-showcasing-enhanced-product-pages.webp",
+                        "title": "Market Performance Tracking",
+                        "desc": "After the launch, our specialists continue to monitor the market response and product performance, utilizing real-time data to tweak and enhance the strategy as necessary, ensuring your offerings adapt to changing market conditions, all whilst ensuring that the brand guidelines remain intact."
+                    },
+                    {
+                        "icon": "/website/images/product-launch-symbolizing-product-introduction.webp",
+                        "title": "Insights & Reporting",
+                        "desc": "Receive detailed, actionable reports that outline strategic insights and the performance outcomes of your product lines from the best analytical tools available in the market. This feedback loop is essential for refining future product strategies and maintaining competitive advantage in the Amazon marketplace."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta-two-2",
+            "type": "sertCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Pinpoint Amazon’s Leading Products at Prices That Work for You!",
+                "button": {
+                    "url": "/get-a-free-quote?amazon-research=1&service=product_research",
+                    "text": "Let’s Start"
+                },
+                "bgImg": {
+                    "src": "/images/service/SertCtaTwo-bg.webp",
+                    "alt": "sertCtaTwo-bg"
+                }
+            }
+        },
+        {
+            "id": "sert-content",
+            "type": "sertContent",
+            "enabled": true,
+            "data": {
+                "heading": "Feature-Packed Amazon Product Research Services To Transform Ideas Into Real Businesses!",
+                "secContent": [
+                    {
+                        "title": "Market Trend Tracking",
+                        "textOne": "Navigate Dynamic Market Shifts",
+                        "color": "#F33B3E",
+                        "textTwo": "Leverage our advanced Market Trend Tracking to stay ahead in an ever-changing marketplace. We employ sophisticated analytical tools to continuously monitor global market movements, consumer behaviors, and industry innovations. Our system integrates real-time data streams from multiple sources, ensuring you receive the most comprehensive and actionable insights. By understanding these dynamics, we help you swiftly adapt your product and marketing strategies to seize opportunities and avert potential risks. This proactive approach allows you to anticipate market trends rather than react to them, maintaining a competitive edge by aligning your offerings with emerging consumer demands and market shifts. With our expert guidance, your business is equipped to thrive in fluctuating markets, driving growth and sustainability.",
+                        "imgSrc": "/website/images/market-trend-tracking-icon-representing-business-analytics.webp"
+                    },
+                    {
+                        "title": "Demand Forecasting",
+                        "textOne": "Strategic Inventory Management",
+                        "color": "#FFB703",
+                        "textTwo": "Enhance your inventory strategy with our precise Demand Forecasting services. Utilizing cutting-edge predictive analytics, we combine historical sales data, seasonal variations, and current market trends to forecast future product demand with remarkable accuracy. This vital service helps you optimize stock levels, ensuring you have the right products at the right time to meet customer demand without surplus. Effective demand forecasting minimizes capital tied up in inventory and reduces the risk of stockouts and overstocks, crucial for maintaining operational efficiency and customer satisfaction. Our strategic insights also support promotional planning and pricing strategies, helping you maximize sales during peak periods and manage resources during slower seasons. Embrace our demand forecasting expertise to streamline your supply chain and enhance profitability through smarter inventory decisions.",
+                        "imgSrc": "/website/images/ecommerce-demand-forecasting-chart.webp"
+                    },
+                    {
+                        "title": "Product Differentiation Strategies",
+                        "textOne": "Stand Out in the Marketplace",
+                        "color": "#FF763A",
+                        "textTwo": "Elevate your brand with our Product Differentiation Strategies, designed to carve a unique niche for your products on Amazon. We conduct an exhaustive analysis of your competitors and target audience to uncover untapped market opportunities and define clear differentiators. Our approach integrates innovative features, exclusive benefits, and compelling branding techniques to distinguish your offerings from the competition. By emphasizing unique selling propositions (USPs) and aligning them with consumer preferences, we enhance your product’s appeal and visibility. This strategic differentiation not only attracts more customers but also fosters loyalty and enables premium pricing, thereby increasing your market share and profitability. Trust our expertise to transform your products into standout choices that captivate and retain customers.",
+                        "imgSrc": "/website/images/product-differentiation-strategies-for-business-growth.webp"
+                    },
+                    {
+                        "title": "Regulatory Compliance Assurance",
+                        "textOne": "Compliance Expertise for Market Confidence",
+                        "color": "#626BFF",
+                        "textTwo": "Our Regulatory Compliance Assurance service provides thorough support to navigate the complex regulatory environment of Amazon. We ensure that every product meets the latest industry standards and regulatory requirements, from safety certifications to environmental compliance. Our comprehensive audits and ongoing monitoring mitigate the risk of non-compliance penalties and protect your brand reputation. By proactively managing compliance, we help you avoid costly legal issues and market withdrawals, ensuring smooth and uninterrupted sales. Our expert guidance extends beyond compliance to help you leverage regulatory standards as a competitive advantage, enhancing consumer trust and product credibility in a crowded marketplace.",
+                        "imgSrc": "/website/images/product-differentiation-strategies-for-business-growth.webp"
+                    },
+                    {
+                        "title": "Seasonal Product Recommendations",
+                        "textOne": "Optimize for Peak Sales Seasons",
+                        "color": "#00A6F6",
+                        "textTwo": "Maximize your revenue potential with our Seasonal Product Recommendations, strategically timed to leverage fluctuating market demands. We analyze historical sales data, consumer purchasing trends, and upcoming market events to pinpoint the optimal times for product launches and promotions. This service ensures you capitalize on high-traffic seasons such as holidays and special events, aligning your inventory with consumer expectations and demand spikes. By preparing in advance for these key periods, we help you avoid stockouts, manage inventory more efficiently, and maximize sales opportunities. Our targeted recommendations are designed to boost both visibility and sales during crucial times, providing you with a strategic edge in maximizing seasonal profitability.",
+                        "imgSrc": "/website/images/seasonal-product-recommendations-for-targeted-marketing.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ticker",
+            "type": "sertTicker",
+            "enabled": true,
+            "data": {
+                "heading": "Boost Your Market Insights with Expert Amazon Product Research Services",
+                "description": "Partner with BridgeWayDigital for comprehensive Amazon Product Research services and experience substantial Year on gains in product selection and market understanding. Improve your product sourcing accuracy, uncover high-potential market opportunities, and significantly increase your profitability—your journey to mastering the Amazon marketplace starts here!",
+                "tabContent": [
+                    {
+                        "title": 150,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Improvement in Product Selection Accuracy YoY"
+                    },
+                    {
+                        "title": 70,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Identification of Market Opportunities MoM"
+                    },
+                    {
+                        "title": 80,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Growth in Profit Margins YoY"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "made-the-choice",
+            "type": "madeTheChoice",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Leading Amazon Brands That Made The Choice You’re Still Thinking About",
+                "headingclass": "sub-heading-two sub-heading-two-width",
+                "MadeTheChoiceData": [
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-1.webp",
+                        "textone": ">1.3M",
+                        "texttwo": "Views"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-2.webp",
+                        "textone": "3X",
+                        "texttwo": "Faster Time to Launch"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-3.webp",
+                        "textone": "27%",
+                        "texttwo": "Traffic Increases"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-4.webp",
+                        "textone": "4X",
+                        "texttwo": "Faster Speed to Market"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "What YOU get with BridgeWayDigital’s Amazon Product Research Services",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Unfair Advantage",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Gain Competitive Market Insights",
+                        "contentDesc": "Utilize state-of-the-art product research tools and data-driven market analysis to outmaneuver your competitors. Experience the strategic advantage of comprehensive product insights that identify lucrative opportunities and forecast emerging trends. Enhance your market position with informed product decisions that not only captivate buyers but also ensure profitable returns, boosting your overall business performance.",
+                        "image": "/images/service/tech-edge-accordion-img.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Personalized Support",
+                        "icon": "/images/service/amazon-accordion-icon-2.svg",
+                        "contentTitle": "Tailored Research Strategies Just for You",
+                        "contentDesc": "Each product research strategy is meticulously crafted, aligning seamlessly with your specific market goals. Benefit from custom research plans developed uniquely for your portfolio, ensuring every product choice is optimized for success in the Amazon marketplace. Our individualized approach guarantees that your product decisions resonate deeply with your target audience, maximizing effectiveness and engagement.",
+                        "image": "/images/service/custom-sol-accordion-img.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Reduced Operational Stress",
+                        "icon": "/images/service/amazon-accordion-icon-3.svg",
+                        "contentTitle": "Simplify Your Product Research",
+                        "contentDesc": "Leave the intricate details of product research to us. From in-depth market analysis to supplier vetting and pricing strategies, we handle all aspects of product research. Free yourself from the burdens of endless data analysis and complex decision-making, and focus on your core business activities. Trust our experts to streamline your operations and enhance your market adaptability.",
+                        "image": "/images/service/stream-operation-accordion-img.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "More On Hand Time",
+                        "icon": "/images/service/amazon-accordion-icon-4.svg",
+                        "contentTitle": "Reclaim Your Critical Business Hours",
+                        "contentDesc": "Regain valuable time as our team expertly manages the comprehensive product research process. Utilize these extra hours to expand your business, explore new ventures, or strengthen your operational capabilities. With your product research in capable hands, you are free to focus on scaling your business and exploring new opportunities with confidence.",
+                        "image": "/images/service/time-efficient-accordion-img.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Expert Guidance",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Navigate the Market with Industry Leaders",
+                        "contentDesc": "Leverage our extensive experience and expertise in product research to navigate the complex Amazon market landscape. Each strategic decision and market recommendation is carefully designed to elevate your product lineup and enhance market penetration. With our skilled guidance, witness your market share grow and enjoy significant improvements in your investment returns.",
+                        "image": "/images/service/expert-insight-accordion-img.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "benefits",
+            "type": "benefits",
+            "enabled": true,
+            "data": {
+                "title": "Find The Next Biggest Product on Amazon With the BridgeWayDigital Advantage!",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/bwd-logo-black-design-for-brand-identification.svg",
+                            "width": 180,
+                            "height": 29,
+                            "alt": "BWD logo black design for brand identification"
+                        },
+                        "list": [
+                            "Precision Product Research Tailored for Amazon",
+                            "Cost-Effective Product Research Solutions",
+                            "Advanced Analytics for Insightful Product Decisions",
+                            "Customized Support from Product Research Experts"
+                        ]
+                    },
+                    {
+                        "title": "In-House Marketing",
+                        "list": [
+                            "May lack the comprehensive tools and specific market knowledge needed to conduct in-depth product research on Amazon.",
+                            "Significant overhead costs associated with assembling and maintaining a specialized product research team.",
+                            "Basic analysis capabilities may miss critical market trends and consumer behavior insights, limiting effective decision-making.",
+                            "Limited access to experts specifically skilled in navigating Amazon’s competitive environment can delay or weaken product positioning."
+                        ]
+                    },
+                    {
+                        "title": "Typical Marketing Agency",
+                        "list": [
+                            "Often employs broad market research techniques that fail to capture the intricacies of Amazon’s marketplace, reducing the strategic value of insights.",
+                            "Additional fees for extending research coverage or adapting strategies to evolving market trends and product dynamics.",
+                            "Generic data analysis that might not delve deep enough into product-specific research, potentially overlooking key opportunities.",
+                            "Spread thin over multiple clients, which can compromise the focus and customization of product research services."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta-three",
+            "type": "sertCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Can’t Decide Where to Start?",
+                "textBefore": "Consult with an amazon product research expert and see immediate business potential",
+                "button": {
+                    "text": "Get A Custom Quote",
+                    "href": "/get-a-free-quote?amazon-research=1&service=product_research"
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "How to Find Hottest Selling Products on Amazon?",
+                "desc": "Unlock the full potential of your Amazon store with our strategic Amazon SEO services. At BridgeWay Digital, we specialize in leveraging precise, data-driven SEO techniques to significantly enhance your product visibility and sales performance. By optimizing your listings from the ground up, we ensure that your products not only attract but also engage and convert potential buyers, boosting your bottom line on the world’s largest e-commerce platform.",
+                "tabs": [
+                    {
+                        "title": "   Utilizing Amazon's Best Sellers List",
+                        "eventKey": "tab1"
+                    },
+                    {
+                        "title": "   Keyword Tools for Product Discovery",
+                        "eventKey": "tab2"
+                    },
+                    {
+                        "title": "   Exploring Movers and Shakers",
+                        "eventKey": "tab3"
+                    },
+                    {
+                        "title": "   Leveraging Amazon Sales Rank",
+                        "eventKey": "tab4"
+                    },
+                    {
+                        "title": "   Analyzing Customer Reviews",
+                        "eventKey": "tab5"
+                    },
+                    {
+                        "title": "   Navigating Amazon Categories",
+                        "eventKey": "tab6"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "title": "Utilizing Amazon's Best Sellers List",
+                        "para": "Discover Proven Winners",
+                        "ImgSrc": "/images/service/web-hosting-img.webp"
+                    },
+                    {
+                        "title": "Keyword Tools for Product Discovery",
+                        "para": "Uncover Demand Keywords",
+                        "ImgSrc": "/images/service/ctr-optimization-img.webp"
+                    },
+                    {
+                        "title": "Exploring Movers and Shakers",
+                        "para": "Spot Rapid Climbers",
+                        "ImgSrc": "/images/service/cross-browser-img.webp"
+                    },
+                    {
+                        "title": "Leveraging Amazon Sales Rank",
+                        "para": "Gauge Product Popularity",
+                        "ImgSrc": "/images/service/cms-integration-img.webp"
+                    },
+                    {
+                        "title": "Analyzing Customer Reviews",
+                        "para": "Extract Valuable Insights",
+                        "ImgSrc": "/images/service/responsive-design-img.webp"
+                    },
+                    {
+                        "title": "Navigating Amazon Categories",
+                        "para": "Master Category Trends",
+                        "ImgSrc": "/images/service/multimedia-content-img.webp"
+                    }
+                ],
+                "buttonLink": "get-a-free-quote?amazon-research=1&service=product_research",
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                }
+            }
+        },
+        {
+            "id": "faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is product research in Amazon?",
+                        "answer": "Product research on Amazon involves analyzing market trends, customer preferences, and competitive data to identify products that will sell well on the platform. This process helps sellers choose items that have high demand, low competition, and good profitability, enhancing their chances of success in Amazon's marketplace."
+                    },
+                    {
+                        "question": "How do I research what sells well on Amazon?",
+                        "answer": "To research what sells well on Amazon, start by exploring the Amazon Best Sellers, Movers and Shakers, and Most Wished For lists. Utilize tools like Jungle Scout or Helium 10 to analyze sales data, track product rankings, and study market trends. Also, review customer feedback to understand consumer needs and preferences."
+                    },
+                    {
+                        "question": "Which is the best product to sell on Amazon?",
+                        "answer": "The best product to sell on Amazon meets the criteria of high demand, low competition, and good profit margins. Products in categories like health and personal care, home and kitchen, and electronics often perform well. However, market trends can change, so continuous research and trend analysis are crucial."
+                    },
+                    {
+                        "question": "What are the 5 most profitable products to sell on Amazon?",
+                        "answer": "The most profitable products on Amazon typically include: Health supplements Beauty products Fitness equipment Smart home devices Eco-friendly and sustainable goods These categories generally offer good profit margins and have steady consumer demand."
+                    },
+                    {
+                        "question": "What is Amazon FBA?",
+                        "answer": "Amazon FBA (Fulfillment by Amazon) is a service where Amazon stores, picks, packs, ships, and handles returns for your products. Sellers send their goods to Amazon's fulfillment centers, and Amazon takes care of the logistics, providing faster delivery options like Prime, which can significantly increase sales."
+                    },
+                    {
+                        "question": "How to find products that sell on Amazon?",
+                        "answer": "To find products that sell on Amazon, analyze top-selling items using Amazon’s sales rank and conduct keyword research to find high-demand products. Tools like CamelCamelCamel and Keepa provide historical data on sales performance. Additionally, stay updated on trending products and seasonal demands."
+                    },
+                    {
+                        "question": "Which category is the best to sell in 2024 on Amazon?",
+                        "answer": "While predicting the best category for 2024 on Amazon depends on emerging trends and consumer behavior changes, categories like sustainable products, health and wellness, home fitness, and remote work essentials are expected to remain popular. Stay attuned to market shifts and emerging technologies to identify promising categories."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Enhance Your Product Line with Expert Amazon Product Research"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Boost your inventory's potential with our specialized Amazon Product Research services, meticulously crafted to navigate the complexities of Amazon's vast marketplace. By employing advanced analytical tools and market insights, we identify high-demand products and untapped market niches. Our team conducts extensive research, including competitor analysis and trend monitoring, to ensure your product selections are primed for success. With strategic supplier sourcing and continuous market validation, we optimize your portfolio for maximum profitability and scalability."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Choose BridgeWay Digital as Your Amazon Product Research Expert"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "At BridgeWay Digital, we do more than just analyze; we strategically enhance your market approach. Our comprehensive service extends beyond basic product identification by incorporating detailed profitability assessments and regulatory compliance checks. Our dedication to precision and strategic foresight guarantees not just market entry, but sustainable success and significant competitive advantage."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to start capitalizing on the opportunities within the Amazon marketplace. Let us guide you to the top with products that not only meet market demand but exceed customer expectations."
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon Product Research Services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Amazon Product Research Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can Your Amazon Store Perform Better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon Product Research Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon Product Research Services Comparison",
+                            "href": "#benefits"
+                        },
+                        {
+                            "text": "Amazon Product Research FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

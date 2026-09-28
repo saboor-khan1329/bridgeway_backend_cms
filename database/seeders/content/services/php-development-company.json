@@ -1,0 +1,1268 @@
+{
+    "attributes": {
+        "title": "PHP Development Services Company| Bridgeway Digital",
+        "short_description": "Get secure, scalable PHP development services from professionals. Our PHP development company creates robust web apps tailored to your unique business goals.",
+        "status": true,
+        "is_featured": false
+    },
+    "seo": {
+        "meta_title": "PHP Development Services Company| Bridgeway Digital",
+        "meta_description": "Get secure, scalable PHP development services from professionals. Our PHP development company creates robust web apps tailored to your unique business goals.",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/php-development-company",
+        "keywords": null,
+        "og_title": "PHP Development Services Company| Bridgeway Digital",
+        "og_description": "Get secure, scalable PHP development services from professionals. Our PHP development company creates robust web apps tailored to your unique business goals.",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/php-development-company",
+        "og_image": null,
+        "twitter_card": "summary_large_image",
+        "twitter_title": "PHP Development Services Company| Bridgeway Digital",
+        "twitter_description": "Get secure, scalable PHP development services from professionals. Our PHP development company creates robust web apps tailored to your unique business goals.",
+        "twitter_image": null
+    },
+    "images": [],
+    "slug": "php-development-company",
+    "categories": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "serviceHero",
+            "enabled": true,
+            "data": {
+                "heading": "PHP Web Development Company – Solutions for Optimal Web Efficiency",
+                "description": "Get secure, scalable PHP development services from professionals. Our PHP development company creates robust web apps tailored to your unique business goals.",
+                "btn": {
+                    "text": "Get Your Free Quote"
+                },
+                "services": [
+                    {
+                        "value": "3.1x",
+                        "label": "Increase in Global Search Visibility",
+                        "average": "1.9x"
+                    },
+                    {
+                        "value": "2.6x",
+                        "label": "Growth in International Traffic",
+                        "average": "1.5x"
+                    },
+                    {
+                        "value": "4.3x",
+                        "label": "Improvement in Global Engagement",
+                        "average": "2.1x"
+                    }
+                ],
+                "form": {
+                    "label": "Enter your details",
+                    "placeholder": "Enter your details",
+                    "submitText": "Get Your Free Quote"
+                },
+                "testimonial": {
+                    "decoration": {
+                        "src": "/images/service/middle-box-top.svg",
+                        "width": 143,
+                        "height": 28,
+                        "alt": ""
+                    },
+                    "quote": "Bridgeway has been a game-changer for our web strategy.",
+                    "sourceLogo": {
+                        "src": "/images/service/service-clutch-icon.svg",
+                        "width": 27,
+                        "height": 30,
+                        "alt": "Clutch"
+                    },
+                    "company": "U.S. Healthcare Company",
+                    "source": "Review from Clutch.co",
+                    "ratingImage": {
+                        "src": "/images/service/rating-star.svg",
+                        "width": 66,
+                        "height": 11,
+                        "alt": "Review rating"
+                    },
+                    "ratings": [
+                        {
+                            "label": "Rated 4.9/5 stars on G2"
+                        },
+                        {
+                            "label": "Rated 4.9/5 stars on Clutch"
+                        }
+                    ],
+                    "averageLabel": "Industry average"
+                }
+            }
+        },
+        {
+            "id": "logos",
+            "type": "serLogo",
+            "enabled": true,
+            "data": {
+                "title": "Trusted by startups and Fortune 500 companies",
+                "highlight": "500",
+                "logos": [
+                    {
+                        "ImgSrc": "/images/service/ser-logo-1.svg",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-2.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-3.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-4.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-5.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-6.webp",
+                        "alt": "Client logo"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sub-service",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Transform Your Business with Scalable PHP Web Development Services",
+                "desc": "Whether you're looking to build custom applications or enhance existing platforms, our PHP web development services provide tailored, scalable solutions that drive business growth. Learn more about how we can turn your vision into reality with our cutting-edge PHP development strategies.",
+                "btnText": "SEND ME A PROPOSAL ➜",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ],
+                "btnHref": "/get-a-free-quote"
+            }
+        },
+        {
+            "id": "cta-one",
+            "type": "ctaOne",
+            "enabled": true,
+            "data": {
+                "left": {
+                    "heading": "Start Building Powerful Web Solutions Today with The Leading PHP Web Development Company!",
+                    "description": "Create and launch robust PHP web solutions tailored to your business needs in no time. What are you waiting for?"
+                },
+                "right": {
+                    "heading": "Get Full Control and Flexibility with Our Custom PHP Web Development Services",
+                    "description": "Clients achieve more when their web applications are custom-built to meet specific goals. That’s why with BridgeWay Digital, you get full control over your web solution’s functionality and performance. Get insights on how your application is performing, how it supports your business objectives, and how we can help you improve it.",
+                    "list": [
+                        "See how custom features enhance user experience and drive engagement.",
+                        "Get more out of your web applications with scalable, secure PHP development.",
+                        "Optimize your web applications for better performance and future growth."
+                    ]
+                },
+                "logo": {
+                    "src": "/images/white-logo.svg",
+                    "width": 200,
+                    "height": 200,
+                    "alt": "BridgeWay Digital"
+                },
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET STARTED ➜"
+                }
+            }
+        },
+        {
+            "id": "pricing",
+            "type": "serPrice",
+            "enabled": true,
+            "data": {
+                "heading": "Transparent PHP Web Development Pricing Tailored to Your Business Needs",
+                "description": "At BridgeWay Digital, we understand that each business has unique requirements, and that's why our PHP web development services are designed to be flexible and customized to meet your specific goals. Connect with our PHP web development company today to get a personalized quote for a solution that drives your business forward.",
+                "leftData": {
+                    "heading": "CUSTOM PHP DEVELOPMENT SERVICES",
+                    "value": "$3,500",
+                    "offerings": [
+                        {
+                            "imgSrc": "/new_assets/images/application-icon-for-project-management.webp",
+                            "title": "Project Complexity",
+                            "desc": "From simple websites to complex enterprise solutions, we assess the scope and functionality required to deliver a PHP web application that meets your needs."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/project-icon-for-digital-project-management.webp",
+                            "title": "Development Timeline",
+                            "desc": "Whether you need your project completed in weeks or over several months, our team will work with you to set realistic timelines that align with your business goals."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/digital-marketing-icon-for-online-services.webp",
+                            "title": "Custom Features & Integrations",
+                            "desc": "Whether you need API integrations, custom plugins, or advanced features, we tailor our services to ensure your application is fully functional and scalable."
+                        }
+                    ]
+                },
+                "rightData": {
+                    "heading": "Included in All PHP Web Development Projects:",
+                    "points": [
+                        {
+                            "point": "High-performance, scalable web solutions"
+                        },
+                        {
+                            "point": "Custom-built features and functionalities"
+                        },
+                        {
+                            "point": "Responsive design optimized for all devices"
+                        },
+                        {
+                            "point": "SEO-friendly development practices"
+                        },
+                        {
+                            "point": "Secure coding standards to protect your data"
+                        },
+                        {
+                            "point": "Ongoing maintenance and support"
+                        },
+                        {
+                            "point": "Seamless third-party integrations"
+                        },
+                        {
+                            "point": "Detailed project documentation"
+                        }
+                    ]
+                },
+                "ui": {
+                    "icon": {
+                        "src": "/images/service/ser-price-img-1.svg",
+                        "alt": "Custom development"
+                    },
+                    "startingAt": "Starting at",
+                    "priceSuffix": "/ project",
+                    "includedTitle": "What’s Included:",
+                    "button": {
+                        "href": "/get-a-free-quote",
+                        "text": "GET MY CUSTOM QUOTE ➜"
+                    },
+                    "background": {
+                        "src": "/images/service/SerPrice-bg.webp",
+                        "alt": ""
+                    }
+                }
+            }
+        },
+        {
+            "id": "expert-team",
+            "type": "expertTeam",
+            "enabled": true,
+            "data": {
+                "labels": {
+                    "organization": "ORGANIZATION:",
+                    "challenge": "CHALLENGE",
+                    "initiatives": "RECENT INITIATIVES",
+                    "result": "RESULT"
+                },
+                "imgAlt": "Expert Team",
+                "MainTitle": "Trust the Team That’s Delivered Over 500+ Web Projects",
+                "desc": "BridgeWay Digital isn't just another PHP web development agency. Your project manager will collaborate with you to understand your business needs, preferences, and goals so that our PHP web development services can deliver a solution that truly works for you.",
+                "imgSrc": "/images/home/expert-team-img.webp",
+                "style": {
+                    "height": "600px"
+                },
+                "sliderData": [
+                    {
+                        "title": "Educational Client",
+                        "organization": "",
+                        "challenge": "Increase student interaction on an online learning platform.",
+                        "initiativeTextOne": "Development of interactive Angular JS quizzes and modules.",
+                        "initiativeTextTwo": "Enhancement of real-time chat and discussion features.",
+                        "initiativeTextThree": "Streamlining course navigation with Angular JS routing.",
+                        "percentage": "65%",
+                        "increase": "INCREASE IN STUDENT PARTICIPATION"
+                    },
+                    {
+                        "title": "SEO",
+                        "organization": "Greenleaf Landscaping",
+                        "challenge": "Increase organic search visibility and drive more qualified leads to the website.",
+                        "initiativeTextOne": "Conducted an in-depth SEO audit and implemented on-page and off-page optimization strategies.",
+                        "initiativeTextTwo": "Enhanced keyword targeting and content quality to improve search engine rankings.",
+                        "initiativeTextThree": "Developed a comprehensive backlink strategy to build domain authority.",
+                        "percentage": "90%",
+                        "increase": "Increase in organic traffic"
+                    },
+                    {
+                        "title": "Digital Marketing",
+                        "organization": "UrbanTrend Clothing",
+                        "challenge": "Boost brand awareness and drive online sales through targeted digital marketing campaigns.",
+                        "initiativeTextOne": "Created and executed multi-channel marketing campaigns across social media, email, and PPC platforms.",
+                        "initiativeTextTwo": "Developed engaging content and eye-catching ad creatives to capture audience attention.",
+                        "initiativeTextThree": "Utilized data analytics to fine-tune campaigns and maximize ROI.",
+                        "percentage": "60%",
+                        "increase": "Increase in brand engagement"
+                    },
+                    {
+                        "title": "Video Animation",
+                        "organization": "BrightMinds Learning",
+                        "challenge": "Create engaging educational content to enhance student learning and retention.",
+                        "initiativeTextOne": "Produced a series of animated educational videos with high-quality visuals and clear explanations.",
+                        "initiativeTextTwo": "Incorporated interactive elements to make learning more engaging.",
+                        "initiativeTextThree": "Ensured all videos were optimized for various devices and platforms.",
+                        "percentage": "70%",
+                        "increase": "Improved engagement"
+                    },
+                    {
+                        "title": "Amazon Marketing",
+                        "organization": "TechGiant Electronics",
+                        "challenge": "Increase product visibility and sales on the Amazon marketplace.",
+                        "initiativeTextOne": "Optimized product listings with targeted keywords and high-quality images.",
+                        "initiativeTextTwo": "Implemented advanced PPC strategies to boost product ranking and visibility.",
+                        "initiativeTextThree": "Monitored and adjusted campaigns based on performance data to maximize results.",
+                        "percentage": "45%",
+                        "increase": "Increase in sales"
+                    },
+                    {
+                        "title": "Performance Marketing",
+                        "organization": "FitPro Supplements",
+                        "challenge": "Enhance the effectiveness of marketing campaigns to achieve higher conversion rates.",
+                        "initiativeTextOne": "Developed and executed performance-driven marketing strategies with a focus on conversion optimization.",
+                        "initiativeTextTwo": "Utilized A/B testing and data analysis to refine ad creatives and targeting.",
+                        "initiativeTextThree": "Implemented advanced tracking and reporting tools to measure campaign success.",
+                        "percentage": "50%",
+                        "increase": "Increase in conversions"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "feature-comparison",
+            "type": "featureComparison",
+            "enabled": true,
+            "data": {
+                "heading": "Expert Technical SEO Services for Solid Digital Growth",
+                "comparisonTableData": {
+                    "headings": {
+                        "left": "WITH BRIDGEWAY DIGITAL",
+                        "right": "WITHOUT BRIDGEWAY DIGITAL"
+                    },
+                    "rows": [
+                        {
+                            "left": "Hreflang implementation to target multiple languages and regions",
+                            "right": "Incorrect hreflang tags leading to content mismatch in different regions"
+                        },
+                        {
+                            "left": "International link building for authoritative global backlinks",
+                            "right": "Lack of quality backlinks impacting global search engine rankings"
+                        },
+                        {
+                            "left": "Geo-targeting strategies to optimize content for specific countries",
+                            "right": "Poor geo-targeting resulting in irrelevant content for users"
+                        },
+                        {
+                            "left": "Optimized global website structure for seamless user experience",
+                            "right": "Disorganized site structure confusing users across different regions"
+                        },
+                        {
+                            "left": "Regular updates to adapt to changing international SEO trends",
+                            "right": "Falling behind competitors due to outdated international SEO strategies"
+                        }
+                    ]
+                },
+                "rightData": {
+                    "comment": "Our website was struggling with slow load times and poor search rankings until BridgeWay Digital stepped in. They optimized our site's technical structure, implemented HTTPS, and improved our mobile responsiveness. The results were immediate and impressive.",
+                    "customerName": "Alex P, Sr Executive",
+                    "achivements": [
+                        {
+                            "value": "80%",
+                            "detail": "of clients saw increased international traffic with our SEO, outpacing competitors' 25% growth."
+                        },
+                        {
+                            "value": "85%",
+                            "detail": "Clients reported better global engagement from localized content and geo-targeted strategies."
+                        }
+                    ]
+                },
+                "icon": {
+                    "src": "/images/service/Sub_Service-1.svg",
+                    "alt": "Code"
+                }
+            }
+        },
+        {
+            "id": "sub-service-2",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Your Search for Expert PHP Web Development Services Ends Here",
+                "desc": "Learn why businesses across industries choose BridgeWay Digital for their PHP web development needs. From custom solutions to scalable applications, we offer everything you need to drive growth and enhance your online presence.",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-business",
+            "type": "serWhyBusiness",
+            "enabled": true,
+            "data": {
+                "tabs": [
+                    {
+                        "id": "TechWave",
+                        "label": "TechWave Solutions"
+                    },
+                    {
+                        "id": "GreenLine",
+                        "label": "GreenLine Innovations"
+                    },
+                    {
+                        "id": "Pioneer",
+                        "label": "Pioneer Tech Labs"
+                    },
+                    {
+                        "id": "Quantum",
+                        "label": "Quantum IT Solutions"
+                    }
+                ],
+                "tabContent": {
+                    "TechWave": {
+                        "title": "When TechWave Solutions needed to enhance their platform, they turned to BridgeWay Digital. Discover how our collaboration doubled their user engagement.",
+                        "para": "Our Angular JS implementation with BridgeWay Digital significantly enhanced our platform's performance. The user engagement has doubled within six months, thanks to their expertise.",
+                        "asideValue": "2X",
+                        "asideText": "Increase in User Engagement"
+                    },
+                    "GreenLine": {
+                        "bg": "/images/home/success-graph-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 30% within 6 months.",
+                        "asideValue": "+30%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Pioneer": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Quantum": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    }
+                },
+                "heading": {
+                    "beforeIcon": "Here’s why Businesses",
+                    "icon": {
+                        "src": "/images/home/headt-img.webp",
+                        "width": 50,
+                        "height": 50,
+                        "alt": ""
+                    },
+                    "afterIcon": "BridgeWay Digital",
+                    "ratingImage": {
+                        "src": "/images/home/why-businesses-star.webp",
+                        "width": 180,
+                        "height": 24,
+                        "alt": "Five-star rating"
+                    }
+                }
+            }
+        },
+        {
+            "id": "goals",
+            "type": "goals",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Yes. We cover your Angular JS development needs.",
+                "desc": "Our expert team of Angular JS developers have every possible contingency covered for you!",
+                "cards": [
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization",
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization"
+                ],
+                "bottomCards": [
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization",
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization"
+                ],
+                "heading": "Yes, We Cover All Your PHP Needs.",
+                "description": "Our team of expert developers specializes in PHP development, delivering custom solutions for every business need.",
+                "goalsList": [
+                    {
+                        "text": "Custom Development"
+                    },
+                    {
+                        "text": "Scalability"
+                    },
+                    {
+                        "text": "Security"
+                    },
+                    {
+                        "text": "Performance Optimization"
+                    },
+                    {
+                        "text": "API Integration"
+                    },
+                    {
+                        "text": "Responsive Design"
+                    },
+                    {
+                        "text": "Database Management"
+                    },
+                    {
+                        "text": "Testing"
+                    },
+                    {
+                        "text": "Code Quality"
+                    },
+                    {
+                        "text": "Version Control"
+                    },
+                    {
+                        "text": "Cross-Platform Support"
+                    },
+                    {
+                        "text": "Debugging"
+                    },
+                    {
+                        "text": "CMS Development"
+                    },
+                    {
+                        "text": "Maintenance"
+                    },
+                    {
+                        "text": "Third-Party Integrations"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-trust",
+            "type": "whyTrust",
+            "enabled": true,
+            "data": {
+                "tag": "Why Companies Trust",
+                "heading": "Why Companies Trust Bridgeway Digital As Their PHP Web Development Agency",
+                "description": "BridgeWay Digital leads in delivering top-notch PHP web development services, focusing on scalable, secure, and performance-driven solutions. We go the extra mile to understand your unique business needs, ensuring that our custom solutions drive your success.",
+                "cardContent": [
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon.svg",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-2.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-3.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-4.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-5.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-6.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    }
+                ],
+                "cards": [
+                    {
+                        "icon": "/new_assets/images/vector-performance-illustration-for-data-analysis.webp",
+                        "title": "Data-Driven Development",
+                        "description": "Data is at the heart of our PHP web development company. Our team of expert developers uses data analytics to create solutions that are not only innovative but also tailored to meet your specific business goals, ensuring maximum ROI."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-scalable-illustration-for-business-growth.webp",
+                        "title": "Scalable Solutions",
+                        "description": "As a leading PHP web development agency, our engineers are proficient in developing scalable solutions that grow with your business. We implement best practices in PHP development, ensuring your web applications can handle increasing demands effortlessly."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-data-illustration-for-analytics.webp",
+                        "title": "Custom PHP Applications",
+                        "description": "Our PHP web development services are designed to create custom applications that align perfectly with your business processes. We focus on delivering solutions that enhance your efficiency, streamline operations, and boost your competitive edge."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-user-illustration-for-user-experience.webp",
+                        "title": "Outsource PHP Web Development",
+                        "description": "When you outsource PHP web development to BridgeWay Digital, you gain access to a team of experienced developers dedicated to delivering quality, efficiency, and cost-effectiveness. We handle everything from initial concept to final deployment."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-secure-illustration-for-cybersecurity.webp",
+                        "title": "Performance-Optimized Development",
+                        "description": "Our PHP web development company prioritizes performance in every project. We optimize your web applications for speed and reliability, ensuring that your users enjoy a seamless experience, which ultimately drives higher engagement and conversions."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-shield-illustration-for-security.webp",
+                        "title": "Robust Security Features",
+                        "description": "At BridgeWay Digital, security is a top priority in all our PHP web development services. We implement advanced security protocols and conduct regular audits to protect your web applications from vulnerabilities, ensuring your data remains safe and secure."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "real-world-ticker",
+            "type": "realWorldTicker",
+            "enabled": true,
+            "data": {
+                "title": "Real World Success With Angular JS Development",
+                "items": [
+                    {
+                        "count": "500+",
+                        "title": "Websites Developed",
+                        "description": "Enhancing businesses with Angular JS expertise."
+                    },
+                    {
+                        "count": "98%",
+                        "title": "Client Satisfaction",
+                        "description": "Delivering reliable and scalable Angular solutions."
+                    },
+                    {
+                        "count": "15+",
+                        "title": "Years Experience",
+                        "description": "Building enterprise-grade web applications."
+                    }
+                ],
+                "heading": "Trusted PHP Web Development by Businesses Worldwide",
+                "tickerData": [
+                    {
+                        "value": "300+",
+                        "title": "Businesses Partnered",
+                        "description": "for custom PHP web development services."
+                    },
+                    {
+                        "value": "5",
+                        "title": "Industry Recognitions",
+                        "description": "for delivering quality PHP solutions."
+                    },
+                    {
+                        "value": "10%",
+                        "title": "Growth in Client Base",
+                        "description": "through satisfied referrals and repeat business."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Website Development Services Deliverables",
+                "description": "An in-depth overview of the deliverables for each web development service offered by BridgeWay Digital.",
+                "tableData": {
+                    "columns": [
+                        "Basic Package",
+                        "Advanced Package",
+                        "Premium Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Products",
+                            "values": [
+                                "text:Up to 5",
+                                "text:Up to 10",
+                                "text:Up to 15"
+                            ]
+                        },
+                        {
+                            "title": "Keyword Research",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Copywriting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Bid Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Negative Keyword Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Extensions",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "A/B Testing",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Monitoring",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Budget Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Search Term Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Competitor Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Conversion Tracking",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Geotargeting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance Reporting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Continuous Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Progressive Monthly Management Fee",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        }
+                    ],
+                    "title": "Features"
+                },
+                "staticRowData": {
+                    "title": "Connect With An Website Development Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "ser-cta",
+            "type": "serCta",
+            "enabled": true,
+            "data": {
+                "title": "Bridgeway Digital has earned hundreds of reviews praising our efficiency, expertise, and client-focused approach.",
+                "button": {
+                    "href": "#",
+                    "text": "Client Testimonials ➜"
+                },
+                "image": {
+                    "src": "/images/service/ser-cta-img.webp",
+                    "width": 258,
+                    "height": 255,
+                    "alt": "Client Testimonials"
+                },
+                "rating": {
+                    "label": "BRIDGEWAY DIGITAL AGENCY RATING",
+                    "stars": {
+                        "src": "/images/service/ser-star.svg",
+                        "width": 114,
+                        "height": 18,
+                        "alt": "star"
+                    },
+                    "value": "4.9/5",
+                    "detail": "BASED ON OVER 500 THIRD-PARTY REVIEWS"
+                }
+            }
+        },
+        {
+            "id": "ser-faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is PHP web development?",
+                        "answer": "PHP web development refers to the process of creating dynamic websites and web applications using PHP, a popular server-side scripting language. It enables developers to build scalable and interactive solutions tailored to client needs."
+                    },
+                    {
+                        "question": "Why should I choose your PHP web development company?",
+                        "answer": "Our PHP web development company specializes in delivering high-quality, customized solutions. With a team of experienced developers, we ensure your project meets industry standards and achieves your business goals."
+                    },
+                    {
+                        "question": "What services are included in your PHP web development services?",
+                        "answer": "Our PHP web development services encompass a wide range of offerings, including custom PHP development, website design, application development, maintenance, and support to ensure optimal performance and security."
+                    },
+                    {
+                        "question": "How can outsourcing PHP web development benefit my business?",
+                        "answer": "Outsourcing PHP web development allows you to leverage expertise from a dedicated team without the overhead costs of hiring in-house developers. It provides access to specialized skills, faster turnaround times, and cost-effective solutions."
+                    },
+                    {
+                        "question": "What makes your PHP web development agency different from others?",
+                        "answer": "Our PHP web development agency stands out due to our commitment to quality, transparent communication, and personalized approach. We focus on understanding your specific requirements and delivering solutions that exceed expectations."
+                    },
+                    {
+                        "question": "Can you help with both small and large PHP web development projects?",
+                        "answer": "Yes, our PHP web development services are flexible and scalable to accommodate projects of all sizes. Whether it’s a small website or a large-scale application, we tailor our approach to meet your needs."
+                    },
+                    {
+                        "question": "How do you ensure the quality of your PHP web development work?",
+                        "answer": "We follow a rigorous development process, including thorough testing and quality assurance practices. Our team employs the latest technologies and industry best practices to ensure your PHP web development project is flawless."
+                    },
+                    {
+                        "question": "What should I consider when choosing a PHP web development company?",
+                        "answer": "When selecting a PHP web development company, consider factors such as their experience, portfolio, client reviews, and ability to understand your specific requirements. Our agency excels in all these areas."
+                    },
+                    {
+                        "question": "How do I start an outsourcing project for PHP web development?",
+                        "answer": "To begin outsourcing PHP web development, contact us to discuss your project requirements. We’ll provide a detailed proposal, outline the project scope, and establish timelines to ensure a smooth collaboration."
+                    },
+                    {
+                        "question": "What are the typical costs associated with PHP web development services?",
+                        "answer": "The cost of PHP web development services varies based on the complexity of the project, features required, and the timeline. We offer competitive pricing and can provide a customized quote based on your specific needs."
+                    },
+                    {
+                        "question": "How do you handle project management for outsourced PHP development?",
+                        "answer": "Our project management approach includes regular updates, milestone tracking, and clear communication to ensure your outsource PHP web development project stays on track and meets deadlines."
+                    },
+                    {
+                        "question": "Can you integrate third-party APIs into my PHP website?",
+                        "answer": "Yes, our PHP developers are skilled in integrating various third-party APIs into your website to enhance functionality and provide a seamless user experience."
+                    },
+                    {
+                        "question": "What are the benefits of working with your PHP web development agency?",
+                        "answer": "Our PHP web development agency offers expertise in the latest technologies, a customer-centric approach, and a proven track record of successful projects. We focus on delivering high-quality solutions tailored to your business goals."
+                    },
+                    {
+                        "question": "How do you ensure the security of PHP web development projects?",
+                        "answer": "We implement best practices in security, including regular updates, code reviews, and vulnerability assessments, to protect your website from potential threats and ensure data integrity."
+                    },
+                    {
+                        "question": "Do you provide ongoing support and maintenance for PHP web development projects?",
+                        "answer": "Yes, we offer comprehensive support and maintenance services as part of our PHP web development services. This includes troubleshooting, updates, and enhancements to ensure your website continues to perform optimally."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-cta-two",
+            "type": "serCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Transform Your Online Presence with Our PHP Web Development Services!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/contact-us"
+                },
+                "description": "BridgeWay Digital offers tailored Angular JS web development services that deliver high performance and superior user experiences.",
+                "highlightText": "Start your project with us today!",
+                "image": {
+                    "src": "/images/service/SerCtaTwo-img.webp",
+                    "alt": "Angular JS Development",
+                    "width": 600,
+                    "height": 280
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "How Much Does Angular JS Website Development Cost?",
+                "desc": "The cost of Angular JS website development can vary significantly depending on the scope and complexity of the project. Prices typically start at around $3,500 for basic applications and can go up to $60,000 for more advanced, feature-rich solutions. Each project is tailored to meet specific needs and budget requirements.",
+                "tabs": [
+                    {
+                        "label": "01   Project Complexity"
+                    },
+                    {
+                        "label": "02   Custom Features"
+                    },
+                    {
+                        "label": "03   Third-Party Integrations"
+                    },
+                    {
+                        "label": "04   Design Requirements"
+                    },
+                    {
+                        "label": "05   Cross-Platform Support"
+                    },
+                    {
+                        "label": "06   Team Expertise"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Project Complexity",
+                        "para": "The overall complexity of your Angular JS project..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Custom Features",
+                        "para": "Features like user login, admin panel, etc., increase cost..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Third-Party Integrations",
+                        "para": "APIs, payment gateways, and CRMs add to the budget..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Design Requirements",
+                        "para": "Unique UI/UX needs impact both cost and timeline..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Cross-Platform Support",
+                        "para": "Supporting mobile, tablet, and desktop adds effort..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Team Expertise",
+                        "para": "Experienced teams may cost more but deliver better quality..."
+                    }
+                ],
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                },
+                "points": [
+                    {
+                        "number": "01",
+                        "title": "Project Scope and Complexity",
+                        "description": "The cost of PHP web development varies based on the complexity of the project. A simple website with basic functionalities will cost significantly less than a complex web application with custom features and integrations."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Determining Feature Requirements",
+                        "description": "Custom features such as e-commerce integration, advanced security measures, and API development add to the overall cost. It's essential to outline your must-have features to get an accurate estimate."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Ongoing Maintenance and Support",
+                        "description": "Web development is not a one-time expense. Ongoing maintenance, updates, and support are crucial to keeping your application running smoothly, which should be factored into your long-term budget."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Enhance Your Online Presence with Expert PHP Web Development"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Elevate your business's digital performance with our expert PHP web development services, designed to create robust, scalable, and secure web applications. By leveraging the latest PHP frameworks and technologies, we build custom solutions that meet your unique business needs. Our team follows a meticulous development process, focusing on clean, efficient code, ensuring that your website or application runs smoothly and delivers an exceptional user experience. With continuous support and updates, we ensure your web solutions remain competitive, driving increased engagement, conversions, and revenue."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Choose BridgeWay Digital as Your PHP Web Development Partner"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "At BridgeWay Digital, we don’t just develop; we craft digital solutions that transform your business. Our approach goes beyond traditional web development by integrating cutting-edge PHP technologies and best practices to deliver high-performance applications. Our commitment to excellence ensures that your website not only meets but exceeds industry standards, resulting in significant improvements in user satisfaction and business outcomes. Whether you need a simple website or a complex web application, our dedicated team ensures a strong ROI with every project."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWayDigital advantage today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon Marketing Services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Amazon Marketing Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can Your Amazon Store Perform Better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon Marketing Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Comparison",
+                            "href": "#benifits"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Packages & Deliverables",
+                            "href": "#ser-table"
+                        },
+                        {
+                            "text": "Amazon Marketing FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ser-cta-three",
+            "type": "serCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Start Building Powerful Web Applications Today with BridgeWay Digital!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/get-a-free-quote-now"
+                },
+                "image": {
+                    "src": "/images/service/cta-three-img.webp",
+                    "width": 409,
+                    "height": 350,
+                    "alt": "Dynamic Web"
+                },
+                "stats": {
+                    "value": "105%",
+                    "label": "LEAD INCREASE"
+                }
+            }
+        },
+        {
+            "id": "ser-contact-form",
+            "type": "serContactForm",
+            "enabled": true,
+            "data": {
+                "uploadLabel": "Upload Reference/Sample (can send later as well)",
+                "uploadAccessibleLabel": "Upload reference or sample file",
+                "heading": "Get PHP Web Solutions in the shortest possible time across the globe!",
+                "eyebrow": "Engage with us on your terms.",
+                "steps": [
+                    "Fill in our quick form",
+                    "Our consultant will contact you to discuss your needs",
+                    "Receive your website delivered securely before the deadline"
+                ],
+                "formTitle": "Book a Consultation",
+                "formNotice": "No Payment or Credit Card Required. Initially",
+                "formDescription": "Complete the form below and we'll contact you with further instructions and details about your project.",
+                "fields": {
+                    "name": {
+                        "label": "Name",
+                        "placeholder": "Name:"
+                    },
+                    "email": {
+                        "label": "Email",
+                        "placeholder": "Email:"
+                    },
+                    "phone": {
+                        "label": "Phone Number",
+                        "placeholder": "Phone Number:"
+                    },
+                    "projectDetails": {
+                        "label": "Define Your Project",
+                        "placeholder": "Define Your Project (Optional)"
+                    }
+                },
+                "submitText": "Submit"
+            }
+        }
+    ]
+}

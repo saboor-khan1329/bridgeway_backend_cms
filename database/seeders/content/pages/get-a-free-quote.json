@@ -1,0 +1,234 @@
+{
+  "attributes": {
+    "slug": "get-a-free-quote",
+    "title": "Bridgeway Digital",
+    "template": "contact",
+    "is_cms_managed": true,
+    "status": true,
+    "sort_order": 0
+  },
+  "seo": {
+    "meta_title": "Bridgeway Digital",
+    "meta_description": "Bridgeway Digital",
+    "seo_content": null,
+    "schema": null,
+    "microdata": null,
+    "enable_schema": true,
+    "enable_microdata": false,
+    "robots_index": "index",
+    "robots_follow": "follow",
+    "og_tags": null,
+    "canonical_url": "/get-a-free-quote",
+    "keywords": null,
+    "og_title": "Bridgeway Digital",
+    "og_description": "Bridgeway Digital",
+    "og_type": "website",
+    "og_url": "/get-a-free-quote",
+    "og_image": null,
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Bridgeway Digital",
+    "twitter_description": "Bridgeway Digital",
+    "twitter_image": null
+  },
+  "images": [],
+  "sections": [
+    {
+      "id": "contact-hero",
+      "type": "contactHero",
+      "enabled": true,
+      "data": {
+        "title": "Ready For <span class=\"orange-c\">3x Industry Returns?</span>",
+        "details": [
+          {
+            "heading": "In-depth Audit",
+            "description": "We dive deep with advanced analytics to tailor a robust growth strategy that scales with your brand needs."
+          },
+          {
+            "heading": "Tailored Growth Plan",
+            "description": "Using precise data, we create a personalized growth blueprint, tailoring strategies to your brand&apos;s specific needs to maximize returns."
+          },
+          {
+            "heading": "Deliverables & Timeline",
+            "description": "Next, you get detailed pricing breakdown, timelines, and milestones, prepping your brand for a trajectory of 3x industry growth."
+          }
+        ],
+        "formTitle": "Your Free Quote Awaits",
+        "defaultValues": {
+          "fullName": "",
+          "email": "",
+          "phone": "",
+          "country": "",
+          "websiteUrl": "",
+          "service": "Digital Marketing",
+          "brandName": "",
+          "currency": "$",
+          "budget": "None",
+          "message": "",
+          "subscriptions": []
+        },
+        "fields": {
+          "fullName": {
+            "label": "Full Name",
+            "placeholder": "Full Name"
+          },
+          "email": {
+            "label": "Email Address",
+            "placeholder": "Your Email"
+          },
+          "phone": {
+            "label": "Phone Number",
+            "placeholder": "(201) 555-0123"
+          },
+          "country": {
+            "label": "Country"
+          },
+          "websiteUrl": {
+            "label": "Website URL/Amazon Store URL",
+            "placeholder": "Website URL/Amazon Store URL"
+          },
+          "service": {
+            "label": "Service",
+            "options": [
+              {
+                "value": "Digital Marketing",
+                "label": "Digital Marketing"
+              },
+              {
+                "value": "Web Design",
+                "label": "Web Design"
+              },
+              {
+                "value": "SEO Optimization",
+                "label": "SEO Optimization"
+              },
+              {
+                "value": "Brand Strategy",
+                "label": "Brand Strategy"
+              },
+              {
+                "value": "App Development",
+                "label": "App Development"
+              }
+            ]
+          },
+          "brandName": {
+            "label": "Brand Name",
+            "placeholder": "Your Brand"
+          },
+          "currency": {
+            "label": "Currency",
+            "options": [
+              {
+                "value": "$",
+                "label": "$"
+              },
+              {
+                "value": "Â£",
+                "label": "£"
+              },
+              {
+                "value": "CA$",
+                "label": "CA$"
+              },
+              {
+                "value": "AED",
+                "label": "AED"
+              }
+            ]
+          },
+          "budget": {
+            "label": "Estimated Budget",
+            "rangeLabel": "Estimated Budget Range",
+            "options": [
+              {
+                "value": "None",
+                "label": "None"
+              },
+              {
+                "value": "500 - 1000",
+                "label": "500 - 1000"
+              },
+              {
+                "value": "1000 - 5000",
+                "label": "1000 - 5000"
+              },
+              {
+                "value": "5000 - 10000",
+                "label": "5000 - 10000"
+              },
+              {
+                "value": "10000 above",
+                "label": "10000 above"
+              }
+            ]
+          },
+          "message": {
+            "label": "What are your expectations from us?",
+            "placeholder": "Let&apos;s break the ice. Write in as much detail as you want."
+          }
+        },
+        "subscriptionsNote": "Please select the email communications you wish to subscribe to:",
+        "subscriptions": [
+          {
+            "id": "subscription-1",
+            "value": "Digital Marketing Insights",
+            "label": "Digital Marketing Insights"
+          },
+          {
+            "id": "subscription-2",
+            "value": "Amazon FBA Strategies",
+            "label": "Amazon FBA Strategies"
+          },
+          {
+            "id": "subscription-3",
+            "value": "Customer Success (product tips & news)",
+            "label": "Customer Success (product tips & news)"
+          },
+          {
+            "id": "subscription-4",
+            "value": "E-commerce Solutions",
+            "label": "E-commerce Solutions"
+          },
+          {
+            "id": "subscription-5",
+            "value": "Partner Communications",
+            "label": "Partner Communications"
+          }
+        ],
+        "privacyNote": "By clicking Submit, I agree to the use of my personal information in accordance with BridgeWay Digital&apos;s privacy policy...",
+        "submitText": "Submit"
+      }
+    },
+    {
+      "id": "made-the-choice",
+      "type": "madeTheChoice",
+      "enabled": true,
+      "data": {
+        "MainTitle": "Leading Amazon Stores That Made The Choice You’re Still Thinking About!",
+        "headingclass": "sub-heading",
+        "MadeTheChoiceData": [
+          {
+            "icon": "/images/contact/made-the-choice-logo-1.webp",
+            "textone": ">1.3M",
+            "texttwo": "Views"
+          },
+          {
+            "icon": "/images/contact/made-the-choice-logo-2.webp",
+            "textone": "3X",
+            "texttwo": "Faster Time to Launch"
+          },
+          {
+            "icon": "/images/contact/made-the-choice-logo-3.webp",
+            "textone": "27%",
+            "texttwo": "Traffic Increases"
+          },
+          {
+            "icon": "/images/contact/made-the-choice-logo-4.webp",
+            "textone": "4X",
+            "texttwo": "Faster Speed to Market"
+          }
+        ]
+      }
+    }
+  ]
+}

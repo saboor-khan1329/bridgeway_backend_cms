@@ -1,0 +1,51 @@
+{
+  "attributes": {
+    "slug": "blogs",
+    "title": "Bridgeway Digital Blogs",
+    "template": "blogs",
+    "is_cms_managed": true,
+    "status": true,
+    "sort_order": 0
+  },
+  "seo": {
+    "meta_title": "Bridgeway Digital Blogs",
+    "meta_description": "Learn about the latest trends, best practices, and research",
+    "seo_content": null,
+    "schema": null,
+    "microdata": null,
+    "enable_schema": true,
+    "enable_microdata": false,
+    "robots_index": "index",
+    "robots_follow": "follow",
+    "og_tags": null,
+    "canonical_url": "/blogs",
+    "keywords": null,
+    "og_title": "Bridgeway Digital Blogs",
+    "og_description": "Learn about the latest trends, best practices, and research",
+    "og_type": "website",
+    "og_url": "/blogs",
+    "og_image": null,
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Bridgeway Digital Blogs",
+    "twitter_description": "Learn about the latest trends, best practices, and research",
+    "twitter_image": null
+  },
+  "images": [],
+  "sections": [
+    {
+      "id": "blogs-hero",
+      "type": "blogsHero",
+      "enabled": true,
+      "data": {
+        "title": "Our Blogs",
+        "description": "Learn about the latest trends, best practices, and research",
+        "bgImg": {
+          "src": "/images/blogs/blog-hero-bg.webp",
+          "alt": "blogs-hero-bg"
+        },
+        "popularTitle": "Most Popular",
+        "recentTitle": "Recently Added"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1108 @@
+{
+    "attributes": {
+        "slug": "amazon-ppc-management-services",
+        "title": "Amazon PPC Management | Amazon PPC Agency | BridgeWayDigital",
+        "template": "amazon-service",
+        "is_cms_managed": true,
+        "status": true,
+        "sort_order": 0
+    },
+    "seo": {
+        "meta_title": "Amazon PPC Management | Amazon PPC Agency | BridgeWayDigital",
+        "meta_description": "Get up to 3x ROI with the best Amazon PPC management services. Bridgeway Digital is the top Amazon PPC agency for small to medium-sized businesses!",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/amazon-ppc-management-services",
+        "keywords": "Amazon ppc managment services",
+        "og_title": "Amazon PPC Management | Amazon PPC Agency | BridgeWayDigital",
+        "og_description": "Get up to 3x ROI with the best Amazon PPC management services. Bridgeway Digital is the top Amazon PPC agency for small to medium-sized businesses!",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/amazon-ppc-management-services",
+        "og_image": "/images/service/service_background.webp",
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Amazon PPC Management | Amazon PPC Agency | BridgeWayDigital",
+        "twitter_description": "Get up to 3x ROI with the best Amazon PPC management services. Bridgeway Digital is the top Amazon PPC agency for small to medium-sized businesses!",
+        "twitter_image": "/images/service/service_background.webp"
+    },
+    "images": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "sertHero",
+            "enabled": true,
+            "data": {
+                "title": "Amazon PPC Management Services",
+                "del": "Wasteful Spend, False Guarantees, Hidden Fees",
+                "detail": "Optimized Spend, Optimum Returns, Enhanced ROI",
+                "furtherDetail": "Maximize the efficiency of your Amazon advertising with our leading Amazon PPC management services. <span>Line up with an Amazon PPC specialist</span> or get a <span>free PPC audit of your Amazon store</span> to learn how we drive 3x returns for brands just like yours!",
+                "logos": [
+                    {
+                        "src": "/images/service/hero-logo-1.webp",
+                        "alt": "Amazon advertising partner logo",
+                        "width": 150,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-2.webp",
+                        "alt": "Amazon advertising partner logo",
+                        "width": 215,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-3.webp",
+                        "alt": "Amazon advertising partner logo",
+                        "width": 100,
+                        "height": 80
+                    }
+                ],
+                "formContent": {
+                    "title": "Get a Free Amazon PPC Audit!",
+                    "fields": {
+                        "fullName": {
+                            "label": "Full Name",
+                            "placeholder": "Full Name"
+                        },
+                        "email": {
+                            "label": "Email Address",
+                            "placeholder": "Your Email"
+                        },
+                        "phone": {
+                            "label": "Phone Number",
+                            "placeholder": "(201) 555-0123"
+                        },
+                        "products": {
+                            "label": "Number of Products Listed",
+                            "placeholder": "Please Select",
+                            "options": [
+                                {
+                                    "value": "1-10",
+                                    "label": "1-10"
+                                },
+                                {
+                                    "value": "11-50",
+                                    "label": "11-50"
+                                },
+                                {
+                                    "value": "51-100",
+                                    "label": "51-100"
+                                },
+                                {
+                                    "value": "100+",
+                                    "label": "100+"
+                                }
+                            ]
+                        },
+                        "country": {
+                            "label": "Country"
+                        },
+                        "storeUrl": {
+                            "label": "Website URL/Amazon Store URL",
+                            "placeholder": "Website URL/Amazon Store URL"
+                        },
+                        "budget": {
+                            "label": "Estimated Budget",
+                            "placeholder": "Select Price",
+                            "options": [
+                                {
+                                    "value": "$0 - $500",
+                                    "label": "$0 - $500"
+                                },
+                                {
+                                    "value": "$500 - $1000",
+                                    "label": "$500 - $1000"
+                                },
+                                {
+                                    "value": "$1000 - $5000",
+                                    "label": "$1000 - $5000"
+                                },
+                                {
+                                    "value": "$5000+",
+                                    "label": "$5000+"
+                                }
+                            ]
+                        },
+                        "expectations": {
+                            "label": "What are your expectations from us?",
+                            "placeholder": "Let’s break the ice. Write in as much detail as you want."
+                        }
+                    },
+                    "complimentaryTitle": "Complimentary Audit Includes:",
+                    "complimentaryItems": [
+                        "Keyword Research",
+                        "Growth Potential",
+                        "Expert Recommendations"
+                    ],
+                    "ratings": [
+                        {
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp",
+                            "label": "Rated 5/5 stars"
+                        },
+                        {
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp",
+                            "label": "Rated 5/5 stars"
+                        }
+                    ],
+                    "submitText": "SUBMIT"
+                }
+            }
+        },
+        {
+            "id": "sert-slider",
+            "type": "sertSlider",
+            "enabled": true,
+            "data": {
+                "sliderSettings": {
+                    "delay": 2000
+                },
+                "slides": [
+                    {
+                        "alignCenter": false,
+                        "items": [
+                            {
+                                "type": "text",
+                                "value": "$5M+",
+                                "label": "Revenue Driven"
+                            },
+                            {
+                                "type": "text",
+                                "value": "75+",
+                                "label": "Brands Managed"
+                            },
+                            {
+                                "type": "text",
+                                "value": "3.5M",
+                                "label": "Sessions Generated"
+                            },
+                            {
+                                "type": "text",
+                                "value": "10+",
+                                "label": "Impressions Created"
+                            },
+                            {
+                                "type": "text",
+                                "value": "1M+",
+                                "label": "Product Sold"
+                            }
+                        ]
+                    },
+                    {
+                        "alignCenter": true,
+                        "items": [
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-1.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-2.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-3.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-4.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-5.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "Full-Spectrum Amazon PPC Services To Maximize Clicks & Conversions",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Sponsored Products",
+                        "icon": "/website/images/image-showcasing-vibrant-layout-design-with-animation-effects.webp",
+                        "contentTitle": "Optimized Visibility and ROI",
+                        "contentDesc": "Optimize your visibility and ROI with our precision-targeted Sponsored Products ads. By refining your ACoS (Advertising Cost of Sale) and enhancing keyword strategies, we boost your TACoS (Total Advertising Cost of Sales), driving measurable increases in both click-through and conversion rates.",
+                        "image": "/images/amazon-ppc-management-services/sponsored-products-for-digital-marketing-campaigns.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Amazon Sponsored Brands Management",
+                        "icon": "/website/images/image-demonstrating-user-focused-web-design-with-clean-animation-effects.webp",
+                        "contentTitle": "Elevated Brand Awareness",
+                        "contentDesc": "Enhance your brand’s impact with our Sponsored Brands management. Tailoring strategies to improve ROAS (Return on Ad Spend), we craft compelling ads that drive traffic directly to your brand store or selected product collections, cultivating stronger customer connections.",
+                        "image": "/images/amazon-ppc-management-services/Sponsored Brands Management.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Amazon Product Display Ads",
+                        "icon": "/website/images/image-showcasing-smooth-user-interaction-with-advanced-web-animation.webp",
+                        "contentTitle": "Precision Targeting For Maximum Impact",
+                        "contentDesc": "Capitalize on strategic placement with Amazon Product Display Ads. We utilize detailed demographic and behavioral data to target ads effectively, placing your products on competitor and related pages to maximize visibility and shopper engagement.",
+                        "image": "/images/amazon-ppc-management-services/Sponsored Display.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Amazon Video Ads",
+                        "icon": "/website/images/image-illustrating-creative-layout-and-interactive-web-features.webp",
+                        "contentTitle": "Visual Storytelling for Increased Recall",
+                        "contentDesc": "Engage and convert with our Amazon Video Ads. Our team specializes in producing compelling video content that showcases your products, enhancing brand recall and improving viewer retention rates, thereby positively impacting your bottom line.",
+                        "image": "/images/amazon-ppc-management-services/Sponsored Video Ads.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Amazon Promotion Management",
+                        "icon": "/website/images/enhanced-brand-content-layout-sample.webp",
+                        "contentTitle": "Deals & Coupons For Accelerated Sales",
+                        "contentDesc": "Leverage our expert Amazon Promotion Management to spike your sales and improve ROI. We strategically time coupons and deals to coincide with peak buying times, driving increased traffic and conversions during critical sales windows.",
+                        "image": "/images/amazon-ppc-management-services/Amazon Promotion managemnt.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-call",
+            "type": "serCall",
+            "enabled": true,
+            "data": {
+                "heading": "Need an Amazon PPC manager ASAP? We’re waiting for your call!",
+                "description": "Whether you need your Amazon PPC campaigns built from scratch or want to improve existing results, our Amazon PPC experts are ready to prioritize your project.",
+                "contactOptions": [
+                    {
+                        "icon": "/images/service/SerCallbox-icon-1.svg",
+                        "iconAlt": "Phone",
+                        "eyebrow": "Toll Free",
+                        "label": "{{contact.phone.display}}",
+                        "href": "{{contact.phone.href}}"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-2.svg",
+                        "iconAlt": "Request a callback",
+                        "eyebrow": "Request",
+                        "label": "Call Back",
+                        "href": "/get-a-free-quote?amazon=1&service=ppc"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-3.svg",
+                        "iconAlt": "Live chat",
+                        "eyebrow": "Start a",
+                        "label": "Live Chat",
+                        "href": "{{contact.socialMedia.whatsapp}}"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "revenue-calculate",
+            "type": "revenueCalculate",
+            "enabled": true,
+            "data": {
+                "titleBefore": "Successful Amazon PPC Management Starting ",
+                "titleHighlight": "As Low As $550",
+                "description": "Unlock full potential of your Amazon PPC campaigns with cost-effective, conversion-optimized PPC strategies destined to churn those sales numbers.",
+                "descriptionHighlight": "Start today!",
+                "list": [
+                    "Guaranteed Reduction in ACOS",
+                    "Curated Deals & Coupons",
+                    "Minimal 3x Returns on Optimal Spend",
+                    "Multiple Ad Formats"
+                ],
+                "cardTitle": "Estimated Revenue",
+                "currency": "$",
+                "revenueMultiplier": 4,
+                "sliderIcon": "/images/service/revenue-slider-icon.svg",
+                "buttonText": "GET STARTED WITH",
+                "sliderOptions": [
+                    {
+                        "investment": 550,
+                        "revenue": 2200
+                    },
+                    {
+                        "investment": 1000,
+                        "revenue": 4000
+                    },
+                    {
+                        "investment": 1400,
+                        "revenue": 5600
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-card",
+            "type": "sertCard",
+            "enabled": true,
+            "data": {
+                "title": "Amazon PPC Challenges, now Abridged with ease",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/expanding-ecommerce-to-global-markets.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Expanding ecommerce to global markets"
+                        },
+                        "title": "Maximize Ad Efficiency",
+                        "description": "Optimize your PPC campaigns for peak performance. Utilize cutting-edge targeting and bidding strategies to minimize ACoS (Advertising Cost of Sale) and maximize ROI."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/scale-when-required-for-business-growth-and-scalability.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Scale when required for business growth and scalability"
+                        },
+                        "title": "Enhance Product Visibility",
+                        "description": "Amplify your product's presence on Amazon with precision-targeted Sponsored Ads. Leverage our expertise in keyword optimization and ad placement to drive higher visibility and click-through rates."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/navigating-amazon-with-ease-for-effective-seller-strategies.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Navigating Amazon with ease for effective seller strategies"
+                        },
+                        "title": "Refine Advertising Strategies",
+                        "description": "Streamline your advertising efforts with our data-driven insights. From detailed TACoS analysis to continuous campaign adjustments, our team ensures your PPC tactics align perfectly with market trends and consumer behavior."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "packages",
+            "type": "sertPackages",
+            "enabled": true,
+            "data": {
+                "title": "Amazon PPC Packages Tailored To Your Needs",
+                "packages": [
+                    {
+                        "title": "Standard Package",
+                        "price": "$550",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$1,600",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up To 5 Products",
+                        "features": [
+                            "Keyword Research",
+                            "Bid Management",
+                            "Campaign Setup",
+                            "Performance Reporting"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=550&package-type=standard&service=ppc"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Business Package",
+                        "price": "$1,000",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$2,900",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up To 10 Products",
+                        "features": [
+                            "Keyword Research",
+                            "Bid Management",
+                            "Campaign Setup",
+                            "Performance Reporting"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=1000&package-type=bussiness&service=ppc"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Enterprise Package",
+                        "price": "$1400",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$4,000",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up To 15 Products",
+                        "features": [
+                            "Keyword Research",
+                            "Bid Management",
+                            "Campaign Setup",
+                            "Performance Reporting"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=1400&package-type=enterprise&service=ppc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta",
+            "type": "sertCta",
+            "enabled": true,
+            "data": {
+                "beforeFirstTag": "With BridgeWay Digital, your Amazon PPC management gets ",
+                "firstTag": {
+                    "text": "Featured Pack",
+                    "href": "#hero"
+                },
+                "betweenFirstSecondTag": " giving you an unfair advantage of 3x returns in ",
+                "secondTag": {
+                    "text": "Comparison",
+                    "href": "#benefits"
+                },
+                "betweenSecondThirdTag": " to our counterparts, all whilst starting at just ",
+                "thirdTag": {
+                    "text": "$550",
+                    "href": "#packages"
+                },
+                "icons": {
+                    "arrowIcon": "/images/service/SertCta-arrow-icon.svg",
+                    "starIcon": "/images/service/ser-star-icon.svg",
+                    "diamondIcon": "/images/service/ser-dimond-icon.svg",
+                    "heartIcon": "/images/service/ser-heart-icon.svg"
+                }
+            }
+        },
+        {
+            "id": "perform-card",
+            "type": "performCard",
+            "enabled": true,
+            "data": {
+                "heading": "Can Your Amazon PPC Advertising Campaigns Perform Better?",
+                "detail": "We believe they can! Our proven PPC management process is designed to optimize your campaigns and achieve exceptional returns, significantly enhancing your Amazon ad performance.",
+                "cardContent": [
+                    {
+                        "icon": "/website/images/initial-consultation-icon-representing-the-start-of-a-project.webp",
+                        "title": "Initial PPC Consultation",
+                        "desc": "We begin by understanding your specific Amazon advertising goals and reviewing your current PPC campaigns to customize our approach effectively to your needs."
+                    },
+                    {
+                        "icon": "/website/images/market-analysis-icon-showcasing-business-data-insights.webp",
+                        "title": "PPC Market Analysis",
+                        "desc": "Our PPC experts conduct a detailed analysis of market trends, competitor ad strategies, and consumer behavior, focusing specifically on how these factors influence PPC performance on Amazon."
+                    },
+                    {
+                        "icon": "/website/images/strategic-planning-for-business-growth-and-development.webp",
+                        "title": "Strategic PPC Planning",
+                        "desc": "With the insights obtained, we craft a targeted PPC strategy that focuses on optimal keyword selection, cost-effective bidding, and impactful ad placements tailored to boost your ROI."
+                    },
+                    {
+                        "icon": "/website/images/brand-registry-representing-amazon-brand-protection.webp",
+                        "title": "PPC Implementation and Execution",
+                        "desc": "As your dedicated Amazon PPC agency, we carefully implement the strategies, from refining ad copy and testing different ad formats to managing bids and budgets for maximum ad performance."
+                    },
+                    {
+                        "icon": "/website/images/a-content-showcasing-enhanced-product-pages.webp",
+                        "title": "Ongoing PPC Monitoring and Adjustment",
+                        "desc": "Our services include continuous tracking and tweaking of your PPC campaigns based on performance data, ensuring that each ad dollar is spent effectively to maintain high performance."
+                    },
+                    {
+                        "icon": "/website/images/product-launch-symbolizing-product-introduction.webp",
+                        "title": "PPC Results Analysis and Reporting",
+                        "desc": "You will receive comprehensive reports detailing campaign performance, insights into click-through and conversion rates, and recommendations for future PPC strategies to continue driving improved results."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta-two",
+            "type": "sertCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Maximize Amazon PPC returns, starting at only $550",
+                "button": {
+                    "url": "/get-a-free-quote?amazon=1&service=ppc",
+                    "text": "Let’s Start"
+                },
+                "bgImg": {
+                    "src": "/images/service/SertCtaTwo-bg.webp",
+                    "alt": "sertCtaTwo-bg"
+                }
+            }
+        },
+        {
+            "id": "sert-content",
+            "type": "sertContent",
+            "enabled": true,
+            "data": {
+                "heading": "Feature-Packed Amazon PPC Services To Transform Business Potential Into Real Gains!",
+                "secContent": [
+                    {
+                        "title": "Precision Keyword Targeting",
+                        "textOne": "Pinpoint Your Audience",
+                        "color": "#F33B3E",
+                        "textTwo": "Maximize ad effectiveness with our Precision Keyword Targeting. Utilizing state-of-the-art keyword research tools and comprehensive data analytics, we identify high-impact keywords tailored to your products and market demand. This strategic approach ensures your ads reach highly interested audiences, significantly improving click-through rates and boosting conversions. We continuously refine your keyword strategy based on real-time performance metrics, adapting to market changes and consumer trends to keep your ads relevant and competitive. This ongoing optimization process not only reduces your Advertising Cost of Sale (ACoS) but also enhances your Return on Investment (ROI), helping you dominate competitive listings and achieve optimal results in your Amazon PPC campaigns.",
+                        "imgSrc": "/website/images/precision-keyword-targeting-for-seo-and-content-optimization.webp"
+                    },
+                    {
+                        "title": "Dynamic Bidding Strategies",
+                        "textOne": "Optimize Your Ad Spend",
+                        "color": "#FFB703",
+                        "textTwo": "Revolutionize your ad spend efficiency with our Dynamic Bidding Strategies. By leveraging cutting-edge algorithms and predictive analytics, we dynamically adjust your bids to maximize ad placements and enhance campaign performance. This proactive bidding method allows you to stay competitive on high-value keywords while reducing expenditure on less effective ones. Our approach is designed to balance your ad budget, ensuring you get the best return on investment possible. It also helps to increase ad visibility and drive more qualified traffic to your listings, boosting both sales and profitability. With our expert guidance, your campaigns will maintain high performance even in fluctuating market conditions, driving your ROAS higher than ever before.",
+                        "imgSrc": "/website/images/dynamic-bidding-strategy-illustration.webp"
+                    },
+                    {
+                        "title": "Ad Creative Optimization",
+                        "textOne": "Captivate and Convert",
+                        "color": "#FF763A",
+                        "textTwo": "Transform your ad campaigns with our Ad Creative Optimization service. Our team of creative experts develops visually appealing and compelling ad content that stands out in a crowded marketplace. By conducting thorough A/B testing and analyzing user engagement metrics, we identify the most effective ad elements that resonate with your target audience. This meticulous optimization process enhances the visual appeal and messaging of your ads, significantly increasing conversion rates. Additionally, our strategic content adjustments are designed to align with Amazon’s best practices, ensuring that your ads not only attract attention but also drive meaningful interactions. Let us help you turn your ads into conversion powerhouses and significantly uplift your sales figures.",
+                        "imgSrc": "/website/images/image-showcasing-animated-key-features-in-web-design.webp"
+                    },
+                    {
+                        "title": "Ad Performance Analytics",
+                        "textOne": "Insights That Drive Decisions",
+                        "color": "#626BFF",
+                        "textTwo": "Delve deeper into your advertising campaigns with our Comprehensive Ad Performance Analytics. Our detailed analyses cover a wide range of metrics, including impressions, clicks, conversion rates, and cost per acquisition, providing you with a granular view of your campaign's impact. We utilize these insights to craft highly effective advertising strategies that are precisely tailored to meet your business objectives. Our analytics service also includes continuous monitoring and adjustment of campaigns, ensuring that every element of your advertising is optimized for peak performance. By understanding and acting on these detailed insights, you can make informed decisions that significantly improve the efficiency and outcomes of your PPC efforts.",
+                        "imgSrc": "/website/images/image-displaying-advanced-user-interaction-with-animation-transitions.webp"
+                    },
+                    {
+                        "title": "Amazon Campaign Management",
+                        "textOne": "Leverage Peak Seasons",
+                        "color": "#00A6F6",
+                        "textTwo": "Optimize your ad impact during peak shopping periods with our Amazon campaign management. We strategically align your PPC campaigns with consumer buying trends during high-traffic seasons and major sales events, such as Black Friday and Prime Day. Our targeted approach ensures that your ads capture the attention of shoppers when they are most ready to purchase, maximizing both visibility and conversions. We carefully plan and execute these campaigns to take full advantage of seasonal demand spikes, significantly boosting your sales and competitive edge. With our expertise, you can expect to see a substantial increase in performance during these key times, securing a commanding presence in the marketplace.",
+                        "imgSrc": "/website/images/seasonal-campaign-management-for-marketing-strategies.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ticker",
+            "type": "sertTicker",
+            "enabled": true,
+            "data": {
+                "heading": "Accelerate Your Sales With Precision With The Best Amazon PPC Management Agency",
+                "description": "Accelerate Your Sales with Precision with BridgeWay Digital as your Amazon PPC Management agency. Experience unparalleled Year on year (YOY) and Month on Month (MOM) growth in your advertising performance. Optimize ad spend, increase revenue, and achieve higher conversion rates—your journey to PPC mastery starts here!",
+                "tabContent": [
+                    {
+                        "title": 220,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Organic Visibility YoY"
+                    },
+                    {
+                        "title": 25,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Boost in Top 10 Search Rankings MoM"
+                    },
+                    {
+                        "title": 100,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Conversion Rates YoY"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "made-the-choice",
+            "type": "madeTheChoice",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Leading Amazon Brands That Made The Choice You’re Still Thinking About",
+                "headingclass": "sub-heading-two sub-heading-two-width",
+                "MadeTheChoiceData": [
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-1.webp",
+                        "textone": ">1.3M",
+                        "texttwo": "Views"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-2.webp",
+                        "textone": "3X",
+                        "texttwo": "Faster Time to Launch"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-3.webp",
+                        "textone": "27%",
+                        "texttwo": "Traffic Increases"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-4.webp",
+                        "textone": "4X",
+                        "texttwo": "Faster Speed to Market"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ppc-accordion-2",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "What YOU get with BridgeWay Digital’s Amazon PPC Services",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Unfair Advantage",
+                        "icon": "/website/images/image-demonstrating-user-focused-web-design-with-clean-animation-effects.webp",
+                        "contentTitle": "Dominate with Data-Driven Ads",
+                        "contentDesc": "Leverage advanced PPC analytics and expert strategies to outpace the competition. Experience the power of data-driven decisions that position your ads to outperform and capture more market share.",
+                        "image": "/images/amazon-ppc-management-services/reduced-operational-stress-for-business-efficiency-solutions.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Personalized Support",
+                        "icon": "/website/images/image-illustrating-creative-layout-and-interactive-web-features.webp",
+                        "contentTitle": "Tailored PPC Campaigns",
+                        "contentDesc": "Each PPC campaign is meticulously crafted to align with your specific business goals. Enjoy custom strategies designed just for you, ensuring optimal performance and precise targeting.",
+                        "image": "/images/amazon-ppc-management-services/Unfair Adv.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Reduced Operational Stress",
+                        "icon": "/website/images/image-showcasing-smooth-user-interaction-with-advanced-web-animation.webp",
+                        "contentTitle": "Simplified Ad Management",
+                        "contentDesc": "Let us handle the complexities of PPC management. From keyword research to bid adjustments, we manage all aspects of your campaigns, allowing you to focus on your business without the stress.",
+                        "image": "/images/amazon-ppc-management-services/Personalized Support.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "More On Hand Time",
+                        "icon": "/website/images/image-showcasing-vibrant-layout-design-with-animation-effects.webp",
+                        "contentTitle": "Reclaim Your Schedule",
+                        "contentDesc": "Regain valuable time as we optimize and manage your PPC campaigns. Use those extra hours to drive business growth, explore new opportunities, or simply enjoy more downtime.",
+                        "image": "/images/amazon-ppc-management-services/Mpre on Hand Time copy.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Expert Guidance",
+                        "icon": "/website/images/enhanced-brand-content-layout-sample.webp",
+                        "contentTitle": "Navigate PPC with Experts",
+                        "contentDesc": "With our expert team guiding your PPC strategies, navigate the ever-changing Amazon advertising landscape with confidence. We ensure every decision is informed, strategic, and designed to maximize your advertising ROI.",
+                        "image": "/images/amazon-ppc-management-services/Expert Guidance.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "benefits",
+            "type": "benefits",
+            "enabled": true,
+            "data": {
+                "title": "Unlock The Unfair Advantage with 3x PPC Performance Compared To Other Options",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/bwd-logo-black-design-for-brand-identification.svg",
+                            "width": 180,
+                            "height": 29,
+                            "alt": "BWD logo black design for brand identification"
+                        },
+                        "list": [
+                            "Precision PPC Management Using Real-Time Data",
+                            "Cost-Efficient PPC Strategies Without Hidden Fees.",
+                            "Advanced Analytics for Proactive PPC Optimization",
+                            "Personalized Service with a Dedicated PPC Account Manager"
+                        ]
+                    },
+                    {
+                        "title": "In-House Marketing",
+                        "list": [
+                            "Limited access to real-time bidding tools and PPC optimization techniques.",
+                            "High costs related to hiring, training, and maintaining an expert team.",
+                            "Basic performance tracking, often missing out on crucial adjustments for improving ad spend ROI.",
+                            "Limited PPC expertise can lead to slow adaptation to platform changes and trend responses."
+                        ]
+                    },
+                    {
+                        "title": "Typical Marketing Agency",
+                        "list": [
+                            "Often uses one-size-fits-all PPC strategies that fail to capture unique market opportunities.",
+                            "Additional charges for campaign adjustments and ongoing optimization efforts.",
+                            "Generic reports with limited insights, not tailored to specific PPC campaign goals.",
+                            "Divided attention across multiple accounts, which can result in slower response times and generic service."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Amazon PPC Management Services Packages",
+                "description": "A detailed overview of all the deliverables in our amazon PPC Management packages. Pick the best price-to-service option based on your Amazon PPC needs.",
+                "tableData": {
+                    "columns": [
+                        "Basic Package",
+                        "Advanced Package",
+                        "Premium Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Products",
+                            "values": [
+                                "text:Up to 5",
+                                "text:Up to 10",
+                                "text:Up to 15"
+                            ]
+                        },
+                        {
+                            "title": "Keyword Research",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Copywriting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Bid Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Negative Keyword Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Extensions",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "A/B Testing",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Monitoring",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Budget Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Search Term Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Competitor Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Conversion Tracking",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Geotargeting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance Reporting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Continuous Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Progressive Monthly Management Fee",
+                            "values": [
+                                "text:$550/Month",
+                                "text:$1,000/Month",
+                                "text:$1,400/Month"
+                            ]
+                        }
+                    ],
+                    "title": "Features"
+                },
+                "staticRowData": {
+                    "title": "Connect With an Amazon PPC Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=550&package-type=standard&service=ppc",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=1000&package-type=bussiness&service=ppc",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=1400&package-type=enterprise&service=ppc",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "sert-cta-three",
+            "type": "sertCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Can’t Decide Where to Start?",
+                "textBefore": "Get Your ",
+                "textHighlight": "Free Amazon PPC Audit",
+                "textAfter": " and see immediate business potential",
+                "button": {
+                    "text": "GET YOUR FREE AUDIT",
+                    "href": "/get-a-free-quote?amazon=1&service=ppc"
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Why Use Amazon PPC Services to Boost Your Ad Performance?",
+                "desc": "Amazon PPC services offer precise tools to increase visibility and drive sales through targeted advertising on the world's largest online marketplace. By leveraging these services, you can effectively reach a vast audience, enhance your ad placements, and drive meaningful engagement, leading to increased revenue and better control over advertising spend.",
+                "tabs": [
+                    {
+                        "title": "   Maximize Advertising Efficiency",
+                        "eventKey": "tab1"
+                    },
+                    {
+                        "title": "   Enhanced Campaign Precision",
+                        "eventKey": "tab2"
+                    },
+                    {
+                        "title": "   Rapid Market Entry and Expansion",
+                        "eventKey": "tab3"
+                    },
+                    {
+                        "title": "   Comprehensive Analytics and Insights",
+                        "eventKey": "tab4"
+                    },
+                    {
+                        "title": "   Dedicated Expert Support",
+                        "eventKey": "tab5"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "title": "Maximize Advertising Efficiency",
+                        "para": "Optimize Every Ad Dollar",
+                        "ImgSrc": "/images/service/web-hosting-img.webp"
+                    },
+                    {
+                        "title": "Enhanced Campaign Precision",
+                        "para": "Target with Unmatched Accuracy",
+                        "ImgSrc": "/images/service/ui-ux-dev-img.webp"
+                    },
+                    {
+                        "title": "Rapid Market Entry and Expansion",
+                        "para": "Speed Your Market Penetration",
+                        "ImgSrc": "/images/service/cross-browser-img.webp"
+                    },
+                    {
+                        "title": "Comprehensive Analytics and Insights",
+                        "para": "Drive Decisions with Data",
+                        "ImgSrc": "/images/service/cms-integration-img.webp"
+                    },
+                    {
+                        "title": "Dedicated Expert Support",
+                        "para": "Expertise at Your Service",
+                        "ImgSrc": "/images/service/responsive-design-img.webp"
+                    }
+                ],
+                "btnLink": "/get-a-free-quote?amazon=1&service=ppc",
+                "button": {
+                    "text": "GET YOUR FREE PPC AUDIT →",
+                    "href": "/get-a-free-quote?amazon=1&service=ppc"
+                }
+            }
+        },
+        {
+            "id": "faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is Amazon PPC Management?",
+                        "answer": "Amazon PPC (Pay-Per-Click) Management involves overseeing and optimizing advertising campaigns within Amazon's marketplace. It includes selecting the right keywords, setting budget caps, and structuring campaigns to increase visibility and sales of products while controlling costs. Effective management helps maximize ROI by targeting ads to reach potential buyers when they are most likely to make a purchase."
+                    },
+                    {
+                        "question": "What is Amazon Advertising Cost?",
+                        "answer": "Amazon advertising cost refers to the expense incurred from running ads on the Amazon platform. Costs are typically based on a pay-per-click model, where sellers pay a fee each time a shopper clicks on their ads. Depending on the niche, brands pay between $0.05 to $10 or even more. The exact cost can vary widely depending on competition for keywords, product categories, and advertising strategy."
+                    },
+                    {
+                        "question": "How much does Amazon Sponsored Products cost?",
+                        "answer": "The cost of Amazon Sponsored Products depends on the competitiveness of the keywords you bid on and your budget settings. Since it operates on a bidding system, the more competitive the keyword, the higher the cost per click. Average costs can vary between $0.5 to $10 or more for each click. You control spending by setting daily budgets and choosing how much to bid per click. For best results, we recommend spending $40-$120 per day on your amazon sponsored product ads."
+                    },
+                    {
+                        "question": "Do I really need PPC Management for My Amazon Store?",
+                        "answer": "PPC Management can be crucial for maximizing the efficiency and effectiveness of your Amazon advertising efforts. If you're looking to optimize ad spend, improve product visibility, and increase sales conversions, professional PPC management can provide strategic guidance and detailed analytics to refine your advertising approach and achieve better results."
+                    },
+                    {
+                        "question": "What is the average Amazon Advertisement budget?",
+                        "answer": "The average Amazon advertisement budget varies by the size of the business and its specific goals. Small to medium-sized businesses typically spend between $3,000 and $10,000 per month on Amazon ads. However, budget allocation should be based on your advertising strategy, desired reach, and competitive landscape of your product categories."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Increase Your Amazon Store Revenue With Targeted Amazon PPC Management"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Harness the power of targeted PPC strategies by optimizing your ad campaigns with high-conversion keywords and precisely crafted content. We strategically manage your Amazon PPC campaigns to maximize visibility and click-through rates, consistently achieving an average ACoS reduction of 25% MoM and over 180% increase in revenues YoY. Our data-driven approach includes detailed analytics and real-time adjustments, enabling us to tailor PPC campaigns that connect directly with your target audience, boosting your sales volume and profitability on the world’s largest online retail platform."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Why Choose BridgeWay Digital As Your Amazon PPC Management Partner?"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "By consistently outperforming industry benchmarks, we ensure our clients gain a competitive edge that translates into increased revenues, skyrocketing conversion rates, and robust ROI. When you trust BridgeWay Digital with your PPC management, we bring these outstanding results to your business, turning Amazon challenges into lucrative opportunities."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWay Digital advantage in Amazon PPC management today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon PPC Services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Amazon PPC Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can Your Amazon Store Perform Better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon PPC Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon PPC Services Comparison",
+                            "href": "#benefits"
+                        },
+                        {
+                            "text": "Amazon PPC Services Packages & Deliverables",
+                            "href": "#table"
+                        },
+                        {
+                            "text": "Amazon PPC FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

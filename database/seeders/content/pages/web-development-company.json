@@ -1,0 +1,1481 @@
+{
+    "attributes": {
+        "slug": "web-development-company",
+        "title": "Web Development Service | Web Dev Company | BridgeWayDigital",
+        "template": "service-two",
+        "is_cms_managed": true,
+        "status": true,
+        "sort_order": 0
+    },
+    "seo": {
+        "meta_title": "Web Development Service | Web Dev Company | BridgeWayDigital",
+        "meta_description": "Power your online presence with top web development service. Our web dev company builds responsive, secure, and high-performance websites that convert.",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/web-development-company",
+        "keywords": "web development services , website development services , web development | Bridgeway Digital",
+        "og_title": "Web Development Service | Web Dev Company | BridgeWayDigital",
+        "og_description": "Power your online presence with top web development service. Our web dev company builds responsive, secure, and high-performance websites that convert.",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/web-development-company",
+        "og_image": "/images/og/web-development-company.jpg",
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Web Development Service | Web Dev Company | BridgeWayDigital",
+        "twitter_description": "Power your online presence with top web development service. Our web dev company builds responsive, secure, and high-performance websites that convert.",
+        "twitter_image": "/images/og/web-development-company.jpg"
+    },
+    "images": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "sertHero",
+            "enabled": true,
+            "data": {
+                "title": "Website Development Agency",
+                "del": "Hidden Costs, Upsell Trap, Overpromises",
+                "detail": "Optimized Code, Custom Website, Streamlined Development",
+                "furtherDetail": "Elevate your online presence with our comprehensive suite of web development services. <span>Connect with a web development expert</span> or get a <span>free Audit of Your Website</span> to discover how we enhance user experience and to learn how we drive <span>3x performance</span> improvements for businesses just like yours!",
+                "logos": [
+                    {
+                        "src": "/images/service/hero-logo-1.webp",
+                        "alt": "Partner logo",
+                        "width": 150,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-2.webp",
+                        "alt": "Partner logo",
+                        "width": 215,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-3.webp",
+                        "alt": "Partner logo",
+                        "width": 100,
+                        "height": 80
+                    }
+                ],
+                "formContent": {
+                    "title": "Get a Free Amazon Store Audit!",
+                    "fields": {
+                        "fullName": {
+                            "label": "Full Name",
+                            "placeholder": "Full Name"
+                        },
+                        "email": {
+                            "label": "Email Address",
+                            "placeholder": "Your Email"
+                        },
+                        "phone": {
+                            "label": "Phone Number",
+                            "placeholder": "(201) 555-0123"
+                        },
+                        "products": {
+                            "label": "Number of Products Listed",
+                            "placeholder": "Please Select",
+                            "options": [
+                                {
+                                    "value": "1-10",
+                                    "label": "1-10"
+                                },
+                                {
+                                    "value": "11-50",
+                                    "label": "11-50"
+                                },
+                                {
+                                    "value": "51-100",
+                                    "label": "51-100"
+                                },
+                                {
+                                    "value": "100+",
+                                    "label": "100+"
+                                }
+                            ]
+                        },
+                        "country": {
+                            "label": "Country"
+                        },
+                        "storeUrl": {
+                            "label": "Website URL/Amazon Store URL",
+                            "placeholder": "Website URL/Amazon Store URL"
+                        },
+                        "budget": {
+                            "label": "Estimated Budget",
+                            "placeholder": "Select Price",
+                            "options": [
+                                {
+                                    "value": "$0 - $500",
+                                    "label": "$0 - $500"
+                                },
+                                {
+                                    "value": "$500 - $1000",
+                                    "label": "$500 - $1000"
+                                },
+                                {
+                                    "value": "$1000 - $5000",
+                                    "label": "$1000 - $5000"
+                                },
+                                {
+                                    "value": "$5000+",
+                                    "label": "$5000+"
+                                }
+                            ]
+                        },
+                        "expectations": {
+                            "label": "What are your expectations from us?",
+                            "placeholder": "Let's break the ice. Write in as much detail as you want."
+                        }
+                    },
+                    "complimentaryTitle": "Complimentary Audit Includes:",
+                    "complimentaryItems": [
+                        "Keyword Research",
+                        "Growth Potential",
+                        "Expert Recommendations"
+                    ],
+                    "ratings": [
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        },
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        }
+                    ],
+                    "submitText": "SUBMIT"
+                }
+            }
+        },
+        {
+            "id": "sert-slider",
+            "type": "sertSlider",
+            "enabled": true,
+            "data": {
+                "sliderSettings": {
+                    "delay": 2000
+                },
+                "slides": [
+                    {
+                        "alignCenter": false,
+                        "items": [
+                            {
+                                "type": "text",
+                                "value": "$5M+",
+                                "label": "Revenue Driven"
+                            },
+                            {
+                                "type": "text",
+                                "value": "75+",
+                                "label": "Brands Managed"
+                            },
+                            {
+                                "type": "text",
+                                "value": "3.5M",
+                                "label": "Sessions Generated"
+                            },
+                            {
+                                "type": "text",
+                                "value": "10+",
+                                "label": "Impressions Created"
+                            },
+                            {
+                                "type": "text",
+                                "value": "1M+",
+                                "label": "Product Sold"
+                            }
+                        ]
+                    },
+                    {
+                        "alignCenter": true,
+                        "items": [
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-1.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-2.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-3.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-4.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-5.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "Professional Web Development Services For a Formidable Digital Presence",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "E-Commerce Website Development",
+                        "icon": "/website/images/image-showcasing-vibrant-layout-design-with-animation-effects.webp",
+                        "contentTitle": "Seamless Integration, Boosted Conversions",
+                        "contentDesc": "Elevate your e-commerce success with advanced integrations like AJAX for dynamic content loading, robust SSL encryption for secure transactions, and custom APIs for seamless third-party services connectivity. Optimize every customer interaction to increase conversion rates and build a secure, scalable online presence.",
+                        "image": "/images/service/accordion-content-img.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "WordPress Website Development",
+                        "icon": "/website/images/image-demonstrating-user-focused-web-design-with-clean-animation-effects.webp",
+                        "contentTitle": "Custom Themes, Enhanced Usability",
+                        "contentDesc": "Transform your WordPress experience with custom-developed themes, plugins, and widgets. Implement REST API for seamless integration with external systems, enhancing site functionality. Our strategic approach ensures your site is SEO-friendly, highly responsive, and tailored to meet unique business needs, driving greater user engagement.",
+                        "image": "/images/service/wordpress-website-dev.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Custom Website Development",
+                        "icon": "/website/images/image-showcasing-smooth-user-interaction-with-advanced-web-animation.webp",
+                        "contentTitle": "Tailored Solutions, Strategic Implementation",
+                        "contentDesc": "Build bespoke web solutions using the latest in HTML5, CSS3, and JavaScript. Employ MVC architectures like Laravel or Django for robust back-end operations, enhancing security and maintainability. Our custom solutions are designed to be scalable, efficient, and perfectly aligned with your business objectives.",
+                        "image": "/images/service/custom-website-dev.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Shopify Website Development",
+                        "icon": "/website/images/image-illustrating-creative-layout-and-interactive-web-features.webp",
+                        "contentTitle": "Optimized Storefronts, Increased Sales",
+                        "contentDesc": "Maximize your retail potential with custom Shopify themes and specialized app integrations. Utilize Shopify’s liquid templating and robust API features to create unique shopping experiences tailored to your brand. Improve site navigation, speed, and SEO to drive sales and customer satisfaction.",
+                        "image": "/images/service/shopify-website-dev.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Full-Stack Website Development",
+                        "icon": "/website/images/enhanced-brand-content-layout-sample.webp",
+                        "contentTitle": "Comprehensive Architecture, Robust Performance",
+                        "contentDesc": "Develop cutting-edge websites with full-stack technologies—React or Angular for front-end dynamism, Node.js for efficient server-side operations, and MongoDB for scalable databases. Our comprehensive solutions ensure seamless functionality, high performance, and security across all layers of your application stack.",
+                        "image": "/images/service/full-stack-website-dev.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "revenue-calculate",
+            "type": "revenueCalculate",
+            "enabled": true,
+            "data": {
+                "titleBefore": "Formidable Digital Presence Starting ",
+                "titleHighlight": "As Low As $1000",
+                "description": "Unleash the full potential of your brand with our bespoke Web Development Services. Imagine your website optimized for every device, fortified against security threats, and engineered to convert visitors into loyal customers. Why wait? Accelerate your success and dominate your industry ",
+                "descriptionHighlight": "Start today!",
+                "list": [
+                    "Optimize for Every Screen",
+                    "Tailor-Made Features Just for You",
+                    "Ironclad Security Measures",
+                    "Real-Time Performance Insights"
+                ],
+                "cardTitle": "Estimated Revenue",
+                "currency": "$",
+                "revenueMultiplier": 4,
+                "sliderIcon": "/images/service/revenue-slider-icon.svg",
+                "buttonText": "GET STARTED WITH",
+                "sliderOptions": [
+                    {
+                        "investment": 1000,
+                        "revenue": 4000
+                    },
+                    {
+                        "investment": 1800,
+                        "revenue": 7200
+                    },
+                    {
+                        "investment": 2500,
+                        "revenue": 10000
+                    }
+                ]
+            }
+        },
+        {
+            "id": "technologies",
+            "type": "technologies",
+            "enabled": true,
+            "data": {
+                "heading": "Cutting-Edge Technologies Powering Our Robust Website Development",
+                "stats": [
+                    {
+                        "key": "experience",
+                        "label": "Practice",
+                        "icon": "/images/service/practice-icon.webp",
+                        "iconAlt": "practice-icon"
+                    },
+                    {
+                        "key": "projects",
+                        "label": "Projects",
+                        "icon": "/images/service/projects-icon.webp",
+                        "iconAlt": "projects-icon"
+                    },
+                    {
+                        "key": "workforce",
+                        "label": "Workforce",
+                        "icon": "/images/service/workforce-icon.webp",
+                        "iconAlt": "workforce-icon"
+                    }
+                ],
+                "groups": [
+                    {
+                        "category": "Back-End Development",
+                        "items": [
+                            {
+                                "title": ".Net Development",
+                                "icon": "/images/service/dotnet-icon.svg",
+                                "experience": "10 Years",
+                                "projects": "15",
+                                "workforce": "25",
+                                "description": "Leverage robust .Net frameworks for enterprise-level applications, utilizing MVC architectures and Entity Framework for high scalability and performance."
+                            },
+                            {
+                                "title": "Java Development",
+                                "icon": "/images/service/java-icon.svg",
+                                "experience": "12 Years",
+                                "projects": "50",
+                                "workforce": "40",
+                                "description": "Build powerful server-side applications with Java, using Spring Framework and Java EE for secure, reliable, and multi-threaded enterprise environments."
+                            },
+                            {
+                                "title": "Node JS Development",
+                                "icon": "/images/service/node-icon.svg",
+                                "experience": "5 Years",
+                                "projects": "10",
+                                "workforce": "35",
+                                "description": "Utilize Node.js for lightweight, efficient back-end services. Perfect for building fast, scalable network applications with an event-driven, non-blocking I/O model."
+                            },
+                            {
+                                "title": "PHP Development",
+                                "icon": "/images/service/php-icon.svg",
+                                "experience": "20 Years",
+                                "projects": "100",
+                                "workforce": "60",
+                                "description": "Develop dynamic websites with PHP, integrating modern frameworks like Laravel and Symfony that offer powerful templating, routing, and session management."
+                            },
+                            {
+                                "title": "Python Development",
+                                "icon": "/images/service/python-icon.svg",
+                                "experience": "4 Years",
+                                "projects": "20",
+                                "workforce": "25",
+                                "description": "Harness Python’s versatility for back-end development, employing Django and Flask frameworks for rapid development and clean, pragmatic design in web applications."
+                            }
+                        ]
+                    },
+                    {
+                        "category": "Front-End Development",
+                        "items": [
+                            {
+                                "title": "HTML Development",
+                                "icon": "/images/service/html-icon.svg",
+                                "experience": "20 Years",
+                                "projects": "250",
+                                "workforce": "10",
+                                "description": "Craft the foundation of web pages with HTML5, leveraging its semantic elements and API integrations for enhanced structure and accessibility."
+                            },
+                            {
+                                "title": "CSS Development",
+                                "icon": "/images/service/css-icon.svg",
+                                "experience": "20 Years",
+                                "projects": "250",
+                                "workforce": "10",
+                                "description": "Utilize advanced CSS3 features, including Flexbox and Grid, to create responsive and visually compelling layouts that adapt seamlessly across devices."
+                            },
+                            {
+                                "title": "JavaScript Development",
+                                "icon": "/images/service/js-icon.svg",
+                                "experience": "20 Years",
+                                "projects": "250",
+                                "workforce": "10",
+                                "description": "Implement complex features and interactive elements with JavaScript, enhancing user experiences with AJAX calls and DOM manipulation for dynamic content."
+                            }
+                        ]
+                    },
+                    {
+                        "category": "JavaScript Frameworks",
+                        "items": [
+                            {
+                                "title": "Angular",
+                                "icon": "/images/service/angular-icon.svg",
+                                "experience": "5 Years",
+                                "projects": "10",
+                                "workforce": "15",
+                                "description": "Build robust single-page applications with Angular, utilizing two-way data binding, MVVM architecture, and extensive HTTP services for scalable projects."
+                            },
+                            {
+                                "title": "React",
+                                "icon": "/images/service/react-icon.svg",
+                                "experience": "7 Years",
+                                "projects": "50",
+                                "workforce": "10",
+                                "description": "Develop highly responsive user interfaces with React. Its virtual DOM and component-based architecture facilitate efficient rendering and state management."
+                            },
+                            {
+                                "title": "Meteor",
+                                "icon": "/images/service/meteor-icon.svg",
+                                "experience": "4 Years",
+                                "projects": "10",
+                                "workforce": "5",
+                                "description": "Leverage Meteor’s full-stack reactivity for real-time applications, using its integrated live-updating database everywhere from client to server."
+                            },
+                            {
+                                "title": "Vue",
+                                "icon": "/images/service/vue-icon.svg",
+                                "experience": "5 Years",
+                                "projects": "10",
+                                "workforce": "15",
+                                "description": "Create intuitive and performant user interfaces with Vue, emphasizing its reactive data binding and composable component system for flexible app development."
+                            },
+                            {
+                                "title": "NEXT JS",
+                                "icon": "/images/service/next-icon.svg",
+                                "experience": "4 Years",
+                                "projects": "10",
+                                "workforce": "5",
+                                "description": "Utilize Next.js for server-side rendering and static site generation, enhancing SEO and performance for React applications with zero configuration."
+                            }
+                        ]
+                    },
+                    {
+                        "category": "Database & Storage",
+                        "items": [
+                            {
+                                "title": "SQL Server",
+                                "icon": "/images/service/sql-icon.svg",
+                                "experience": "20 Years",
+                                "projects": "300",
+                                "workforce": "45",
+                                "description": "Utilize Microsoft SQL Server for high-performance data management and complex query execution, ideal for transaction processing and business intelligence applications."
+                            },
+                            {
+                                "title": "Azure SQL Database",
+                                "icon": "/images/service/azure-sql-icon.svg",
+                                "experience": "8 Years",
+                                "projects": "10",
+                                "workforce": "5",
+                                "description": "Deploy Azure SQL Database for a fully managed, scalable cloud database service that offers built-in intelligence and robust security features for your data."
+                            },
+                            {
+                                "title": "Azure Cosmos DB",
+                                "icon": "/images/service/azure-cosmos-icon.svg",
+                                "experience": "3 Years",
+                                "projects": "20",
+                                "workforce": "15",
+                                "description": "Leverage Azure Cosmos DB, a globally distributed, multi-model database service designed to scale throughput and storage across any number of geographical regions with minimal latency."
+                            },
+                            {
+                                "title": "Amazon RDS",
+                                "icon": "/images/service/css-icon.svg",
+                                "experience": "7 Years",
+                                "projects": "10",
+                                "workforce": "5",
+                                "description": "Implement Amazon RDS to manage relational databases in the cloud effortlessly, which automates time-consuming administrative tasks such as hardware provisioning, database setup, and backups."
+                            },
+                            {
+                                "title": "Amazon Redshift",
+                                "icon": "/images/service/js-icon.svg",
+                                "experience": "6 Years",
+                                "projects": "17",
+                                "workforce": "55",
+                                "description": "Use Amazon Redshift for large-scale data warehousing and analytics, executing complex queries rapidly over petabytes of structured data using sophisticated query optimization."
+                            }
+                        ]
+                    },
+                    {
+                        "category": "DevOps",
+                        "items": [
+                            {
+                                "title": "Docker",
+                                "icon": "/images/service/docker-icon.svg",
+                                "experience": "12 Years",
+                                "projects": "100",
+                                "workforce": "5",
+                                "description": "Employ Docker to streamline application deployment with its platform that uses OS-level virtualization to deliver software in packages called containers."
+                            },
+                            {
+                                "title": "Azure DevOps",
+                                "icon": "/images/service/php-icon.svg",
+                                "experience": "1 Years",
+                                "projects": "10",
+                                "workforce": "5",
+                                "description": "Utilize Azure DevOps for end-to-end software development lifecycle control, integrating project planning, source code management, and CI/CD with automated builds and testing."
+                            },
+                            {
+                                "title": "AWS Developer Tools",
+                                "icon": "/images/service/aws-icon.svg",
+                                "experience": "5 Years",
+                                "projects": "170",
+                                "workforce": "45",
+                                "description": "Harness AWS Developer Tools to build, test, and deploy applications using AWS services, enhancing your software development and operational performance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-card",
+            "type": "sertCard",
+            "enabled": true,
+            "data": {
+                "title": "What you get working with BridgeWay Digtal",
+                "highlight": "BridgeWay Digital",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/expanding-ecommerce-to-global-markets.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Expanding ecommerce to global markets"
+                        },
+                        "title": "Scalable Web Architecture",
+                        "description": "Build a website that grows with your business. Our scalable solutions adapt to increasing traffic and expanding content needs, ensuring smooth performance across all user scales."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/scale-when-required-for-business-growth-and-scalability.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Scale when required for business growth and scalability"
+                        },
+                        "title": "Superior Performance Optimization",
+                        "description": "Speed up your site with advanced performance tuning. Our optimization strategies include efficient coding practices, server-side enhancements, and fast-loading resources to improve user experience and SEO rankings."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/navigating-amazon-with-ease-for-effective-seller-strategies.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Navigating Amazon with ease for effective seller strategies"
+                        },
+                        "title": "Enhanced Security Protocols",
+                        "description": "Protect your online presence with state-of-the-art security measures. We implement HTTPS, data encryption, and continuous security audits to safeguard your site from cyber threats and build trust with your users."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "packages",
+            "type": "sertPackages",
+            "enabled": true,
+            "data": {
+                "title": "Website Development Services Packages Tailored TO Your Needs",
+                "packages": [
+                    {
+                        "title": "Standard Package",
+                        "price": "$1,000",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$4,250",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "",
+                        "features": [
+                            "Website Design & Development",
+                            "Responsive Design Implementation",
+                            "Basic SEO Optimization",
+                            "Performance Optimization"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "View Deliverables",
+                                "href": "#features"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Business Package",
+                        "price": "$1,800",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$6,250",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "",
+                        "features": [
+                            "Website Design & Development",
+                            "Enhanced Responsive Design",
+                            "Intermediate SEO Optimization",
+                            "Performance and Security Optimization"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "View Deliverables",
+                                "href": "#features"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Enterprise Package",
+                        "price": "$2,500",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$8,250",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "",
+                        "features": [
+                            "Website Design & Development",
+                            "Advanced Responsive Design",
+                            "Comprehensive SEO Optimization",
+                            "Performance, Security, and Scalability Optimization"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "View Deliverables",
+                                "href": "#features"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta",
+            "type": "sertCta",
+            "enabled": true,
+            "data": {
+                "beforeFirstTag": "With BridgeWay Digital, your website development services get ",
+                "firstTag": {
+                    "text": "Featured Pack",
+                    "href": "#hero"
+                },
+                "betweenFirstSecondTag": ", giving you an unfair advantage of 3x returns in ",
+                "secondTag": {
+                    "text": "Comparison",
+                    "href": "#benefits"
+                },
+                "betweenSecondThirdTag": " to our counterparts, all whilst starting at just ",
+                "thirdTag": {
+                    "text": "$1000",
+                    "href": "#packages"
+                },
+                "icons": {
+                    "arrowIcon": "/images/service/SertCta-arrow-icon.svg",
+                    "starIcon": "/images/service/ser-star-icon.svg",
+                    "diamondIcon": "/images/service/ser-dimond-icon.svg",
+                    "heartIcon": "/images/service/ser-heart-icon.svg"
+                }
+            }
+        },
+        {
+            "id": "perform-card",
+            "type": "performCard",
+            "enabled": true,
+            "data": {
+                "heading": "Does Your Website Need A Revamp?",
+                "detail": "Is your website falling short of its potential? Don't let pitfalls hold you back! If you’re facing any of these issues, it’s high-time to revamp your website!",
+                "cardContent": [
+                    {
+                        "icon": "/website/images/initial-consultation-icon-representing-the-start-of-a-project.webp",
+                        "title": "Loading Speeds",
+                        "desc": "Users expect lightning-fast experiences. If your site takes too long to load, you’re likely losing visitors and potential revenue. A revamp can optimize your site’s loading times, enhancing user satisfaction and retention."
+                    },
+                    {
+                        "icon": "/website/images/market-analysis-icon-showcasing-business-data-insights.webp",
+                        "title": "Poor Responsiveness",
+                        "desc": "With a significant portion of web traffic coming from mobile devices, a non-responsive website is a business risk. Updating your site’s design to be fully responsive adapts to any screen size, providing a seamless experience for all users."
+                    },
+                    {
+                        "icon": "/website/images/strategic-planning-for-business-growth-and-development.webp",
+                        "title": "Limited Conversions",
+                        "desc": "If your website fails to convert visitors into customers, it’s time to reconsider your user journey. A strategic overhaul focusing on conversion rate optimization can transform your site into a powerful lead generation tool."
+                    },
+                    {
+                        "icon": "/website/images/brand-registry-representing-amazon-brand-protection.webp",
+                        "title": "Security Vulnerabilities",
+                        "desc": "Security isn’t just about protecting data; it’s about protecting your reputation. Addressing security vulnerabilities during a website revamp can prevent potential threats and build trust with your audience."
+                    },
+                    {
+                        "icon": "/website/images/a-content-showcasing-enhanced-product-pages.webp",
+                        "title": "High Maintenance Costs",
+                        "desc": "An outdated site can be costly to maintain, requiring constant fixes and patches. Revamping your website can streamline operations and reduce ongoing maintenance costs, making your site not only more efficient but also more cost-effective."
+                    },
+                    {
+                        "icon": "/website/images/product-launch-symbolizing-product-introduction.webp",
+                        "title": "Sluggish UI/UX",
+                        "desc": "A website with poor user interface and experience design can deter visitors from engaging with your content. By revamping your UI/UX, you can create an intuitive and enjoyable environment that encourages longer visits and deeper engagement."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta-two",
+            "type": "sertCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Gain the BridgeWay Digital advantage, starting as low as $1000",
+                "button": {
+                    "url": "/get-a-free-quote?service=web-development",
+                    "text": "GET YOUR FREE PROPOSAL"
+                },
+                "bgImg": {
+                    "src": "/images/service/SertCtaTwo-bg.webp",
+                    "alt": "sertCtaTwo-bg"
+                }
+            }
+        },
+        {
+            "id": "sert-content",
+            "type": "sertContent",
+            "enabled": true,
+            "data": {
+                "heading": "Full-Stack Web Development Services To Transform Digital Potential Into Real Gains!",
+                "secContent": [
+                    {
+                        "title": "Seamless Content Management Systems",
+                        "textOne": "Optimize Digital Content Efficiency",
+                        "color": "#F33B3E",
+                        "textTwo": "Unlock the full potential of your website with our Seamless Content Management Systems. Leveraging robust platforms like WordPress, Drupal, or custom solutions, we facilitate precise control over your digital content. Our CMS implementations support advanced features such as multi-language support, real-time content updates, and role-based access control, ensuring your website's content is always fresh, relevant, and secure.",
+                        "imgSrc": "/website/images/seamless-content-management-systems-for-effective-website-management.webp"
+                    },
+                    {
+                        "title": "Advanced Front End Frameworks",
+                        "textOne": "Enhance User Interaction and Engagement",
+                        "color": "#FFB703",
+                        "textTwo": "Transform your digital interface with our Advanced Front End Frameworks that incorporate the latest technologies in React, Angular, or Vue.js. These powerful frameworks enable us to build highly responsive and interactive user interfaces, which are both aesthetically pleasing and functionally rich. By utilizing JSX, TypeScript, and ES6+ features, we craft cutting-edge applications that are optimized for performance and cross-browser compatibility.",
+                        "imgSrc": "/website/images/image-showing-animated-key-effects-for-seamless-web-design.webp"
+                    },
+                    {
+                        "title": "Robust Back End Development",
+                        "textOne": "Strengthen Your Website’s Core",
+                        "color": "#FF763A",
+                        "textTwo": "Elevate the backbone of your digital platform with our Robust Back End Development services. Utilizing powerful server-side languages like Node.js, Python, and Ruby on Rails, we engineer scalable, efficient back-end systems that support high-volume traffic and complex data interactions. Our solutions incorporate microservices architectures, API-first design, and containerization using Docker and Kubernetes for enhanced scalability and deployment ease.",
+                        "imgSrc": "/website/images/robust-back-end-development-for-scalable-business-solutions.webp"
+                    },
+                    {
+                        "title": "Web Performance Optimization",
+                        "textOne": "Maximize Speed, Maximize Reach",
+                        "color": "#626BFF",
+                        "textTwo": "Optimize your website’s performance to its peak with our Web Performance Optimization strategies. By implementing advanced techniques such as Critical Rendering Path optimization, asynchronous resource loading, and efficient asset minification, we significantly reduce load times and enhance user experience.",
+                        "imgSrc": "/website/images/web-performance-optimization-for-faster-sites.webp"
+                    },
+                    {
+                        "title": "Responsive Web Design",
+                        "textOne": "Fluid Designs for Every Device",
+                        "color": "#00A6F6",
+                        "textTwo": "Master the art of versatile web presentations with our Responsive Web Design services. Employing fluid grid layouts, flexible images, and CSS media queries, we ensure your website delivers a seamless viewing experience across all devices, from desktops to smartphones. Our designs prioritize accessibility and usability, adhering to the latest W3C standards and incorporating ARIA roles for enhanced accessibility.",
+                        "imgSrc": "/website/images/image-showing-animated-key-effects-for-seamless-web-design.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ticker",
+            "type": "sertTicker",
+            "enabled": true,
+            "data": {
+                "heading": "From Concept to Conversion: Your Web Transformation With BridgeWayDigital Awaits!",
+                "description": "Partner with BridgeWayDigital to experience unprecedented growth in website performance and business metrics. Elevate your online presence, reduce operational costs, and significantly boost user engagement—your journey to web excellence starts here!",
+                "tabContent": [
+                    {
+                        "title": 50,
+                        "sign": "-",
+                        "unit": "%",
+                        "text": "Decrease in Server Response Time"
+                    },
+                    {
+                        "title": 30,
+                        "sign": "-",
+                        "unit": "%",
+                        "text": "Decrease in Page Load Times"
+                    },
+                    {
+                        "title": 70,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Mobile User Satisfaction"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "made-the-choice",
+            "type": "madeTheChoice",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Leading Websites That Made The Choice You’re Still Thinking About!",
+                "headingclass": "sub-heading-two sub-heading-two-width",
+                "MadeTheChoiceData": [
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-1.webp",
+                        "textone": ">1.3M",
+                        "texttwo": "Views"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-2.webp",
+                        "textone": "3X",
+                        "texttwo": "Faster Time to Launch"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-3.webp",
+                        "textone": "27%",
+                        "texttwo": "Traffic Increases"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-4.webp",
+                        "textone": "4X",
+                        "texttwo": "Faster Speed to Market"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-solutions",
+            "type": "sertSolutions",
+            "enabled": true,
+            "data": {
+                "heading": "What YOU get with BridgeWayDigital!",
+                "cards": [
+                    {
+                        "title": "Consulting",
+                        "detail": "Leverage our expertise in strategic consulting to align technology with your business goals, ensuring optimal web solution architecture and implementation planning.",
+                        "icon": {
+                            "src": "/images/service/sol-card-img-1.webp",
+                            "alt": "sol-card-icon"
+                        }
+                    },
+                    {
+                        "title": "Design",
+                        "detail": "Experience cutting-edge design services that focus on usability, aesthetics, and responsive frameworks to create engaging and effective web interfaces.",
+                        "icon": {
+                            "src": "/images/service/sol-card-img-2.webp",
+                            "alt": "sol-card-icon"
+                        }
+                    },
+                    {
+                        "title": "Integration",
+                        "detail": "Streamline your operations with our integration services, connecting your website seamlessly with CRM systems, e-commerce platforms, and third-party APIs.",
+                        "icon": {
+                            "src": "/images/service/sol-card-img-3.webp",
+                            "alt": "sol-card-icon"
+                        }
+                    },
+                    {
+                        "title": "Migration",
+                        "detail": "Safely migrate your existing website content, databases, and applications to newer, more robust platforms with minimal downtime and data integrity.",
+                        "icon": {
+                            "src": "/images/service/sol-card-img-4.webp",
+                            "alt": "sol-card-icon"
+                        }
+                    },
+                    {
+                        "title": "Support",
+                        "detail": "Receive ongoing support for your website, covering everything from technical issues to regular updates, ensuring smooth operation and security.",
+                        "icon": {
+                            "src": "/images/service/sol-card-img-5.webp",
+                            "alt": "sol-card-icon"
+                        }
+                    },
+                    {
+                        "title": "Testing",
+                        "detail": "Ensure the reliability and performance of your web applications with our comprehensive testing services, including usability, compatibility, and stress tests.",
+                        "icon": {
+                            "src": "/images/service/sol-card-img-6.webp",
+                            "alt": "sol-card-icon"
+                        }
+                    }
+                ],
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Technological Edge",
+                        "icon": "/website/images/image-demonstrating-user-focused-web-design-with-clean-animation-effects.webp",
+                        "contentTitle": "Technological Edge",
+                        "contentDesc": "Harness the latest in web technologies with our cutting-edge tools and methodologies. Stay ahead of the curve as we deploy modern frameworks and optimized solutions that set you apart from the competition.",
+                        "image": "/images/service/service_background.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Customized Solutions",
+                        "icon": "/website/images/image-illustrating-creative-layout-and-interactive-web-features.webp",
+                        "contentTitle": "Customized Solutions",
+                        "contentDesc": "Every aspect of our web development is customized to fit your unique business goals and requirements. We ensure that every digital challenge you face is met with a precise, bespoke solution that fits like a glove.",
+                        "image": "/images/service/service_background.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Streamlined Operations",
+                        "icon": "/website/images/image-showcasing-smooth-user-interaction-with-advanced-web-animation.webp",
+                        "contentTitle": "Streamlined Operations",
+                        "contentDesc": "Imagine a world where website maintenance and updates are no longer your concern—where we handle the complexities, and you focus on your business growth.",
+                        "image": "/images/service/service_background.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Time Efficiency",
+                        "icon": "/website/images/image-showcasing-vibrant-layout-design-with-animation-effects.webp",
+                        "contentTitle": "Time Efficiency",
+                        "contentDesc": "Reclaim valuable hours as we optimize and automate your web operations. Use the extra time to innovate, expand your business, or simply enjoy more moments of relaxation—how you use it is up to you.",
+                        "image": "/images/service/service_background.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Expert Insights",
+                        "icon": "/website/images/enhanced-brand-content-layout-sample.webp",
+                        "contentTitle": "Expert Insights",
+                        "contentDesc": "Move forward with the assurance that comes from having seasoned web development experts by your side. Our team guides you through every phase of the web lifecycle, ensuring you make informed, effective decisions that drive success.",
+                        "image": "/images/service/service_background.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "What YOU get with BridgeWayDigital!",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Technological Edge",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Advance with Innovation",
+                        "contentDesc": "Harness the latest in web technologies with our cutting-edge tools and methodologies. Stay ahead of the curve as we deploy modern frameworks and optimized solutions that set you apart from the competition.",
+                        "image": "/images/service/tech-edge-accordion-img.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Customized Solutions",
+                        "icon": "/images/service/amazon-accordion-icon-2.svg",
+                        "contentTitle": "Tailored for Your Needs",
+                        "contentDesc": "Every aspect of our web development is customized to fit your unique business goals and requirements. We ensure that every digital challenge you face is met with a precise, bespoke solution that fits like a glove.",
+                        "image": "/images/service/custom-sol-accordion-img.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Streamlined Operations",
+                        "icon": "/images/service/amazon-accordion-icon-3.svg",
+                        "contentTitle": "Simplify Your Web Management",
+                        "contentDesc": "Imagine a world where website maintenance and updates are no longer your concern—where we handle the complexities, and you focus on your business growth.",
+                        "image": "/images/service/stream-operation-accordion-img.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Time Efficiency",
+                        "icon": "/images/service/amazon-accordion-icon-4.svg",
+                        "contentTitle": "More Time, More Possibilities",
+                        "contentDesc": "Reclaim valuable hours as we optimize and automate your web operations. Use the extra time to innovate, expand your business, or simply enjoy more moments of relaxation—how you use it is up to you.",
+                        "image": "/images/service/time-efficient-accordion-img.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Expert Insights",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Navigate with Confidence",
+                        "contentDesc": "Move forward with the assurance that comes from having seasoned web development experts by your side. Our team guides you through every phase of the web lifecycle, ensuring you make informed, effective decisions that drive success.",
+                        "image": "/images/service/expert-insight-accordion-img.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "benefits",
+            "type": "benefits",
+            "enabled": true,
+            "data": {
+                "title": "Maximize Your Web Efficiency with BridgeWayDigital's Specialized Services Compared to Other Options",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/bwd-logo-black-design-for-brand-identification.svg",
+                            "width": 180,
+                            "height": 29,
+                            "alt": "BWD logo black design for brand identification"
+                        },
+                        "list": [
+                            "Advanced Front-End and Back-End Development.",
+                            "Proactive Security Updates and Compliance.",
+                            "Tailored UX/UI Design for Enhanced User Engagement.",
+                            "Continuous Integration/Continuous Deployment (CI/CD) Pipelines."
+                        ]
+                    },
+                    {
+                        "title": "In-House Marketing",
+                        "list": [
+                            "Often limited to basic front-end capabilities, lacking depth in complex back-end solutions.",
+                            "Security efforts may be reactive, only updating after vulnerabilities have been exploited.",
+                            "Designs often focus on functionality without integrating the latest UX/UI trends for engagement.",
+                            "May struggle with manual deployment processes, slowing down updates and fixes."
+                        ]
+                    },
+                    {
+                        "title": "Typical Marketing Agency",
+                        "list": [
+                            "May reuse standard templates and architectures, sacrificing performance and customization.",
+                            "Limited scope in ongoing security monitoring and updating, increasing risk exposure.",
+                            "Utilizes broad, non-customized design frameworks that may not align with specific brand identities.",
+                            "Often lacks the sophistication in deployment strategies, leading to longer downtimes and slower rollouts."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Website Development Services Deliverables",
+                "description": "An in-depth overview of the deliverables for each web development service offered by BridgeWay Digital.",
+                "tableData": {
+                    "title": "Deliverables",
+                    "columns": [
+                        "Standard Package\t",
+                        "Business Package",
+                        "Enterprise Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Website Design & Development",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Responsive Design Implementation",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Basic SEO Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Intermediate SEO Optimization",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Comprehensive SEO Optimization",
+                            "values": [
+                                "",
+                                "",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance Optimizationy",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance and Security Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Advanced Responsive Design",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance, Security, Scalability Optimization",
+                            "values": [
+                                "",
+                                "",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "User Manual and Documentation",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "CMS Setup and Customization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Cross-Browser Compatibility Testing",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "API Integration",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Database Schema Development",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Custom Plugin/Module Development",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Third-Party Services Integration",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Website Accessibility Enhancements",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Data Migration Services",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Advanced Analytics and Reporting Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Continuous Integration/Deployment (CI/CD) Setup",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Automated Backups and Recovery Solutions",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ongoing Support and Maintenance",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Security Audits and Compliance Checks",
+                            "values": [
+                                "",
+                                "",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Post-Launch Optimization and Updates",
+                            "values": [
+                                "",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Future Upgrade Recommendations",
+                            "values": [
+                                "",
+                                "",
+                                "tick"
+                            ]
+                        }
+                    ]
+                },
+                "staticRowData": {
+                    "title": "Connect With An Website Development Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote?service=web-development&price=1500&package-type=standard",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?service=web-development&price=2500&package-type=bussiness",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?service=web-development&price=4500&package-type=enterprise",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "sert-cta-three",
+            "type": "sertCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Can’t Decide Where to Start?",
+                "textBefore": "Get Your ",
+                "textHighlight": "Free Website Development Audit",
+                "textAfter": " and see immediate business potential",
+                "button": {
+                    "text": "GET YOUR FREE AUDIT",
+                    "href": "/get-a-free-quote?service=web-development"
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "What Services Are Included in Web Development?",
+                "desc": "Web Development Services encompass a range of solutions tailored to enhance online presence. These services include responsive design, CMS integration, UI/UX development, cross-browser compatibility, and multimedia content integration. By leveraging these services, businesses can ensure their websites are visually appealing, functionally robust, and optimized for user engagement and search engine visibility.",
+                "tabs": [
+                    {
+                        "title": "   Web Hosting Setup",
+                        "eventKey": "tab1"
+                    },
+                    {
+                        "title": "   UI/UX Development",
+                        "eventKey": "tab2"
+                    },
+                    {
+                        "title": "   Cross-Browser Compatibility",
+                        "eventKey": "tab3"
+                    },
+                    {
+                        "title": "   CMS Integration",
+                        "eventKey": "tab4"
+                    },
+                    {
+                        "title": "   Responsive Design",
+                        "eventKey": "tab5"
+                    },
+                    {
+                        "title": "   Multimedia Content Integration",
+                        "eventKey": "tab6"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "title": "Optimized Hosting Solutions for Peak Performance",
+                        "para": "Selecting the right web hosting is crucial for the performance, security, and scalability of your website. Our Web Hosting Setup service meticulously evaluates your specific needs to recommend the most suitable hosting solution, be it shared, VPS, dedicated, or cloud-based. We optimize server configurations with advanced caching techniques, implement robust SSL/TLS encryption, and integrate Content Delivery Networks (CDNs) to enhance global accessibility and reduce latency.",
+                        "ImgSrc": "/images/service/web-hosting-img.webp"
+                    },
+                    {
+                        "title": "Enhancing User Interaction Through Innovative Design",
+                        "para": "At the heart of our UI/UX Development service is a commitment to creating engaging and intuitive user experiences. Utilizing the latest in design technology and trends, we craft visually stunning and functionally rich interfaces that captivate and retain users. This process involves detailed user and market research to ensure our designs meet user expectations and business goals alike. We employ responsive design techniques to ensure seamless functionality across all devices, from desktops to smartphones.",
+                        "ImgSrc": "/images/service/ui-ux-dev-img.webp"
+                    },
+                    {
+                        "title": "Ensuring Uniform Performance Across All Platforms",
+                        "para": "In today’s diverse web environment, ensuring that your website operates flawlessly on all browsers is crucial. Our Cross-Browser Compatibility service meticulously tests your website across a variety of web and mobile browsers, including Chrome, Firefox, Safari, and Edge, to identify and resolve inconsistencies. We utilize advanced tools and scripting solutions to manage browser-specific issues, ensuring that HTML, CSS, and JavaScript behave consistently.",
+                        "ImgSrc": "/images/service/cross-browser-img.webp"
+                    },
+                    {
+                        "title": "Streamline Content Management",
+                        "para": "Empower your team to manage website content effectively with our CMS Integration services. We specialize in integrating and customizing top Content Management Systems like WordPress, Drupal, and Joomla to suit your specific business needs. This service includes setting up intuitive dashboards, customizing templates, and configuring essential plugins that extend functionality, such as SEO tools, security enhancements, and social media integrations.",
+                        "ImgSrc": "/images/service/cms-integration-img.webp"
+                    },
+                    {
+                        "title": "Adaptive Interfaces for Every Device",
+                        "para": "Our Responsive Design service ensures that your website delivers a flawless user experience on any device. By employing fluid grid layouts, flexible images, and CSS3 media queries, we create designs that adapt and resize content based on the device’s screen size. This approach is crucial for maintaining usability and aesthetics from desktop monitors to smartphones.",
+                        "ImgSrc": "/images/service/responsive-design-img.webp"
+                    },
+                    {
+                        "title": "Enhancing Engagement through Interactive Media",
+                        "para": "Leverage the power of multimedia to engage your audience with our Multimedia Content Integration service. We incorporate audio, video, and other interactive elements into your website to create a rich, immersive user experience. This includes optimizing media files for fast loading and compatibility across all devices, using advanced compression techniques and modern formats like WebP for images and HTML5 video.",
+                        "ImgSrc": "/images/service/multimedia-content-img.webp"
+                    }
+                ],
+                "buttonLink": "get-a-free-quote?service=web-development",
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                }
+            }
+        },
+        {
+            "id": "faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is web development in simple words?",
+                        "answer": "Web development is the process of building and maintaining websites. It involves creating web pages, programming site functionality, and ensuring sites work well on all devices and browsers."
+                    },
+                    {
+                        "question": "Which language is best for web development?",
+                        "answer": "JavaScript is widely considered the best language for web development due to its versatility in building interactive and dynamic websites. It operates on both the client and server side."
+                    },
+                    {
+                        "question": "Is web development still needed?",
+                        "answer": "Yes, web development is crucial as it enables businesses to establish an online presence, reach wider audiences, and provide services through digital platforms, which are essential in today's technology-driven world."
+                    },
+                    {
+                        "question": "Which is the most used language in web development?",
+                        "answer": "JavaScript remains the most used language in web development, fundamental for front-end development and increasingly popular for back-end with frameworks like Node.js."
+                    },
+                    {
+                        "question": "What is the difference between a website from a website builder and a custom website?",
+                        "answer": "A website from a website builder is created using pre-designed templates and drag-and-drop interfaces, offering speed and convenience but limited customization. A custom website is built from scratch, tailored specifically to a client’s needs, allowing unique design and functionality."
+                    },
+                    {
+                        "question": "What is the difference between AI-built websites and custom-built websites?",
+                        "answer": "AI-built websites are generated automatically using artificial intelligence, offering quick deployment and basic functionalities with limited customization. Custom-built websites are manually developed by web developers, providing bespoke solutions, unique designs, and extensive functionality tailored to specific business requirements."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Elevate Your Online Presence With Expert Web Development Services"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Harness the full potential of modern web technologies by building a high-performance website with us. We optimize your site with responsive design, fast load times, and SEO-friendly content that enhances visibility and user engagement. Our strategic deployment of front-end and back-end technologies ensures that your site not only looks great but performs exceptionally, consistently achieving significant improvements in user retention and conversion rates."
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Our data-driven approach includes comprehensive user behavior analysis and A/B testing, enabling us to tailor your website precisely to meet your target audience's needs, thereby boosting your site's effectiveness and profitability."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Why Choose BridgeWayDigital for Your Web Development Needs?"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "By consistently delivering projects that exceed industry standards, we ensure our clients gain a competitive edge that translates into increased traffic, higher conversion rates, and robust ROI. Trust us to transform your digital challenges into growth opportunities with a beautifully crafted, seamlessly functional website."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWayDigital advantage today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get a free proposal",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of web development services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Website development challenges abridged",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can your website perform better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Website development pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Website Services Comparison",
+                            "href": "#benefits"
+                        },
+                        {
+                            "text": "Web development Service packages and deliverables",
+                            "href": "#table"
+                        },
+                        {
+                            "text": "Web development FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

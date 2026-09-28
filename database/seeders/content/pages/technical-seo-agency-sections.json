@@ -1,0 +1,64 @@
+{
+  "attributes": {
+    "slug": "technical-seo-agency-sections",
+    "title": "technical-seo-agency — Forms and feeds",
+    "template": "global",
+    "is_cms_managed": true,
+    "status": true,
+    "sort_order": 0
+  },
+  "seo": null,
+  "images": [],
+  "sections": [
+    {
+      "id": "service-hero",
+      "type": "serviceHero",
+      "enabled": true,
+      "data": {
+        "form": {
+          "label": "Enter your details",
+          "placeholder": "Enter your details",
+          "submitText": "Get Your Free Quote"
+        }
+      }
+    },
+    {
+      "id": "ser-contact-form",
+      "type": "serContactForm",
+      "enabled": true,
+      "data": {
+        "uploadLabel": "Upload Reference/Sample (can send later as well)",
+        "uploadAccessibleLabel": "Upload reference or sample file",
+        "heading": "Get Technical SEO Services in the fastest turnaround time worldwide!",
+        "eyebrow": "Engage with us on your terms.",
+        "steps": [
+          "Fill in our quick form",
+          "Our consultant will contact you to discuss your needs",
+          "Receive your website delivered securely before the deadline"
+        ],
+        "formTitle": "Book a Consultation",
+        "formNotice": "No Payment or Credit Card Required. Initially",
+        "formDescription": "Complete the form below and we’ll contact you with further instructions and details about your project.",
+        "fields": {
+          "name": {
+            "label": "Name",
+            "placeholder": "Name:"
+          },
+          "email": {
+            "label": "Email",
+            "placeholder": "Email:"
+          },
+          "phone": {
+            "label": "Phone Number",
+            "placeholder": "Phone Number:"
+          },
+          "projectDetails": {
+            "label": "Define Your Project",
+            "placeholder": "Define Your Project (Optional)"
+          }
+        },
+        "submitText": "Submit"
+      }
+    }
+  ]
+}

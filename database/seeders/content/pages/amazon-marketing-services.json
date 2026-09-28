@@ -1,0 +1,1100 @@
+{
+    "attributes": {
+        "slug": "amazon-marketing-services",
+        "title": "Amazon Marketing Agency | Amazon Services | BridgeWayDigital",
+        "template": "amazon-service",
+        "is_cms_managed": true,
+        "status": true,
+        "sort_order": 0
+    },
+    "seo": {
+        "meta_title": "Amazon Marketing Agency | Amazon Services | BridgeWayDigital",
+        "meta_description": "Supercharge your Amazon stores 3x faster with the best Amazon marketing services! Bridgeway Digital is the top Amazon agency for SMBs and enterprises alike!",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/amazon-marketing-services",
+        "keywords": "Amazon Marketing Services",
+        "og_title": "Amazon Marketing Agency | Amazon Services | BridgeWayDigital",
+        "og_description": "Supercharge your Amazon stores 3x faster with the best Amazon marketing services! Bridgeway Digital is the top Amazon agency for SMBs and enterprises alike!",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/amazon-marketing-services",
+        "og_image": "/images/og/amazon-marketing-services.jpg",
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Amazon Marketing Agency | Amazon Services | BridgeWayDigital",
+        "twitter_description": "Supercharge your Amazon stores 3x faster with the best Amazon marketing services! Bridgeway Digital is the top Amazon agency for SMBs and enterprises alike!",
+        "twitter_image": "/images/og/amazon-marketing-services.jpg"
+    },
+    "images": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "sertHero",
+            "enabled": true,
+            "data": {
+                "title": "Amazon Marketing Agency",
+                "del": "Upsell Trap. False Guarantees. Hidden Fees",
+                "detail": "Transparent Pricing, 3x Results, Lifelong Partnerships!",
+                "furtherDetail": "Unlock full potential of your Amazon business with our suite of Amazon marketing services. <span> Line Up with an Amazon Expert</span> or get a <span>Free Audit of Your Amazon Store</span> to learn how we drive <span>3x returns</span> for brands just like yours!",
+                "logos": [
+                    {
+                        "src": "/images/service/hero-logo-1.webp",
+                        "alt": "Partner logo",
+                        "width": 150,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-2.webp",
+                        "alt": "Partner logo",
+                        "width": 215,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-3.webp",
+                        "alt": "Partner logo",
+                        "width": 100,
+                        "height": 80
+                    }
+                ],
+                "formContent": {
+                    "title": "Get a Free Amazon Store Audit!",
+                    "fields": {
+                        "fullName": {
+                            "label": "Full Name",
+                            "placeholder": "Full Name"
+                        },
+                        "email": {
+                            "label": "Email Address",
+                            "placeholder": "Your Email"
+                        },
+                        "phone": {
+                            "label": "Phone Number",
+                            "placeholder": "(201) 555-0123"
+                        },
+                        "products": {
+                            "label": "Number of Products Listed",
+                            "placeholder": "Please Select",
+                            "options": [
+                                {
+                                    "value": "1-10",
+                                    "label": "1-10"
+                                },
+                                {
+                                    "value": "11-50",
+                                    "label": "11-50"
+                                },
+                                {
+                                    "value": "51-100",
+                                    "label": "51-100"
+                                },
+                                {
+                                    "value": "100+",
+                                    "label": "100+"
+                                }
+                            ]
+                        },
+                        "country": {
+                            "label": "Country"
+                        },
+                        "storeUrl": {
+                            "label": "Website URL/Amazon Store URL",
+                            "placeholder": "Website URL/Amazon Store URL"
+                        },
+                        "budget": {
+                            "label": "Estimated Budget",
+                            "placeholder": "Select Price",
+                            "options": [
+                                {
+                                    "value": "$0 - $500",
+                                    "label": "$0 - $500"
+                                },
+                                {
+                                    "value": "$500 - $1000",
+                                    "label": "$500 - $1000"
+                                },
+                                {
+                                    "value": "$1000 - $5000",
+                                    "label": "$1000 - $5000"
+                                },
+                                {
+                                    "value": "$5000+",
+                                    "label": "$5000+"
+                                }
+                            ]
+                        },
+                        "expectations": {
+                            "label": "What are your expectations from us?",
+                            "placeholder": "Let's break the ice. Write in as much detail as you want."
+                        }
+                    },
+                    "complimentaryTitle": "Complimentary Audit Includes:",
+                    "complimentaryItems": [
+                        "Keyword Research",
+                        "Growth Potential",
+                        "Expert Recommendations"
+                    ],
+                    "ratings": [
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        },
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        }
+                    ],
+                    "submitText": "SUBMIT"
+                }
+            }
+        },
+        {
+            "id": "sert-slider",
+            "type": "sertSlider",
+            "enabled": true,
+            "data": {
+                "sliderSettings": {
+                    "delay": 2000
+                },
+                "slides": [
+                    {
+                        "alignCenter": false,
+                        "items": [
+                            {
+                                "type": "text",
+                                "value": "$5M+",
+                                "label": "Revenue Driven"
+                            },
+                            {
+                                "type": "text",
+                                "value": "75+",
+                                "label": "Brands Managed"
+                            },
+                            {
+                                "type": "text",
+                                "value": "3.5M",
+                                "label": "Sessions Generated"
+                            },
+                            {
+                                "type": "text",
+                                "value": "10+",
+                                "label": "Impressions Created"
+                            },
+                            {
+                                "type": "text",
+                                "value": "1M+",
+                                "label": "Product Sold"
+                            }
+                        ]
+                    },
+                    {
+                        "alignCenter": true,
+                        "items": [
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-1.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-2.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-3.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-4.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-5.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "Full Service Amazon Marketing Agency To Power Your Business Growth",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Amazon Account Management",
+                        "icon": "/website/images/image-showcasing-vibrant-layout-design-with-animation-effects.webp",
+                        "contentTitle": "Streamlined Operations, Tangible Growth",
+                        "contentDesc": "Master the Amazon A10 algorithm by choosing as your Amazon management agency. We meticulously optimize your sales channel, ensuring compliance, efficiency, and scalability—your first step in acing your amazon marketing campaigns.",
+                        "image": "/images/amazon-marketing-services/amazon-account-img.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Amazon PPC Management",
+                        "icon": "/website/images/image-demonstrating-user-focused-web-design-with-clean-animation-effects.webp",
+                        "contentTitle": "Precision Bidding, Stellar Returns",
+                        "contentDesc": "Leverage our expert PPC strategies to cut through the noise. We refine your amazon marketing campaigns with A/B testing and conversion rate analysis, focusing on cost-per-click (CPC) reduction and maximizing click-through rate (CTR).",
+                        "image": "/images/amazon-marketing-services/amazon-account-img.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Amazon Product Sourcing",
+                        "icon": "/website/images/image-showcasing-smooth-user-interaction-with-advanced-web-animation.webp",
+                        "contentTitle": "Quality Sourcing, First-Rate Products",
+                        "contentDesc": "Revolutionize your inventory with our strategic product sourcing. We act as both as an Amazon FBA agency and an Amazon FBM agency to negotiate directly with vetted suppliers to ensure quality and cost-effectiveness, streamlining your supply chain for peak operational performance.",
+                        "image": "/images/amazon-marketing-services/amazon-product-img.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Amazon Listing Optimization",
+                        "icon": "/website/images/image-illustrating-creative-layout-and-interactive-web-features.webp",
+                        "contentTitle": "Strategic Listings, Superior Sales",
+                        "contentDesc": "Elevate your product's visibility with SEO-rich listings tailored to Amazon’s A9 algorithm. Our strategic keyword placement and competitive analysis boost your organic rankings and enhance buyer engagement.",
+                        "image": "/images/amazon-marketing-services/amazon-listing-img.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Enhanced Brand Content",
+                        "icon": "/website/images/enhanced-brand-content-layout-sample.webp",
+                        "contentTitle": "Engaging Content, Enhanced Conversions",
+                        "contentDesc": "Captivate and convert with our Enhanced Brand Content. As your amazon content agency, we utilize high-quality images and SEO-optimized descriptions, creating compelling narratives that enrich your brand story and amplify purchase intent.",
+                        "image": "/images/amazon-marketing-services/enhance-brand-img.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-call",
+            "type": "serCall",
+            "enabled": true,
+            "data": {
+                "contactOptions": [
+                    {
+                        "icon": "/images/service/SerCallbox-icon-1.svg",
+                        "eyebrow": "Toll Free",
+                        "label": "{{contact.phone.display}}",
+                        "href": "{{contact.phone.href}}"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-2.svg",
+                        "eyebrow": "Request",
+                        "label": "Call Back"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-3.svg",
+                        "eyebrow": "Start a",
+                        "label": "Live Chat"
+                    }
+                ],
+                "heading": "Need Amazon marketing services ASAP? We're waiting for your call!",
+                "description": "Whether you need your Amazon marketing strategy developed from scratch or want to skyrocket your sales, our Amazon marketing experts are behind the desk to start on your project with top priority. Call right away!"
+            }
+        },
+        {
+            "id": "revenue-calculate",
+            "type": "revenueCalculate",
+            "enabled": true,
+            "data": {
+                "titleBefore": "Amazon Success Starting ",
+                "titleHighlight": "As Low As $1500",
+                "description": "Unlock your potential on Amazon with Amazon Marketing Services that are tailored as per your needs. Multiply your Amazon store revenue and unravel your industry’s potential.",
+                "descriptionHighlight": "Start today!",
+                "list": [
+                    "Optimized SEO Listings",
+                    "Profitable PPC Management",
+                    "Full-Fledge Account Management",
+                    "Data-Driven Analytics"
+                ],
+                "cardTitle": "Estimated Revenue",
+                "currency": "$",
+                "revenueMultiplier": 4,
+                "sliderIcon": "/images/service/revenue-slider-icon.svg",
+                "buttonText": "GET STARTED WITH",
+                "sliderOptions": [
+                    {
+                        "investment": 1500,
+                        "revenue": 6000
+                    },
+                    {
+                        "investment": 2500,
+                        "revenue": 10000
+                    },
+                    {
+                        "investment": 4500,
+                        "revenue": 18000
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-card",
+            "type": "sertCard",
+            "enabled": true,
+            "data": {
+                "title": "What you get working with BridgeWay Digtal",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/expanding-ecommerce-to-global-markets.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Expanding ecommerce to global markets"
+                        },
+                        "title": "Expand to Global Markets",
+                        "description": "Go global effortlessly. Extend your reach and captivate customers worldwide with strategies designed for international success."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/scale-when-required-for-business-growth-and-scalability.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Scale when required for business growth and scalability"
+                        },
+                        "title": "Scale When Required",
+                        "description": "Scale smartly and efficiently. Leverage our support to adapt and grow your business seamlessly as market demands evolve."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/navigating-amazon-with-ease-for-effective-seller-strategies.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Navigating Amazon with ease for effective seller strategies"
+                        },
+                        "title": "Navigate Amazon with Ease",
+                        "description": "Eliminate the guesswork and complexity of Amazon’s marketplace with our expert guidance and insights."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "packages",
+            "type": "sertPackages",
+            "enabled": true,
+            "data": {
+                "title": "Amazon Marketing Services Packages Tailored To Your Needs",
+                "packages": [
+                    {
+                        "title": "Standard Package",
+                        "price": "$1,500",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$4,250",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up to 5 products",
+                        "features": [
+                            "Amazon Listing Audit & Optimization",
+                            "Amazon Ads Setup",
+                            "Amazon PPC Management",
+                            "Account Monitoring"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=1500&package-type=standard&service=Marketing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Business Package",
+                        "price": "$2,500",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$7,150",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up to 10 products",
+                        "features": [
+                            "Amazon Listing Audit & Optimization",
+                            "Amazon Ads Setup",
+                            "Amazon PPC Management",
+                            "Account Monitoring"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=4500&package-type=bussiness&service=Marketing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Enterprise Package",
+                        "price": "$4500",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$12,900",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up to 15 products",
+                        "features": [
+                            "Amazon Listing Audit & Optimization",
+                            "Amazon Ads Setup",
+                            "Amazon PPC Management",
+                            "Account Monitoring"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=4500&package-type=enterprise&service=Marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta",
+            "type": "sertCta",
+            "enabled": true,
+            "data": {
+                "beforeFirstTag": "With BridgeWay Digital, your Amazon Marketing gets ",
+                "firstTag": {
+                    "text": "Featured Pack",
+                    "href": "#"
+                },
+                "betweenFirstSecondTag": " , giving you an unfair advantage of 3x returns in ",
+                "secondTag": {
+                    "text": "Comparison",
+                    "href": "#"
+                },
+                "betweenSecondThirdTag": " to our counterparts, all whilst starting at just ",
+                "thirdTag": {
+                    "text": "$1500",
+                    "href": "#"
+                },
+                "icons": {
+                    "arrowIcon": "/images/service/SertCta-arrow-icon.svg",
+                    "starIcon": "/images/service/ser-star-icon.svg",
+                    "diamondIcon": "/images/service/ser-dimond-icon.svg",
+                    "heartIcon": "/images/service/ser-heart-icon.svg"
+                }
+            }
+        },
+        {
+            "id": "perform-card",
+            "type": "performCard",
+            "enabled": true,
+            "data": {
+                "heading": "Can Your Amazon Store Perform Better?",
+                "detail": "We believe it can! Our battle-tested process is tailored for optimizations to deliver 3x results for Amazon stores just like yours!",
+                "cardContent": [
+                    {
+                        "icon": "/website/images/initial-consultation-icon-representing-the-start-of-a-project.webp",
+                        "title": "Initial Consultation",
+                        "desc": "We start with a deep dive into your business goals and existing Amazon operations to tailor our approach specifically to your needs."
+                    },
+                    {
+                        "icon": "/website/images/market-analysis-icon-showcasing-business-data-insights.webp",
+                        "title": "Market Analysis",
+                        "desc": "Our team conducts thorough research to understand market trends, competitor strategies, and customer behavior specific to your products."
+                    },
+                    {
+                        "icon": "/website/images/strategic-planning-for-business-growth-and-development.webp",
+                        "title": "Strategic Planning",
+                        "desc": "Based on insights gathered, we develop a comprehensive strategy focusing on product positioning, pricing, and promotional tactics that align with your objectives."
+                    },
+                    {
+                        "icon": "/website/images/brand-registry-representing-amazon-brand-protection.webp",
+                        "title": "Roadmap Execution",
+                        "desc": "We meticulously roll out the planned actions, from optimizing listings and enhancing brand content to launching targeted advertising campaigns."
+                    },
+                    {
+                        "icon": "/website/images/a-content-showcasing-enhanced-product-pages.webp",
+                        "title": "Performance Monitoring",
+                        "desc": "Our process includes ongoing monitoring of your Amazon store's performance, allowing us to make data-driven adjustments to strategies in real time."
+                    },
+                    {
+                        "icon": "/website/images/product-launch-symbolizing-product-introduction.webp",
+                        "title": "Analytical Reporting",
+                        "desc": "We provide detailed reports on the outcomes and performance metrics, ensuring transparency and informing future strategies for even greater success."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta-two",
+            "type": "sertCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Gain the BridgeWay Digital advantage, starting as low as $1500",
+                "button": {
+                    "url": "/get-a-free-quote?amazon=1&service=Marketing",
+                    "text": "GET YOUR FREE PROPOSAL"
+                },
+                "bgImg": {
+                    "src": "/images/service/SertCtaTwo-bg.webp",
+                    "alt": "sertCtaTwo-bg"
+                }
+            }
+        },
+        {
+            "id": "sert-content",
+            "type": "sertContent",
+            "enabled": true,
+            "data": {
+                "heading": "Feature-Packed Amazon Marketing Services To Transform Potential Into Real Gains!",
+                "secContent": [
+                    {
+                        "title": "Holisitc Campaign Analysis",
+                        "textOne": "Optimize Multi-Channel Synergy",
+                        "color": "#F33B3E",
+                        "textTwo": "Gain a competitive edge with our Holistic Campaign Analysis. By aggregating data across multiple dimensions—including Impressions, Click-Through Rate (CTR), and Total Advertising Cost of Sale (TACoS)—we provide a 360-degree view of your campaign's performance. This analysis is powered by advanced analytics that dissect big data to deliver actionable insights, helping you to fine-tune your marketing strategies and improve engagement.",
+                        "imgSrc": "/website/images/holistic-campaign-mobile-version-for-optimized-mobile-display.webp"
+                    },
+                    {
+                        "title": "Customized Reporting & Insights",
+                        "textOne": "Extract Targeted Intelligence",
+                        "color": "#FFB703",
+                        "textTwo": "Empower your decision-making with Customized Reporting & Insights. By harnessing the power of Amazon's API, we extract and analyze vast amounts of data to provide you with detailed reports on market conditions, competitor behaviors, and consumer trends. These reports are tailored to your specific needs, offering strategic insights that can guide your product development and marketing strategies.",
+                        "imgSrc": "/website/images/visual-from-blog-article-with-key-data-points.webp"
+                    },
+                    {
+                        "title": "Cross-Chanel Marketing Integration",
+                        "textOne": "Optimize Multi-Channel Synergy",
+                        "color": "#FF763A",
+                        "textTwo": "Elevate your brand's coherence across all platforms with our Cross-Channel Marketing Integration. This strategy enables you to synchronize your Amazon advertising efforts with broader digital marketing campaigns, creating a seamless consumer experience. We employ sophisticated UTM parameters for meticulous tracking and advanced attribution models to analyze cross-channel influence effectively, ensuring that every engagement point is optimized for maximum impact.",
+                        "imgSrc": "/website/images/design-driven-image-showcasing-blog-insights.webp"
+                    },
+                    {
+                        "title": "Augmented Brand Protection",
+                        "textOne": "Fortify Your Brand Security",
+                        "color": "#626BFF",
+                        "textTwo": "Protect your brand's integrity and customer trust with our Brand Protection services. We utilize cutting-edge technology to monitor and manage your brand presence, employing automated counterfeit detection systems and robust enforcement protocols to mitigate risks. Our proactive measures detect and remove counterfeit listings, ensuring that your brand's value is upheld and your consumers receive authentic products.",
+                        "imgSrc": "/website/images/image-showcasing-blog-article-data-insights.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ticker",
+            "type": "sertTicker",
+            "enabled": true,
+            "data": {
+                "heading": "Baseline to Benchmarks: Your Amazon Transformation With BridgeWayDigital Awaits",
+                "description": "Partner with BridgeWayDigital to witness unparalleled Year on Year (YOY) and Month on Month (MOM) average growth rates. Boost your revenue, optimize costs, and skyrocket conversions—your Amazon success journey starts here!",
+                "tabContent": [
+                    {
+                        "title": 235,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Revenue YoY"
+                    },
+                    {
+                        "title": 20,
+                        "sign": "-",
+                        "unit": "%",
+                        "text": "Decrease in ACoS MoM"
+                    },
+                    {
+                        "title": 85,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Conversions YoY"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "made-the-choice",
+            "type": "madeTheChoice",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Leading Amazon Stores That Made The Choice You’re Still Thinking About!",
+                "headingclass": "sub-heading-two sub-heading-two-width",
+                "MadeTheChoiceData": [
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-1.webp",
+                        "textone": ">1.3M",
+                        "texttwo": "Views"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-2.webp",
+                        "textone": "3X",
+                        "texttwo": "Faster Time to Launch"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-3.webp",
+                        "textone": "27%",
+                        "texttwo": "Traffic Increases"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-4.webp",
+                        "textone": "4X",
+                        "texttwo": "Faster Speed to Market"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "What YOU get with BridgeWayDigital!",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Reduced Operational Stress",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Effortless Amazon Mastery",
+                        "contentDesc": "Imagine a world where Amazon complexities are no longer your concern—where we manage the minutiae, and you reap the rewards.",
+                        "image": "/images/service/tech-edge-accordion-img.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Unfair Advantage",
+                        "icon": "/images/service/amazon-accordion-icon-2.svg",
+                        "contentTitle": "Leap Ahead with Ease",
+                        "contentDesc": "Outsmart the marketplace with our proprietary analytics and savvy strategies—watch competitors trail behind as you surge ahead.",
+                        "image": "/images/service/custom-sol-accordion-img.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Personalized Support",
+                        "icon": "/images/service/amazon-accordion-icon-3.svg",
+                        "contentTitle": "Custom Fit for Success",
+                        "contentDesc": "Every aspect of our service is tailored just for you, ensuring that every Amazon challenge is met with a bespoke solution.",
+                        "image": "/images/service/stream-operation-accordion-img.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "More On Hand Time",
+                        "icon": "/images/service/amazon-accordion-icon-4.svg",
+                        "contentTitle": "Unlock Extra Hours",
+                        "contentDesc": "Gain back precious hours as we streamline your operations. Use your newfound time for growth, creativity, or relaxation—your choice.",
+                        "image": "/images/service/time-efficient-accordion-img.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Expert Guidance",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Your Amazon Compass",
+                        "contentDesc": "Steer through Amazon's tumultuous waters with our amazon marketing expert’s guidance at your helm, securing your path to triumph with every decision.",
+                        "image": "/images/service/expert-insight-accordion-img.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "benifits",
+            "type": "benefits",
+            "enabled": true,
+            "data": {
+                "title": "Unlock The Unfair Advantage with 3x Amazon Marketing Returns Compared To Other Options",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/bwd-logo-black-design-for-brand-identification.svg",
+                            "width": 180,
+                            "height": 29,
+                            "alt": "BWD logo black design for brand identification"
+                        },
+                        "list": [
+                            "Tailored strategies leveraging real-time Amazon marketplace data.",
+                            "Cost-efficient model with no overhead or hidden costs.",
+                            "Deep dive analytics that forecast market changes and consumer behavior.",
+                            "Dedicated account manager ensures personalized service and rapid response."
+                        ]
+                    },
+                    {
+                        "title": "In-House Marketing",
+                        "list": [
+                            "Limited access to advanced market analytics tools.",
+                            "High overhead costs including salaries, training, and benefits.",
+                            "Basic analytics may overlook key trends and market shifts.",
+                            "Often understaffed, leading to slower issue resolution."
+                        ]
+                    },
+                    {
+                        "title": "Typical Marketing Agency",
+                        "list": [
+                            "Generic strategies often recycled across different clients.",
+                            "Service fees often include hidden costs and markups.",
+                            "Standard analytics provided, lacking customization and foresight.",
+                            "Broad client base can dilute focus and delay communications."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Amazon Marketing Services Deliverables",
+                "description": "An in-depth dive into the amazon marketing packages, showcasing deliverables and fixed pricing for each model.",
+                "tableData": {
+                    "columns": [
+                        "Standard Package",
+                        "Business Package",
+                        "Enterprise Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Products",
+                            "values": [
+                                "text:1-5",
+                                "text:6-10",
+                                "text:11-15"
+                            ]
+                        },
+                        {
+                            "title": "Amazon Store Audit",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Amazon Account Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Account Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Seller Support",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Strategy",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Listing Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Listing Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Product Launches",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "A/B Testing",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Amazon Ads Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Amazon PPC Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Enhanced Brand Content",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Technical Support",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        }
+                    ],
+                    "title": "Features"
+                },
+                "staticRowData": {
+                    "title": "Connect With An Amazon Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=1500&package-type=standard&service=Marketing",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=2500&package-type=bussiness&service=Marketing",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=4500&package-type=enterprise&service=Marketing",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "sert-cta-three",
+            "type": "sertCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Can’t Decide Where to Start?",
+                "textBefore": "Get Your ",
+                "textHighlight": "Free Amazon Store Audit",
+                "textAfter": " and see immediate business potential",
+                "button": {
+                    "text": "GET YOUR FREE AUDIT",
+                    "href": "/get-a-free-quote?amazon=1&service=Marketing"
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Why Use Amazon Marketing Services To Sell Your Products?",
+                "desc": "Amazon Marketing Services (AMS) offers targeted tools to increase product visibility and sales on the world's largest online marketplace. By leveraging AMS, brand owners can effectively reach a vast audience, enhance their product listings, and drive more meaningful engagement, leading to increased revenue.",
+                "tabs": [
+                    {
+                        "title": "   Optimized Listing Content",
+                        "eventKey": "tab1"
+                    },
+                    {
+                        "title": "   Cost-Effective PPC Campaigns",
+                        "eventKey": "tab2"
+                    },
+                    {
+                        "title": "   Rapid Market Penetration",
+                        "eventKey": "tab3"
+                    },
+                    {
+                        "title": "   Access To Prime Shoppers",
+                        "eventKey": "tab4"
+                    },
+                    {
+                        "title": "   Integrated Marketing Solutions",
+                        "eventKey": "tab5"
+                    },
+                    {
+                        "title": "   Advanced Analytics & Reporting",
+                        "eventKey": "tab6"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "title": "Optimized Listing Content",
+                        "para": "Optimizing your product listings on Amazon is crucial for increasing visibility and conversion rates. By using Amazon Marketing Services (AMS), you can enhance your listings with keyword-rich content that appeals directly to your target audience. AMS allows you to incorporate critical search terms that shoppers use, improving your products' SEO and making them more discoverable.",
+                        "ImgSrc": "/images/service/web-hosting-img.webp"
+                    },
+                    {
+                        "title": "Cost-Effective PPC Campaigns",
+                        "para": "Amazon Marketing Services offers a pay-per-click (PPC) advertising model that ensures you only pay when potential customers click on your ads. This cost-effective approach allows you to control your budget while maximizing ad reach and engagement. Through AMS, you can create targeted ad campaigns that place your products in front of consumers who are most likely to buy. By utilizing detailed targeting options and strategic bidding, you can optimize your ad spend, focusing on high-performing keywords and demographics.",
+                        "ImgSrc": "/images/service/ui-ux-dev-img.webp"
+                    },
+                    {
+                        "title": "Rapid Market Penetration",
+                        "para": "Amazon Marketing Services (AMS) accelerates your ability to penetrate the market quickly, allowing new and existing products to gain visibility and traction at an accelerated pace. Through targeted advertising and optimized listings, AMS places your products directly in front of active buyers, reducing the time it takes to establish a strong presence on Amazon. This rapid market entry is crucial in capitalizing on trends and seizing market opportunities before competitors.",
+                        "ImgSrc": "/images/service/cross-browser-img.webp"
+                    },
+                    {
+                        "title": "Access To Prime Shoppers",
+                        "para": "Utilizing Amazon Marketing Services grants you unparalleled access to a highly desirable demographic: Amazon Prime members. These shoppers are known for their higher spending habits and frequent purchases. By targeting Prime customers through AMS, you can increase your product's exposure to consumers who are more likely to engage in quick decision-making and regular buying. This access is facilitated by AMS’s ability to feature your products in Prime-exclusive slots and promotions, enhancing visibility where it matters most.",
+                        "ImgSrc": "/images/service/cms-integration-img.webp"
+                    },
+                    {
+                        "title": "Access To Prime Shoppers",
+                        "para": "Utilizing Amazon Marketing Services grants you unparalleled access to a highly desirable demographic: Amazon Prime members. These shoppers are known for their higher spending habits and frequent purchases. By targeting Prime customers through AMS, you can increase your product's exposure to consumers who are more likely to engage in quick decision-making and regular buying. This access is facilitated by AMS’s ability to feature your products in Prime-exclusive slots and promotions, enhancing visibility where it matters most.",
+                        "ImgSrc": "/images/service/responsive-design-img.webp"
+                    },
+                    {
+                        "title": "Integrated Marketing Solutions",
+                        "para": "Amazon Marketing Services provides a suite of integrated marketing solutions that work seamlessly together to enhance your overall sales strategy on Amazon. By combining PPC campaigns, brand content enhancements, and promotional events within the Amazon ecosystem, AMS creates a cohesive marketing experience that drives brand recognition and sales. This integration extends to syncing with Amazon’s logistics and data systems, ensuring that marketing efforts are informed by real-time data and aligned with inventory levels.",
+                        "ImgSrc": "/images/service/multimedia-content-img.webp"
+                    }
+                ],
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                }
+            }
+        },
+        {
+            "id": "faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is An Amazon Marketing Agency?",
+                        "answer": "An Amazon Marketing Agency enhances sellers' online presence on Amazon. They specialize in boosting product visibility, managing effective advertising campaigns, and driving sales growth through comprehensive, data-driven marketing strategies tailored specifically for Amazon’s unique marketplace."
+                    },
+                    {
+                        "question": "What is the average cost of Amazon Marketing?",
+                        "answer": "Depending on the niche, Amazon Marketing costs can vary between $0.06 to $10 per click for PPC ads."
+                    },
+                    {
+                        "question": "How Can I Market My Product on Amazon?",
+                        "answer": "Market your product on Amazon by using targeted ads, optimizing your listings with keywords, and analyzing sales data to refine your strategy. This approach helps increase visibility and improve your sales on the Amazon marketing platform."
+                    },
+                    {
+                        "question": "How much should I invest in Amazon Marketing to see good results?",
+                        "answer": "Depending on the niche, brand owners should invest at least $1500 to see good results on Amazon for their products."
+                    },
+                    {
+                        "question": "Do I really need Amazon Marketing For My Amazon Store?",
+                        "answer": "Yes, effective Amazon Marketing is essential. It strategically improves product visibility, boosts sales performance, and positions your offerings to attract and engage potential buyers. This focused approach is vital for standing out in the competitive Amazon marketplace. You can market on Amazon yourself, or can even opt for an Amazon marketing agency to do the marketing for you."
+                    },
+                    {
+                        "question": "How to promote your product on Amazon?",
+                        "answer": "To promote your product on Amazon, utilize Amazon Advertising's tools such as Sponsored Products, Sponsored Brands, and Sponsored Display ads. Optimize your product listings with high-quality images and SEO-friendly descriptions that include relevant keywords. Additionally, encourage reviews and engage with customer questions to improve visibility and credibility."
+                    },
+                    {
+                        "question": "What is the average Amazon marketing budget?",
+                        "answer": "The average Amazon marketing budget varies widely depending on product category, competition, and objectives. Generally, sellers allocate between 10% and 20% of their total revenue to marketing efforts. For new product launches or highly competitive categories, this percentage may be higher to effectively establish presence and capture market share."
+                    },
+                    {
+                        "question": "How to market your product on Amazon?",
+                        "answer": "Market your product on Amazon by optimizing your listings with relevant keywords and high-quality images to improve search rankings. Run Amazon PPC (Pay-Per-Click) campaigns such as Sponsored Products to increase visibility. Leverage Amazon’s promotional tools like deals and coupons to attract more buyers. Consistently gather and utilize customer feedback to refine your marketing strategies."
+                    },
+                    {
+                        "question": "How to get your product noticed on Amazon?",
+                        "answer": "To get your product noticed on Amazon, focus on SEO by incorporating relevant keywords into your product title, description, and backend search terms. Utilize Amazon’s Sponsored Products ads to boost visibility. Improve your product's appeal through compelling imagery and by accumulating positive reviews, which enhance credibility and attract more customers."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Increase Your Amazon Store Revenue With Targeted Amazon Marketing Services"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Harness the power of Amazon's sophisticated A10 algorithm by optimizing your product listings with high-conversion keywords and engaging content. We strategically position your ads using Amazon PPC campaigns to maximize visibility and click-through rates, consistently achieving an average ACoS reduction of 30% MoM and over 200% increase in revenues YoY."
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Our data-driven approach includes in-depth market analysis, enabling us to tailor campaigns that connect directly with your target audience, boosting your sales volume and store profitability on the world’s largest"
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Why Choose BridgeWayDigital As Your Amazon Marketing Company?"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "By consistently outperforming industry benchmarks by 3x, we ensure our clients get the unfair advantage that translates into increasing revenues, sky rocketing conversion rates, and flourishing ROI. Trust us to bring these results to your business, transforming challenges into growth opportunities on Amazon."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWayDigital advantage today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon Marketing Services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Amazon Marketing Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can Your Amazon Store Perform Better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon Marketing Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Comparison",
+                            "href": "#benifits"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Packages & Deliverables",
+                            "href": "#ser-table"
+                        },
+                        {
+                            "text": "Amazon Marketing FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

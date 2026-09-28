@@ -1,0 +1,995 @@
+{
+  "attributes": {
+    "slug": "service-two",
+    "title": "Bridgeway Digital",
+    "template": "service-two",
+    "is_cms_managed": true,
+    "status": true,
+    "sort_order": 0
+  },
+  "seo": {
+    "meta_title": "Bridgeway Digital",
+    "meta_description": "Bridgeway Digital",
+    "seo_content": null,
+    "schema": null,
+    "microdata": null,
+    "enable_schema": true,
+    "enable_microdata": false,
+    "robots_index": "index",
+    "robots_follow": "follow",
+    "og_tags": null,
+    "canonical_url": "/service-two",
+    "keywords": null,
+    "og_title": null,
+    "og_description": null,
+    "og_type": null,
+    "og_url": null,
+    "og_image": null,
+    "twitter_card": null,
+    "twitter_title": null,
+    "twitter_description": null,
+    "twitter_image": null
+  },
+  "images": [],
+  "sections": [
+    {
+      "id": "sert-hero",
+      "type": "sertHero",
+      "enabled": true,
+      "data": {
+        "title": "Amazon Marketing Agency",
+        "del": "Upsell Trap. False Guarantees. Hidden Fees",
+        "detail": "Transparent Pricing, 3x Results, Lifelong Partnerships!",
+        "furtherDetail": "Unlock full potential of your Amazon business with our suite of Amazon marketing services. <span>Line Up with an Amazon Expert</span> or get a <span>Free Audit of Your Amazon Store</span> to learn how we drive <span>3x returns</span> for brands just like yours!",
+        "logos": [
+          {
+            "src": "/images/service/hero-logo-1.webp",
+            "alt": "Partner logo",
+            "width": 150,
+            "height": 80
+          },
+          {
+            "src": "/images/service/hero-logo-2.webp",
+            "alt": "Partner logo",
+            "width": 215,
+            "height": 80
+          },
+          {
+            "src": "/images/service/hero-logo-3.webp",
+            "alt": "Partner logo",
+            "width": 100,
+            "height": 80
+          }
+        ],
+        "formContent": {
+          "title": "Get a Free Amazon Store Audit!",
+          "fields": {
+            "fullName": {
+              "label": "Full Name",
+              "placeholder": "Full Name"
+            },
+            "email": {
+              "label": "Email Address",
+              "placeholder": "Your Email"
+            },
+            "phone": {
+              "label": "Phone Number",
+              "placeholder": "(201) 555-0123"
+            },
+            "products": {
+              "label": "Number of Products Listed",
+              "placeholder": "Please Select",
+              "options": [
+                {
+                  "value": "1-10",
+                  "label": "1-10"
+                },
+                {
+                  "value": "11-50",
+                  "label": "11-50"
+                },
+                {
+                  "value": "51-100",
+                  "label": "51-100"
+                },
+                {
+                  "value": "100+",
+                  "label": "100+"
+                }
+              ]
+            },
+            "country": {
+              "label": "Country"
+            },
+            "storeUrl": {
+              "label": "Website URL/Amazon Store URL",
+              "placeholder": "Website URL/Amazon Store URL"
+            },
+            "budget": {
+              "label": "Estimated Budget",
+              "placeholder": "Select Price",
+              "options": [
+                {
+                  "value": "$0 - $500",
+                  "label": "$0 - $500"
+                },
+                {
+                  "value": "$500 - $1000",
+                  "label": "$500 - $1000"
+                },
+                {
+                  "value": "$1000 - $5000",
+                  "label": "$1000 - $5000"
+                },
+                {
+                  "value": "$5000+",
+                  "label": "$5000+"
+                }
+              ]
+            },
+            "expectations": {
+              "label": "What are your expectations from us?",
+              "placeholder": "Let's break the ice. Write in as much detail as you want."
+            }
+          },
+          "complimentaryTitle": "Complimentary Audit Includes:",
+          "complimentaryItems": [
+            "Keyword Research",
+            "Growth Potential",
+            "Expert Recommendations"
+          ],
+          "ratings": [
+            {
+              "label": "Rated 5/5 stars",
+              "icon": "/images/service/clutch-review-icon.webp",
+              "stars": "/images/service/clutch-review-star.webp"
+            },
+            {
+              "label": "Rated 5/5 stars",
+              "icon": "/images/service/clutch-review-icon.webp",
+              "stars": "/images/service/clutch-review-star.webp"
+            }
+          ],
+          "submitText": "SUBMIT"
+        }
+      }
+    },
+    {
+      "id": "sert-ppc-accordion",
+      "type": "sertPpcAccordion",
+      "enabled": true,
+      "data": {
+        "data": [
+          {
+            "id": 0,
+            "title": "Sponsored Products",
+            "icon": "/images/service/amazon-accordion-icon.svg",
+            "contentTitle": "Optimized Visibility and ROI",
+            "contentDesc": "Optimize your visibility and ROI with our precision-targeted Sponsored Products ads. By refining your ACoS (Advertising Cost of Sale) and enhancing keyword strategies, we boost your TACoS (Total Advertising Cost of Sales), driving measurable increases in both click-through and conversion rates.",
+            "image": "/images/service/accordion-content-img.webp"
+          },
+          {
+            "id": 1,
+            "title": "Amazon Sponsored Brands Management",
+            "icon": "/images/service/amazon-accordion-icon-2.svg",
+            "contentTitle": "Brand Reach & Awareness",
+            "contentDesc": "Promote your brand with headline ads that feature your logo, a custom headline, and multiple products.",
+            "image": "/images/service/accordion-content-img.webp"
+          },
+          {
+            "id": 2,
+            "title": "Amazon Product Display Ads",
+            "icon": "/images/service/amazon-accordion-icon-3.svg",
+            "contentTitle": "Product Targeting Power",
+            "contentDesc": "Show ads on product detail pages to reach shoppers interested in related items.",
+            "image": "/images/accordion/product-display-graphic.webp"
+          },
+          {
+            "id": 3,
+            "title": "Amazon Video Ads",
+            "icon": "/images/service/amazon-accordion-icon-4.svg",
+            "contentTitle": "Engage with Motion",
+            "contentDesc": "Leverage short videos to capture attention and boost engagement across Amazon placements.",
+            "image": "/images/accordion/video-ads-graphic.webp"
+          },
+          {
+            "id": 4,
+            "title": "Amazon Promotion Management",
+            "icon": "/images/service/amazon-accordion-icon.svg",
+            "contentTitle": "Strategic Promotions",
+            "contentDesc": "Drive sales through lightning deals, coupons, and discounts managed effectively.",
+            "image": "/images/accordion/promotion-management-graphic.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ser-call",
+      "type": "serCall",
+      "enabled": true,
+      "data": {
+        "contactOptions": [
+          {
+            "icon": "/images/service/SerCallbox-icon-1.svg",
+            "eyebrow": "Toll Free",
+            "label": "{{contact.phone.display}}",
+            "href": "{{contact.phone.href}}"
+          },
+          {
+            "icon": "/images/service/SerCallbox-icon-2.svg",
+            "eyebrow": "Request",
+            "label": "Call Back"
+          },
+          {
+            "icon": "/images/service/SerCallbox-icon-3.svg",
+            "eyebrow": "Start a",
+            "label": "Live Chat"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sert-solutions",
+      "type": "sertSolutions",
+      "enabled": true,
+      "data": {
+        "heading": "Full-Cycle Web Development Solutions Under One Umbrella",
+        "cards": [
+          {
+            "title": "Consulting",
+            "detail": "Leverage our expertise in strategic consulting to align technology with your business goals, ensuring optimal web solution architecture and implementation planning.",
+            "icon": {
+              "src": "/images/service/sol-card-img-1.webp",
+              "alt": "sol-card-icon"
+            }
+          },
+          {
+            "title": "Design",
+            "detail": "Experience cutting-edge design services that focus on usability, aesthetics, and responsive frameworks to create engaging and effective web interfaces.",
+            "icon": {
+              "src": "/images/service/sol-card-img-2.webp",
+              "alt": "sol-card-icon"
+            }
+          },
+          {
+            "title": "Integration",
+            "detail": "Streamline your operations with our integration services, connecting your website seamlessly with CRM systems, e-commerce platforms, and third-party APIs.",
+            "icon": {
+              "src": "/images/service/sol-card-img-3.webp",
+              "alt": "sol-card-icon"
+            }
+          },
+          {
+            "title": "Migration",
+            "detail": "Safely migrate your existing website content, databases, and applications to newer, more robust platforms with minimal downtime and data integrity.",
+            "icon": {
+              "src": "/images/service/sol-card-img-4.webp",
+              "alt": "sol-card-icon"
+            }
+          },
+          {
+            "title": "Support",
+            "detail": "Receive ongoing support for your website, covering everything from technical issues to regular updates, ensuring smooth operation and security.",
+            "icon": {
+              "src": "/images/service/sol-card-img-5.webp",
+              "alt": "sol-card-icon"
+            }
+          },
+          {
+            "title": "Testing",
+            "detail": "Ensure the reliability and performance of your web applications with our comprehensive testing services, including usability, compatibility, and stress tests.",
+            "icon": {
+              "src": "/images/service/sol-card-img-6.webp",
+              "alt": "sol-card-icon"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "technologies",
+      "type": "technologies",
+      "enabled": true,
+      "data": {
+        "heading": "Cutting-Edge Technologies Powering Our Robust Website Development",
+        "stats": [
+          {
+            "key": "experience",
+            "label": "Practice",
+            "icon": "/images/service/practice-icon.webp",
+            "iconAlt": "practice-icon"
+          },
+          {
+            "key": "projects",
+            "label": "Projects",
+            "icon": "/images/service/projects-icon.webp",
+            "iconAlt": "projects-icon"
+          },
+          {
+            "key": "workforce",
+            "label": "Workforce",
+            "icon": "/images/service/workforce-icon.webp",
+            "iconAlt": "workforce-icon"
+          }
+        ],
+        "groups": [
+          {
+            "category": "Back-End Development",
+            "items": [
+              {
+                "title": ".Net Development",
+                "icon": "/images/service/dotnet-icon.svg",
+                "experience": "10 Years",
+                "projects": "15",
+                "workforce": "25",
+                "description": "Leverage robust .Net frameworks for enterprise-level applications, utilizing MVC architectures and Entity Framework for high scalability and performance."
+              },
+              {
+                "title": "Java Development",
+                "icon": "/images/service/java-icon.svg",
+                "experience": "12 Years",
+                "projects": "50",
+                "workforce": "40",
+                "description": "Build powerful server-side applications with Java, using Spring Framework and Java EE for secure, reliable, and multi-threaded enterprise environments."
+              },
+              {
+                "title": "Node JS Development",
+                "icon": "/images/service/node-icon.svg",
+                "experience": "5 Years",
+                "projects": "10",
+                "workforce": "35",
+                "description": "Utilize Node.js for lightweight, efficient back-end services. Perfect for building fast, scalable network applications with an event-driven, non-blocking I/O model."
+              },
+              {
+                "title": "PHP Development",
+                "icon": "/images/service/php-icon.svg",
+                "experience": "20 Years",
+                "projects": "100",
+                "workforce": "60",
+                "description": "Develop dynamic websites with PHP, integrating modern frameworks like Laravel and Symfony that offer powerful templating, routing, and session management."
+              },
+              {
+                "title": "Python Development",
+                "icon": "/images/service/python-icon.svg",
+                "experience": "4 Years",
+                "projects": "20",
+                "workforce": "25",
+                "description": "Harness Python’s versatility for back-end development, employing Django and Flask frameworks for rapid development and clean, pragmatic design in web applications."
+              }
+            ]
+          },
+          {
+            "category": "Front-End Development",
+            "items": [
+              {
+                "title": "HTML Development",
+                "icon": "/images/service/html-icon.svg",
+                "experience": "20 Years",
+                "projects": "250",
+                "workforce": "10",
+                "description": "Craft the foundation of web pages with HTML5, leveraging its semantic elements and API integrations for enhanced structure and accessibility."
+              },
+              {
+                "title": "CSS Development",
+                "icon": "/images/service/css-icon.svg",
+                "experience": "20 Years",
+                "projects": "250",
+                "workforce": "10",
+                "description": "Utilize advanced CSS3 features, including Flexbox and Grid, to create responsive and visually compelling layouts that adapt seamlessly across devices."
+              },
+              {
+                "title": "JavaScript Development",
+                "icon": "/images/service/js-icon.svg",
+                "experience": "20 Years",
+                "projects": "250",
+                "workforce": "10",
+                "description": "Implement complex features and interactive elements with JavaScript, enhancing user experiences with AJAX calls and DOM manipulation for dynamic content."
+              }
+            ]
+          },
+          {
+            "category": "JavaScript Frameworks",
+            "items": [
+              {
+                "title": "Angular",
+                "icon": "/images/service/angular-icon.svg",
+                "experience": "5 Years",
+                "projects": "10",
+                "workforce": "15",
+                "description": "Build robust single-page applications with Angular, utilizing two-way data binding, MVVM architecture, and extensive HTTP services for scalable projects."
+              },
+              {
+                "title": "React",
+                "icon": "/images/service/react-icon.svg",
+                "experience": "7 Years",
+                "projects": "50",
+                "workforce": "10",
+                "description": "Develop highly responsive user interfaces with React. Its virtual DOM and component-based architecture facilitate efficient rendering and state management."
+              },
+              {
+                "title": "Meteor",
+                "icon": "/images/service/meteor-icon.svg",
+                "experience": "4 Years",
+                "projects": "10",
+                "workforce": "5",
+                "description": "Leverage Meteor’s full-stack reactivity for real-time applications, using its integrated live-updating database everywhere from client to server."
+              },
+              {
+                "title": "Vue",
+                "icon": "/images/service/vue-icon.svg",
+                "experience": "5 Years",
+                "projects": "10",
+                "workforce": "15",
+                "description": "Create intuitive and performant user interfaces with Vue, emphasizing its reactive data binding and composable component system for flexible app development."
+              },
+              {
+                "title": "NEXT JS",
+                "icon": "/images/service/next-icon.svg",
+                "experience": "4 Years",
+                "projects": "10",
+                "workforce": "5",
+                "description": "Utilize Next.js for server-side rendering and static site generation, enhancing SEO and performance for React applications with zero configuration."
+              }
+            ]
+          },
+          {
+            "category": "Database & Storage",
+            "items": [
+              {
+                "title": "SQL Server",
+                "icon": "/images/service/sql-icon.svg",
+                "experience": "20 Years",
+                "projects": "300",
+                "workforce": "45",
+                "description": "Utilize Microsoft SQL Server for high-performance data management and complex query execution, ideal for transaction processing and business intelligence applications."
+              },
+              {
+                "title": "Azure SQL Database",
+                "icon": "/images/service/azure-sql-icon.svg",
+                "experience": "8 Years",
+                "projects": "10",
+                "workforce": "5",
+                "description": "Deploy Azure SQL Database for a fully managed, scalable cloud database service that offers built-in intelligence and robust security features for your data."
+              },
+              {
+                "title": "Azure Cosmos DB",
+                "icon": "/images/service/azure-cosmos-icon.svg",
+                "experience": "3 Years",
+                "projects": "20",
+                "workforce": "15",
+                "description": "Leverage Azure Cosmos DB, a globally distributed, multi-model database service designed to scale throughput and storage across any number of geographical regions with minimal latency."
+              },
+              {
+                "title": "Amazon RDS",
+                "icon": "/images/service/css-icon.svg",
+                "experience": "7 Years",
+                "projects": "10",
+                "workforce": "5",
+                "description": "Implement Amazon RDS to manage relational databases in the cloud effortlessly, which automates time-consuming administrative tasks such as hardware provisioning, database setup, and backups."
+              },
+              {
+                "title": "Amazon Redshift",
+                "icon": "/images/service/js-icon.svg",
+                "experience": "6 Years",
+                "projects": "17",
+                "workforce": "55",
+                "description": "Use Amazon Redshift for large-scale data warehousing and analytics, executing complex queries rapidly over petabytes of structured data using sophisticated query optimization."
+              }
+            ]
+          },
+          {
+            "category": "DevOps",
+            "items": [
+              {
+                "title": "Docker",
+                "icon": "/images/service/docker-icon.svg",
+                "experience": "12 Years",
+                "projects": "100",
+                "workforce": "5",
+                "description": "Employ Docker to streamline application deployment with its platform that uses OS-level virtualization to deliver software in packages called containers."
+              },
+              {
+                "title": "Azure DevOps",
+                "icon": "/images/service/php-icon.svg",
+                "experience": "1 Years",
+                "projects": "10",
+                "workforce": "5",
+                "description": "Utilize Azure DevOps for end-to-end software development lifecycle control, integrating project planning, source code management, and CI/CD with automated builds and testing."
+              },
+              {
+                "title": "AWS Developer Tools",
+                "icon": "/images/service/aws-icon.svg",
+                "experience": "5 Years",
+                "projects": "170",
+                "workforce": "45",
+                "description": "Harness AWS Developer Tools to build, test, and deploy applications using AWS services, enhancing your software development and operational performance."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ser-cta",
+      "type": "serCta",
+      "enabled": true,
+      "data": {
+        "title": "Bridgeway Digital has earned hundreds of reviews praising our efficiency, expertise, and client-focused approach.",
+        "button": {
+          "href": "#",
+          "text": "Client Testimonials âžœ"
+        },
+        "image": {
+          "src": "/images/service/ser-cta-img.webp",
+          "width": 258,
+          "height": 255,
+          "alt": "Client Testimonials"
+        },
+        "rating": {
+          "label": "BRIDGEWAY DIGITAL AGENCY RATING",
+          "stars": {
+            "src": "/images/service/ser-star.svg",
+            "width": 114,
+            "height": 18,
+            "alt": "star"
+          },
+          "value": "4.9/5",
+          "detail": "BASED ON OVER 500 THIRD-PARTY REVIEWS"
+        }
+      }
+    },
+    {
+      "id": "sert-cta-two",
+      "type": "sertCtaTwo",
+      "enabled": true,
+      "data": {
+        "title": "Maximize Amazon PPC returns, by spendingonly $550!",
+        "button": {
+          "url": "#",
+          "text": "Let’s Start"
+        },
+        "bgImg": {
+          "src": "/images/service/SertCtaTwo-bg.webp",
+          "alt": "sertCtaTwo-bg"
+        }
+      }
+    },
+    {
+      "id": "made-the-choice",
+      "type": "madeTheChoice",
+      "enabled": true,
+      "data": {
+        "MainTitle": "Leading Amazon Stores That Made The Choice You’re Still Thinking About!",
+        "headingclass": "sub-heading-two sub-heading-two-width",
+        "MadeTheChoiceData": [
+          {
+            "icon": "/images/contact/made-the-choice-logo-1.webp",
+            "textone": ">1.3M",
+            "texttwo": "Views"
+          },
+          {
+            "icon": "/images/contact/made-the-choice-logo-2.webp",
+            "textone": "3X",
+            "texttwo": "Faster Time to Launch"
+          },
+          {
+            "icon": "/images/contact/made-the-choice-logo-3.webp",
+            "textone": "27%",
+            "texttwo": "Traffic Increases"
+          },
+          {
+            "icon": "/images/contact/made-the-choice-logo-4.webp",
+            "textone": "4X",
+            "texttwo": "Faster Speed to Market"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sert-ppc-accordion-2",
+      "type": "sertPpcAccordion",
+      "enabled": true,
+      "data": {
+        "data": [
+          {
+            "id": 0,
+            "title": "Sponsored Products",
+            "icon": "/images/service/amazon-accordion-icon.svg",
+            "contentTitle": "Optimized Visibility and ROI",
+            "contentDesc": "Optimize your visibility and ROI with our precision-targeted Sponsored Products ads. By refining your ACoS (Advertising Cost of Sale) and enhancing keyword strategies, we boost your TACoS (Total Advertising Cost of Sales), driving measurable increases in both click-through and conversion rates.",
+            "image": "/images/service/accordion-content-img.webp"
+          },
+          {
+            "id": 1,
+            "title": "Amazon Sponsored Brands Management",
+            "icon": "/images/service/amazon-accordion-icon-2.svg",
+            "contentTitle": "Brand Reach & Awareness",
+            "contentDesc": "Promote your brand with headline ads that feature your logo, a custom headline, and multiple products.",
+            "image": "/images/service/accordion-content-img.webp"
+          },
+          {
+            "id": 2,
+            "title": "Amazon Product Display Ads",
+            "icon": "/images/service/amazon-accordion-icon-3.svg",
+            "contentTitle": "Product Targeting Power",
+            "contentDesc": "Show ads on product detail pages to reach shoppers interested in related items.",
+            "image": "/images/accordion/product-display-graphic.webp"
+          },
+          {
+            "id": 3,
+            "title": "Amazon Video Ads",
+            "icon": "/images/service/amazon-accordion-icon-4.svg",
+            "contentTitle": "Engage with Motion",
+            "contentDesc": "Leverage short videos to capture attention and boost engagement across Amazon placements.",
+            "image": "/images/accordion/video-ads-graphic.webp"
+          },
+          {
+            "id": 4,
+            "title": "Amazon Promotion Management",
+            "icon": "/images/service/amazon-accordion-icon.svg",
+            "contentTitle": "Strategic Promotions",
+            "contentDesc": "Drive sales through lightning deals, coupons, and discounts managed effectively.",
+            "image": "/images/accordion/promotion-management-graphic.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ser-table",
+      "type": "serTable",
+      "enabled": true,
+      "data": {
+        "tableData": {
+          "columns": [
+            "Basic Package",
+            "Advanced Package",
+            "Premium Package"
+          ],
+          "features": [
+            {
+              "title": "Products",
+              "values": [
+                "text:Up to 5",
+                "text:Up to 10",
+                "text:Up to 15"
+              ]
+            },
+            {
+              "title": "Keyword Research",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Campaign Setup",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Ad Copywriting",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Bid Management",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Negative Keyword Optimization",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Ad Extensions",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "A/B Testing",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Campaign Monitoring",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Budget Management",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Search Term Analysis",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Competitor Analysis",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Conversion Tracking",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Geotargeting",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Performance Reporting",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Continuous Optimization",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            },
+            {
+              "title": "Progressive Monthly Management Fee",
+              "values": [
+                "tick",
+                "tick",
+                "tick"
+              ]
+            }
+          ],
+          "title": "Features"
+        },
+        "staticRowData": {
+          "title": "Connect With An Website Development Expert",
+          "phone": {
+            "text": "{{contact.phone.display}}",
+            "link": "{{contact.phone.href}}"
+          },
+          "values": [
+            {
+              "link": "/get-a-free-quote",
+              "text": "GET STARTED"
+            },
+            {
+              "link": "/get-a-free-quote",
+              "text": "GET STARTED"
+            },
+            {
+              "link": "/get-a-free-quote",
+              "text": "GET STARTED"
+            }
+          ]
+        },
+        "scrollHint": "👉 Swipe to view more"
+      }
+    },
+    {
+      "id": "development-cost",
+      "type": "developmentCost",
+      "enabled": true,
+      "data": {
+        "MainTitle": "How Much Does Angular JS Website Development Cost?",
+        "desc": "The cost of Angular JS website development can vary significantly depending on the scope and complexity of the project. Prices typically start at around $3,500 for basic applications and can go up to $60,000 for more advanced, feature-rich solutions. Each project is tailored to meet specific needs and budget requirements.",
+        "tabs": [
+          {
+            "label": "01   Project Complexity"
+          },
+          {
+            "label": "02   Custom Features"
+          },
+          {
+            "label": "03   Third-Party Integrations"
+          },
+          {
+            "label": "04   Design Requirements"
+          },
+          {
+            "label": "05   Cross-Platform Support"
+          },
+          {
+            "label": "06   Team Expertise"
+          }
+        ],
+        "tabContent": [
+          {
+            "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+            "title": "Project Complexity",
+            "para": "The overall complexity of your Angular JS project..."
+          },
+          {
+            "ImgSrc": "/images/home/success-graph-img.webp",
+            "title": "Custom Features",
+            "para": "Features like user login, admin panel, etc., increase cost..."
+          },
+          {
+            "ImgSrc": "/images/home/success-graph-img.webp",
+            "title": "Third-Party Integrations",
+            "para": "APIs, payment gateways, and CRMs add to the budget..."
+          },
+          {
+            "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+            "title": "Design Requirements",
+            "para": "Unique UI/UX needs impact both cost and timeline..."
+          },
+          {
+            "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+            "title": "Cross-Platform Support",
+            "para": "Supporting mobile, tablet, and desktop adds effort..."
+          },
+          {
+            "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+            "title": "Team Expertise",
+            "para": "Experienced teams may cost more but deliver better quality..."
+          }
+        ],
+        "button": {
+          "href": "/get-a-free-quote",
+          "text": "GET YOUR FREE AUDIT →"
+        }
+      }
+    },
+    {
+      "id": "ser-faq",
+      "type": "serFaq",
+      "enabled": true,
+      "data": {
+        "MainTitle": "Frequently Asked Questions",
+        "faqData": [
+          {
+            "question": "What is Angular JS, and why should I choose it for my web development project?",
+            "answer": "Angular JS is a popular open-source framework maintained by Google that allows developers to build dynamic, single-page applications. Its two-way data binding and dependency injection make development more efficient and robust, providing a seamless user experience."
+          },
+          {
+            "question": "Do you offer customer support?",
+            "answer": "Yes, our support team is available 24/7 via chat and email."
+          },
+          {
+            "question": "How long does it take to get started?",
+            "answer": "You can get started within minutes by signing up and following the onboarding process."
+          },
+          {
+            "question": "Do you offer customer support?",
+            "answer": "Yes, our support team is available 24/7 via chat and email."
+          },
+          {
+            "question": "Do you offer customer support?",
+            "answer": "Yes, our support team is available 24/7 via chat and email."
+          },
+          {
+            "question": "Do you offer customer support?",
+            "answer": "Yes, our support team is available 24/7 via chat and email."
+          }
+        ]
+      }
+    },
+    {
+      "id": "sert-two-column",
+      "type": "sertTwoColumn",
+      "enabled": true,
+      "data": {
+        "MainTitle": "Amazon Photography Agency That Caters To Amazon Stores Across The Globe!",
+        "twColData": {
+          "title": "Hero Product Photography",
+          "tags": "Iconic Shots, Unforgettable Impressions",
+          "description": "Craft the central showcase of your Amazon listings with our Hero Product Photography. We capture the essence of your products in high-definition, making them the hero of their own story. Perfect for grabbing attention and making a strong first impression.",
+          "image": {
+            "url": "/images/service/sert-content-img.webp",
+            "alt": "Hero Product Photography"
+          }
+        }
+      }
+    },
+    {
+      "id": "sert-two-column-2",
+      "type": "sertTwoColumn",
+      "enabled": true,
+      "data": {
+        "twColData": {
+          "title": "Hero Product Photography",
+          "tags": "Iconic Shots, Unforgettable Impressions",
+          "description": "Craft the central showcase of your Amazon listings with our Hero Product Photography. We capture the essence of your products in high-definition, making them the hero of their own story. Perfect for grabbing attention and making a strong first impression.",
+          "image": {
+            "url": "/images/service/sert-content-img.webp",
+            "alt": "Hero Product Photography"
+          }
+        },
+        "reverse": true
+      }
+    },
+    {
+      "id": "sert-two-column-3",
+      "type": "sertTwoColumn",
+      "enabled": true,
+      "data": {
+        "twColData": {
+          "title": "Hero Product Photography",
+          "tags": "Iconic Shots, Unforgettable Impressions",
+          "description": "Craft the central showcase of your Amazon listings with our Hero Product Photography. We capture the essence of your products in high-definition, making them the hero of their own story. Perfect for grabbing attention and making a strong first impression.",
+          "image": {
+            "url": "/images/service/sert-content-img.webp",
+            "alt": "Hero Product Photography"
+          }
+        }
+      }
+    },
+    {
+      "id": "sert-two-column-4",
+      "type": "sertTwoColumn",
+      "enabled": true,
+      "data": {
+        "twColData": {
+          "title": "Hero Product Photography",
+          "tags": "Iconic Shots, Unforgettable Impressions",
+          "description": "Craft the central showcase of your Amazon listings with our Hero Product Photography. We capture the essence of your products in high-definition, making them the hero of their own story. Perfect for grabbing attention and making a strong first impression.",
+          "image": {
+            "url": "/images/service/sert-content-img.webp",
+            "alt": "Hero Product Photography"
+          }
+        },
+        "reverse": true
+      }
+    },
+    {
+      "id": "sert-two-column-5",
+      "type": "sertTwoColumn",
+      "enabled": true,
+      "data": {
+        "twColData": {
+          "title": "Hero Product Photography",
+          "tags": "Iconic Shots, Unforgettable Impressions",
+          "description": "Craft the central showcase of your Amazon listings with our Hero Product Photography. We capture the essence of your products in high-definition, making them the hero of their own story. Perfect for grabbing attention and making a strong first impression.",
+          "image": {
+            "url": "/images/service/sert-content-img.webp",
+            "alt": "Hero Product Photography"
+          }
+        }
+      }
+    }
+  ]
+}

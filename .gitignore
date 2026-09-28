@@ -1,0 +1,44 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/public/sitemap*.xml
+/storage/*.key
+/vendor
+.env
+.env.*
+!.env.example
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+*.zip
+*.txt
+/database/schema
+!login-register-crud-laravel-10.zip
+!*.sql
+/public/error_log
+/scratch
+.DS_Store
+Thumbs.db
+
+# Storage
+/storage/*.key
+/storage/app/bridgeway-integration.sqlite*
+/storage/app/onboarding/*
+
+.claude
+
+# Generated sitemaps
+/public/sitemap.xml
+/public/sitemap-*.xml
+/public/sitemap_index.xml
+
+# Onboarding uploaded files (private storage, never commit)
+storage/app/onboarding/

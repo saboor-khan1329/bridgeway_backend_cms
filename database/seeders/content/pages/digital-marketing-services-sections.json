@@ -1,0 +1,112 @@
+{
+  "attributes": {
+    "slug": "digital-marketing-services-sections",
+    "title": "digital-marketing-services — Forms and feeds",
+    "template": "global",
+    "is_cms_managed": true,
+    "status": true,
+    "sort_order": 0
+  },
+  "seo": null,
+  "images": [],
+  "sections": [
+    {
+      "id": "hero",
+      "type": "sertHero",
+      "enabled": true,
+      "data": {
+        "formContent": {
+          "title": "Get a Free Amazon Store Audit!",
+          "fields": {
+            "fullName": {
+              "label": "Full Name",
+              "placeholder": "Full Name"
+            },
+            "email": {
+              "label": "Email Address",
+              "placeholder": "Your Email"
+            },
+            "phone": {
+              "label": "Phone Number",
+              "placeholder": "(201) 555-0123"
+            },
+            "products": {
+              "label": "Number of Products Listed",
+              "placeholder": "Please Select",
+              "options": [
+                {
+                  "value": "1-10",
+                  "label": "1-10"
+                },
+                {
+                  "value": "11-50",
+                  "label": "11-50"
+                },
+                {
+                  "value": "51-100",
+                  "label": "51-100"
+                },
+                {
+                  "value": "100+",
+                  "label": "100+"
+                }
+              ]
+            },
+            "country": {
+              "label": "Country"
+            },
+            "storeUrl": {
+              "label": "Website URL/Amazon Store URL",
+              "placeholder": "Website URL/Amazon Store URL"
+            },
+            "budget": {
+              "label": "Estimated Budget",
+              "placeholder": "Select Price",
+              "options": [
+                {
+                  "value": "$0 - $500",
+                  "label": "$0 - $500"
+                },
+                {
+                  "value": "$500 - $1000",
+                  "label": "$500 - $1000"
+                },
+                {
+                  "value": "$1000 - $5000",
+                  "label": "$1000 - $5000"
+                },
+                {
+                  "value": "$5000+",
+                  "label": "$5000+"
+                }
+              ]
+            },
+            "expectations": {
+              "label": "What are your expectations from us?",
+              "placeholder": "Let's break the ice. Write in as much detail as you want."
+            }
+          },
+          "complimentaryTitle": "Complimentary Audit Includes:",
+          "complimentaryItems": [
+            "Keyword Research",
+            "Growth Potential",
+            "Expert Recommendations"
+          ],
+          "ratings": [
+            {
+              "label": "Rated 5/5 stars",
+              "icon": "/images/service/clutch-review-icon.webp",
+              "stars": "/images/service/clutch-review-star.webp"
+            },
+            {
+              "label": "Rated 5/5 stars",
+              "icon": "/images/service/clutch-review-icon.webp",
+              "stars": "/images/service/clutch-review-star.webp"
+            }
+          ],
+          "submitText": "SUBMIT"
+        }
+      }
+    }
+  ]
+}

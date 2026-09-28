@@ -1,0 +1,1265 @@
+{
+    "attributes": {
+        "title": "Magento Development Company | Magento Website Development",
+        "short_description": "Grow online sales with our Magento development company. We provide Magento website development for scalable, high-performance eCommerce experiences.",
+        "status": true,
+        "is_featured": false
+    },
+    "seo": {
+        "meta_title": "Magento Development Company | Magento Website Development",
+        "meta_description": "Grow online sales with our Magento development company. We provide Magento website development for scalable, high-performance eCommerce experiences.",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/magento-development-company",
+        "keywords": null,
+        "og_title": "Magento Development Company | Magento Website Development",
+        "og_description": "Grow online sales with our Magento development company. We provide Magento website development for scalable, high-performance eCommerce experiences.",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/magento-development-company",
+        "og_image": null,
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Magento Development Company | Magento Website Development",
+        "twitter_description": "Grow online sales with our Magento development company. We provide Magento website development for scalable, high-performance eCommerce experiences.",
+        "twitter_image": null
+    },
+    "images": [],
+    "slug": "magento-development-company",
+    "categories": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "serviceHero",
+            "enabled": true,
+            "data": {
+                "heading": "Magento Web Development Company — Elevate Your E-Commerce Experience",
+                "description": "Grow online sales with our Magento development company. We provide Magento website development for scalable, high-performance eCommerce experiences.",
+                "btn": {
+                    "text": "Get Your Free Quote"
+                },
+                "services": [
+                    {
+                        "value": "3.1x",
+                        "label": "Increase in Global Search Visibility",
+                        "average": "1.9x"
+                    },
+                    {
+                        "value": "2.6x",
+                        "label": "Growth in International Traffic",
+                        "average": "1.5x"
+                    },
+                    {
+                        "value": "4.3x",
+                        "label": "Improvement in Global Engagement",
+                        "average": "2.1x"
+                    }
+                ],
+                "form": {
+                    "label": "Enter your details",
+                    "placeholder": "Enter your details",
+                    "submitText": "Get Your Free Quote"
+                },
+                "testimonial": {
+                    "decoration": {
+                        "src": "/images/service/middle-box-top.svg",
+                        "width": 143,
+                        "height": 28,
+                        "alt": ""
+                    },
+                    "quote": "Bridgeway has been a game-changer for our web strategy.",
+                    "sourceLogo": {
+                        "src": "/images/service/service-clutch-icon.svg",
+                        "width": 27,
+                        "height": 30,
+                        "alt": "Clutch"
+                    },
+                    "company": "U.S. Healthcare Company",
+                    "source": "Review from Clutch.co",
+                    "ratingImage": {
+                        "src": "/images/service/rating-star.svg",
+                        "width": 66,
+                        "height": 11,
+                        "alt": "Review rating"
+                    },
+                    "ratings": [
+                        {
+                            "label": "Rated 4.9/5 stars on G2"
+                        },
+                        {
+                            "label": "Rated 4.9/5 stars on Clutch"
+                        }
+                    ],
+                    "averageLabel": "Industry average"
+                }
+            }
+        },
+        {
+            "id": "logos",
+            "type": "serLogo",
+            "enabled": true,
+            "data": {
+                "title": "Trusted by startups and Fortune 500 companies",
+                "highlight": "500",
+                "logos": [
+                    {
+                        "ImgSrc": "/images/service/ser-logo-1.svg",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-2.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-3.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-4.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-5.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-6.webp",
+                        "alt": "Client logo"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sub-service",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Enhance Your E-commerce Success Through Expert Magento Development Services",
+                "desc": "Whether building a new eCommerce store or enhancing your Magento platform, our customizable Magento development services create dynamic, scalable stores that drive sales and boost customer engagement. Learn more about our tailored solutions.",
+                "btnText": "SEND ME A PROPOSAL ➜",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ],
+                "btnHref": "/get-a-free-quote"
+            }
+        },
+        {
+            "id": "cta-one",
+            "type": "ctaOne",
+            "enabled": true,
+            "data": {
+                "left": {
+                    "heading": "Start Growing Your E-commerce Business Today with BridgeWay Digital!",
+                    "description": "Create and launch your custom Magento store with our expert development services. What are you waiting for?"
+                },
+                "right": {
+                    "heading": "Gain Full Control and Flexibility with Our Magento Web Development Company",
+                    "description": "At BridgeWay Digital, we believe in empowering businesses with robust Magento solutions that drive results. Our comprehensive approach ensures you have complete visibility and control over your custom Magento eCommerce web development operations, helping you make informed decisions that boost performance.",
+                    "list": [
+                        "See how our Magento solutions can enhance your store's functionality and user experience.",
+                        "Get more conversions by optimizing your store's performance and loading speeds.",
+                        "Leverage custom features to maximize your sales and customer satisfaction."
+                    ]
+                },
+                "logo": {
+                    "src": "/images/white-logo.svg",
+                    "width": 200,
+                    "height": 200,
+                    "alt": "BridgeWay Digital"
+                },
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET STARTED ➜"
+                }
+            }
+        },
+        {
+            "id": "pricing",
+            "type": "serPrice",
+            "enabled": true,
+            "data": {
+                "heading": "Transparent Magento Web Development Pricing Tailored to Your E-commerce Needs",
+                "description": "At BridgeWay Digital, we deliver customized Magento development services tailored to your business goals. Our expert team creates powerful, scalable eCommerce platforms that drive growth and customer engagement. Contact us today for a tailored quote and professional solutions.",
+                "leftData": {
+                    "heading": "CUSTOM MAGENTO DEVELOPMENT SERVICES",
+                    "value": "$2,500",
+                    "offerings": [
+                        {
+                            "imgSrc": "/new_assets/images/application-icon-for-project-management.webp",
+                            "title": "Project Scope and Complexity",
+                            "desc": "Whether you need a simple store setup or a fully customized solution with advanced features, the complexity of your project will influence the cost. We work closely with you to define the scope and deliver exactly what you need."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/project-icon-for-digital-project-management.webp",
+                            "title": "Timeline Requirements",
+                            "desc": "Your project timeline can affect pricing. A fast-tracked project may require additional resources to meet your deadlines. We’ll work with you to balance your timeline with your budget."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/digital-marketing-icon-for-online-services.webp",
+                            "title": "Specialized Integrations",
+                            "desc": "Need specific third-party integrations or custom module development? These specialized requirements can impact the cost, but they ensure your Magento store functions exactly as you envision."
+                        }
+                    ]
+                },
+                "rightData": {
+                    "heading": "Included in All Magento Development Projects:",
+                    "points": [
+                        {
+                            "point": "Custom Magento theme design tailored to your brand"
+                        },
+                        {
+                            "point": "Responsive design optimized for mobile and desktop"
+                        },
+                        {
+                            "point": "SEO-friendly architecture for improved search rankings"
+                        },
+                        {
+                            "point": "Integration with major payment gateways and shipping solutions"
+                        },
+                        {
+                            "point": "Secure, scalable backend systems"
+                        },
+                        {
+                            "point": "Ongoing support and maintenance post-launch"
+                        },
+                        {
+                            "point": "Detailed documentation and training for your team"
+                        },
+                        {
+                            "point": "Access to analytics and performance tracking tools"
+                        }
+                    ]
+                },
+                "ui": {
+                    "icon": {
+                        "src": "/images/service/ser-price-img-1.svg",
+                        "alt": "Custom development"
+                    },
+                    "startingAt": "Starting at",
+                    "priceSuffix": "/ project",
+                    "includedTitle": "What’s Included:",
+                    "button": {
+                        "href": "/get-a-free-quote",
+                        "text": "GET MY CUSTOM QUOTE ➜"
+                    },
+                    "background": {
+                        "src": "/images/service/SerPrice-bg.webp",
+                        "alt": ""
+                    }
+                }
+            }
+        },
+        {
+            "id": "expert-team",
+            "type": "expertTeam",
+            "enabled": true,
+            "data": {
+                "labels": {
+                    "organization": "ORGANIZATION:",
+                    "challenge": "CHALLENGE",
+                    "initiatives": "RECENT INITIATIVES",
+                    "result": "RESULT"
+                },
+                "imgAlt": "Expert Team",
+                "MainTitle": "Trust the Team That’s Launched Over 500 E-Commerce Sites",
+                "desc": "BridgeWay Digital doesn’t just build online stores; we build businesses. Your dedicated project manager will work with you to understand your unique needs, ensuring that your Magento store not only meets but exceeds your expectations, driving real results.",
+                "imgSrc": "/images/home/expert-team-img.webp",
+                "style": {
+                    "height": "600px"
+                },
+                "sliderData": [
+                    {
+                        "title": "Educational Client",
+                        "organization": "",
+                        "challenge": "Increase student interaction on an online learning platform.",
+                        "initiativeTextOne": "Development of interactive Angular JS quizzes and modules.",
+                        "initiativeTextTwo": "Enhancement of real-time chat and discussion features.",
+                        "initiativeTextThree": "Streamlining course navigation with Angular JS routing.",
+                        "percentage": "65%",
+                        "increase": "INCREASE IN STUDENT PARTICIPATION"
+                    },
+                    {
+                        "title": "SEO",
+                        "organization": "Greenleaf Landscaping",
+                        "challenge": "Increase organic search visibility and drive more qualified leads to the website.",
+                        "initiativeTextOne": "Conducted an in-depth SEO audit and implemented on-page and off-page optimization strategies.",
+                        "initiativeTextTwo": "Enhanced keyword targeting and content quality to improve search engine rankings.",
+                        "initiativeTextThree": "Developed a comprehensive backlink strategy to build domain authority.",
+                        "percentage": "90%",
+                        "increase": "Increase in organic traffic"
+                    },
+                    {
+                        "title": "Digital Marketing",
+                        "organization": "UrbanTrend Clothing",
+                        "challenge": "Boost brand awareness and drive online sales through targeted digital marketing campaigns.",
+                        "initiativeTextOne": "Created and executed multi-channel marketing campaigns across social media, email, and PPC platforms.",
+                        "initiativeTextTwo": "Developed engaging content and eye-catching ad creatives to capture audience attention.",
+                        "initiativeTextThree": "Utilized data analytics to fine-tune campaigns and maximize ROI.",
+                        "percentage": "60%",
+                        "increase": "Increase in brand engagement"
+                    },
+                    {
+                        "title": "Video Animation",
+                        "organization": "BrightMinds Learning",
+                        "challenge": "Create engaging educational content to enhance student learning and retention.",
+                        "initiativeTextOne": "Produced a series of animated educational videos with high-quality visuals and clear explanations.",
+                        "initiativeTextTwo": "Incorporated interactive elements to make learning more engaging.",
+                        "initiativeTextThree": "Ensured all videos were optimized for various devices and platforms.",
+                        "percentage": "70%",
+                        "increase": "Improved engagement"
+                    },
+                    {
+                        "title": "Amazon Marketing",
+                        "organization": "TechGiant Electronics",
+                        "challenge": "Increase product visibility and sales on the Amazon marketplace.",
+                        "initiativeTextOne": "Optimized product listings with targeted keywords and high-quality images.",
+                        "initiativeTextTwo": "Implemented advanced PPC strategies to boost product ranking and visibility.",
+                        "initiativeTextThree": "Monitored and adjusted campaigns based on performance data to maximize results.",
+                        "percentage": "45%",
+                        "increase": "Increase in sales"
+                    },
+                    {
+                        "title": "Performance Marketing",
+                        "organization": "FitPro Supplements",
+                        "challenge": "Enhance the effectiveness of marketing campaigns to achieve higher conversion rates.",
+                        "initiativeTextOne": "Developed and executed performance-driven marketing strategies with a focus on conversion optimization.",
+                        "initiativeTextTwo": "Utilized A/B testing and data analysis to refine ad creatives and targeting.",
+                        "initiativeTextThree": "Implemented advanced tracking and reporting tools to measure campaign success.",
+                        "percentage": "50%",
+                        "increase": "Increase in conversions"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "feature-comparison",
+            "type": "featureComparison",
+            "enabled": true,
+            "data": {
+                "heading": "Expert Technical SEO Services for Solid Digital Growth",
+                "comparisonTableData": {
+                    "headings": {
+                        "left": "WITH BRIDGEWAY DIGITAL",
+                        "right": "WITHOUT BRIDGEWAY DIGITAL"
+                    },
+                    "rows": [
+                        {
+                            "left": "Hreflang implementation to target multiple languages and regions",
+                            "right": "Incorrect hreflang tags leading to content mismatch in different regions"
+                        },
+                        {
+                            "left": "International link building for authoritative global backlinks",
+                            "right": "Lack of quality backlinks impacting global search engine rankings"
+                        },
+                        {
+                            "left": "Geo-targeting strategies to optimize content for specific countries",
+                            "right": "Poor geo-targeting resulting in irrelevant content for users"
+                        },
+                        {
+                            "left": "Optimized global website structure for seamless user experience",
+                            "right": "Disorganized site structure confusing users across different regions"
+                        },
+                        {
+                            "left": "Regular updates to adapt to changing international SEO trends",
+                            "right": "Falling behind competitors due to outdated international SEO strategies"
+                        }
+                    ]
+                },
+                "rightData": {
+                    "comment": "Our website was struggling with slow load times and poor search rankings until BridgeWay Digital stepped in. They optimized our site's technical structure, implemented HTTPS, and improved our mobile responsiveness. The results were immediate and impressive.",
+                    "customerName": "Alex P, Sr Executive",
+                    "achivements": [
+                        {
+                            "value": "80%",
+                            "detail": "of clients saw increased international traffic with our SEO, outpacing competitors' 25% growth."
+                        },
+                        {
+                            "value": "85%",
+                            "detail": "Clients reported better global engagement from localized content and geo-targeted strategies."
+                        }
+                    ]
+                },
+                "icon": {
+                    "src": "/images/service/Sub_Service-1.svg",
+                    "alt": "Code"
+                }
+            }
+        },
+        {
+            "id": "sub-service-2",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Your search for Custom Magento Website Development services ends here",
+                "desc": "Learn more about why businesses choose BridgeWay Digital as their Magento web development partner:",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-business",
+            "type": "serWhyBusiness",
+            "enabled": true,
+            "data": {
+                "tabs": [
+                    {
+                        "id": "TechWave",
+                        "label": "TechWave Solutions"
+                    },
+                    {
+                        "id": "GreenLine",
+                        "label": "GreenLine Innovations"
+                    },
+                    {
+                        "id": "Pioneer",
+                        "label": "Pioneer Tech Labs"
+                    },
+                    {
+                        "id": "Quantum",
+                        "label": "Quantum IT Solutions"
+                    }
+                ],
+                "tabContent": {
+                    "TechWave": {
+                        "title": "When TechWave Solutions needed to enhance their platform, they turned to BridgeWay Digital. Discover how our collaboration doubled their user engagement.",
+                        "para": "Our Angular JS implementation with BridgeWay Digital significantly enhanced our platform's performance. The user engagement has doubled within six months, thanks to their expertise.",
+                        "asideValue": "2X",
+                        "asideText": "Increase in User Engagement"
+                    },
+                    "GreenLine": {
+                        "bg": "/images/home/success-graph-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 30% within 6 months.",
+                        "asideValue": "+30%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Pioneer": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Quantum": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    }
+                },
+                "heading": {
+                    "beforeIcon": "Here’s why Businesses",
+                    "icon": {
+                        "src": "/images/home/headt-img.webp",
+                        "width": 50,
+                        "height": 50,
+                        "alt": ""
+                    },
+                    "afterIcon": "BridgeWay Digital",
+                    "ratingImage": {
+                        "src": "/images/home/why-businesses-star.webp",
+                        "width": 180,
+                        "height": 24,
+                        "alt": "Five-star rating"
+                    }
+                }
+            }
+        },
+        {
+            "id": "goals",
+            "type": "goals",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Yes. We cover your Angular JS development needs.",
+                "desc": "Our expert team of Angular JS developers have every possible contingency covered for you!",
+                "cards": [
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization",
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization"
+                ],
+                "bottomCards": [
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization",
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization"
+                ],
+                "heading": "Yes, Your Magento Project is in Safe Hands..",
+                "description": "Our Magento web developers have every aspect of your ecommerce store covered!",
+                "goalsList": [
+                    {
+                        "text": "Custom Theme Design"
+                    },
+                    {
+                        "text": "Responsive Layout"
+                    },
+                    {
+                        "text": "SEO Optimization"
+                    },
+                    {
+                        "text": "Performance Optimization"
+                    },
+                    {
+                        "text": "Extension Development"
+                    },
+                    {
+                        "text": "Third-Party Integrations"
+                    },
+                    {
+                        "text": "Payment Gateway Setup"
+                    },
+                    {
+                        "text": "Multi-Store Management"
+                    },
+                    {
+                        "text": "Security Enhancements"
+                    },
+                    {
+                        "text": "Custom Checkout Process"
+                    },
+                    {
+                        "text": "Inventory Management"
+                    },
+                    {
+                        "text": "Mobile Optimization"
+                    },
+                    {
+                        "text": "Analytics and Reporting"
+                    },
+                    {
+                        "text": "Scalability Solutions"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-trust",
+            "type": "whyTrust",
+            "enabled": true,
+            "data": {
+                "tag": "Why Companies Trust",
+                "heading": "Why Businesses Choose Bridgeway Digital As Their Magento Web",
+                "description": "BridgeWay Digital stands at the forefront of Magento web development, blending cutting-edge technology with deep expertise to deliver Magento eCommerce web development solutions that drive measurable growth. Our approach is client-focused, ensuring that every aspect of your online store aligns perfectly with your brand and business goals.",
+                "cardContent": [
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon.svg",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-2.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-3.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-4.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-5.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-6.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    }
+                ],
+                "cards": [
+                    {
+                        "icon": "/new_assets/images/vector-performance-illustration-for-data-analysis.webp",
+                        "title": "Data-Driven Development",
+                        "description": "At BridgeWay Digital, data is at the heart of everything we do. Our team of Magento web developers leverages advanced analytics and insights to craft websites that not only look great but perform exceptionally. We continuously monitor and optimize to ensure your Magento eCommerce web development solution delivers maximum ROI."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-scalable-illustration-for-business-growth.webp",
+                        "title": "Scalable Solutions",
+                        "description": "Whether you're a small business or a large enterprise, BridgeWay Digital's Magento web development services are designed to scale with your growth. We build flexible, modular solutions that allow you to expand your store's capabilities as your business evolves, ensuring long-term success in a competitive market."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-data-illustration-for-analytics.webp",
+                        "title": "Custom Magento Integrations",
+                        "description": "Every business has unique needs, and our Magento web developers specialize in creating custom integrations that streamline your operations. From third-party APIs to bespoke features, we ensure your Magento website works seamlessly with all your business tools, driving efficiency and enhancing user experience."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-user-illustration-for-user-experience.webp",
+                        "title": "Mobile-First Design",
+                        "description": "In today’s mobile-centric world, having a responsive eCommerce site is crucial. BridgeWay Digital ensures your custom Magento store is optimized for all devices, offering a consistent and engaging shopping experience whether your customers are on a desktop, tablet, or smartphone."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-secure-illustration-for-cybersecurity.webp",
+                        "title": "Security You Can Trust",
+                        "description": "Security is a top priority for us. BridgeWay Digital implements robust security measures within your Magento web development project, protecting your store from threats and ensuring your customers' data is safe. With regular updates and maintenance, we keep your site secure and running smoothly."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-shield-illustration-for-security.webp",
+                        "title": "Future-Proof Website",
+                        "description": "BridgeWay Digital's Magento web development services include future-proofing your site with the latest technologies and trends. We ensure that your Magento store remains competitive and adaptable, ready to meet the demands of tomorrow's market."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "real-world-ticker",
+            "type": "realWorldTicker",
+            "enabled": true,
+            "data": {
+                "title": "Real World Success With Angular JS Development",
+                "items": [
+                    {
+                        "count": "500+",
+                        "title": "Websites Developed",
+                        "description": "Enhancing businesses with Angular JS expertise."
+                    },
+                    {
+                        "count": "98%",
+                        "title": "Client Satisfaction",
+                        "description": "Delivering reliable and scalable Angular solutions."
+                    },
+                    {
+                        "count": "15+",
+                        "title": "Years Experience",
+                        "description": "Building enterprise-grade web applications."
+                    }
+                ],
+                "heading": "Trusted Magento Web Development Company by Businesses Worldwide",
+                "tickerData": [
+                    {
+                        "value": "200+",
+                        "title": "Businesses",
+                        "description": "have partnered with BridgeWay Digital for custom Magento web development services."
+                    },
+                    {
+                        "value": "15",
+                        "title": "Industry Partnership",
+                        "description": "for our commitment to delivering quality Magento solutions."
+                    },
+                    {
+                        "value": "10%",
+                        "title": "Growth in Client Base",
+                        "description": "through satisfied referrals and repeat business."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Website Development Services Deliverables",
+                "description": "An in-depth overview of the deliverables for each web development service offered by BridgeWay Digital.",
+                "tableData": {
+                    "columns": [
+                        "Basic Package",
+                        "Advanced Package",
+                        "Premium Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Products",
+                            "values": [
+                                "text:Up to 5",
+                                "text:Up to 10",
+                                "text:Up to 15"
+                            ]
+                        },
+                        {
+                            "title": "Keyword Research",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Copywriting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Bid Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Negative Keyword Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Extensions",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "A/B Testing",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Monitoring",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Budget Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Search Term Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Competitor Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Conversion Tracking",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Geotargeting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance Reporting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Continuous Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Progressive Monthly Management Fee",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        }
+                    ],
+                    "title": "Features"
+                },
+                "staticRowData": {
+                    "title": "Connect With An Website Development Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "ser-cta",
+            "type": "serCta",
+            "enabled": true,
+            "data": {
+                "title": "Bridgeway Digital has earned hundreds of reviews praising our efficiency, expertise, and client-focused approach.",
+                "button": {
+                    "href": "#",
+                    "text": "Client Testimonials ➜"
+                },
+                "image": {
+                    "src": "/images/service/ser-cta-img.webp",
+                    "width": 258,
+                    "height": 255,
+                    "alt": "Client Testimonials"
+                },
+                "rating": {
+                    "label": "BRIDGEWAY DIGITAL AGENCY RATING",
+                    "stars": {
+                        "src": "/images/service/ser-star.svg",
+                        "width": 114,
+                        "height": 18,
+                        "alt": "star"
+                    },
+                    "value": "4.9/5",
+                    "detail": "BASED ON OVER 500 THIRD-PARTY REVIEWS"
+                }
+            }
+        },
+        {
+            "id": "ser-faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is Magento, and why should I choose it for my e-commerce website?",
+                        "answer": "Magento is a robust, open-source e-commerce platform that offers flexibility, scalability, and a rich set of features. It's ideal for businesses looking to create a custom online store with advanced capabilities."
+                    },
+                    {
+                        "question": "What services does BridgeWay Digital offer for Magento website development?",
+                        "answer": "BridgeWay Digital offers end-to-end Magento website development services, including custom theme design, module development, Magento migration, performance optimization, and ongoing support and maintenance."
+                    },
+                    {
+                        "question": "How long does it take to develop a Magento website?",
+                        "answer": "The timeline for developing a Magento website depends on the complexity of the project. On average, a basic Magento website can take 3 to 6 months to complete, but this can vary based on specific requirements and customizations."
+                    },
+                    {
+                        "question": "Can you migrate my existing website to Magento?",
+                        "answer": "Yes, BridgeWay Digital specializes in migrating websites from various platforms to Magento. We ensure a seamless transition with minimal downtime and no data loss."
+                    },
+                    {
+                        "question": "Will my Magento website be mobile-friendly?",
+                        "answer": "Absolutely! All Magento websites developed by BridgeWay Digital are fully responsive and optimized for mobile devices to ensure an excellent user experience across all screen sizes."
+                    },
+                    {
+                        "question": "Do you provide Magento integration with third-party systems?",
+                        "answer": "Yes, we offer seamless integration of Magento with various third-party systems, including CRM, ERP, payment gateways, and shipping solutions, to streamline your business operations."
+                    },
+                    {
+                        "question": "What level of customization can I expect with a Magento website?",
+                        "answer": "Magento offers extensive customization options. BridgeWay Digital can tailor your website's design, functionality, and user experience to match your brand's unique needs and goals."
+                    },
+                    {
+                        "question": "How does BridgeWay Digital handle Magento website security?",
+                        "answer": "We implement best practices for Magento website security, including SSL certificates, regular security patches, two-factor authentication, and more to protect your site from potential threats."
+                    },
+                    {
+                        "question": "Can you help improve the performance of my existing Magento website?",
+                        "answer": "Yes, we offer performance optimization services for existing Magento websites, focusing on improving page load speeds, server response times, and overall user experience."
+                    },
+                    {
+                        "question": "Do you provide ongoing support and maintenance for Magento websites?",
+                        "answer": "Yes, BridgeWay Digital provides comprehensive support and maintenance services to ensure your Magento website remains up-to-date, secure, and running smoothly."
+                    },
+                    {
+                        "question": "What is the cost of developing a Magento website with BridgeWay Digital?",
+                        "answer": "The cost of developing a Magento website varies based on the scope of the project. We offer tailored pricing based on your specific needs and requirements. Contact us for a detailed quote."
+                    },
+                    {
+                        "question": "Can BridgeWay Digital handle multi-language and multi-currency setups in Magento?",
+                        "answer": "Yes, we can set up your Magento website to support multiple languages and currencies, making it easier for you to reach a global audience."
+                    },
+                    {
+                        "question": "How does BridgeWay Digital approach Magento SEO?",
+                        "answer": "We optimize your Magento website for search engines by implementing SEO best practices, including URL structuring, meta tags, keyword optimization, and more to enhance your site's visibility."
+                    },
+                    {
+                        "question": "Can you develop custom Magento extensions for my website?",
+                        "answer": "Yes, BridgeWay Digital can create custom Magento extensions tailored to your specific business needs, enhancing your website’s functionality and performance."
+                    },
+                    {
+                        "question": "What makes BridgeWay Digital different from other Magento development agencies?",
+                        "answer": "BridgeWay Digital offers a personalized approach, expert Magento web developers, a commitment to quality, and a comprehensive range of services, making us a trusted partner for your e-commerce success."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-cta-two",
+            "type": "serCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Transform Your Online Presence with The Leading Magento Web Development Company!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/contact-us"
+                },
+                "description": "BridgeWay Digital offers tailored Angular JS web development services that deliver high performance and superior user experiences.",
+                "highlightText": "Start your project with us today!",
+                "image": {
+                    "src": "/images/service/SerCtaTwo-img.webp",
+                    "alt": "Angular JS Development",
+                    "width": 600,
+                    "height": 280
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "How Much Does Angular JS Website Development Cost?",
+                "desc": "The cost of Angular JS website development can vary significantly depending on the scope and complexity of the project. Prices typically start at around $3,500 for basic applications and can go up to $60,000 for more advanced, feature-rich solutions. Each project is tailored to meet specific needs and budget requirements.",
+                "tabs": [
+                    {
+                        "label": "01   Project Complexity"
+                    },
+                    {
+                        "label": "02   Custom Features"
+                    },
+                    {
+                        "label": "03   Third-Party Integrations"
+                    },
+                    {
+                        "label": "04   Design Requirements"
+                    },
+                    {
+                        "label": "05   Cross-Platform Support"
+                    },
+                    {
+                        "label": "06   Team Expertise"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Project Complexity",
+                        "para": "The overall complexity of your Angular JS project..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Custom Features",
+                        "para": "Features like user login, admin panel, etc., increase cost..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Third-Party Integrations",
+                        "para": "APIs, payment gateways, and CRMs add to the budget..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Design Requirements",
+                        "para": "Unique UI/UX needs impact both cost and timeline..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Cross-Platform Support",
+                        "para": "Supporting mobile, tablet, and desktop adds effort..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Team Expertise",
+                        "para": "Experienced teams may cost more but deliver better quality..."
+                    }
+                ],
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                },
+                "points": [
+                    {
+                        "number": "01",
+                        "title": "Assessing Project Complexity",
+                        "description": "The cost of Magento web development can vary significantly based on the complexity of the project. A basic e-commerce site with standard features will cost less than a highly customized platform with complex functionalities, such as multi-store capabilities, custom extensions, or advanced integrations."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Determining Feature Requirements",
+                        "description": "Magento's flexibility allows for extensive customization, but these features come with varying costs. Integrating custom themes, third-party extensions, advanced security protocols, and API connections can add to the overall cost. Clearly defining your must-have features is essential to obtain an accurate estimate."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Ongoing Maintenance and Support",
+                        "description": "Magento web development isn't just a one-time investment. Regular maintenance, security updates, and performance optimization are crucial to ensure your website remains competitive and secure. Factoring in these ongoing costs is important for long-term budgeting."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Boost Your E-commerce Success with Magento Website Development"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Elevate your online store’s performance with our expert Magento development services, designed to fully leverage the power of this robust e-commerce platform. By customizing your store’s design, optimizing product listings, and integrating essential tools, we ensure your business stands out in the competitive digital marketplace. Our team implements a comprehensive development strategy that includes responsive design, secure payment processing, and efficient inventory management, all tailored to enhance user experience and drive sales. With continuous updates aligned with the latest e-commerce trends, we keep your Magento store at the forefront, ensuring increased traffic, higher conversions, and loyal customers."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Choose BridgeWay Digital as Your Magento Development Partner"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "At BridgeWay Digital, we don’t just build online stores; we create seamless shopping experiences. Our approach goes beyond standard e-commerce development by integrating advanced analytics, customer behavior insights, and cutting-edge technologies to craft stores that deliver measurable results. Our commitment to excellence ensures not only a visually appealing and highly functional store but also significant improvements in traffic, sales, and customer retention, resulting in a strong return on investment."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWayDigital advantage today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon Marketing Services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Amazon Marketing Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can Your Amazon Store Perform Better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon Marketing Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Comparison",
+                            "href": "#benifits"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Packages & Deliverables",
+                            "href": "#ser-table"
+                        },
+                        {
+                            "text": "Amazon Marketing FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ser-cta-three",
+            "type": "serCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Start Building Your Ideal Magento Store Today with BridgeWay Digital!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/get-a-free-quote-now"
+                },
+                "image": {
+                    "src": "/images/service/cta-three-img.webp",
+                    "width": 409,
+                    "height": 350,
+                    "alt": "Dynamic Web"
+                },
+                "stats": {
+                    "value": "105%",
+                    "label": "LEAD INCREASE"
+                }
+            }
+        },
+        {
+            "id": "ser-contact-form",
+            "type": "serContactForm",
+            "enabled": true,
+            "data": {
+                "uploadLabel": "Upload Reference/Sample (can send later as well)",
+                "uploadAccessibleLabel": "Upload reference or sample file",
+                "heading": "Get Magento Web Solutions in the shortest possible time across the globe!",
+                "eyebrow": "Engage with us on your terms.",
+                "steps": [
+                    "Fill in our quick form",
+                    "Our consultant will contact you to discuss your needs",
+                    "Receive your website delivered securely before the deadline"
+                ],
+                "formTitle": "Book a Consultation",
+                "formNotice": "No Payment or Credit Card Required. Initially",
+                "formDescription": "Complete the form below and we'll contact you with further instructions and details about your project.",
+                "fields": {
+                    "name": {
+                        "label": "Name",
+                        "placeholder": "Name:"
+                    },
+                    "email": {
+                        "label": "Email",
+                        "placeholder": "Email:"
+                    },
+                    "phone": {
+                        "label": "Phone Number",
+                        "placeholder": "Phone Number:"
+                    },
+                    "projectDetails": {
+                        "label": "Define Your Project",
+                        "placeholder": "Define Your Project (Optional)"
+                    }
+                },
+                "submitText": "Submit"
+            }
+        }
+    ]
+}

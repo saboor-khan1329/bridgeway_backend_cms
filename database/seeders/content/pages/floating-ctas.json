@@ -1,0 +1,57 @@
+{
+  "attributes": {
+    "slug": "floating-ctas",
+    "title": "Floating Calls to Action",
+    "template": "global",
+    "is_cms_managed": true,
+    "status": true,
+    "sort_order": 999
+  },
+  "seo": null,
+  "images": [],
+  "sections": [
+    {
+      "id": "floating-ctas",
+      "type": "floatingCtas",
+      "enabled": true,
+      "data": {
+        "callText": "Call Now",
+        "offerText": "Avail 60% OFF",
+        "title": "Ready for a digital upgrade?",
+        "defaultMarketing": "amazon-marketing",
+        "submitText": "Let's Get Started",
+        "fields": {
+          "fullName": {
+            "label": "Full Name",
+            "placeholder": "Full Name"
+          },
+          "country": {
+            "label": "Country",
+            "placeholder": "Select Country"
+          },
+          "phone": {
+            "label": "Phone Number",
+            "placeholder": "Phone Number"
+          },
+          "email": {
+            "label": "Email Address",
+            "placeholder": "Your Email"
+          },
+          "marketing": {
+            "label": "Marketing Service",
+            "options": [
+              {
+                "value": "amazon-marketing",
+                "label": "Amazon Marketing"
+              },
+              {
+                "value": "digital-marketing",
+                "label": "Digital Marketing"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

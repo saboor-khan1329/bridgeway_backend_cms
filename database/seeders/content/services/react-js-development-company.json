@@ -1,0 +1,1265 @@
+{
+    "attributes": {
+        "title": "React JS Development Services Company| BridgeWayDigital",
+        "short_description": "BridgeWayDigital provides expert React JS development services. Hire a reliable React JS company for dynamic, scalable, and high-performance web solutions.",
+        "status": true,
+        "is_featured": false
+    },
+    "seo": {
+        "meta_title": "React JS Development Services Company| BridgeWayDigital",
+        "meta_description": "BridgeWayDigital provides expert React JS development services. Hire a reliable React JS company for dynamic, scalable, and high-performance web solutions.",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/react-js-development-company",
+        "keywords": null,
+        "og_title": "React JS Development Services Company| BridgeWayDigital",
+        "og_description": "BridgeWayDigital provides expert React JS development services. Hire a reliable React JS company for dynamic, scalable, and high-performance web solutions.",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/react-js-development-company",
+        "og_image": null,
+        "twitter_card": "summary_large_image",
+        "twitter_title": "React JS Development Services Company| BridgeWayDigital",
+        "twitter_description": "BridgeWayDigital provides expert React JS development services. Hire a reliable React JS company for dynamic, scalable, and high-performance web solutions.",
+        "twitter_image": null
+    },
+    "images": [],
+    "slug": "react-js-development-company",
+    "categories": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "serviceHero",
+            "enabled": true,
+            "data": {
+                "heading": "React JS Web Development Services— Transform With The Leading React JS Web Development Company",
+                "description": "BridgeWayDigital provides expert React JS development services. Hire a reliable React JS company for dynamic, scalable, and high-performance web solutions.",
+                "btn": {
+                    "text": "Get Your Free Quote"
+                },
+                "services": [
+                    {
+                        "value": "3.1x",
+                        "label": "Increase in Global Search Visibility",
+                        "average": "1.9x"
+                    },
+                    {
+                        "value": "2.6x",
+                        "label": "Growth in International Traffic",
+                        "average": "1.5x"
+                    },
+                    {
+                        "value": "4.3x",
+                        "label": "Improvement in Global Engagement",
+                        "average": "2.1x"
+                    }
+                ],
+                "form": {
+                    "label": "Enter your details",
+                    "placeholder": "Enter your details",
+                    "submitText": "Get Your Free Quote"
+                },
+                "testimonial": {
+                    "decoration": {
+                        "src": "/images/service/middle-box-top.svg",
+                        "width": 143,
+                        "height": 28,
+                        "alt": ""
+                    },
+                    "quote": "Bridgeway has been a game-changer for our web strategy.",
+                    "sourceLogo": {
+                        "src": "/images/service/service-clutch-icon.svg",
+                        "width": 27,
+                        "height": 30,
+                        "alt": "Clutch"
+                    },
+                    "company": "U.S. Healthcare Company",
+                    "source": "Review from Clutch.co",
+                    "ratingImage": {
+                        "src": "/images/service/rating-star.svg",
+                        "width": 66,
+                        "height": 11,
+                        "alt": "Review rating"
+                    },
+                    "ratings": [
+                        {
+                            "label": "Rated 4.9/5 stars on G2"
+                        },
+                        {
+                            "label": "Rated 4.9/5 stars on Clutch"
+                        }
+                    ],
+                    "averageLabel": "Industry average"
+                }
+            }
+        },
+        {
+            "id": "logos",
+            "type": "serLogo",
+            "enabled": true,
+            "data": {
+                "title": "Trusted by startups and Fortune 500 companies",
+                "highlight": "500",
+                "logos": [
+                    {
+                        "ImgSrc": "/images/service/ser-logo-1.svg",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-2.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-3.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-4.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-5.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-6.webp",
+                        "alt": "Client logo"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sub-service",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Maximize Digital Impact with React JS Website Development Services",
+                "desc": "Whether you're building a new website or enhancing an existing one, as the leading React JS web development company, we can help. Learn more about our tailored plans for creating dynamic user experiences and turning them into measurable business success with our top React JS development team below.",
+                "btnText": "SEND ME A PROPOSAL ➜",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ],
+                "btnHref": "/get-a-free-quote"
+            }
+        },
+        {
+            "id": "cta-one",
+            "type": "ctaOne",
+            "enabled": true,
+            "data": {
+                "left": {
+                    "heading": "Start Building High-Performance Web Solutions Today with React JS!",
+                    "description": "Create and deploy cutting-edge React JS applications today with ease. Elevate your digital presence in minutes. Ready to get started?"
+                },
+                "right": {
+                    "heading": "Gain Complete Control Over Your Web Development Process",
+                    "description": "Our clients appreciate the transparency and efficiency of our React JS development services. With BridgeWay Digital, you’ll have all the data you need to make informed decisions at your fingertips. Understand how your website is performing, how it’s driving business growth, and what enhancements are possible.",
+                    "list": [
+                        "Visualize how your website engages users and drives conversions.",
+                        "Gain insights into the most effective features driving your site’s success.",
+                        "Optimize and iterate to continuously improve user satisfaction and retention."
+                    ]
+                },
+                "logo": {
+                    "src": "/images/white-logo.svg",
+                    "width": 200,
+                    "height": 200,
+                    "alt": "BridgeWay Digital"
+                },
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET STARTED ➜"
+                }
+            }
+        },
+        {
+            "id": "pricing",
+            "type": "serPrice",
+            "enabled": true,
+            "data": {
+                "heading": "Transparent React JS Development Pricing Tailored to Your Project Needs",
+                "description": "Unlike one-size-fits-all pricing, we offer custom React JS development solutions tailored to your business needs. Contact our team today for a personalized quote and a high-performance React JS application designed to drive your business growth.",
+                "leftData": {
+                    "heading": "Custom React JS Development Services",
+                    "value": "$4,000",
+                    "offerings": [
+                        {
+                            "imgSrc": "/new_assets/images/application-icon-for-project-management.webp",
+                            "title": "Project Scope and Complexity",
+                            "desc": "Applications vary in complexity, from simple interfaces to full-featured systems. We’ll discuss your specific requirements with your BridgeWay Digital consultant to determine the project’s scope and align it with your business goals."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/project-icon-for-digital-project-management.webp",
+                            "title": "Development Timeline",
+                            "desc": "Timelines can range from a few weeks to several months based on your needs. We’ll work with you to establish a timeline that ensures a high-quality, well-tested React JS application that meets your business deadlines."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/digital-marketing-icon-for-online-services.webp",
+                            "title": "Integration and Scalability",
+                            "desc": "As experts in web development, BridgeWay Digital ensures that your React JS applications integrate seamlessly with existing systems and are built to scale as your business grows, enhancing long-term performance and ROI."
+                        }
+                    ]
+                },
+                "rightData": {
+                    "heading": "Included in All React JS Development Projects:",
+                    "points": [
+                        {
+                            "point": "Professionally crafted, custom applications tailored to your unique requirements."
+                        },
+                        {
+                            "point": "Positive user experience through intuitive and engaging design."
+                        },
+                        {
+                            "point": "Responsive applications that perform seamlessly on all devices."
+                        },
+                        {
+                            "point": "Integration with major payment gateways and shipping solutions"
+                        },
+                        {
+                            "point": "Comprehensive testing to ensure the highest quality and reliability."
+                        },
+                        {
+                            "point": "Integration with existing systems to maintain operational continuity."
+                        },
+                        {
+                            "point": "Ongoing support and updates to keep your application up-to-date."
+                        }
+                    ]
+                },
+                "ui": {
+                    "icon": {
+                        "src": "/images/service/ser-price-img-1.svg",
+                        "alt": "Custom development"
+                    },
+                    "startingAt": "Starting at",
+                    "priceSuffix": "/ project",
+                    "includedTitle": "What’s Included:",
+                    "button": {
+                        "href": "/get-a-free-quote",
+                        "text": "GET MY CUSTOM QUOTE ➜"
+                    },
+                    "background": {
+                        "src": "/images/service/SerPrice-bg.webp",
+                        "alt": ""
+                    }
+                }
+            }
+        },
+        {
+            "id": "expert-team",
+            "type": "expertTeam",
+            "enabled": true,
+            "data": {
+                "labels": {
+                    "organization": "ORGANIZATION:",
+                    "challenge": "CHALLENGE",
+                    "initiatives": "RECENT INITIATIVES",
+                    "result": "RESULT"
+                },
+                "imgAlt": "Expert Team",
+                "MainTitle": "Trust the Team That’s Delivered Over 500+ Successful Websites",
+                "desc": "BridgeWay Digital is not just another React JS web development company. Our team of seasoned professionals works closely with you to understand your needs and deliver a React JS application that not only meets but exceeds your expectations. Get started today and see why businesses trust us for their most critical projects.",
+                "imgSrc": "/images/home/expert-team-img.webp",
+                "style": {
+                    "height": "600px"
+                },
+                "sliderData": [
+                    {
+                        "title": "Educational Client",
+                        "organization": "",
+                        "challenge": "Increase student interaction on an online learning platform.",
+                        "initiativeTextOne": "Development of interactive Angular JS quizzes and modules.",
+                        "initiativeTextTwo": "Enhancement of real-time chat and discussion features.",
+                        "initiativeTextThree": "Streamlining course navigation with Angular JS routing.",
+                        "percentage": "65%",
+                        "increase": "INCREASE IN STUDENT PARTICIPATION"
+                    },
+                    {
+                        "title": "SEO",
+                        "organization": "Greenleaf Landscaping",
+                        "challenge": "Increase organic search visibility and drive more qualified leads to the website.",
+                        "initiativeTextOne": "Conducted an in-depth SEO audit and implemented on-page and off-page optimization strategies.",
+                        "initiativeTextTwo": "Enhanced keyword targeting and content quality to improve search engine rankings.",
+                        "initiativeTextThree": "Developed a comprehensive backlink strategy to build domain authority.",
+                        "percentage": "90%",
+                        "increase": "Increase in organic traffic"
+                    },
+                    {
+                        "title": "Digital Marketing",
+                        "organization": "UrbanTrend Clothing",
+                        "challenge": "Boost brand awareness and drive online sales through targeted digital marketing campaigns.",
+                        "initiativeTextOne": "Created and executed multi-channel marketing campaigns across social media, email, and PPC platforms.",
+                        "initiativeTextTwo": "Developed engaging content and eye-catching ad creatives to capture audience attention.",
+                        "initiativeTextThree": "Utilized data analytics to fine-tune campaigns and maximize ROI.",
+                        "percentage": "60%",
+                        "increase": "Increase in brand engagement"
+                    },
+                    {
+                        "title": "Video Animation",
+                        "organization": "BrightMinds Learning",
+                        "challenge": "Create engaging educational content to enhance student learning and retention.",
+                        "initiativeTextOne": "Produced a series of animated educational videos with high-quality visuals and clear explanations.",
+                        "initiativeTextTwo": "Incorporated interactive elements to make learning more engaging.",
+                        "initiativeTextThree": "Ensured all videos were optimized for various devices and platforms.",
+                        "percentage": "70%",
+                        "increase": "Improved engagement"
+                    },
+                    {
+                        "title": "Amazon Marketing",
+                        "organization": "TechGiant Electronics",
+                        "challenge": "Increase product visibility and sales on the Amazon marketplace.",
+                        "initiativeTextOne": "Optimized product listings with targeted keywords and high-quality images.",
+                        "initiativeTextTwo": "Implemented advanced PPC strategies to boost product ranking and visibility.",
+                        "initiativeTextThree": "Monitored and adjusted campaigns based on performance data to maximize results.",
+                        "percentage": "45%",
+                        "increase": "Increase in sales"
+                    },
+                    {
+                        "title": "Performance Marketing",
+                        "organization": "FitPro Supplements",
+                        "challenge": "Enhance the effectiveness of marketing campaigns to achieve higher conversion rates.",
+                        "initiativeTextOne": "Developed and executed performance-driven marketing strategies with a focus on conversion optimization.",
+                        "initiativeTextTwo": "Utilized A/B testing and data analysis to refine ad creatives and targeting.",
+                        "initiativeTextThree": "Implemented advanced tracking and reporting tools to measure campaign success.",
+                        "percentage": "50%",
+                        "increase": "Increase in conversions"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "feature-comparison",
+            "type": "featureComparison",
+            "enabled": true,
+            "data": {
+                "heading": "Expert Technical SEO Services for Solid Digital Growth",
+                "comparisonTableData": {
+                    "headings": {
+                        "left": "WITH BRIDGEWAY DIGITAL",
+                        "right": "WITHOUT BRIDGEWAY DIGITAL"
+                    },
+                    "rows": [
+                        {
+                            "left": "Hreflang implementation to target multiple languages and regions",
+                            "right": "Incorrect hreflang tags leading to content mismatch in different regions"
+                        },
+                        {
+                            "left": "International link building for authoritative global backlinks",
+                            "right": "Lack of quality backlinks impacting global search engine rankings"
+                        },
+                        {
+                            "left": "Geo-targeting strategies to optimize content for specific countries",
+                            "right": "Poor geo-targeting resulting in irrelevant content for users"
+                        },
+                        {
+                            "left": "Optimized global website structure for seamless user experience",
+                            "right": "Disorganized site structure confusing users across different regions"
+                        },
+                        {
+                            "left": "Regular updates to adapt to changing international SEO trends",
+                            "right": "Falling behind competitors due to outdated international SEO strategies"
+                        }
+                    ]
+                },
+                "rightData": {
+                    "comment": "Our website was struggling with slow load times and poor search rankings until BridgeWay Digital stepped in. They optimized our site's technical structure, implemented HTTPS, and improved our mobile responsiveness. The results were immediate and impressive.",
+                    "customerName": "Alex P, Sr Executive",
+                    "achivements": [
+                        {
+                            "value": "80%",
+                            "detail": "of clients saw increased international traffic with our SEO, outpacing competitors' 25% growth."
+                        },
+                        {
+                            "value": "85%",
+                            "detail": "Clients reported better global engagement from localized content and geo-targeted strategies."
+                        }
+                    ]
+                },
+                "icon": {
+                    "src": "/images/service/Sub_Service-1.svg",
+                    "alt": "Code"
+                }
+            }
+        },
+        {
+            "id": "sub-service-2",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Drive Seamless User Experience Through React JS Development Services",
+                "desc": "Whether you’re looking to build a dynamic web app or enhance your existing website, our custom React JS development solutions can help. Learn more about our custom strategies for crafting responsive, high-performance web applications below.",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-business",
+            "type": "serWhyBusiness",
+            "enabled": true,
+            "data": {
+                "tabs": [
+                    {
+                        "id": "TechWave",
+                        "label": "TechWave Solutions"
+                    },
+                    {
+                        "id": "GreenLine",
+                        "label": "GreenLine Innovations"
+                    },
+                    {
+                        "id": "Pioneer",
+                        "label": "Pioneer Tech Labs"
+                    },
+                    {
+                        "id": "Quantum",
+                        "label": "Quantum IT Solutions"
+                    }
+                ],
+                "tabContent": {
+                    "TechWave": {
+                        "title": "When TechWave Solutions needed to enhance their platform, they turned to BridgeWay Digital. Discover how our collaboration doubled their user engagement.",
+                        "para": "Our Angular JS implementation with BridgeWay Digital significantly enhanced our platform's performance. The user engagement has doubled within six months, thanks to their expertise.",
+                        "asideValue": "2X",
+                        "asideText": "Increase in User Engagement"
+                    },
+                    "GreenLine": {
+                        "bg": "/images/home/success-graph-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 30% within 6 months.",
+                        "asideValue": "+30%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Pioneer": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Quantum": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    }
+                },
+                "heading": {
+                    "beforeIcon": "Here’s why Businesses",
+                    "icon": {
+                        "src": "/images/home/headt-img.webp",
+                        "width": 50,
+                        "height": 50,
+                        "alt": ""
+                    },
+                    "afterIcon": "BridgeWay Digital",
+                    "ratingImage": {
+                        "src": "/images/home/why-businesses-star.webp",
+                        "width": 180,
+                        "height": 24,
+                        "alt": "Five-star rating"
+                    }
+                }
+            }
+        },
+        {
+            "id": "goals",
+            "type": "goals",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Yes. We cover your Angular JS development needs.",
+                "desc": "Our expert team of Angular JS developers have every possible contingency covered for you!",
+                "cards": [
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization",
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization"
+                ],
+                "bottomCards": [
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization",
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization"
+                ],
+                "heading": "Yes, We Cover Every Aspect of React JS Development.",
+                "description": "Our expert React JS developers are adept in developing the perfect solutions for your development needs.",
+                "goalsList": [
+                    {
+                        "text": "Component-Based Architecture"
+                    },
+                    {
+                        "text": "Virtual DOM"
+                    },
+                    {
+                        "text": "State Management"
+                    },
+                    {
+                        "text": "Hooks"
+                    },
+                    {
+                        "text": "JSX Syntax"
+                    },
+                    {
+                        "text": "Single Page Applications"
+                    },
+                    {
+                        "text": "Performance Optimization"
+                    },
+                    {
+                        "text": "Reusable Components"
+                    },
+                    {
+                        "text": "API Integration"
+                    },
+                    {
+                        "text": "Cross-Platform Compatibility"
+                    },
+                    {
+                        "text": "Testing"
+                    },
+                    {
+                        "text": "Debugging"
+                    },
+                    {
+                        "text": "Responsive Design"
+                    },
+                    {
+                        "text": "Server-Side Rendering"
+                    },
+                    {
+                        "text": "Code Splitting"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-trust",
+            "type": "whyTrust",
+            "enabled": true,
+            "data": {
+                "tag": "Why Companies Trust",
+                "heading": "Why Brands Trust Bridgeway Digital As Their React JS Web Development Company",
+                "description": "Our company’s top-down approach in React JS web development keeps the client’s vision central. By integrating the latest technologies and streamlined workflows, we push digital innovation boundaries, establishing ourselves as trusted leaders in the React JS development industry.",
+                "cardContent": [
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon.svg",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-2.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-3.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-4.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-5.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-6.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    }
+                ],
+                "cards": [
+                    {
+                        "icon": "/new_assets/images/vector-performance-illustration-for-data-analysis.webp",
+                        "title": "Data-Driven Approach",
+                        "description": "Data is the core of our React JS development. Our team of developers and analysts meticulously analyze user interactions and behavioral data to optimize your web application's performance, ensuring it aligns perfectly with user needs and maximizes overall satisfaction and engagement."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-scalable-illustration-for-business-growth.webp",
+                        "title": "Scalable Solutions",
+                        "description": "We create scalable React JS applications using agile methodologies and modular architecture. Our engineers ensure your application can grow seamlessly with your business, maintaining peak performance and reliability, regardless of future demands or the increasing complexity of your digital environment"
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-data-illustration-for-analytics.webp",
+                        "title": "User-Centric Design",
+                        "description": "Our user-centric design philosophy focuses on crafting intuitive and engaging experiences. We create interfaces that are visually appealing and functionally superior, enhancing user interaction, satisfaction, and long-term engagement by making your web application accessible, enjoyable, and easy to navigate."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-user-illustration-for-user-experience.webp",
+                        "title": "Performance Optimization",
+                        "description": "Performance optimization is essential in our custom React JS development process. We focus on minimizing load times and optimizing code efficiency, ensuring your web application runs fast and responsively, providing users with seamless experiences that enhance overall engagement and satisfaction consistently."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-secure-illustration-for-cybersecurity.webp",
+                        "title": "Security Focused",
+                        "description": "Security is a critical priority in our React JS development. We implement the latest security practices, conduct regular audits, and apply advanced protective measures to ensure your application is safeguarded against vulnerabilities, maintaining data integrity and user trust throughout its lifecycle."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-shield-illustration-for-security.webp",
+                        "title": "Continuous Improvement",
+                        "description": "Our commitment to excellence continues post-deployment. We actively monitor, update, and refine your React JS application, ensuring it stays technologically advanced, performing optimally, and evolving alongside your business needs and the ever-changing demands of the digital landscape."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "real-world-ticker",
+            "type": "realWorldTicker",
+            "enabled": true,
+            "data": {
+                "title": "Real World Success With Angular JS Development",
+                "items": [
+                    {
+                        "count": "500+",
+                        "title": "Websites Developed",
+                        "description": "Enhancing businesses with Angular JS expertise."
+                    },
+                    {
+                        "count": "98%",
+                        "title": "Client Satisfaction",
+                        "description": "Delivering reliable and scalable Angular solutions."
+                    },
+                    {
+                        "count": "15+",
+                        "title": "Years Experience",
+                        "description": "Building enterprise-grade web applications."
+                    }
+                ],
+                "heading": "Award Winning React JS Web Development Company",
+                "tickerData": [
+                    {
+                        "value": "500+",
+                        "title": "Brands",
+                        "description": "chose React JS as their go-to tech framework"
+                    },
+                    {
+                        "value": "18",
+                        "title": "Industry Accolades",
+                        "description": "for cutting-edge React JS applications"
+                    },
+                    {
+                        "value": "25%",
+                        "title": "Big Companies",
+                        "description": "rely on our React JS solutions for web excellence"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Website Development Services Deliverables",
+                "description": "An in-depth overview of the deliverables for each web development service offered by BridgeWay Digital.",
+                "tableData": {
+                    "columns": [
+                        "Basic Package",
+                        "Advanced Package",
+                        "Premium Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Products",
+                            "values": [
+                                "text:Up to 5",
+                                "text:Up to 10",
+                                "text:Up to 15"
+                            ]
+                        },
+                        {
+                            "title": "Keyword Research",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Copywriting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Bid Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Negative Keyword Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Extensions",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "A/B Testing",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Monitoring",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Budget Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Search Term Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Competitor Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Conversion Tracking",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Geotargeting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance Reporting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Continuous Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Progressive Monthly Management Fee",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        }
+                    ],
+                    "title": "Features"
+                },
+                "staticRowData": {
+                    "title": "Connect With An Website Development Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "ser-cta",
+            "type": "serCta",
+            "enabled": true,
+            "data": {
+                "title": "Bridgeway Digital has earned hundreds of reviews praising our efficiency, expertise, and client-focused approach.",
+                "button": {
+                    "href": "#",
+                    "text": "Client Testimonials ➜"
+                },
+                "image": {
+                    "src": "/images/service/ser-cta-img.webp",
+                    "width": 258,
+                    "height": 255,
+                    "alt": "Client Testimonials"
+                },
+                "rating": {
+                    "label": "BRIDGEWAY DIGITAL AGENCY RATING",
+                    "stars": {
+                        "src": "/images/service/ser-star.svg",
+                        "width": 114,
+                        "height": 18,
+                        "alt": "star"
+                    },
+                    "value": "4.9/5",
+                    "detail": "BASED ON OVER 500 THIRD-PARTY REVIEWS"
+                }
+            }
+        },
+        {
+            "id": "ser-faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is React JS, and why should I choose it for my web development project?",
+                        "answer": "React JS is a popular JavaScript library for building user interfaces, especially single-page applications. It offers a fast, scalable, and simple way to create dynamic web applications."
+                    },
+                    {
+                        "question": "How long does it take to develop a React JS-based website?",
+                        "answer": "The timeline for developing a React JS website depends on the project's complexity and specific requirements. Generally, it can range from a few weeks to several months."
+                    },
+                    {
+                        "question": "How much does a React JS web development project cost?",
+                        "answer": "The cost varies based on the project's scope, features, and complexity. Contact BridgeWay Digital for a customized quote tailored to your needs."
+                    },
+                    {
+                        "question": "What type of web applications can be built using React JS?",
+                        "answer": "React JS is versatile and can be used to build a wide range of web applications, including e-commerce platforms, social media apps, dashboards, and content management systems."
+                    },
+                    {
+                        "question": "Will my React JS website be mobile-responsive?",
+                        "answer": "Yes, all React JS websites developed by BridgeWay Digital are designed to be fully responsive, ensuring optimal performance across all devices, including mobile phones and tablets."
+                    },
+                    {
+                        "question": "Can you integrate third-party services or APIs with React JS?",
+                        "answer": "Absolutely! React JS is highly compatible with various third-party services and APIs, allowing seamless integration to enhance your website's functionality."
+                    },
+                    {
+                        "question": "Do you offer ongoing support and maintenance for React JS websites?",
+                        "answer": "Yes, BridgeWay Digital provides comprehensive support and maintenance packages to ensure your React JS website remains up-to-date and performs optimally."
+                    },
+                    {
+                        "question": "Is React JS suitable for SEO?",
+                        "answer": "While React JS is not inherently SEO-friendly, BridgeWay Digital uses best practices and server-side rendering techniques to ensure your website is optimized for search engines."
+                    },
+                    {
+                        "question": "Can my existing website be converted to React JS?",
+                        "answer": "Yes, our team can help you migrate your existing website to React JS, ensuring a smooth transition with enhanced performance and features."
+                    },
+                    {
+                        "question": "What is the difference between React JS and other JavaScript frameworks?",
+                        "answer": "React JS focuses on building user interfaces with a component-based architecture, offering flexibility, reusability, and a strong community, making it a preferred choice for many developers."
+                    },
+                    {
+                        "question": "How do you ensure the security of a React JS web application?",
+                        "answer": "We implement robust security measures, including secure coding practices, data encryption, and regular security audits, to protect your React JS web application from vulnerabilities."
+                    },
+                    {
+                        "question": "What are the advantages of using React JS for web development?",
+                        "answer": "React JS offers a fast and efficient development process, reusability of components, strong community support, and ease of integration with other technologies, making it an excellent choice for web development."
+                    },
+                    {
+                        "question": "Can you help with the UI/UX design for my React JS website?",
+                        "answer": "Yes, our team includes experienced UI/UX designers who can create visually appealing and user-friendly interfaces tailored to your brand and audience."
+                    },
+                    {
+                        "question": "How scalable is a React JS website?",
+                        "answer": "React JS is highly scalable, allowing your website to grow and adapt to increasing traffic and functionality requirements with ease."
+                    },
+                    {
+                        "question": "Do you provide custom React JS development services?",
+                        "answer": "Yes, BridgeWay Digital specializes in custom React JS development, offering tailored solutions that meet your unique business needs and objectives."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-cta-two",
+            "type": "serCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Start Building Your Dream Website with Our React JS developers!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/contact-us"
+                },
+                "description": "BridgeWay Digital offers tailored Angular JS web development services that deliver high performance and superior user experiences.",
+                "highlightText": "Start your project with us today!",
+                "image": {
+                    "src": "/images/service/SerCtaTwo-img.webp",
+                    "alt": "Angular JS Development",
+                    "width": 600,
+                    "height": 280
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "How Much Does Angular JS Website Development Cost?",
+                "desc": "The cost of Angular JS website development can vary significantly depending on the scope and complexity of the project. Prices typically start at around $3,500 for basic applications and can go up to $60,000 for more advanced, feature-rich solutions. Each project is tailored to meet specific needs and budget requirements.",
+                "tabs": [
+                    {
+                        "label": "01   Project Complexity"
+                    },
+                    {
+                        "label": "02   Custom Features"
+                    },
+                    {
+                        "label": "03   Third-Party Integrations"
+                    },
+                    {
+                        "label": "04   Design Requirements"
+                    },
+                    {
+                        "label": "05   Cross-Platform Support"
+                    },
+                    {
+                        "label": "06   Team Expertise"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Project Complexity",
+                        "para": "The overall complexity of your Angular JS project..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Custom Features",
+                        "para": "Features like user login, admin panel, etc., increase cost..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Third-Party Integrations",
+                        "para": "APIs, payment gateways, and CRMs add to the budget..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Design Requirements",
+                        "para": "Unique UI/UX needs impact both cost and timeline..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Cross-Platform Support",
+                        "para": "Supporting mobile, tablet, and desktop adds effort..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Team Expertise",
+                        "para": "Experienced teams may cost more but deliver better quality..."
+                    }
+                ],
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                },
+                "points": [
+                    {
+                        "number": "01",
+                        "title": "Project Complexity",
+                        "description": "The overall complexity of your ReactJS project significantly impacts the cost. For basic projects, with minimal features and simple functionality, the cost might range from $2,000 to $3,500. However, as the complexity increases with features like server-side rendering or multi-layered architecture, the cost can escalate, contributing significantly to the overall project budget."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Custom Features",
+                        "description": "Custom features are a key cost driver. At a basic level, implementing standard functionalities might add around $1,000 to $2,000 to the project. However, more sophisticated customizations, such as unique user interfaces or specialized workflows, require additional development time and resources, potentially increasing the overall project cost significantly."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Third-Party Integrations",
+                        "description": "The cost of third-party integrations can vary widely. Basic integrations, using pre-built solutions, typically cost between $100 and $500. However, if the project requires more complex integrations, such as custom API development or extensive third-party service integration, these can add up to $2,500 per integration, increasing the total project cost considerably."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Elevate Your Website Performance with Expert React JS Development"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Take your digital presence to the next level with our specialized React JS development services, designed to enhance your website's functionality and user experience in today’s competitive market. By fine-tuning your site’s performance, implementing modern design principles, and optimizing the codebase with best practices, we ensure that your website not only attracts but also retains users. Our team employs a cutting-edge development strategy that includes responsive design, efficient state management, and integration with the latest technologies to keep your site at the forefront of innovation. With continuous updates and optimizations aligned with industry trends, we help your website maintain top performance, driving increased engagement and conversions."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Choose BridgeWay Digital as Your Strategic React JS Development Partner"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "At BridgeWay Digital, we do more than just code websites; we create impactful digital experiences. Our approach transcends traditional development by incorporating analytics-driven insights, user-centric design, and scalable architecture, ensuring that your website delivers measurable outcomes. Our dedication to excellence not only enhances your site’s functionality and aesthetic appeal but also significantly boosts traffic, user retention, and overall business growth, culminating in a strong return on investment."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWayDigital advantage today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon Marketing Services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Amazon Marketing Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can Your Amazon Store Perform Better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon Marketing Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Comparison",
+                            "href": "#benifits"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Packages & Deliverables",
+                            "href": "#ser-table"
+                        },
+                        {
+                            "text": "Amazon Marketing FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ser-cta-three",
+            "type": "serCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Unlock the Power of Your Website with React JS Development!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/get-a-free-quote-now"
+                },
+                "image": {
+                    "src": "/images/service/cta-three-img.webp",
+                    "width": 409,
+                    "height": 350,
+                    "alt": "Dynamic Web"
+                },
+                "stats": {
+                    "value": "105%",
+                    "label": "LEAD INCREASE"
+                }
+            }
+        },
+        {
+            "id": "ser-contact-form",
+            "type": "serContactForm",
+            "enabled": true,
+            "data": {
+                "uploadLabel": "Upload Reference/Sample (can send later as well)",
+                "uploadAccessibleLabel": "Upload reference or sample file",
+                "heading": "Get React JS Web Solutions in the shortest possible time across the globe!",
+                "eyebrow": "Engage with us on your terms.",
+                "steps": [
+                    "Fill in our quick form",
+                    "Our consultant will contact you to discuss your needs",
+                    "Receive your website delivered securely before the deadline"
+                ],
+                "formTitle": "Book a Consultation",
+                "formNotice": "No Payment or Credit Card Required. Initially",
+                "formDescription": "Complete the form below and we'll contact you with further instructions and details about your project.",
+                "fields": {
+                    "name": {
+                        "label": "Name",
+                        "placeholder": "Name:"
+                    },
+                    "email": {
+                        "label": "Email",
+                        "placeholder": "Email:"
+                    },
+                    "phone": {
+                        "label": "Phone Number",
+                        "placeholder": "Phone Number:"
+                    },
+                    "projectDetails": {
+                        "label": "Define Your Project",
+                        "placeholder": "Define Your Project (Optional)"
+                    }
+                },
+                "submitText": "Submit"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1260 @@
+{
+    "attributes": {
+        "title": "Laravel Web Development Company | BridgeWayDigital",
+        "short_description": "We are a Laravel web development company building secure, scalable apps. Laravel development for clean code, performance, and future-proof structure.",
+        "status": true,
+        "is_featured": false
+    },
+    "seo": {
+        "meta_title": "Laravel Web Development Company | BridgeWayDigital",
+        "meta_description": "We are a Laravel web development company building secure, scalable apps. Laravel development for clean code, performance, and future-proof structure.",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/laravel-development-company",
+        "keywords": null,
+        "og_title": "Laravel Web Development Company | BridgeWayDigital",
+        "og_description": "We are a Laravel web development company building secure, scalable apps. Laravel development for clean code, performance, and future-proof structure.",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/laravel-development-company",
+        "og_image": null,
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Laravel Web Development Company | BridgeWayDigital",
+        "twitter_description": "We are a Laravel web development company building secure, scalable apps. Laravel development for clean code, performance, and future-proof structure.",
+        "twitter_image": null
+    },
+    "images": [],
+    "slug": "laravel-development-company",
+    "categories": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "serviceHero",
+            "enabled": true,
+            "data": {
+                "heading": "Laravel Web Development Company —Maximize Website Efficiency and User Interaction",
+                "description": "We are a Laravel web development company building secure, scalable apps. Laravel development for clean code, performance, and future-proof structure.",
+                "btn": {
+                    "text": "Get Your Free Quote"
+                },
+                "services": [
+                    {
+                        "value": "3.1x",
+                        "label": "Increase in Global Search Visibility",
+                        "average": "1.9x"
+                    },
+                    {
+                        "value": "2.6x",
+                        "label": "Growth in International Traffic",
+                        "average": "1.5x"
+                    },
+                    {
+                        "value": "4.3x",
+                        "label": "Improvement in Global Engagement",
+                        "average": "2.1x"
+                    }
+                ],
+                "form": {
+                    "label": "Enter your details",
+                    "placeholder": "Enter your details",
+                    "submitText": "Get Your Free Quote"
+                },
+                "testimonial": {
+                    "decoration": {
+                        "src": "/images/service/middle-box-top.svg",
+                        "width": 143,
+                        "height": 28,
+                        "alt": ""
+                    },
+                    "quote": "Bridgeway has been a game-changer for our web strategy.",
+                    "sourceLogo": {
+                        "src": "/images/service/service-clutch-icon.svg",
+                        "width": 27,
+                        "height": 30,
+                        "alt": "Clutch"
+                    },
+                    "company": "U.S. Healthcare Company",
+                    "source": "Review from Clutch.co",
+                    "ratingImage": {
+                        "src": "/images/service/rating-star.svg",
+                        "width": 66,
+                        "height": 11,
+                        "alt": "Review rating"
+                    },
+                    "ratings": [
+                        {
+                            "label": "Rated 4.9/5 stars on G2"
+                        },
+                        {
+                            "label": "Rated 4.9/5 stars on Clutch"
+                        }
+                    ],
+                    "averageLabel": "Industry average"
+                }
+            }
+        },
+        {
+            "id": "logos",
+            "type": "serLogo",
+            "enabled": true,
+            "data": {
+                "title": "Trusted by startups and Fortune 500 companies",
+                "highlight": "500",
+                "logos": [
+                    {
+                        "ImgSrc": "/images/service/ser-logo-1.svg",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-2.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-3.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-4.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-5.webp",
+                        "alt": "Client logo"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-6.webp",
+                        "alt": "Client logo"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sub-service",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Create Impactful Websites with Laravel Web Development Services",
+                "desc": "Our Laravel Web Development services optimize your website for peak performance, seamless management, and sustainable growth. Partner with us to create a robust online presence that enhances user engagement and delivers measurable results, supporting your business’s long-term success.",
+                "btnText": "SEND ME A PROPOSAL ➜",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ],
+                "btnHref": "/get-a-free-quote"
+            }
+        },
+        {
+            "id": "cta-one",
+            "type": "ctaOne",
+            "enabled": true,
+            "data": {
+                "left": {
+                    "heading": "Enhance Your Web Solutions with Laravel Web Development Services by BridgeWay Digital",
+                    "description": "Enhance your online presence with expert Laravel web development. Build a scalable, secure website tailored to your needs."
+                },
+                "right": {
+                    "heading": "Streamline Your Web Solutions with Laravel Expertise",
+                    "description": "At BridgeWay Digital, we craft high-performance Laravel websites that blend exceptional functionality with innovative design. Our team uses Laravel’s power to build secure, easy-to-manage, and scalable websites, ensuring they meet your current needs and adapt seamlessly for future growth. We prioritize quality, security, and long-term success.",
+                    "list": [
+                        "Simplify operations, enhance user experience, and boost performance with our custom Laravel solutions.",
+                        "Optimize code efficiency, improve responsiveness, and ensure security to achieve your business goals.",
+                        "Stay competitive with a Laravel platform tailored to your unique and evolving needs."
+                    ]
+                },
+                "logo": {
+                    "src": "/images/white-logo.svg",
+                    "width": 200,
+                    "height": 200,
+                    "alt": "BridgeWay Digital"
+                },
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET STARTED ➜"
+                }
+            }
+        },
+        {
+            "id": "pricing",
+            "type": "serPrice",
+            "enabled": true,
+            "data": {
+                "heading": "Bridgeway Digital – Laravel Web Development Company With Affordable Packages",
+                "description": "At BridgeWay Digital, we excel in crafting robust, scalable web solutions with the Laravel framework. Our Laravel website development services deliver high-performance, secure, and feature-rich websites tailored to your business goals. Whether launching a new project or enhancing an existing one, we ensure top standards, driving growth and exceptional user experiences.",
+                "leftData": {
+                    "heading": "Custom Laravel Web Development Solutions",
+                    "value": "$3,500",
+                    "offerings": [
+                        {
+                            "imgSrc": "/new_assets/images/application-icon-for-project-management.webp",
+                            "title": "Tailored Laravel Web Development Services",
+                            "desc": "Our expert developers create custom websites using Laravel that are tailored to meet your specific business requirements. We focus on building scalable and maintainable solutions that can grow with your business."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/project-icon-for-digital-project-management.webp",
+                            "title": "Advanced Security Features",
+                            "desc": "We implement advanced security measures, including data encryption, secure authentication, and regular security audits, to protect your website from potential threats. Your website will be built to safeguard sensitive information and ensure data integrity."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/digital-marketing-icon-for-online-services.webp",
+                            "title": "Search Engine Optimization (SEO)",
+                            "desc": "We build Laravel websites with SEO best practices, helping your site rank higher on search engines and attract more organic traffic. Our strategies ensure that your website is easily discoverable and accessible to your target audience."
+                        }
+                    ]
+                },
+                "rightData": {
+                    "heading": "Included in All Laravel Web Development Projects:",
+                    "points": [
+                        {
+                            "point": "Custom-built Laravel websites tailored to your business needs."
+                        },
+                        {
+                            "point": "Secure, scalable architecture designed for long-term growth."
+                        },
+                        {
+                            "point": "User-friendly content management system (CMS) for easy updates."
+                        },
+                        {
+                            "point": "Integration with essential tools and plugins to extend functionality."
+                        },
+                        {
+                            "point": "Mobile-responsive design for an optimal user experience on all devices."
+                        },
+                        {
+                            "point": "Ongoing technical support and website maintenance."
+                        },
+                        {
+                            "point": "Detailed analytics and performance reports."
+                        },
+                        {
+                            "point": "Compliance with all relevant security and legal standards."
+                        }
+                    ]
+                },
+                "ui": {
+                    "icon": {
+                        "src": "/images/service/ser-price-img-1.svg",
+                        "alt": "Custom development"
+                    },
+                    "startingAt": "Starting at",
+                    "priceSuffix": "/ project",
+                    "includedTitle": "What’s Included:",
+                    "button": {
+                        "href": "/get-a-free-quote",
+                        "text": "GET MY CUSTOM QUOTE ➜"
+                    },
+                    "background": {
+                        "src": "/images/service/SerPrice-bg.webp",
+                        "alt": ""
+                    }
+                }
+            }
+        },
+        {
+            "id": "expert-team",
+            "type": "expertTeam",
+            "enabled": true,
+            "data": {
+                "labels": {
+                    "organization": "ORGANIZATION:",
+                    "challenge": "CHALLENGE",
+                    "initiatives": "RECENT INITIATIVES",
+                    "result": "RESULT"
+                },
+                "imgAlt": "Expert Team",
+                "MainTitle": "Partner with Expert Developers That’ve Successfully Deployed 1000+ Websites",
+                "desc": "At BridgeWay Digital, we’re creators of exceptional web experiences. Our Laravel developers build scalable, high-performance websites tailored to your needs, delivering dynamic, innovative solutions that fuel your business's success and growth.",
+                "imgSrc": "/images/home/expert-team-img.webp",
+                "style": {
+                    "height": "600px"
+                },
+                "sliderData": [
+                    {
+                        "title": "Educational Client",
+                        "organization": "",
+                        "challenge": "Increase student interaction on an online learning platform.",
+                        "initiativeTextOne": "Development of interactive Angular JS quizzes and modules.",
+                        "initiativeTextTwo": "Enhancement of real-time chat and discussion features.",
+                        "initiativeTextThree": "Streamlining course navigation with Angular JS routing.",
+                        "percentage": "65%",
+                        "increase": "INCREASE IN STUDENT PARTICIPATION"
+                    },
+                    {
+                        "title": "SEO",
+                        "organization": "Greenleaf Landscaping",
+                        "challenge": "Increase organic search visibility and drive more qualified leads to the website.",
+                        "initiativeTextOne": "Conducted an in-depth SEO audit and implemented on-page and off-page optimization strategies.",
+                        "initiativeTextTwo": "Enhanced keyword targeting and content quality to improve search engine rankings.",
+                        "initiativeTextThree": "Developed a comprehensive backlink strategy to build domain authority.",
+                        "percentage": "90%",
+                        "increase": "Increase in organic traffic"
+                    },
+                    {
+                        "title": "Digital Marketing",
+                        "organization": "UrbanTrend Clothing",
+                        "challenge": "Boost brand awareness and drive online sales through targeted digital marketing campaigns.",
+                        "initiativeTextOne": "Created and executed multi-channel marketing campaigns across social media, email, and PPC platforms.",
+                        "initiativeTextTwo": "Developed engaging content and eye-catching ad creatives to capture audience attention.",
+                        "initiativeTextThree": "Utilized data analytics to fine-tune campaigns and maximize ROI.",
+                        "percentage": "60%",
+                        "increase": "Increase in brand engagement"
+                    },
+                    {
+                        "title": "Video Animation",
+                        "organization": "BrightMinds Learning",
+                        "challenge": "Create engaging educational content to enhance student learning and retention.",
+                        "initiativeTextOne": "Produced a series of animated educational videos with high-quality visuals and clear explanations.",
+                        "initiativeTextTwo": "Incorporated interactive elements to make learning more engaging.",
+                        "initiativeTextThree": "Ensured all videos were optimized for various devices and platforms.",
+                        "percentage": "70%",
+                        "increase": "Improved engagement"
+                    },
+                    {
+                        "title": "Amazon Marketing",
+                        "organization": "TechGiant Electronics",
+                        "challenge": "Increase product visibility and sales on the Amazon marketplace.",
+                        "initiativeTextOne": "Optimized product listings with targeted keywords and high-quality images.",
+                        "initiativeTextTwo": "Implemented advanced PPC strategies to boost product ranking and visibility.",
+                        "initiativeTextThree": "Monitored and adjusted campaigns based on performance data to maximize results.",
+                        "percentage": "45%",
+                        "increase": "Increase in sales"
+                    },
+                    {
+                        "title": "Performance Marketing",
+                        "organization": "FitPro Supplements",
+                        "challenge": "Enhance the effectiveness of marketing campaigns to achieve higher conversion rates.",
+                        "initiativeTextOne": "Developed and executed performance-driven marketing strategies with a focus on conversion optimization.",
+                        "initiativeTextTwo": "Utilized A/B testing and data analysis to refine ad creatives and targeting.",
+                        "initiativeTextThree": "Implemented advanced tracking and reporting tools to measure campaign success.",
+                        "percentage": "50%",
+                        "increase": "Increase in conversions"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "feature-comparison",
+            "type": "featureComparison",
+            "enabled": true,
+            "data": {
+                "heading": "Expert Technical SEO Services for Solid Digital Growth",
+                "comparisonTableData": {
+                    "headings": {
+                        "left": "WITH BRIDGEWAY DIGITAL",
+                        "right": "WITHOUT BRIDGEWAY DIGITAL"
+                    },
+                    "rows": [
+                        {
+                            "left": "Hreflang implementation to target multiple languages and regions",
+                            "right": "Incorrect hreflang tags leading to content mismatch in different regions"
+                        },
+                        {
+                            "left": "International link building for authoritative global backlinks",
+                            "right": "Lack of quality backlinks impacting global search engine rankings"
+                        },
+                        {
+                            "left": "Geo-targeting strategies to optimize content for specific countries",
+                            "right": "Poor geo-targeting resulting in irrelevant content for users"
+                        },
+                        {
+                            "left": "Optimized global website structure for seamless user experience",
+                            "right": "Disorganized site structure confusing users across different regions"
+                        },
+                        {
+                            "left": "Regular updates to adapt to changing international SEO trends",
+                            "right": "Falling behind competitors due to outdated international SEO strategies"
+                        }
+                    ]
+                },
+                "rightData": {
+                    "comment": "Our website was struggling with slow load times and poor search rankings until BridgeWay Digital stepped in. They optimized our site's technical structure, implemented HTTPS, and improved our mobile responsiveness. The results were immediate and impressive.",
+                    "customerName": "Alex P, Sr Executive",
+                    "achivements": [
+                        {
+                            "value": "80%",
+                            "detail": "of clients saw increased international traffic with our SEO, outpacing competitors' 25% growth."
+                        },
+                        {
+                            "value": "85%",
+                            "detail": "Clients reported better global engagement from localized content and geo-targeted strategies."
+                        }
+                    ]
+                },
+                "icon": {
+                    "src": "/images/service/Sub_Service-1.svg",
+                    "alt": "Code"
+                }
+            }
+        },
+        {
+            "id": "sub-service-2",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Your Search for Laravel Web Development Services Ends Here",
+                "desc": "See why companies pick us as their dependable, long-term partner for Laravel web development.",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and templatedevelopment services. We create visuallystunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "UI/UX Design & Frontend Engineering",
+                        "desc": "Transform your ideas into intuitive, visually engaging interfaces. Our UI/UX experts craft modern layouts, smooth interactions, and optimized user journeys to enhance customer satisfaction and conversion rates."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Performance Optimization",
+                        "desc": "Boost your website’s speed and stability with our performance upgrade services. We resolve bottlenecks, compress assets, optimize code, and implement caching strategies for lightning-fast load times."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.svg",
+                        "title": "Maintenance & Support Services",
+                        "desc": "Ensure your platform stays secure, updated, and error-free with our ongoing maintenance services. We handle upgrades, bug fixes, monitoring, and improvements so your business runs smoothly 24/7."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-business",
+            "type": "serWhyBusiness",
+            "enabled": true,
+            "data": {
+                "tabs": [
+                    {
+                        "id": "TechWave",
+                        "label": "TechWave Solutions"
+                    },
+                    {
+                        "id": "GreenLine",
+                        "label": "GreenLine Innovations"
+                    },
+                    {
+                        "id": "Pioneer",
+                        "label": "Pioneer Tech Labs"
+                    },
+                    {
+                        "id": "Quantum",
+                        "label": "Quantum IT Solutions"
+                    }
+                ],
+                "tabContent": {
+                    "TechWave": {
+                        "title": "When TechWave Solutions needed to enhance their platform, they turned to BridgeWay Digital. Discover how our collaboration doubled their user engagement.",
+                        "para": "Our Angular JS implementation with BridgeWay Digital significantly enhanced our platform's performance. The user engagement has doubled within six months, thanks to their expertise.",
+                        "asideValue": "2X",
+                        "asideText": "Increase in User Engagement"
+                    },
+                    "GreenLine": {
+                        "bg": "/images/home/success-graph-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 30% within 6 months.",
+                        "asideValue": "+30%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Pioneer": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    },
+                    "Quantum": {
+                        "bg": "/images/home/revenue-img.webp",
+                        "title": "Revenue Performance",
+                        "para": "Our strategies boosted client revenue by over 35% within 6 months.",
+                        "asideValue": "+35%",
+                        "asideText": "Revenue Growth"
+                    }
+                },
+                "heading": {
+                    "beforeIcon": "Here’s why Businesses",
+                    "icon": {
+                        "src": "/images/home/headt-img.webp",
+                        "width": 50,
+                        "height": 50,
+                        "alt": ""
+                    },
+                    "afterIcon": "BridgeWay Digital",
+                    "ratingImage": {
+                        "src": "/images/home/why-businesses-star.webp",
+                        "width": 180,
+                        "height": 24,
+                        "alt": "Five-star rating"
+                    }
+                }
+            }
+        },
+        {
+            "id": "goals",
+            "type": "goals",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Yes. We cover your Angular JS development needs.",
+                "desc": "Our expert team of Angular JS developers have every possible contingency covered for you!",
+                "cards": [
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization",
+                    "Hreflang Tags",
+                    "Geo-Targeting",
+                    "Localized Keywords",
+                    "Multilingual Content",
+                    "Global Backlinks",
+                    "Regional Domains",
+                    "Mobile Optimization"
+                ],
+                "bottomCards": [
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization",
+                    "Cultural Adaptation",
+                    "Local Hosting",
+                    "International Site Structure",
+                    "Country-Specific URLs",
+                    "Regional Social Media",
+                    "Language Targeting",
+                    "Cross-Border Analytics",
+                    "Regional Content Optimization"
+                ],
+                "heading": "Yes, we upgrade your Digital Presence with Laravel.",
+                "description": "Our developers ensure seamless performance across diverse user needs and business goals.",
+                "goalsList": [
+                    {
+                        "text": "Routing System"
+                    },
+                    {
+                        "text": "Eloquent ORM"
+                    },
+                    {
+                        "text": "Blade Templating"
+                    },
+                    {
+                        "text": "Middleware"
+                    },
+                    {
+                        "text": "Authentication"
+                    },
+                    {
+                        "text": "Authorization"
+                    },
+                    {
+                        "text": "Artisan CLI"
+                    },
+                    {
+                        "text": "Migration System"
+                    },
+                    {
+                        "text": "Seeders"
+                    },
+                    {
+                        "text": "Validation"
+                    },
+                    {
+                        "text": "Queuing System"
+                    },
+                    {
+                        "text": "Event Broadcasting"
+                    },
+                    {
+                        "text": "Error Handling"
+                    },
+                    {
+                        "text": "Localization"
+                    },
+                    {
+                        "text": "Package Management"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-trust",
+            "type": "whyTrust",
+            "enabled": true,
+            "data": {
+                "tag": "Why Companies Trust",
+                "heading": "Why Companies Trust Why Businesses Trust Bridgeway Digital As",
+                "description": "BridgeWay Digital is a leading provider of Laravel Website Development services, known for delivering robust, scalable, and secure websites and web apps. We focus on building custom Laravel solutions that align with your business goals, providing a solid foundation for your online success.",
+                "cardContent": [
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon.svg",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-2.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-3.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-4.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-5.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-6.webp",
+                        "title": "Performance-Driven Development",
+                        "desc": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    }
+                ],
+                "cards": [
+                    {
+                        "icon": "/new_assets/images/vector-performance-illustration-for-data-analysis.webp",
+                        "title": "Tailored Laravel Solutions",
+                        "description": "At BridgeWay Digital, we understand that each business has unique requirements. Our team crafts custom Laravel solutions to meet your specific needs, ensuring your website is optimized to enhance user engagement, streamline operations, and drive growth."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-scalable-illustration-for-business-growth.webp",
+                        "title": "Scalable Laravel Applications",
+                        "description": "Our Laravel Web Development services are designed to evolve with your business. We build scalable solutions that can grow alongside your enterprise, ensuring your website remains efficient and capable of handling increased traffic and functionality as your needs expand."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-data-illustration-for-analytics.webp",
+                        "title": "User-Centric Design",
+                        "description": "We emphasize user experience in every Laravel project. Our designs are intuitive, easy to navigate, and visually appealing, providing your users with a seamless and satisfying experience that encourages continued interaction and loyalty."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-user-illustration-for-user-experience.webp",
+                        "title": "Strong Security Features",
+                        "description": "Security is a top priority in our Laravel Web Development process. We integrate strong security measures to protect your website from potential threats, ensuring the safety of your users' data and reinforcing trust in your brand."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-secure-illustration-for-cybersecurity.webp",
+                        "title": "Performance-Driven Development",
+                        "description": "Our approach to development is guided by performance metrics and analytics. We use data-driven insights to shape our design and development choices, ensuring your Laravel application runs smoothly, maximizes efficiency, and supports your business objectives."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-shield-illustration-for-security.webp",
+                        "title": "Ongoing Support and Maintenance",
+                        "description": "At BridgeWay Digital, our services don’t end with the launch of your Laravel application. We offer continuous support and regular maintenance to keep your website updated, secure, and optimized, ensuring sustained success and growth for your business."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "real-world-ticker",
+            "type": "realWorldTicker",
+            "enabled": true,
+            "data": {
+                "title": "Real World Success With Angular JS Development",
+                "items": [
+                    {
+                        "count": "500+",
+                        "title": "Websites Developed",
+                        "description": "Enhancing businesses with Angular JS expertise."
+                    },
+                    {
+                        "count": "98%",
+                        "title": "Client Satisfaction",
+                        "description": "Delivering reliable and scalable Angular solutions."
+                    },
+                    {
+                        "count": "15+",
+                        "title": "Years Experience",
+                        "description": "Building enterprise-grade web applications."
+                    }
+                ],
+                "heading": "Laravel Development Services That Are Trusted by Businesses Worldwide",
+                "tickerData": [
+                    {
+                        "value": "50+",
+                        "title": "websites developed",
+                        "description": "using Laravel across various industries."
+                    },
+                    {
+                        "value": "100%",
+                        "title": "client satisfaction rate",
+                        "description": "for projects delivered using Laravel's reliable architecture."
+                    },
+                    {
+                        "value": "80%",
+                        "title": "average increase in performance",
+                        "description": "and user engagement after launch."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Website Development Services Deliverables",
+                "description": "An in-depth overview of the deliverables for each web development service offered by BridgeWay Digital.",
+                "tableData": {
+                    "columns": [
+                        "Basic Package",
+                        "Advanced Package",
+                        "Premium Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Products",
+                            "values": [
+                                "text:Up to 5",
+                                "text:Up to 10",
+                                "text:Up to 15"
+                            ]
+                        },
+                        {
+                            "title": "Keyword Research",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Copywriting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Bid Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Negative Keyword Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Ad Extensions",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "A/B Testing",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Campaign Monitoring",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Budget Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Search Term Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Competitor Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Conversion Tracking",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Geotargeting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance Reporting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Continuous Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Progressive Monthly Management Fee",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        }
+                    ],
+                    "title": "Features"
+                },
+                "staticRowData": {
+                    "title": "Connect With An Website Development Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "ser-cta",
+            "type": "serCta",
+            "enabled": true,
+            "data": {
+                "title": "Bridgeway Digital has earned hundreds of reviews praising our efficiency, expertise, and client-focused approach.",
+                "button": {
+                    "href": "#",
+                    "text": "Client Testimonials ➜"
+                },
+                "image": {
+                    "src": "/images/service/ser-cta-img.webp",
+                    "width": 258,
+                    "height": 255,
+                    "alt": "Client Testimonials"
+                },
+                "rating": {
+                    "label": "BRIDGEWAY DIGITAL AGENCY RATING",
+                    "stars": {
+                        "src": "/images/service/ser-star.svg",
+                        "width": 114,
+                        "height": 18,
+                        "alt": "star"
+                    },
+                    "value": "4.9/5",
+                    "detail": "BASED ON OVER 500 THIRD-PARTY REVIEWS"
+                }
+            }
+        },
+        {
+            "id": "ser-faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What Laravel Website Development services does BridgeWay Digital offer?",
+                        "answer": "We offer a full range of Laravel Website Development services, including custom website development, API integration, website migration, e-commerce solutions, and ongoing maintenance. Our services are designed to build scalable, high-performance websites tailored to your business needs."
+                    },
+                    {
+                        "question": "How do you approach a Laravel Website Development project?",
+                        "answer": "We start by understanding your business goals and requirements. Our team then creates a customized development plan, focusing on building a robust and secure Laravel application that offers a seamless user experience."
+                    },
+                    {
+                        "question": "Can you develop custom features for my Laravel website?",
+                        "answer": "Yes, we specialize in developing custom features and functionalities tailored to your specific needs, ensuring your Laravel website stands out and meets your business objectives."
+                    },
+                    {
+                        "question": "How long does it take to develop a Laravel website?",
+                        "answer": "The development timeline varies depending on the complexity of the project. On average, a fully functional Laravel website can be completed within 4-8 weeks."
+                    },
+                    {
+                        "question": "Do you provide ongoing support after the Laravel website is launched?",
+                        "answer": "Yes, we offer continuous support and maintenance services to keep your Laravel website updated, secure, and performing at its best."
+                    },
+                    {
+                        "question": "Can you optimize my Laravel website for better performance?",
+                        "answer": "Absolutely! We incorporate best practices for speed optimization, database management, and code efficiency to ensure your Laravel website performs optimally."
+                    },
+                    {
+                        "question": "Will my Laravel website be mobile-friendly?",
+                        "answer": "Yes, we develop all our Laravel websites to be fully responsive, providing a smooth and consistent user experience across all devices, including mobile phones, tablets, and desktops."
+                    },
+                    {
+                        "question": "Can you integrate third-party services into my Laravel website?",
+                        "answer": "Yes, we can integrate various third-party services, such as payment gateways, CRM systems, and analytics tools, to enhance the functionality and effectiveness of your Laravel website."
+                    },
+                    {
+                        "question": "What types of businesses benefit from your Laravel Website Development services?",
+                        "answer": "Our Laravel Website Development services are suitable for businesses of all sizes, from startups to large enterprises, across various industries looking for robust, scalable web solutions."
+                    },
+                    {
+                        "question": "Do you offer Laravel migration services?",
+                        "answer": "Yes, we provide Laravel migration services to help transition your existing website to a Laravel-based platform with minimal disruption."
+                    },
+                    {
+                        "question": "What are the advantages of using Laravel for web development?",
+                        "answer": "Laravel offers advantages such as a powerful routing system, built-in security features, a modular packaging system, and an elegant syntax that makes development faster and more efficient."
+                    },
+                    {
+                        "question": "Can you assist with Laravel website redesigns?",
+                        "answer": "Absolutely! We can help redesign your existing Laravel website to enhance its functionality, appearance, and overall user experience."
+                    },
+                    {
+                        "question": "How do you ensure the security of a Laravel website?",
+                        "answer": "We implement Laravel’s built-in security features, such as encryption, authentication, and protection against SQL injection and cross-site scripting (XSS), to safeguard your website."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-cta-two",
+            "type": "serCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Upgarde Your Online Presence with BridgeWay Digital’s Laravel Expertise",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/contact-us"
+                },
+                "description": "BridgeWay Digital offers tailored Angular JS web development services that deliver high performance and superior user experiences.",
+                "highlightText": "Start your project with us today!",
+                "image": {
+                    "src": "/images/service/SerCtaTwo-img.webp",
+                    "alt": "Angular JS Development",
+                    "width": 600,
+                    "height": 280
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "How Much Does Angular JS Website Development Cost?",
+                "desc": "The cost of Angular JS website development can vary significantly depending on the scope and complexity of the project. Prices typically start at around $3,500 for basic applications and can go up to $60,000 for more advanced, feature-rich solutions. Each project is tailored to meet specific needs and budget requirements.",
+                "tabs": [
+                    {
+                        "label": "01   Project Complexity"
+                    },
+                    {
+                        "label": "02   Custom Features"
+                    },
+                    {
+                        "label": "03   Third-Party Integrations"
+                    },
+                    {
+                        "label": "04   Design Requirements"
+                    },
+                    {
+                        "label": "05   Cross-Platform Support"
+                    },
+                    {
+                        "label": "06   Team Expertise"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Project Complexity",
+                        "para": "The overall complexity of your Angular JS project..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Custom Features",
+                        "para": "Features like user login, admin panel, etc., increase cost..."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Third-Party Integrations",
+                        "para": "APIs, payment gateways, and CRMs add to the budget..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Design Requirements",
+                        "para": "Unique UI/UX needs impact both cost and timeline..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Cross-Platform Support",
+                        "para": "Supporting mobile, tablet, and desktop adds effort..."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Team Expertise",
+                        "para": "Experienced teams may cost more but deliver better quality..."
+                    }
+                ],
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                },
+                "points": [
+                    {
+                        "number": "01",
+                        "title": "Project Complexity",
+                        "description": "The overall complexity of your Laravel web development project greatly influences the cost. For basic projects with minimal features, the cost might range from $2,000 to $5,000. However, as the complexity increases with custom integrations and advanced functionalities, the cost can escalate significantly, impacting the overall project budget. Working with an experienced Laravel web development company can help manage these complexities effectively."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Customized Features",
+                        "description": "Customized features are a significant cost factor in Laravel web development. At a basic level, implementing standard functionalities might add around $3,000 to $7,000 to the project. However, more sophisticated customizations, such as unique user interfaces or specialized workflows, require additional development time and resources, potentially increasing the overall project cost significantly. A professional Laravel web development company can provide detailed estimates based on your specific needs."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Third-Party Integrations",
+                        "description": "The cost of integrating third-party services can vary widely in Laravel web development. Basic integrations, using pre-built solutions, typically cost between $1,000 and $3,000. However, if the project requires more complex integrations, such as custom API development or extensive synchronization with external systems, these can add up to $10,000 or more, significantly raising the total project cost. Partnering with a skilled Laravel web development company can streamline these integrations effectively."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Empower Your E-Commerce Success with Customized Laravel Development"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "At BridgeWay Digital, we specialize in crafting robust, secure, and highly scalable Laravel websites that are tailored to meet your business goals. Our Laravel Website Development Services are designed to create a seamless user experience, ensuring your website not only looks great but also performs efficiently. With a focus on clean code and optimal functionality, we deliver websites that are easy to manage and built to last."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Why Choose BridgeWay Digital?"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "When you partner with BridgeWay Digital, you benefit from a team of seasoned developers who are dedicated to your success. We leverage the latest Laravel frameworks and best practices to ensure your website is both powerful and future-ready. Whether you're building a new Laravel website or looking to enhance your existing platform, our Laravel Website Development Services provide the solid foundation you need to achieve long-term growth and success."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWayDigital advantage today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon Marketing Services",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Amazon Marketing Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Can Your Amazon Store Perform Better?",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon Marketing Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Comparison",
+                            "href": "#benifits"
+                        },
+                        {
+                            "text": "Amazon Marketing Services Packages & Deliverables",
+                            "href": "#ser-table"
+                        },
+                        {
+                            "text": "Amazon Marketing FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "ser-cta-three",
+            "type": "serCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Laravel Website Development with BridgeWay Digital!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/get-a-free-quote-now"
+                },
+                "image": {
+                    "src": "/images/service/cta-three-img.webp",
+                    "width": 409,
+                    "height": 350,
+                    "alt": "Dynamic Web"
+                },
+                "stats": {
+                    "value": "105%",
+                    "label": "LEAD INCREASE"
+                }
+            }
+        },
+        {
+            "id": "ser-contact-form",
+            "type": "serContactForm",
+            "enabled": true,
+            "data": {
+                "uploadLabel": "Upload Reference/Sample (can send later as well)",
+                "uploadAccessibleLabel": "Upload reference or sample file",
+                "heading": "Get Laravel Web Solutions in the shortest possible time across the globe!",
+                "eyebrow": "Engage with us on your terms.",
+                "steps": [
+                    "Fill in our quick form",
+                    "Our consultant will contact you to discuss your needs",
+                    "Receive your website delivered securely before the deadline"
+                ],
+                "formTitle": "Book a Consultation",
+                "formNotice": "No Payment or Credit Card Required. Initially",
+                "formDescription": "Complete the form below and we'll contact you with further instructions and details about your project.",
+                "fields": {
+                    "name": {
+                        "label": "Name",
+                        "placeholder": "Name:"
+                    },
+                    "email": {
+                        "label": "Email",
+                        "placeholder": "Email:"
+                    },
+                    "phone": {
+                        "label": "Phone Number",
+                        "placeholder": "Phone Number:"
+                    },
+                    "projectDetails": {
+                        "label": "Define Your Project",
+                        "placeholder": "Define Your Project (Optional)"
+                    }
+                },
+                "submitText": "Submit"
+            }
+        }
+    ]
+}

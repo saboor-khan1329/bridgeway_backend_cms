@@ -1,0 +1,55 @@
+{
+  "attributes": {
+    "slug": "home-sections",
+    "title": "home — Forms and feeds",
+    "template": "global",
+    "is_cms_managed": true,
+    "status": true,
+    "sort_order": 0
+  },
+  "seo": null,
+  "images": [],
+  "sections": [
+    {
+      "id": "hero",
+      "type": "heroSection",
+      "enabled": true,
+      "data": {
+        "emailPlaceholder": "Enter your email",
+        "submitText": "SEND ME A FREE PROPOSAL"
+      }
+    },
+    {
+      "id": "home-blog",
+      "type": "homeBlog",
+      "enabled": true,
+      "data": {
+        "heading": "Latest Industry Insights From BridgeWay Digital",
+        "viewMore": {
+          "href": "/blogs",
+          "text": "View More"
+        },
+        "posts": [
+          {
+            "title": "How Much Does App Development Cost in 2026? Full Pricing Gui...",
+            "readMin": "5 minute read",
+            "imgSrc": "/images/home/dev-cost-blog-img.webp",
+            "link": "/blogs/how-much-does-app-development-cost-in-2026-full-pricing-guide"
+          },
+          {
+            "title": "Google Ads vs Meta Ads for Shopify: Which Gets Better Sales ...",
+            "readMin": "5 minute read",
+            "imgSrc": "/images/home/ads-blog-img.webp",
+            "link": "/blogs/google-ads-vs-meta-ads-for-shopify-which-gets-better-sales-in-2026"
+          },
+          {
+            "title": "PPC Agency Pricing Guide 2026: What You Should Pay Based on ...",
+            "readMin": "5 minute read",
+            "imgSrc": "/images/home/ppc-blog-img.webp",
+            "link": "/blogs/ppc-agency-pricing-guide-2026-what-you-should-pay-based-on-ad-spend-scope-roi"
+          }
+        ]
+      }
+    }
+  ]
+}

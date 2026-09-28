@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "attributes": {
+        "type": "blog",
+        "category_type": null,
+        "name": "Amazon",
+        "parent_id": null,
+        "depth": 0,
+        "short_description": null,
+        "sub_heading1": null,
+        "sub_heading_description": null,
+        "banner_title": null,
+        "banner_description": null,
+        "section_cta_heading": null,
+        "section_cta_description": null,
+        "section_cta_button_name": null,
+        "section_cta_button_url": null,
+        "is_featured": false,
+        "status": true,
+        "testimonials_heading": null,
+        "testimonials_sub_heading": null
+      },
+      "slug": "amazon"
+    },
+    {
+      "attributes": {
+        "type": "blog",
+        "category_type": null,
+        "name": "Amazon SEO",
+        "parent_id": null,
+        "depth": 0,
+        "short_description": null,
+        "sub_heading1": null,
+        "sub_heading_description": null,
+        "banner_title": null,
+        "banner_description": null,
+        "section_cta_heading": null,
+        "section_cta_description": null,
+        "section_cta_button_name": null,
+        "section_cta_button_url": null,
+        "is_featured": false,
+        "status": true,
+        "testimonials_heading": null,
+        "testimonials_sub_heading": null
+      },
+      "slug": "amazon-seo"
+    },
+    {
+      "attributes": {
+        "type": "blog",
+        "category_type": null,
+        "name": "Amazon Listing",
+        "parent_id": null,
+        "depth": 0,
+        "short_description": null,
+        "sub_heading1": null,
+        "sub_heading_description": null,
+        "banner_title": null,
+        "banner_description": null,
+        "section_cta_heading": null,
+        "section_cta_description": null,
+        "section_cta_button_name": null,
+        "section_cta_button_url": null,
+        "is_featured": false,
+        "status": true,
+        "testimonials_heading": null,
+        "testimonials_sub_heading": null
+      },
+      "slug": "amazon-listing"
+    }
+  ],
+  "settings": [
+    {
+      "key": "blog_default_author_image",
+      "value": "/images/blogs/author-icon.webp",
+      "group": "branding"
+    },
+    {
+      "key": "blog_default_author_name",
+      "value": "BWD Admin",
+      "group": "branding"
+    },
+    {
+      "key": "blog_default_author_image_alt",
+      "value": "blog-1-author-img",
+      "group": "branding"
+    }
+  ]
+}

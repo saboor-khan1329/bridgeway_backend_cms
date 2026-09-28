@@ -1,0 +1,1292 @@
+{
+    "attributes": {
+        "slug": "amazon-photography-service",
+        "title": "Amazon Product Photography Services | Bridgeway Digital",
+        "template": "amazon-service",
+        "is_cms_managed": true,
+        "status": true,
+        "sort_order": 0
+    },
+    "seo": {
+        "meta_title": "Amazon Product Photography Services | Bridgeway Digital",
+        "meta_description": "Boost Amazon sales with Bridgeway Digital's Amazon Product Photography Services. Experience global studios and the lowest turnaround times. Contact us now!",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/amazon-photography-service",
+        "keywords": null,
+        "og_title": "Amazon Product Photography Services | Bridgeway Digital",
+        "og_description": "Boost Amazon sales with Bridgeway Digital's Amazon Product Photography Services. Experience global studios and the lowest turnaround times. Contact us now!",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/amazon-photography-service",
+        "og_image": "/images/og/amazon-photography-service.jpg",
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Amazon Product Photography Services | Bridgeway Digital",
+        "twitter_description": "Boost Amazon sales with Bridgeway Digital's Amazon Product Photography Services. Experience global studios and the lowest turnaround times. Contact us now!",
+        "twitter_image": "/images/og/amazon-photography-service.jpg"
+    },
+    "images": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "sertHero",
+            "enabled": true,
+            "data": {
+                "title": "Amazon Photography Services",
+                "del": "Global Presence, Eye-Catching Visuals, Transparent Pricing",
+                "furtherDetail": "<strong>Not in the US? No worries!</strong> Our global Amazon photography services have your Amazon store covered! Our studios in the <strong>United States, Netherlands, United Kingdom,</strong> and <strong>Dubai</strong> have you covered internationally! <span>Reach out to an Amazon Expert</span> to discuss the most recent available dates and take the first step towards transforming your product images today!",
+                "logos": [
+                    {
+                        "src": "/images/service/hero-logo-1.webp",
+                        "alt": "Partner logo",
+                        "width": 150,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-2.webp",
+                        "alt": "Partner logo",
+                        "width": 215,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-3.webp",
+                        "alt": "Partner logo",
+                        "width": 100,
+                        "height": 80
+                    }
+                ],
+                "formContent": {
+                    "title": "Get a Free Amazon Store Audit!",
+                    "fields": {
+                        "fullName": {
+                            "label": "Full Name",
+                            "placeholder": "Full Name"
+                        },
+                        "email": {
+                            "label": "Email Address",
+                            "placeholder": "Your Email"
+                        },
+                        "phone": {
+                            "label": "Phone Number",
+                            "placeholder": "(201) 555-0123"
+                        },
+                        "products": {
+                            "label": "Number of Products Listed",
+                            "placeholder": "Please Select",
+                            "options": [
+                                {
+                                    "value": "1-10",
+                                    "label": "1-10"
+                                },
+                                {
+                                    "value": "11-50",
+                                    "label": "11-50"
+                                },
+                                {
+                                    "value": "51-100",
+                                    "label": "51-100"
+                                },
+                                {
+                                    "value": "100+",
+                                    "label": "100+"
+                                }
+                            ]
+                        },
+                        "country": {
+                            "label": "Country"
+                        },
+                        "storeUrl": {
+                            "label": "Website URL/Amazon Store URL",
+                            "placeholder": "Website URL/Amazon Store URL"
+                        },
+                        "budget": {
+                            "label": "Estimated Budget",
+                            "placeholder": "Select Price",
+                            "options": [
+                                {
+                                    "value": "$0 - $500",
+                                    "label": "$0 - $500"
+                                },
+                                {
+                                    "value": "$500 - $1000",
+                                    "label": "$500 - $1000"
+                                },
+                                {
+                                    "value": "$1000 - $5000",
+                                    "label": "$1000 - $5000"
+                                },
+                                {
+                                    "value": "$5000+",
+                                    "label": "$5000+"
+                                }
+                            ]
+                        },
+                        "expectations": {
+                            "label": "What are your expectations from us?",
+                            "placeholder": "Let's break the ice. Write in as much detail as you want."
+                        }
+                    },
+                    "complimentaryTitle": "Complimentary Audit Includes:",
+                    "complimentaryItems": [
+                        "Keyword Research",
+                        "Growth Potential",
+                        "Expert Recommendations"
+                    ],
+                    "ratings": [
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        },
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        }
+                    ],
+                    "submitText": "SUBMIT"
+                }
+            }
+        },
+        {
+            "id": "sert-slider",
+            "type": "sertSlider",
+            "enabled": true,
+            "data": {
+                "sliderSettings": {
+                    "delay": 2000
+                },
+                "slides": [
+                    {
+                        "alignCenter": false,
+                        "items": [
+                            {
+                                "type": "text",
+                                "value": "$5M+",
+                                "label": "Revenue Driven"
+                            },
+                            {
+                                "type": "text",
+                                "value": "75+",
+                                "label": "Brands Managed"
+                            },
+                            {
+                                "type": "text",
+                                "value": "3.5M",
+                                "label": "Sessions Generated"
+                            },
+                            {
+                                "type": "text",
+                                "value": "10+",
+                                "label": "Impressions Created"
+                            },
+                            {
+                                "type": "text",
+                                "value": "1M+",
+                                "label": "Product Sold"
+                            }
+                        ]
+                    },
+                    {
+                        "alignCenter": true,
+                        "items": [
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-1.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-2.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-3.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-4.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-5.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "two-col",
+            "type": "sertTwoColumn",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Amazon Photography Agency That Caters To Amazon Stores Across The Globe!",
+                "twColData": {
+                    "title": "Hero Product Photography",
+                    "tags": "Iconic Shots, Unforgettable Impressions",
+                    "description": "Craft the central showcase of your Amazon listings with our Hero Product Photography. We capture the essence of your products in high-definition, making them the hero of their own story. Perfect for grabbing attention and making a strong first impression.",
+                    "image": {
+                        "url": "/images/amazon-photography-service/hero-product-img.webp",
+                        "alt": "Hero Product Photography"
+                    }
+                }
+            }
+        },
+        {
+            "id": "sert-two-column",
+            "type": "sertTwoColumn",
+            "enabled": true,
+            "data": {
+                "twColData": {
+                    "title": "White Background Photography",
+                    "tags": "Clean Presentation, Enhanced Focus",
+                    "description": "Achieve a sleek, professional look with our White Background Photography. This service emphasizes your product’s features without any distractions, aligning with Amazon’s image requirements for a polished and concise presentation.",
+                    "image": {
+                        "url": "/images/amazon-photography-service/white-bg-photography-img.webp",
+                        "alt": "Hero Product Photography"
+                    }
+                },
+                "reverse": true
+            }
+        },
+        {
+            "id": "sert-two-column-2",
+            "type": "sertTwoColumn",
+            "enabled": true,
+            "data": {
+                "twColData": {
+                    "title": "Lifestyle Photography",
+                    "tags": "Realistic Settings, Enhanced Appeal",
+                    "description": "Connect with your customers by placing your products in everyday life scenarios. Our Lifestyle Photography helps potential buyers visualize your products in use, enhancing relatability and boosting buyer confidence.",
+                    "image": {
+                        "url": "/images/amazon-photography-service/lifestyle-img.webp",
+                        "alt": "Hero Product Photography"
+                    }
+                }
+            }
+        },
+        {
+            "id": "sert-two-column-3",
+            "type": "sertTwoColumn",
+            "enabled": true,
+            "data": {
+                "twColData": {
+                    "title": "Product Infographic Photography",
+                    "tags": "Informative Visuals, Increased Understanding",
+                    "description": "Combine compelling imagery with crucial information using our Product Infographic Photography. These images highlight key features, benefits, and comparisons, educating your audience quickly and effectively, thus increasing the likelihood of purchase decisions.",
+                    "image": {
+                        "url": "/images/amazon-photography-service/product-infographic-img.webp",
+                        "alt": "Hero Product Photography"
+                    }
+                },
+                "reverse": true
+            }
+        },
+        {
+            "id": "sert-two-column-4",
+            "type": "sertTwoColumn",
+            "enabled": true,
+            "data": {
+                "twColData": {
+                    "title": "Amazon Product Videography",
+                    "tags": "Dynamic Display, Engaging Experience",
+                    "description": "Bring your products to life with our Amazon Product Videography. Capture the dynamics of your product through motion, providing an in-depth view that still images cannot match. Ideal for demonstrating functionality, showcasing features, and conveying quality through high-resolution video.",
+                    "image": {
+                        "url": "/images/amazon-photography-service/amazon-product-img.webp",
+                        "alt": "Hero Product Photography"
+                    }
+                }
+            }
+        },
+        {
+            "id": "port-tabs",
+            "type": "portTabs",
+            "enabled": true,
+            "data": {
+                "heading": "Our Designers’ Wall of Fame",
+                "description": "Presenting some brands that we’ve worked for with designs that",
+                "tabs": [
+                    {
+                        "id": "hero product",
+                        "label": "Hero Product",
+                        "items": [
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/hero-product-01.webp",
+                                "previewSrc": "/images/amazon-photography-service/hero-product-01.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/hero-product-02.webp",
+                                "previewSrc": "/images/amazon-photography-service/hero-product-02.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/hero-product-03.webp",
+                                "previewSrc": "/images/amazon-photography-service/hero-product-03.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/hero-product-04.webp",
+                                "previewSrc": "/images/amazon-photography-service/hero-product-04.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/hero-product-05.webp",
+                                "previewSrc": "/images/amazon-photography-service/hero-product-05.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/hero-product-06.webp",
+                                "previewSrc": "/images/amazon-photography-service/hero-product-06.webp"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "white background",
+                        "label": "White Background",
+                        "items": [
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/white-bg-01.webp",
+                                "previewSrc": "/images/amazon-photography-service/white-bg-01.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/white-bg-02.webp",
+                                "previewSrc": "/images/amazon-photography-service/white-bg-02.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/white-bg-03.webp",
+                                "previewSrc": "/images/amazon-photography-service/white-bg-03.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/white-bg-04.webp",
+                                "previewSrc": "/images/amazon-photography-service/white-bg-04.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/white-bg-05.webp",
+                                "previewSrc": "/images/amazon-photography-service/white-bg-05.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/white-bg-06.webp",
+                                "previewSrc": "/images/amazon-photography-service/white-bg-06.webp"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "infographics",
+                        "label": "Infographics",
+                        "items": [
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/infographic-01.webp",
+                                "previewSrc": "/images/amazon-photography-service/infographic-01.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/infographic-02.webp",
+                                "previewSrc": "/images/amazon-photography-service/infographic-02.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/infographic-03.webp",
+                                "previewSrc": "/images/amazon-photography-service/infographic-03.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/infographic-04.webp",
+                                "previewSrc": "/images/amazon-photography-service/infographic-04.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/infographic-05.webp",
+                                "previewSrc": "/images/amazon-photography-service/infographic-05.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/infographic-06.webp",
+                                "previewSrc": "/images/amazon-photography-service/infographic-06.webp"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "brand content",
+                        "label": "Enhanced Brand Content",
+                        "items": [
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/brand-content-01.webp",
+                                "previewSrc": "/images/amazon-photography-service/brand-content-01.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/brand-content-02.webp",
+                                "previewSrc": "/images/amazon-photography-service/brand-content-02.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/brand-content-03.webp",
+                                "previewSrc": "/images/amazon-photography-service/brand-content-03.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/brand-content-04.webp",
+                                "previewSrc": "/images/amazon-photography-service/brand-content-04.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/brand-content-05.webp",
+                                "previewSrc": "/images/amazon-photography-service/brand-content-05.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/brand-content-06.webp",
+                                "previewSrc": "/images/amazon-photography-service/brand-content-06.webp"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "life style",
+                        "label": "Lifestyle",
+                        "items": [
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/lifestyle-01.webp",
+                                "previewSrc": "/images/amazon-photography-service/lifestyle-01.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/lifestyle-02.webp",
+                                "previewSrc": "/images/amazon-photography-service/lifestyle-02.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/lifestyle-03.webp",
+                                "previewSrc": "/images/amazon-photography-service/lifestyle-03.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/lifestyle-04.webp",
+                                "previewSrc": "/images/amazon-photography-service/lifestyle-04.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/lifestyle-05.webp",
+                                "previewSrc": "/images/amazon-photography-service/lifestyle-05.webp"
+                            },
+                            {
+                                "type": "image",
+                                "imgSrc": "/images/amazon-photography-service/lifestyle-06.webp",
+                                "previewSrc": "/images/amazon-photography-service/lifestyle-06.webp"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "videography",
+                        "label": "Videography",
+                        "items": [
+                            {
+                                "type": "video",
+                                "videoSrc": "/videos/amazon-photography-service/videography-01.mp4",
+                                "thumbnail": "/videos/amazon-photography-service/videography-thumb-01.webp"
+                            },
+                            {
+                                "type": "video",
+                                "videoSrc": "/videos/amazon-photography-service/videography-02.mp4",
+                                "thumbnail": "/videos/amazon-photography-service/videography-thumb-02.webp"
+                            },
+                            {
+                                "type": "video",
+                                "videoSrc": "/videos/amazon-photography-service/videography-03.mp4",
+                                "thumbnail": "/videos/amazon-photography-service/videography-thumb-03.webp"
+                            },
+                            {
+                                "type": "video",
+                                "videoSrc": "/videos/amazon-photography-service/videography-04.mp4",
+                                "thumbnail": "/videos/amazon-photography-service/videography-thumb-04.webp"
+                            },
+                            {
+                                "type": "video",
+                                "videoSrc": "/videos/amazon-photography-service/videography-05.mp4",
+                                "thumbnail": "/videos/amazon-photography-service/videography-thumb-05.webp"
+                            },
+                            {
+                                "type": "video",
+                                "videoSrc": "/videos/amazon-photography-service/videography-06.mp4",
+                                "thumbnail": "/videos/amazon-photography-service/videography-thumb-06.webp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-call",
+            "type": "serCall",
+            "enabled": true,
+            "data": {
+                "contactOptions": [
+                    {
+                        "icon": "/images/service/SerCallbox-icon-1.svg",
+                        "eyebrow": "Toll Free",
+                        "label": "{{contact.phone.display}}",
+                        "href": "{{contact.phone.href}}"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-2.svg",
+                        "eyebrow": "Request",
+                        "label": "Call Back"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-3.svg",
+                        "eyebrow": "Start a",
+                        "label": "Live Chat"
+                    }
+                ],
+                "heading": "Need Top-Quality Amazon Photography Services ASAP? We're Ready to Capture Your Vision!",
+                "description": "Whether you're launching a new product or aiming to elevate your current listings, our Amazon photography specialists are on standby to prioritize your project. Capture the perfect shots to boost your sales call us now to get started!"
+            }
+        },
+        {
+            "id": "revenue-calculate",
+            "type": "revenueCalculate",
+            "enabled": true,
+            "data": {
+                "titleBefore": "Professional Amazon Photography Starting ",
+                "titleHighlight": "At Your Preferred Rate!",
+                "description": "Enhance your Amazon store’s appeal with tailored Amazon Photography Services. Boost your sales and make your products stand out.",
+                "descriptionHighlight": "Start today!",
+                "list": [
+                    "Global Photography Services",
+                    "High-Resolution Images",
+                    "Fast Turnaround Times",
+                    "Compliance with Amazon Guidelines",
+                    "Studios in the US, UK, Netherlands, and Dubai"
+                ],
+                "btn": {
+                    "text": "Get a Quote",
+                    "href": "/get-a-free-quote?amazon=1&service=Marketing"
+                }
+            }
+        },
+        {
+            "id": "sert-card",
+            "type": "sertCard",
+            "enabled": true,
+            "data": {
+                "title": "What you get working with BridgeWay Digtal",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/expanding-ecommerce-to-global-markets.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Expanding ecommerce to global markets"
+                        },
+                        "title": "Global Photography Services",
+                        "description": "Expand your reach effortlessly. Capture high-quality images that resonate with customers worldwide, thanks to our comprehensive international photography capabilities."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/scale-when-required-for-business-growth-and-scalability.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Scale when required for business growth and scalability"
+                        },
+                        "title": "Scalable Solutions",
+                        "description": "Adapt to your needs efficiently. Whether you’re launching a single product or an entire line, our services scale to meet your demands, ensuring consistent quality."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/navigating-amazon-with-ease-for-effective-seller-strategies.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Navigating Amazon with ease for effective seller strategies"
+                        },
+                        "title": "Fast Turnaround Times",
+                        "description": "Accelerate your product launches. Benefit from our quick and efficient photography services, helping you get your products to market faster."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "packages",
+            "type": "sertPackages",
+            "enabled": true,
+            "data": {
+                "title": "Amazon Photography Services Tailored To your Needs",
+                "description": "An in-depth dive into the amazon marketing packages, showcasing deliverables and fixed pricing for each model.",
+                "packages": [
+                    {
+                        "title": "Amazon Product Photography",
+                        "price": "",
+                        "priceDuration": "/Month",
+                        "oldPrice": "",
+                        "discountText": "",
+                        "listTitle": "",
+                        "features": [
+                            "High-Resolution Images",
+                            "White Background Shots",
+                            "Lifestyle Photography",
+                            "360-Degree Views",
+                            "Detailed Close-Ups",
+                            "Creative Angles",
+                            "Image Retouching",
+                            "Color Correction",
+                            "Shadow and Reflection Effects",
+                            "Infographic Images",
+                            "Group Shots",
+                            "Size and Scale Comparison",
+                            "Usage Scenarios",
+                            "Packaging Shots",
+                            "Model Photography"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Get A Quote",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=1500&package-type=standard&service=Marketing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Amazon EBC Photography",
+                        "price": "",
+                        "priceDuration": "/Month",
+                        "oldPrice": "",
+                        "discountText": "",
+                        "listTitle": "",
+                        "features": [
+                            "High-Resolution Enhanced Content",
+                            "Lifestyle Images",
+                            "Detailed Infographics",
+                            "Comparison Charts",
+                            "Custom Graphics",
+                            "Background Variations",
+                            "Before and After Shots",
+                            "Step-by-Step Usage Images",
+                            "Product Feature Highlights",
+                            "Text Overlays",
+                            "Brand Storytelling Images",
+                            "Warranty and Guarantee Badges",
+                            "Custom Icons",
+                            "Seasonal Themes",
+                            "Image Optimization for Mobile"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Get A Quote",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=4500&package-type=bussiness&service=Marketing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Amazon Storefront Photographys",
+                        "price": "",
+                        "priceDuration": "/Month",
+                        "oldPrice": "",
+                        "discountText": "",
+                        "listTitle": "",
+                        "features": [
+                            "High-Resolution Banner Images",
+                            "Brand Storytelling",
+                            "Lifestyle Imagery",
+                            "Product Collections",
+                            "Custom Graphics and Text",
+                            "Infographic Integration",
+                            "Promotional Banners",
+                            "Visual Navigation Aids",
+                            "Background and Context Shots",
+                            "Feature Highlights",
+                            "Customer Testimonials",
+                            "Interactive Elements",
+                            "Seasonal and Event Themes",
+                            "Usage Scenarios",
+                            "High-Quality Consistency"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Get A Quote",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=4500&package-type=enterprise&service=Marketing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Amazon Product Videography",
+                        "price": "",
+                        "priceDuration": "/Month",
+                        "oldPrice": "",
+                        "discountText": "",
+                        "listTitle": "",
+                        "features": [
+                            "High-Definition Video",
+                            "Product Demonstration",
+                            "360-Degree Video",
+                            "Lifestyle Video",
+                            "Instructional Videos",
+                            "Testimonial Videos",
+                            "Feature Highlight Videos",
+                            "Unboxing Videos",
+                            "Comparison Videos",
+                            "Promotional Clips",
+                            "Animated Graphics",
+                            "Voiceover Narration",
+                            "Background Music",
+                            "Subtitle Integration",
+                            "Video Optimization"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Get A Quote",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=4500&package-type=enterprise&service=Marketing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Amazon 3D Rendering",
+                        "price": "",
+                        "priceDuration": "/Month",
+                        "oldPrice": "",
+                        "discountText": "",
+                        "listTitle": "",
+                        "features": [
+                            "High-Resolution 3D Models",
+                            "360-Degree Rotation",
+                            "Photorealistic Textures",
+                            "Detailed Close-Ups",
+                            "Exploded Views",
+                            "Interactive Elements",
+                            "Product Customization",
+                            "Realistic Lighting",
+                            "Background Customization",
+                            "Usage Scenarios",
+                            "Augmented Reality Compatibility",
+                            "Virtual Staging",
+                            "Animation",
+                            "Real-Time Rendering",
+                            "Platform Optimization"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Get A Quote",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=4500&package-type=enterprise&service=Marketing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta",
+            "type": "sertCta",
+            "enabled": true,
+            "data": {
+                "beforeFirstTag": "With BridgeWay Digital, your Amazon Product Photography gets ",
+                "firstTag": {
+                    "text": "Featured Pack",
+                    "href": "#hero"
+                },
+                "betweenFirstSecondTag": " , giving you an unfair advantage of 3x returns in ",
+                "secondTag": {
+                    "text": "Comparison",
+                    "href": "#benefits"
+                },
+                "betweenSecondThirdTag": " to our counterparts, all whilst starting at your preferred! ",
+                "thirdTag": {
+                    "text": "price",
+                    "href": "#packages"
+                },
+                "icons": {
+                    "arrowIcon": "/images/service/SertCta-arrow-icon.svg",
+                    "starIcon": "/images/service/ser-star-icon.svg",
+                    "diamondIcon": "/images/service/ser-dimond-icon.svg",
+                    "heartIcon": "/images/service/ser-heart-icon.svg"
+                }
+            }
+        },
+        {
+            "id": "perform-card",
+            "type": "performCard",
+            "enabled": true,
+            "data": {
+                "heading": "Transform Your Amazon Product Photography Today!",
+                "detail": "Discover Our Proven Process for Creating High-Impact, Conversion-Driven Images for Your Amazon Listings!",
+                "cardContent": [
+                    {
+                        "icon": "/website/images/initial-consultation-icon-representing-the-start-of-a-project.webp",
+                        "title": "Initial Consultation",
+                        "desc": "We begin with a comprehensive discussion about your business objectives, product specifications, and brand vision to customize our photography approach to your needs."
+                    },
+                    {
+                        "icon": "/website/images/market-analysis-icon-showcasing-business-data-insights.webp",
+                        "title": "Pre-Shoot Planning",
+                        "desc": "Our team conducts in-depth research to understand your target market and competition. We develop a detailed shot list, styling guide, and storyboard that align with your brand and product features."
+                    },
+                    {
+                        "icon": "/website/images/strategic-planning-for-business-growth-and-development.webp",
+                        "title": "Product Preparation",
+                        "desc": "Once we receive your products, we meticulously prepare them for the shoot. This includes cleaning, assembling, and setting up the perfect lighting and background to enhance each shot."
+                    },
+                    {
+                        "icon": "/website/images/brand-registry-representing-amazon-brand-protection.webp",
+                        "title": "Professional Photo Shoot",
+                        "desc": "In our state-of-the-art studios, we capture high-resolution images of your products from multiple angles. Our experienced photographers ensure each shot meets Amazon’s guidelines and showcases your product’s best features."
+                    },
+                    {
+                        "icon": "/website/images/a-content-showcasing-enhanced-product-pages.webp",
+                        "title": "Post-Production Editing",
+                        "desc": "Our expert editors enhance the images through color correction, retouching, and background removal. We ensure each photo is polished and optimized for Amazon’s platform, highlighting your product’s unique selling points."
+                    },
+                    {
+                        "icon": "/website/images/product-launch-symbolizing-product-introduction.webp",
+                        "title": "Final Delivery and Feedback",
+                        "desc": "We deliver high-resolution, Amazon-ready images along with a comprehensive report on the shoot. We also provide an opportunity for feedback and revisions to ensure complete satisfaction with the final product."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta-two",
+            "type": "sertCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Gain the BridgeWay Digital advantage, Get a Custom Quote Today!",
+                "button": {
+                    "url": "/get-a-free-quote?amazon=1&service=Marketing",
+                    "text": "Get Your Free Proposal"
+                },
+                "bgImg": {
+                    "src": "/images/service/SertCtaTwo-bg.webp",
+                    "alt": "sertCtaTwo-bg"
+                }
+            }
+        },
+        {
+            "id": "sert-content",
+            "type": "sertContent",
+            "enabled": true,
+            "data": {
+                "heading": "Feature-Packed Amazon Product Photography Services to Highlight Your Listings Real Potential!",
+                "secContent": [
+                    {
+                        "title": "High-Resolution Images",
+                        "textOne": "Crystal Clear Quality, Every Time",
+                        "color": "#F33B3E",
+                        "textTwo": "Capture the finest details with our high-resolution images. In the competitive Amazon marketplace, the clarity and quality of your product photos can make all the difference. Our professional photographers use state-of-the-art cameras and equipment to shoot high-resolution images that meet and exceed Amazon’s requirements. These images showcase your product in stunning detail, allowing potential buyers to see the quality and craftsmanship up close.",
+                        "imgSrc": "/website/images/high-resolution-images-representing-crisp-and-clear-visuals.webp"
+                    },
+                    {
+                        "title": "360-Degree Views",
+                        "textOne": "Interactive and Engaging Displays",
+                        "color": "#FFB703",
+                        "textTwo": "Give your customers a comprehensive view of your products with our 360-degree photography. These interactive images allow potential buyers to explore your product from every angle, enhancing their shopping experience and boosting confidence in their purchase. By providing a complete visual tour, 360-degree views help to highlight every detail and feature of your product, giving a more realistic representation than static images.",
+                        "imgSrc": "/website/images/360-degree-view-image-representing-interactive-user-interface-design.webp"
+                    },
+                    {
+                        "title": "Color Accuracy",
+                        "textOne": "True-to-Life Representation",
+                        "color": "#FF763A",
+                        "textTwo": "Ensure your product images accurately reflect the true colors of your items with our expert color accuracy techniques. In online shopping, the disparity between the product image and the actual product can lead to customer dissatisfaction and increased return rates. Our professional photographers and editors use advanced color calibration tools and techniques to ensure that the colors in your images are as true-to-life as possible.",
+                        "imgSrc": "/website/images/color-accuracy-scale-for-design-consistency.webp"
+                    },
+                    {
+                        "title": "Fast Turnaround Times",
+                        "textOne": "Quick Delivery Without Compromising Quality",
+                        "color": "#626BFF",
+                        "textTwo": "Speed is crucial in the fast-paced world of e-commerce, and at BridgeWay Digital, we understand the need for timely delivery of high-quality product images. Our efficient workflow ensures that you receive your professionally shot and edited images promptly, allowing you to get your products listed and sold faster. We prioritize both speed and quality, ensuring that your urgent timelines are met without compromising the excellence of the final product.",
+                        "imgSrc": "/website/images/animated-key-1-design-sample.webp"
+                    },
+                    {
+                        "title": "Post-Production Enhancements",
+                        "textOne": "Refined and Polished for Maximum Impact",
+                        "color": "#00A6F6",
+                        "textTwo": "Transform your raw product photos into polished, professional images with our post-production enhancements. Our skilled editors use advanced software and techniques to perform meticulous retouching, color correction, background removal, and other enhancements that elevate the quality of your images. These post-production processes ensure that your product photos are not only visually appealing but also optimized to meet Amazon's stringent image requirements.",
+                        "imgSrc": "/website/images/post-production-enhancements-for-video-editing-and-effects.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ticker",
+            "type": "sertTicker",
+            "enabled": true,
+            "data": {
+                "heading": "Transform Your Product Images – Get Results Beyond Expectations!",
+                "description": "Partner with BridgeWay Digital to experience remarkable improvements in your Amazon listings' performance. Elevate your product images and see tangible results in engagement, customer satisfaction, and sales. Your journey to visual excellence starts here!",
+                "tabContent": [
+                    {
+                        "title": 300,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Product Engagement"
+                    },
+                    {
+                        "title": 50,
+                        "sign": "-",
+                        "unit": "%",
+                        "text": "Reduction in Return Rates"
+                    },
+                    {
+                        "title": 120,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Boost in Conversion Rates"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "made-the-choice",
+            "type": "madeTheChoice",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Leading Amazon Stores That Made The Choice You’re Still Thinking About!",
+                "headingclass": "sub-heading-two sub-heading-two-width",
+                "MadeTheChoiceData": [
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-1.webp",
+                        "textone": ">1.3M",
+                        "texttwo": "Views"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-2.webp",
+                        "textone": "3X",
+                        "texttwo": "Faster Time to Launch"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-3.webp",
+                        "textone": "27%",
+                        "texttwo": "Traffic Increases"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-4.webp",
+                        "textone": "4X",
+                        "texttwo": "Faster Speed to Market"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "How YOU Benefit From Our Amazon Photography Service",
+                "description": "Imagine a world where the complexities of product photography are no longer your concern—where we manage every detail, and you reap the rewards of stunning, high-converting images.",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Stress-Free Photography Management",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Effortless Visual Mastery",
+                        "contentDesc": "Imagine a world where the complexities of product photography are no longer your concern—where we manage every detail, and you reap the rewards of stunning, high-converting images.",
+                        "image": "/images/service/tech-edge-accordion-img.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Competitive Edge",
+                        "icon": "/images/service/amazon-accordion-icon-2.svg",
+                        "contentTitle": "Stand Out with Ease",
+                        "contentDesc": "Outshine the competition with our expert photography services and innovative visual strategies. Watch your products capture attention and your brand soar ahead.",
+                        "image": "/images/service/custom-sol-accordion-img.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Personalized Support",
+                        "icon": "/images/service/amazon-accordion-icon-3.svg",
+                        "contentTitle": "Tailored for Visual Success",
+                        "contentDesc": "Every aspect of our service is customized for you, ensuring that each photography challenge is met with a bespoke solution designed to highlight your products’ unique features.",
+                        "image": "/images/service/stream-operation-accordion-img.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "More Free Time",
+                        "icon": "/images/service/amazon-accordion-icon-4.svg",
+                        "contentTitle": "Unlock Extra Hours",
+                        "contentDesc": "Gain back valuable hours as we handle the intricacies of product photography. Use your newfound time for growth, creativity, or relaxation—your choice.",
+                        "image": "/images/service/time-efficient-accordion-img.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Expert Guidance",
+                        "icon": "/images/service/amazon-accordion-icon.svg",
+                        "contentTitle": "Your Visual Navigator",
+                        "contentDesc": "Navigate the complexities of Amazon’s image requirements with our expert guidance at your side. We ensure your path to visual success with every decision, securing your place at the top.",
+                        "image": "/images/service/expert-insight-accordion-img.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "benefits",
+            "type": "benefits",
+            "enabled": true,
+            "data": {
+                "title": "Showcase Your Products To The World With The Bridgeway Digital Advantage",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/bwd-logo-black-design-for-brand-identification.svg",
+                            "width": 180,
+                            "height": 29,
+                            "alt": "BWD logo black design for brand identification"
+                        },
+                        "list": [
+                            "Precision Photography Tailored for Amazon.",
+                            "Cost-Effective Photography Solutions.",
+                            "Advanced Image Editing for Superior Quality.",
+                            "Customized Support from Photography Experts."
+                        ]
+                    },
+                    {
+                        "title": "In-House Marketing",
+                        "list": [
+                            "May lack the specialized equipment and expertise needed to produce high-quality, Amazon-compliant images.",
+                            "Significant overhead costs associated with assembling and maintaining a professional photography team.",
+                            "Basic editing capabilities may miss critical enhancements, limiting the visual appeal and conversion potential of product images.",
+                            "Limited access to experts specifically skilled in Amazon’s image requirements can delay or weaken product listing performance."
+                        ]
+                    },
+                    {
+                        "title": "Typical Marketing Agency",
+                        "list": [
+                            "Often employs generic photography techniques that fail to capture the unique requirements of Amazon’s marketplace, reducing the strategic value of images.",
+                            "Additional fees for advanced editing services or adapting images to meet evolving Amazon guidelines and product categories.",
+                            "Standard editing processes that might not delve deep enough into product-specific enhancements, potentially overlooking key visual improvements.",
+                            "Spread thin over multiple clients, which can compromise the focus and customization of photography services for Amazon listings."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta-three",
+            "type": "sertCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Can’t Decide Where to Start?",
+                "textBefore": "Consult with an ",
+                "textHighlight": "amazon product expert ",
+                "textAfter": " and see immediate solutions to your product image needs",
+                "button": {
+                    "text": "GET YOUR FREE AUDIT",
+                    "href": "/get-a-free-quote?amazon=1&service=Marketing"
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "6 Rules For Getting The Best Amazon Product Photographs!",
+                "desc": "To capture the best Amazon product photographs, focus on these six essential rules: ensure high-resolution images, maintain true-to-life colors, accurately represent scale, comply with Amazon’s guidelines, highlight key features, and use the correct file format. Following these guidelines will enhance your product listings, increase customer trust, and boost your sales performance.",
+                "tabs": [
+                    {
+                        "title": "   High Resolution",
+                        "eventKey": "tab1"
+                    },
+                    {
+                        "title": "   True to Life Colors",
+                        "eventKey": "tab2"
+                    },
+                    {
+                        "title": "   Scale Representation",
+                        "eventKey": "tab3"
+                    },
+                    {
+                        "title": "   Compliance with Guidelines",
+                        "eventKey": "tab4"
+                    },
+                    {
+                        "title": "   Focus on Key Featuress",
+                        "eventKey": "tab5"
+                    },
+                    {
+                        "title": "   File Format",
+                        "eventKey": "tab6"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "title": "Why High-Resolution Images Are Crucial for Amazon Product Listings",
+                        "para": "High-resolution images are vital for presenting your products with exceptional clarity and detail on Amazon. Utilizing images with a resolution of at least 1000 pixels on the longest side ensures compliance with Amazon's zoom feature requirements, allowing potential customers to closely examine product details. High-resolution photography captures every nuance and texture, providing a realistic and immersive view that builds trust and enhances the shopping experience.",
+                        "ImgSrc": "/images/service/web-hosting-img.webp"
+                    },
+                    {
+                        "title": "Ensuring Color Accuracy in Amazon Product Photography",
+                        "para": "True-to-life color representation is a cornerstone of effective Amazon product photography. Accurate colors ensure that the product seen online matches what the customer receives, minimizing returns and enhancing customer satisfaction. Achieving this requires advanced color calibration techniques and equipment, such as using calibrated monitors and color-checking tools during both shooting and editing phases.",
+                        "ImgSrc": "/images/service/ui-ux-dev-img.webp"
+                    },
+                    {
+                        "title": "Accurate Scale Representation in Amazon Product Photography",
+                        "para": "Scale representation is critical in Amazon product photography to provide customers with a clear understanding of the product’s size and dimensions. Including objects or models in your images for scale comparison helps buyers visualize how the product will fit into their lives, which reduces uncertainty and boosts purchasing confidence. This technique is especially useful for products where size is a key consideration, such as furniture, accessories, or home decor.",
+                        "ImgSrc": "/images/service/cross-browser-img.webp"
+                    },
+                    {
+                        "title": "Ensuring Compliance with Amazon’s Image Guidelines",
+                        "para": "Compliance with Amazon’s image guidelines is non-negotiable for successful product listings. Amazon requires that main images feature a pure white background (RGB 255, 255, 255), and the product should occupy at least 85% of the frame. Non-compliance can lead to listing rejections, suppressed listings, or reduced visibility in search results.",
+                        "ImgSrc": "/images/service/cms-integration-img.webp"
+                    },
+                    {
+                        "title": "Highlighting Key Features in Amazon Product Photography s",
+                        "para": "Emphasizing key features in your Amazon product photography is essential for capturing customer interest and driving sales. High-quality images that clearly showcase unique selling points, such as special materials, intricate designs, or functional aspects, can significantly enhance the perceived value of your products. This involves strategic photography techniques that highlight these features through close-ups, angled shots, and proper lighting.",
+                        "ImgSrc": "/images/service/responsive-design-img.webp"
+                    },
+                    {
+                        "title": "Choosing the Right File Format for Amazon Product Images",
+                        "para": "Selecting the correct file format is crucial for maintaining image quality and ensuring compatibility with Amazon’s platform. Amazon recommends using JPEG (.webp) or TIFF (.tif) formats for product images due to their balance of quality and file size. JPEG is particularly favored for its compression capabilities, which help maintain high resolution while keeping the file size manageable, ensuring faster loading times on product pages.",
+                        "ImgSrc": "/images/service/multimedia-content-img.webp"
+                    }
+                ],
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                }
+            }
+        },
+        {
+            "id": "faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "How to make Amazon product photos?",
+                        "answer": "To create high-quality Amazon product photos, use a professional camera and lighting setup. Ensure images are high-resolution, taken against a white background, and capture the product from multiple angles. Highlight key features and follow Amazon’s image guidelines. Post-production editing is crucial for color accuracy and enhancing image quality."
+                    },
+                    {
+                        "question": "Where to get pictures for an Amazon listing?",
+                        "answer": "You can get pictures for an Amazon listing by hiring professional photography services or using an in-house team with expertise in product photography. Ensure the images are high-resolution, well-lit, and meet Amazon's guidelines. Professional services like BridgeWay Digital provide tailored solutions to enhance your product listings."
+                    },
+                    {
+                        "question": "How many product images does Amazon allow?",
+                        "answer": "Amazon allows up to nine product images per listing, including one main image and eight additional images. Utilizing all available slots with high-quality images from various angles, including lifestyle and infographic photos, can significantly enhance the visual appeal of your product and improve conversion rates."
+                    },
+                    {
+                        "question": "What is the procedure to list product images on Amazon?",
+                        "answer": "To list product images on Amazon, log in to Seller Central, select \"Inventory\" and then \"Manage Inventory.\" Click \"Edit\" next to the product, go to the \"Images\" tab, and upload your photos. Ensure the images meet Amazon's guidelines for size, format, and quality before uploading."
+                    },
+                    {
+                        "question": "How do I begin with Amazon Product Photography Services?",
+                        "answer": "To begin with Amazon Product Photography Services, contact a professional service provider like BridgeWay Digital. Discuss your product requirements, goals, and timelines. Ship your product to their studio, where they will handle photography, editing, and optimization to ensure compliance with Amazon’s standards."
+                    },
+                    {
+                        "question": "Do I need to send a sample unit for photography?",
+                        "answer": "Yes, you typically need to send a sample unit for photography. This allows the photographers to capture high-quality, detailed images that accurately represent your product. Ensure the sample is in perfect condition to achieve the best results for your Amazon listing."
+                    },
+                    {
+                        "question": "What is the average turnaround time for Amazon Photography Services?",
+                        "answer": "The average turnaround time for Amazon Photography Services varies but is typically between 7 to 10 business days. This includes receiving the product, photography sessions, post-production editing, and final delivery of the optimized images ready for your Amazon listing."
+                    },
+                    {
+                        "question": "Where do I need to ship the sample product?",
+                        "answer": "You need to ship the sample product to the photography service provider’s studio. For BridgeWay Digital, you will receive detailed shipping instructions and the address upon finalizing your photography service order. Ensure the product is securely packed to avoid damage during transit."
+                    },
+                    {
+                        "question": "Does the package include the props?",
+                        "answer": "Yes, many professional Amazon photography packages include the use of props to enhance the visual context of your product. These props help to create lifestyle images that show the product in use, making it more relatable to potential buyers. Confirm with your service provider for specific details."
+                    },
+                    {
+                        "question": "Do I get the full ownership and source files of Amazon product photography services?",
+                        "answer": "Yes, with BridgeWay Digital, you receive full ownership and source files of your Amazon product photography. This includes high-resolution images and any edited versions. Having full ownership allows you to use the images across various platforms and marketing materials without restrictions."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Elevate Your Product Listings with Expert Amazon Product Photography"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Maximize your product's potential with our specialized Amazon Product Photography services, designed to enhance the visual appeal and marketability of your listings. By utilizing state-of-the-art photography techniques and advanced editing tools, we create high-resolution images that capture every detail and highlight key features. Our team conducts thorough pre-shoot planning and post-production enhancements to ensure your product photos are optimized for Amazon's platform and attract more customers."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Choose BridgeWay Digital as Your Amazon Product Photography Partner?"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "At BridgeWay Digital, we do more than just take photos; we strategically enhance your product presentation. Our comprehensive service extends beyond basic photography by incorporating color accuracy, scale representation, and compliance with Amazon’s stringent guidelines. Our commitment to quality and strategic insight guarantees not just visually appealing images but also significant competitive advantage and increased sales performance."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to start transforming your Amazon product listings. Let us help you stand out in the marketplace with images that not only meet but exceed customer expectations."
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Types of Amazon Product Photography",
+                            "href": "#two-col"
+                        },
+                        {
+                            "text": "Amazon Product Photography Challenges Abridged!",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Transform Your Amazon Product Photographs",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Amazon Product Photography Pricing",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Amazon Product Photography Services Comparison",
+                            "href": "#benefits"
+                        },
+                        {
+                            "text": "Amazon Product Photography FAQs",
+                            "href": "#faq"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

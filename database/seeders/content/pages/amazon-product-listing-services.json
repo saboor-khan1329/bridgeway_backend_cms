@@ -1,0 +1,1150 @@
+{
+    "attributes": {
+        "slug": "amazon-product-listing-services",
+        "title": "Amazon Product Listing Services | Free Amazon Store Audit",
+        "template": "amazon-service",
+        "is_cms_managed": true,
+        "status": true,
+        "sort_order": 0
+    },
+    "seo": {
+        "meta_title": "Amazon Product Listing Services | Free Amazon Store Audit",
+        "meta_description": "Get a Free Amazon Store Audit and boost your store sales with our Amazon Product Listing Services. Optimize titles, bullets, descriptions, and backend terms.",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/amazon-product-listing-services",
+        "keywords": "Amazon Product Listing Services",
+        "og_title": "Amazon Product Listing Services | Free Amazon Store Audit",
+        "og_description": "Get a Free Amazon Store Audit and boost your store sales with our Amazon Product Listing Services. Optimize titles, bullets, descriptions, and backend terms.",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/amazon-product-listing-services",
+        "og_image": "/images/og/amazon-product-listing-services.jpg",
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Amazon Product Listing Services | Free Amazon Store Audit",
+        "twitter_description": "Get a Free Amazon Store Audit and boost your store sales with our Amazon Product Listing Services. Optimize titles, bullets, descriptions, and backend terms.",
+        "twitter_image": "/images/og/amazon-product-listing-services.jpg"
+    },
+    "images": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "sertHero",
+            "enabled": true,
+            "data": {
+                "title": "Amazon Product Listing Services",
+                "del": "Upsell Trap. False Guarantees. Hidden Fees",
+                "detail": "Low visibility, weak conversions, or listings that don't rank? We fix the product pages holding your Amazon sales back.",
+                "furtherDetail": "Our Amazon product listing services are built for sellers who need stronger titles, better bullet points, optimized descriptions, and cleaner backend search terms. As a professional Amazon listing agency, we work with sellers launching new products and brands improving underperforming ASINs — turning weak listings into conversion-ready product pages across the Amazon marketplace.",
+                "logos": [
+                    {
+                        "src": "/images/service/hero-logo-1.webp",
+                        "alt": "Logo 1",
+                        "width": 150,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-2.webp",
+                        "alt": "Logo 2",
+                        "width": 215,
+                        "height": 80
+                    },
+                    {
+                        "src": "/images/service/hero-logo-3.webp",
+                        "alt": "Logo 3",
+                        "width": 100,
+                        "height": 80
+                    }
+                ],
+                "formContent": {
+                    "title": "Get a Free Amazon Store Audit!",
+                    "fields": {
+                        "fullName": {
+                            "label": "Full Name",
+                            "placeholder": "Full Name"
+                        },
+                        "email": {
+                            "label": "Email Address",
+                            "placeholder": "Your Email"
+                        },
+                        "phone": {
+                            "label": "Phone Number",
+                            "placeholder": "(201) 555-0123"
+                        },
+                        "products": {
+                            "label": "Number of Products Listed",
+                            "placeholder": "Please Select",
+                            "options": [
+                                {
+                                    "value": "1-10",
+                                    "label": "1-10"
+                                },
+                                {
+                                    "value": "11-50",
+                                    "label": "11-50"
+                                },
+                                {
+                                    "value": "51-100",
+                                    "label": "51-100"
+                                },
+                                {
+                                    "value": "100+",
+                                    "label": "100+"
+                                }
+                            ]
+                        },
+                        "country": {
+                            "label": "Country"
+                        },
+                        "storeUrl": {
+                            "label": "Website URL/Amazon Store URL",
+                            "placeholder": "Website URL/Amazon Store URL"
+                        },
+                        "budget": {
+                            "label": "Estimated Budget",
+                            "placeholder": "Select Price",
+                            "options": [
+                                {
+                                    "value": "$0 - $500",
+                                    "label": "$0 - $500"
+                                },
+                                {
+                                    "value": "$500 - $1000",
+                                    "label": "$500 - $1000"
+                                },
+                                {
+                                    "value": "$1000 - $5000",
+                                    "label": "$1000 - $5000"
+                                },
+                                {
+                                    "value": "$5000+",
+                                    "label": "$5000+"
+                                }
+                            ]
+                        },
+                        "expectations": {
+                            "label": "What are your expectations from us?",
+                            "placeholder": "Let's break the ice. Write in as much detail as you want."
+                        }
+                    },
+                    "complimentaryTitle": "Complimentary Audit Includes:",
+                    "complimentaryItems": [
+                        "Keyword Research",
+                        "Growth Potential",
+                        "Expert Recommendations"
+                    ],
+                    "ratings": [
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        },
+                        {
+                            "label": "Rated 5/5 stars",
+                            "icon": "/images/service/clutch-review-icon.webp",
+                            "stars": "/images/service/clutch-review-star.webp"
+                        }
+                    ],
+                    "submitText": "SUBMIT"
+                }
+            }
+        },
+        {
+            "id": "sert-slider",
+            "type": "sertSlider",
+            "enabled": true,
+            "data": {
+                "sliderSettings": {
+                    "delay": 2000
+                },
+                "slides": [
+                    {
+                        "alignCenter": false,
+                        "items": [
+                            {
+                                "type": "text",
+                                "value": "$5M+",
+                                "label": "Revenue Driven"
+                            },
+                            {
+                                "type": "text",
+                                "value": "75+",
+                                "label": "Brands Managed"
+                            },
+                            {
+                                "type": "text",
+                                "value": "3.5M",
+                                "label": "Sessions Generated"
+                            },
+                            {
+                                "type": "text",
+                                "value": "10+",
+                                "label": "Impressions Created"
+                            },
+                            {
+                                "type": "text",
+                                "value": "1M+",
+                                "label": "Product Sold"
+                            }
+                        ]
+                    },
+                    {
+                        "alignCenter": true,
+                        "items": [
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-1.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-2.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-3.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-4.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            },
+                            {
+                                "type": "image",
+                                "src": "/images/service/service-logo-5.webp",
+                                "width": 120,
+                                "height": 50,
+                                "alt": "Partner Logo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ppc-accordion",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Amazon Listing Optimization",
+                        "icon": "/website/images/image-showcasing-vibrant-layout-design-with-animation-effects.webp",
+                        "contentTitle": "Optimize Existing Amazon Listings for Stronger Search Visibility",
+                        "contentDesc": "We audit and optimize existing Amazon listings — titles, bullet points, descriptions, backend search terms, and overall structure. Our Amazon listing optimization service fixes relevance gaps, strengthens shopper clarity, and improves listing performance where it matters most.",
+                        "image": "/images/amazon-product-listing-services/lisitng-optimization-icon-for-amazon-product-listing-improvement.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Keyword Optimization",
+                        "icon": "/website/images/image-demonstrating-user-focused-web-design-with-clean-animation-effects.webp",
+                        "contentTitle": "Amazon Keyword Research and Keyword Mapping",
+                        "contentDesc": "We research relevant Amazon search terms and map them across your listing title, bullet points, product description, and backend fields. This improves discoverability while keeping content conversion-focused. For deeper ongoing strategy, see our Amazon SEO services.",
+                        "image": "/images/amazon-product-listing-services/Advanced Keyword Research.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Product Description Enhancement",
+                        "icon": "/website/images/image-showcasing-smooth-user-interaction-with-advanced-web-animation.webp",
+                        "contentTitle": "Bullet Points and Product Description Rewriting",
+                        "contentDesc": "We improve bullet points and product descriptions to make your listing easier to understand, more persuasive, and better aligned with buyer intent. The goal is to present product benefits clearly while supporting stronger conversion potential.",
+                        "image": "/images/amazon-product-listing-services/Product Description Enhancement_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Image and Video Optimization",
+                        "icon": "/website/images/image-illustrating-creative-layout-and-interactive-web-features.webp",
+                        "contentTitle": "Image Optimization for Better Listing Clarity",
+                        "contentDesc": "We review product images for Amazon compliance, recommend infographic and lifestyle image improvements, and provide guidance on image sequencing that supports conversion. For professional product photography and infographics, explore our Amazon product photography services.",
+                        "image": "/images/amazon-product-listing-services/Image and Video Optimization.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Amazon Listing Creation Service",
+                        "icon": "/website/images/enhanced-brand-content-layout-sample.webp",
+                        "contentTitle": "New Amazon Listing Creation for Product Launches",
+                        "contentDesc": "We create Amazon listing content for new product launches, including keyword research, titles, bullet points, descriptions, backend search terms, and catalog setup. Our professional Amazon listing creation services also cover product upload and variation configuration for sellers building from scratch.",
+                        "image": "/images/amazon-product-listing-services/A-CONTNENT.webp"
+                    }
+                ],
+                "heading": "Amazon Product Listing Optimization Services for Better Visibility and Conversion"
+            }
+        },
+        {
+            "id": "ser-call",
+            "type": "serCall",
+            "enabled": true,
+            "data": {
+                "contactOptions": [
+                    {
+                        "icon": "/images/service/SerCallbox-icon-1.svg",
+                        "eyebrow": "Toll Free",
+                        "label": "{{contact.phone.display}}",
+                        "href": "{{contact.phone.href}}"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-2.svg",
+                        "eyebrow": "Request",
+                        "label": "Call Back"
+                    },
+                    {
+                        "icon": "/images/service/SerCallbox-icon-3.svg",
+                        "eyebrow": "Start a",
+                        "label": "Live Chat"
+                    }
+                ],
+                "heading": "Need Help with New or Underperforming Amazon Listings?",
+                "description": "Whether you're launching new products on Amazon or improving listings that aren't performing, our Amazon listing specialists can help identify gaps and implement practical changes across your catalog."
+            }
+        },
+        {
+            "id": "revenue-calculate",
+            "type": "revenueCalculate",
+            "enabled": true,
+            "data": {
+                "titleBefore": " ",
+                "titleHighlight": "Amazon Product Listing Services Starting at $800",
+                "description": "Our Amazon product listing services are designed for sellers who need stronger listing quality, clearer product-page content, and better search visibility. From keyword research and listing optimization to product page improvements, we deliver practical ecommerce product listing services that support rankings and conversions.",
+                "list": [
+                    "Keyword Research and Mapping",
+                    "Title, Bullet Point, and Description Optimization",
+                    "Backend Search Term Optimization",
+                    "Brand-Aligned Listing Content"
+                ],
+                "cardTitle": "Estimated Revenue",
+                "currency": "$",
+                "revenueMultiplier": 4,
+                "sliderIcon": "/images/service/revenue-slider-icon.svg",
+                "buttonText": "GET STARTED WITH",
+                "sliderOptions": [
+                    {
+                        "investment": 800,
+                        "revenue": 3200
+                    },
+                    {
+                        "investment": 1500,
+                        "revenue": 6000
+                    },
+                    {
+                        "investment": 3000,
+                        "revenue": 12000
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-card",
+            "type": "sertCard",
+            "enabled": true,
+            "data": {
+                "title": "How Better Amazon Listings Support Visibility, Relevance, and Conversion",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/expanding-ecommerce-to-global-markets.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Expanding ecommerce to global markets"
+                        },
+                        "title": "Improve Listing Visibility",
+                        "description": "Stronger Amazon listings help improve product visibility by aligning titles, bullet points, descriptions, and backend search terms with relevant shopper queries."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/scale-when-required-for-business-growth-and-scalability.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Scale when required for business growth and scalability"
+                        },
+                        "title": "Support Better Search Relevance",
+                        "description": "Well-optimized listing content can improve relevance signals across Amazon search by using better keyword targeting, cleaner structure, and more accurate product-page content."
+                    },
+                    {
+                        "image": {
+                            "src": "/website/images/navigating-amazon-with-ease-for-effective-seller-strategies.webp",
+                            "width": 450,
+                            "height": 300,
+                            "alt": "Navigating Amazon with ease for effective seller strategies"
+                        },
+                        "title": "Increase Conversion Potential",
+                        "description": "Clearer listing content and stronger product-page presentation can help shoppers understand the product faster and support better conversion performance."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "packages",
+            "type": "sertPackages",
+            "enabled": true,
+            "data": {
+                "title": "Amazon Product Listing Packages Tailored to Your Catalog Size",
+                "packages": [
+                    {
+                        "title": "Standard Package",
+                        "price": "$800",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$2,300",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up To 5 Products",
+                        "features": [
+                            "Keyword Research and Mapping",
+                            "Amazon Listing SEO",
+                            "Listing Launch and Upload Setup",
+                            "Listing Management Support"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=800&package-type=standard&service=product_listing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Business Package",
+                        "price": "$1,500",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$4,300",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up To 10 Products",
+                        "features": [
+                            "Keyword Research and Mapping",
+                            "Amazon Listing SEO",
+                            "Image Asset Additions and Optimization",
+                            "Listing Management Support"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=1500&package-type=bussiness&service=product_listing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Enterprise Package",
+                        "price": "$3000",
+                        "priceDuration": "/Month",
+                        "oldPrice": "$8,600",
+                        "discountText": "(65% OFF)",
+                        "listTitle": "Up To 15 Products",
+                        "features": [
+                            "Keyword Research and Mapping",
+                            "Amazon Listing SEO",
+                            "Image/Video Asset Additions & Optimization",
+                            "Listing Management Support"
+                        ],
+                        "buttons": [
+                            {
+                                "text": "Send Me A Proposal",
+                                "href": "https://bridgewaydigital.com/get-a-free-quote?amazon=1&price=3000&package-type=enterprise&service=product_listing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta",
+            "type": "sertCta",
+            "enabled": true,
+            "data": {
+                "beforeFirstTag": "With BridgeWay Digital, your Amazon Listing Management gets ",
+                "firstTag": {
+                    "text": "Featured Pack",
+                    "href": "#hero"
+                },
+                "betweenFirstSecondTag": " , giving you an unfair advantage of 3x returns in ",
+                "secondTag": {
+                    "text": "Comparison",
+                    "href": "#benefits"
+                },
+                "betweenSecondThirdTag": " to our counterparts, all whilst starting at just ",
+                "thirdTag": {
+                    "text": "$800",
+                    "href": "#packages"
+                },
+                "icons": {
+                    "arrowIcon": "/images/service/SertCta-arrow-icon.svg",
+                    "starIcon": "/images/service/ser-star-icon.svg",
+                    "diamondIcon": "/images/service/ser-dimond-icon.svg",
+                    "heartIcon": "/images/service/ser-heart-icon.svg"
+                }
+            }
+        },
+        {
+            "id": "perform-card",
+            "type": "performCard",
+            "enabled": true,
+            "data": {
+                "heading": "Our Amazon Listing Optimization Process",
+                "detail": "We follow a structured process to improve listing quality, strengthen keyword relevance, and make product pages clearer for Amazon shoppers.",
+                "cardContent": [
+                    {
+                        "icon": "/website/images/initial-consultation-icon-representing-the-start-of-a-project.webp",
+                        "title": "Listing Audit and Consultation",
+                        "desc": "We review your current Amazon listings, product-page quality, and optimization needs to identify what needs to be improved first."
+                    },
+                    {
+                        "icon": "/website/images/market-analysis-icon-showcasing-business-data-insights.webp",
+                        "title": "Keyword Research and Market Review",
+                        "desc": "We analyze relevant search terms, competitor positioning, and listing gaps to build a stronger optimization plan. This builds on the same research framework used in our Amazon product research services."
+                    },
+                    {
+                        "icon": "/website/images/strategic-planning-for-business-growth-and-development.webp",
+                        "title": "Optimization Strategy Development",
+                        "desc": "We define the content and listing improvements needed across titles, bullet points, descriptions, backend search terms, and listing structure."
+                    },
+                    {
+                        "icon": "/website/images/brand-registry-representing-amazon-brand-protection.webp",
+                        "title": "Listing Content Optimization",
+                        "desc": "Your listing content gets updated with stronger keyword targeting, cleaner formatting, and clearer product communication that supports both search visibility and shopper understanding."
+                    },
+                    {
+                        "icon": "/website/images/a-content-showcasing-enhanced-product-pages.webp",
+                        "title": "Implementation Support",
+                        "desc": "Where needed, we support listing updates, optimization rollouts, and structured implementation guidance across your selected package scope."
+                    },
+                    {
+                        "icon": "/website/images/product-launch-symbolizing-product-introduction.webp",
+                        "title": "Review and Refinement",
+                        "desc": "We review the optimized listing work for alignment, consistency, and completeness before final delivery or next-step recommendations."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-cta-two",
+            "type": "sertCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Get Amazon Product Listing Support Starting at $800",
+                "button": {
+                    "url": "/get-a-free-quote?amazon=1&service=product_listing",
+                    "text": "Request a Proposal"
+                },
+                "bgImg": {
+                    "src": "/images/service/SertCtaTwo-bg.webp",
+                    "alt": "sertCtaTwo-bg"
+                }
+            }
+        },
+        {
+            "id": "sert-content",
+            "type": "sertContent",
+            "enabled": true,
+            "data": {
+                "heading": "Why Amazon Product Listings Underperform",
+                "description": "Many Amazon listings fail to perform not because the product is weak, but because the listing does not clearly communicate value, target the right search terms, or guide buyers effectively. Strong listing performance depends on content quality, relevance, structure, and clarity.",
+                "secContent": [
+                    {
+                        "title": "Weak Keyword Targeting",
+                        "textOne": "Listings miss visibility when search intent is not mapped properly",
+                        "color": "#00B4FF",
+                        "textTwo": "If your titles, bullets, descriptions, and backend fields are not aligned with relevant shopper queries, your product can struggle to appear for the searches that matter most.",
+                        "imgSrc": "/images/amazon-product-listing-services/weak-keyword-img.webp"
+                    },
+                    {
+                        "title": "Unclear Product Messaging",
+                        "textOne": "Buyers do not convert when listing content feels vague or generic",
+                        "color": "#FFDF45",
+                        "textTwo": "Product pages need clear titles, benefit-driven bullet points, and descriptions that help shoppers quickly understand what the product is, why it matters, and why they should choose it.",
+                        "imgSrc": "/images/amazon-product-listing-services/unclear-product-img.webp"
+                    },
+                    {
+                        "title": "Poor Backend Optimization",
+                        "textOne": "Hidden listing fields still affect discoverability",
+                        "color": "#2FD2D5",
+                        "textTwo": "Backend search terms and listing attributes support relevance behind the scenes. If these areas are weak, your front-end copy may not be enough to support stronger visibility.",
+                        "imgSrc": "/images/amazon-product-listing-services/poor-backend-img.webp"
+                    },
+                    {
+                        "title": "Weak Variation and Catalog Structure",
+                        "textOne": "Buyers lose confidence when listings feel disorganized",
+                        "color": "#3C2FC9)",
+                        "textTwo": "Products with variations or larger catalogs need clear organization so buyers can navigate options easily and understand what they are selecting.",
+                        "imgSrc": "/images/amazon-product-listing-services/weak-variation-img.webp"
+                    },
+                    {
+                        "title": "Outdated or Under-Optimized Listings",
+                        "textOne": "Older product pages often need structured content improvements",
+                        "color": "#5C64AF",
+                        "textTwo": "Existing listings can lose performance over time when content is outdated, incomplete, or weaker than competing product pages. Refreshing listing content helps improve clarity and support stronger performance.",
+                        "imgSrc": "/images/amazon-product-listing-services/outdated-img.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "sert-ticker",
+            "type": "sertTicker",
+            "enabled": true,
+            "data": {
+                "heading": "Why Brands Choose BridgeWay Digital for Amazon Listing Optimization",
+                "description": "As a dedicated Amazon product listing agency, we help brands improve listing quality through targeted keyword strategy, clearer product-page content, and structured optimization support across US, UK, and UAE Amazon marketplaces. Our work delivers practical listing improvements that drive better visibility, relevance, and conversion.",
+                "tabContent": [
+                    {
+                        "title": 150,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Visibility YoY"
+                    },
+                    {
+                        "title": 30,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Boost in Organic Rankings MoM"
+                    },
+                    {
+                        "title": 80,
+                        "sign": "+",
+                        "unit": "%",
+                        "text": "Increase in Conversion Rates YoY"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "made-the-choice",
+            "type": "madeTheChoice",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Brands We Have Supported with Amazon-Focused Work",
+                "headingclass": "sub-heading-two sub-heading-two-width",
+                "MadeTheChoiceData": [
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-1.webp",
+                        "textone": ">1.3M",
+                        "texttwo": "Views"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-2.webp",
+                        "textone": "3X",
+                        "texttwo": "Faster Time to Launch"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-3.webp",
+                        "textone": "27%",
+                        "texttwo": "Traffic Increases"
+                    },
+                    {
+                        "icon": "/images/contact/made-the-choice-logo-4.webp",
+                        "textone": "4X",
+                        "texttwo": "Faster Speed to Market"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ppc-accordion-two",
+            "type": "sertPpcAccordion",
+            "enabled": true,
+            "data": {
+                "heading": "What You Get with BridgeWay Digital’s Amazon Product Listing Services",
+                "data": [
+                    {
+                        "id": 0,
+                        "title": "Listing-Focused Expertise",
+                        "icon": "/website/images/image-demonstrating-user-focused-web-design-with-clean-animation-effects.webp",
+                        "contentTitle": "Improve listings with Amazon-focused optimization",
+                        "contentDesc": "We improve Amazon listings through targeted keyword research, clearer product-page content, and structured optimization built on Amazon-specific insights. Our listing specialists focus on practical improvements that help products rank higher and convert better.",
+                        "image": "/images/service/tech-edge-accordion-img.webp"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Personalized Support",
+                        "icon": "/website/images/image-illustrating-creative-layout-and-interactive-web-features.webp",
+                        "contentTitle": "Listing support aligned with your catalog needs",
+                        "contentDesc": "Our listing work is tailored to your product type, catalog size, and current listing condition. This helps ensure the optimization approach fits your actual business needs instead of using one generic template for every listing.",
+                        "image": "/images/service/custom-sol-accordion-img.webp"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Reduced Operational Workload",
+                        "icon": "/website/images/image-showcasing-smooth-user-interaction-with-advanced-web-animation.webp",
+                        "contentTitle": "Simplify listing management for your team",
+                        "contentDesc": "We handle the listing optimization work so your team spends less time dealing with content issues, revisions, and listing cleanup. This makes it easier to manage product-page improvements without adding unnecessary operational burden.",
+                        "image": "/images/service/stream-operation-accordion-img.webp"
+                    },
+                    {
+                        "id": 3,
+                        "title": "More Time for Core Business Tasks",
+                        "icon": "/website/images/image-showcasing-vibrant-layout-design-with-animation-effects.webp",
+                        "contentTitle": "Free up internal time for growth priorities",
+                        "contentDesc": "By outsourcing listing improvements to specialists, you can focus more time on product, operations, and sales while we handle the listing-side execution and optimization work.",
+                        "image": "/images/service/time-efficient-accordion-img.webp"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Expert Optimization Guidance",
+                        "icon": "/website/images/enhanced-brand-content-layout-sample.webp",
+                        "contentTitle": "Work with Amazon listing specialists",
+                        "contentDesc": "We provide documented recommendations and practical support to improve listing quality across keyword targeting, content, and listing organization. For broader marketplace growth strategy, see our Amazon marketing services .",
+                        "image": "/images/service/expert-insight-accordion-img.webp"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "benefits",
+            "type": "benefits",
+            "enabled": true,
+            "data": {
+                "title": "Unlock The BridgeWay Digital Advantage with 3x Amazon Product Listing Returns Compared To Other Options",
+                "cards": [
+                    {
+                        "image": {
+                            "src": "/website/images/bwd-logo-black-design-for-brand-identification.svg",
+                            "width": 180,
+                            "height": 29,
+                            "alt": "BWD logo black design for brand identification"
+                        },
+                        "list": [
+                            "Professional Amazon listing optimization by marketplace specialists",
+                            "Keyword research, content alignment, and backend term mapping",
+                            "Product page structure built for Amazon search and conversion",
+                            "Support tailored to catalog size and ecommerce listing needs."
+                        ]
+                    },
+                    {
+                        "title": "In-House Marketing",
+                        "list": [
+                            "Limited time for listing-specific optimization.",
+                            "Broader priorities can delay listing updates .",
+                            "Amazon listing work may lack specialist focus.",
+                            "Content consistency can become harder across products."
+                        ]
+                    },
+                    {
+                        "title": "Typical Marketing Agency",
+                        "list": [
+                            "Listing support may be too broad.",
+                            "Product-page optimization may not be the main focus .",
+                            "Amazon-specific listing details can be overlooked.",
+                            "Support may be less tailored to catalog-level needs."
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Amazon Product Listing Service Packages and Deliverables",
+                "description": "Choose a package based on the number of products you need optimized and the level of Amazon listing service support required. Our deliverables cover product-page quality, keyword alignment, listing content, and structured Amazon product listing optimization.",
+                "tableData": {
+                    "columns": [
+                        "Standard Package",
+                        "Business Package",
+                        "Enterprise Package"
+                    ],
+                    "features": [
+                        {
+                            "title": "Products",
+                            "values": [
+                                "text:Up to 5",
+                                "text:Up to 10",
+                                "text:Up to 15"
+                            ]
+                        },
+                        {
+                            "title": "Keyword Research",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Title Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Bullet Points Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Description Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Backend Keywords Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Image Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "A+ Content Creation Service",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Enhanced Brand Content (EBC) Setup",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Variation Management",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Competitor Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Conversion Rate Optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "SEO Copywriting for Listings",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Compliance and Policy Adherence",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Backend Search Term Analysis",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance Tracking and Reporting",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Progressive Monthly Management Fee",
+                            "values": [
+                                "text:$800/Month",
+                                "text:$1,500/Month",
+                                "text:$3,000/Month"
+                            ]
+                        }
+                    ],
+                    "title": "Features"
+                },
+                "staticRowData": {
+                    "title": "Connect With An Amazon Expert",
+                    "phone": {
+                        "text": "{{contact.phone.display}}",
+                        "link": "{{contact.phone.href}}"
+                    },
+                    "values": [
+                        {
+                            "link": "/get-a-free-quote?amazon=1&service=product_listing",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=800&package-type=standard&service=product_listing",
+                            "text": "GET STARTED"
+                        },
+                        {
+                            "link": "/get-a-free-quote?amazon=1&price=1500&package-type=bussiness&service=product_listing",
+                            "text": "GET STARTED"
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "sert-cta-three",
+            "type": "sertCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Not Sure Where to Start?",
+                "textBefore": "Get a ",
+                "textHighlight": "Free Amazon Store Audit",
+                "textAfter": " to identify listing gaps, keyword opportunities, and practical next steps.",
+                "button": {
+                    "text": "Get Your Free Audit",
+                    "href": "/get-a-free-quote?amazon=1&service=product_listing"
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "How Does Amazon Listing Optimization Lead To Better Sales?",
+                "desc": "Amazon listing optimization helps improve product visibility, shopper clarity, and conversion potential. When listing content is better aligned with search intent and buyer expectations, products become easier to find, easier to understand, and easier to buy.",
+                "tabs": [
+                    {
+                        "title": "   Enhanced Search Visibility",
+                        "eventKey": "tab1"
+                    },
+                    {
+                        "title": "   Improved Click-Through Rates",
+                        "eventKey": "tab2"
+                    },
+                    {
+                        "title": "   Higher Conversion Efficiency",
+                        "eventKey": "tab3"
+                    },
+                    {
+                        "title": "   Stronger Brand Presence",
+                        "eventKey": "tab4"
+                    },
+                    {
+                        "title": "   Streamlined Buyer Journeys",
+                        "eventKey": "tab5"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "title": "Enhanced Search Visibility",
+                        "para": "Better keyword targeting, stronger titles, and optimized backend search terms help products become more visible for relevant shopper searches. This supports stronger discoverability without making the listing feel overloaded.",
+                        "ImgSrc": "/images/service/web-hosting-img.webp"
+                    },
+                    {
+                        "title": "Improved Click-Through Rates",
+                        "para": "Listings with clearer titles, more compelling product messaging, and stronger visual presentation are more likely to attract clicks. Better first impressions can help improve click-through performance from Amazon search results.",
+                        "ImgSrc": "/images/service/improved-img.webp"
+                    },
+                    {
+                        "title": "Higher Conversion Efficiency",
+                        "para": "When shoppers land on a listing, they need clear product information, benefit-driven bullet points, and content that answers their questions quickly. Better listing clarity can help reduce hesitation and improve conversion potential.",
+                        "ImgSrc": "/images/service/cross-browser-img.webp"
+                    },
+                    {
+                        "title": "Stronger Brand Presence",
+                        "para": "Well-optimized listings help create a more professional and consistent brand presence across your catalog. This can make products feel more trustworthy and improve how shoppers perceive your brand.",
+                        "ImgSrc": "/images/service/cms-integration-img.webp"
+                    },
+                    {
+                        "title": "Streamlined Buyer Journeys",
+                        "para": "Clearer listing structure, stronger content organization, and better product-page communication help shoppers move through the decision process more smoothly. This can reduce confusion and support faster purchase decisions.",
+                        "ImgSrc": "/images/service/streamlined-img.webp"
+                    }
+                ],
+                "button": {
+                    "href": "/get-a-free-quote",
+                    "text": "GET YOUR FREE AUDIT →"
+                }
+            }
+        },
+        {
+            "id": "faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is included in your Amazon product listing services?",
+                        "answer": "Our Amazon product listing services typically include keyword research, title optimization, bullet point optimization, description rewriting, backend search term optimization, image recommendations, and listing structure improvements based on your package."
+                    },
+                    {
+                        "question": "Do you create new Amazon listings or optimize existing ones?",
+                        "answer": "We do both. We can create listing content for new products or improve existing listings that need stronger visibility, clearer content, or better conversion potential."
+                    },
+                    {
+                        "question": "Do you optimize backend search terms?",
+                        "answer": "Yes. Backend search term optimization is part of improving listing relevance and helping products become easier to discover inside Amazon search."
+                    },
+                    {
+                        "question": "Can you help if my listing is getting traffic but not converting?",
+                        "answer": "Yes. In many cases, low conversion comes from weak titles, unclear bullet points, poor product descriptions, weak image communication, or mismatched listing content. We review these areas and identify what needs improvement."
+                    },
+                    {
+                        "question": "Can you help if my Amazon listing is not ranking well?",
+                        "answer": "Yes. We look at keyword targeting, listing structure, backend fields, and content quality to identify why the listing may not be performing well in search. Our Amazon SEO services are specifically designed to fix ranking issues inside Amazon search."
+                    },
+                    {
+                        "question": "Do you work with single-product sellers and larger catalogs?",
+                        "answer": "Yes. Our packages are built for different catalog sizes, from a few products to broader product groups that need structured listing support."
+                    },
+                    {
+                        "question": "Do you also help with A+ Content and variation listings?",
+                        "answer": "Yes. Depending on your package and listing needs, we can support A+ content, enhanced brand content setup, and variation-related listing improvements."
+                    },
+                    {
+                        "question": "How much do Amazon product listing services cost?",
+                        "answer": "Pricing depends on the number of products, the level of optimization needed, and the package you choose. Our listing service packages start at $800."
+                    },
+                    {
+                        "question": "How long does Amazon listing optimization take?",
+                        "answer": "Turnaround depends on product count, listing condition, and package scope. Smaller projects can move faster, while larger catalogs need more detailed workflow time."
+                    },
+                    {
+                        "question": "How do I know which package is right for my listings?",
+                        "answer": "The best way to start is with a free Amazon store audit. We review your current listings and recommend the package based on your product count, listing quality, and optimization needs"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Get Expert Help with Amazon Product Listing Optimization"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "If your Amazon listings need stronger visibility, clearer content, or better conversion support, our Amazon listing specialists can help. As a trusted Amazon product listing services provider, we work on keyword targeting, listing structure, titles, bullet points, descriptions, and backend search term optimization to improve overall listing quality."
+                    },
+                    {
+                        "className": "box-text-3",
+                        "text": "Need Help Choosing the Right Package?"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "We can review your current listings and recommend the right package based on your product count, listing quality, and optimization needs."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to discuss your Amazon product listing requirements."
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Get A Free Audit",
+                            "href": "#hero"
+                        },
+                        {
+                            "text": "Amazon Product Listing Optimization Services for Better Visibility and Conversion",
+                            "href": "#ppc-accordion"
+                        },
+                        {
+                            "text": "Need Help with New or Underperforming Amazon Listings?",
+                            "href": "#ser-call"
+                        },
+                        {
+                            "text": "Amazon Product Listing Services Starting at $800",
+                            "href": "#revenue-calculate"
+                        },
+                        {
+                            "text": "How Better Amazon Listings Support Visibility, Relevance, and Conversion",
+                            "href": "#sert-card"
+                        },
+                        {
+                            "text": "Amazon Product Listing Packages Tailored to Your Catalog Size",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Our Amazon Listing Optimization Process",
+                            "href": "#perform-card"
+                        },
+                        {
+                            "text": "Get Amazon Product Listing Support Starting at $800",
+                            "href": "#sert-cta-two"
+                        },
+                        {
+                            "text": "Why Amazon Product Listings Underperform",
+                            "href": "#sert-content"
+                        },
+                        {
+                            "text": "Why Brands Choose BridgeWay Digital for Amazon Listing Optimization",
+                            "href": "#sert-ticker"
+                        },
+                        {
+                            "text": "What You Get with BridgeWay Digital’s Amazon Product Listing Services",
+                            "href": "#ppc-accordion-two"
+                        },
+                        {
+                            "text": "Amazon Product Listing Service Packages and Deliverables",
+                            "href": "#table"
+                        },
+                        {
+                            "text": "How Does Amazon Listing Optimization Lead to Better Sales?",
+                            "href": "#development-cost"
+                        },
+                        {
+                            "text": "Frequently Asked Questions",
+                            "href": "#faq"
+                        },
+                        {
+                            "text": "Get Expert Help with Amazon Product Listing Optimization",
+                            "href": "#table-of-content"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1199 @@
+{
+    "attributes": {
+        "slug": "angular-development-company",
+        "title": "Angular Development Services Company | BridgeWayDigital",
+        "template": "service",
+        "is_cms_managed": true,
+        "status": true,
+        "sort_order": 0
+    },
+    "seo": {
+        "meta_title": "Angular Development Services Company | BridgeWayDigital",
+        "meta_description": "BridgeWayDigital offers scalable Angular development services. A trusted Angular development services company for fast, dynamic, and modern web apps.",
+        "seo_content": null,
+        "schema": null,
+        "microdata": null,
+        "enable_schema": true,
+        "enable_microdata": false,
+        "robots_index": "index",
+        "robots_follow": "follow",
+        "og_tags": null,
+        "canonical_url": "/angular-development-company",
+        "keywords": "Angular development company, AngularJS development services, Angular web development, custom Angular applications",
+        "og_title": "Angular Development Services Company | BridgeWayDigital",
+        "og_description": "BridgeWayDigital offers scalable Angular development services. A trusted Angular development services company for fast, dynamic, and modern web apps.",
+        "og_type": "website",
+        "og_url": "https://bridgewaydigital.com/angular-development-company",
+        "og_image": "/images/service/service_background.webp",
+        "twitter_card": "summary_large_image",
+        "twitter_title": "Angular Development Services Company | BridgeWayDigital",
+        "twitter_description": "BridgeWayDigital offers scalable Angular development services. A trusted Angular development services company for fast, dynamic, and modern web apps.",
+        "twitter_image": "/images/service/service_background.webp"
+    },
+    "images": [],
+    "sections": [
+        {
+            "id": "hero",
+            "type": "serviceHero",
+            "enabled": true,
+            "data": {
+                "heading": "Angular JS Web Development Company- Solutions for Superior Web Performance",
+                "description": "BridgeWayDigital offers scalable Angular development services. A trusted Angular development services company for fast, dynamic, and modern web apps.",
+                "btn": {
+                    "text": "Get Your Free Quote"
+                },
+                "services": [
+                    {
+                        "value": "2.7x",
+                        "label": "RETURN ON INVESTMENT",
+                        "average": "1.5x"
+                    },
+                    {
+                        "value": "3.1x",
+                        "label": "MARKET SHARE EXPANSION",
+                        "average": "1.3x"
+                    },
+                    {
+                        "value": "3.8x",
+                        "label": "REVENUE GROWTH RATE",
+                        "average": "1.7x"
+                    }
+                ],
+                "form": {
+                    "label": "Tell us about your Angular project",
+                    "placeholder": "Enter your details",
+                    "submitText": "Get Your Free Quote"
+                },
+                "testimonial": {
+                    "quote": "Bridgeway has been a game-changer for our web strategy.",
+                    "company": "U.S. Healthcare Company",
+                    "source": "Review from Clutch.co",
+                    "ratings": [
+                        {
+                            "label": "Rated 4.9/5 stars on G2"
+                        },
+                        {
+                            "label": "Rated 4.9/5 stars on Clutch"
+                        }
+                    ],
+                    "averageLabel": "Industry average",
+                    "decoration": {
+                        "src": "/images/service/middle-box-top.svg",
+                        "alt": "",
+                        "width": 143,
+                        "height": 28
+                    },
+                    "sourceLogo": {
+                        "src": "/images/service/service-clutch-icon.svg",
+                        "alt": "Clutch",
+                        "width": 27,
+                        "height": 30
+                    },
+                    "ratingImage": {
+                        "src": "/images/service/rating-star.svg",
+                        "alt": "Five-star rating",
+                        "width": 66,
+                        "height": 11
+                    }
+                }
+            }
+        },
+        {
+            "id": "ser-logo",
+            "type": "serLogo",
+            "enabled": true,
+            "data": {
+                "title": "Trusted by startups and Fortune 500 companies",
+                "highlight": "500",
+                "logos": [
+                    {
+                        "ImgSrc": "/images/service/ser-logo-1.svg",
+                        "alt": "Client logo 1"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-2.webp",
+                        "alt": "Client logo 2"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-3.webp",
+                        "alt": "Client logo 3"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-4.webp",
+                        "alt": "Client logo 4"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-5.webp",
+                        "alt": "Client logo 5"
+                    },
+                    {
+                        "ImgSrc": "/images/service/ser-logo-6.webp",
+                        "alt": "Client logo 6"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "angular-development-services",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Enhance Your Online Presence Via Robust Angular JS Development Services",
+                "desc": "Whether you’re looking to upgrade your current website or build a new, dynamic web application, our customizable AngularJS development services can help. Learn more about our tailored plans for creating responsive, scalable applications that engage users and drive business growth.",
+                "btnText": "SEND ME A PROPOSAL ➜",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-1.webp",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and template development services. We create visually stunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-2.webp",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-3.webp",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-4.webp",
+                        "title": "AngularJS SEO Optimization",
+                        "desc": "Our AngularJS web development company ensures your site ranks high on search engines. We optimize AngularJS applications with SEO-friendly practices, including proper meta tags, URLs, and content structure, to improve visibility and attract organic traffic."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-5.webp",
+                        "title": "AngularJS Mobile Optimization",
+                        "desc": "Ensure your web application performs flawlessly across all devices with our AngularJS mobile optimization services. We adapt your AngularJS app for mobile users, ensuring fast load times, responsive design, and optimal performance on smartphones and tablets."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-6.webp",
+                        "title": "AngularJS Data Binding",
+                        "desc": "Leverage the power of AngularJS data binding to create dynamic, real-time applications. Our expertise in data binding ensures seamless integration between the model and view components, enabling efficient data handling and enhancing user interactions across your application."
+                    }
+                ],
+                "btnHref": "/get-a-free-quote"
+            }
+        },
+        {
+            "id": "cta-one",
+            "type": "ctaOne",
+            "enabled": true,
+            "data": {
+                "left": {
+                    "heading": "Maximize Your Web Potential with Leading Angular JS Web Development Company",
+                    "description": "Elevate your digital experience by leveraging the full potential of this powerful framework. Let’s begin, shall we?"
+                },
+                "right": {
+                    "heading": "Get Superior Software Performance on Every Project",
+                    "description": "Clients trust our AngularJS solutions to deliver fast, efficient, and scalable web applications. Our expertise ensures you get maximum value from every project. Gain deeper insights into how your app performs, streamline updates, and improve user satisfaction.",
+                    "list": [
+                        "Enhance your web application’s responsiveness with AngularJS.",
+                        "Optimize every interaction to boost user engagement and retention.",
+                        "Implement cutting-edge features to stay ahead in the competitive landscape."
+                    ]
+                },
+                "logo": {
+                    "src": "/images/white-logo.svg",
+                    "alt": "Bridgeway Digital",
+                    "width": 200,
+                    "height": 200
+                },
+                "button": {
+                    "text": "GET STARTED ➜",
+                    "href": "/get-a-free-quote"
+                }
+            }
+        },
+        {
+            "id": "ser-price",
+            "type": "serPrice",
+            "enabled": true,
+            "data": {
+                "heading": "Transparent Angular JS Development Pricing Tailored to Your Software Needs",
+                "description": "You'll find that many AngularJS development services offer a generic approach, but that's not what we're all about. We take pride in crafting personalized, professional AngularJS development services that align perfectly with your business, industry, and goals. Connect with our development team today to get a custom application quote for a solution that helps you reach your business goals!",
+                "leftData": {
+                    "heading": "CUSTOM ANGULAR JS DEVELOPMENT SERVICES",
+                    "value": "$4,000",
+                    "offerings": [
+                        {
+                            "imgSrc": "/new_assets/images/application-icon-for-project-management.webp",
+                            "title": "Application Functionality Needs",
+                            "desc": "AngularJS applications can vary significantly in complexity. You'll discuss any additional functionality you may need with your BridgeWay Digital strategist, which will play a part in your application development quote."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/project-icon-for-digital-project-management.webp",
+                            "title": "Project Timeline",
+                            "desc": "Project needs can vary from 2–12 months. Your team’s flexibility will determine how custom we can get with building you an application that helps you reach your business goals."
+                        },
+                        {
+                            "imgSrc": "/new_assets/images/digital-marketing-icon-for-online-services.webp",
+                            "title": "Digital Marketing Needs",
+                            "desc": "As a full digital marketing agency, BridgeWay Digital is equipped to build you an application that works for both users and search engines. Our expert digital marketing services can help maximize your web investment to drive revenue for your business."
+                        }
+                    ]
+                },
+                "rightData": {
+                    "heading": "Included in All AngularJS Development Projects:",
+                    "points": [
+                        {
+                            "point": "Professionally styled, custom designs that match your branding and vision"
+                        },
+                        {
+                            "point": "Positive user experience navigation"
+                        },
+                        {
+                            "point": "Responsive design"
+                        },
+                        {
+                            "point": "Lead-generating and performance-tested web applications"
+                        },
+                        {
+                            "point": "Code and logic optimized for SEO"
+                        },
+                        {
+                            "point": "Custom API integration"
+                        },
+                        {
+                            "point": "Database integration"
+                        },
+                        {
+                            "point": "New application page creation"
+                        },
+                        {
+                            "point": "Closed-loop call, lead, customer journey, and revenue tracking"
+                        },
+                        {
+                            "point": "Tracking website performance with Google Analytics setup and integration."
+                        }
+                    ]
+                },
+                "ui": {
+                    "icon": {
+                        "src": "/images/service/ser-price-img-1.svg",
+                        "alt": "Custom Angular development"
+                    },
+                    "startingAt": "Starting at",
+                    "priceSuffix": "/ project",
+                    "includedTitle": "What’s Included:",
+                    "button": {
+                        "text": "GET MY CUSTOM QUOTE ➜",
+                        "href": "/get-a-free-quote"
+                    },
+                    "background": {
+                        "src": "/images/service/SerPrice-bg.webp",
+                        "alt": ""
+                    }
+                }
+            }
+        },
+        {
+            "id": "expert-team",
+            "type": "expertTeam",
+            "enabled": true,
+            "data": {
+                "labels": {
+                    "organization": "ORGANIZATION:",
+                    "challenge": "CHALLENGE",
+                    "initiatives": "RECENT INITIATIVES",
+                    "result": "RESULT"
+                },
+                "imgAlt": "Angular development team",
+                "MainTitle": "Custom Angular JS Development Solutions Tailored to your Problem",
+                "desc": "Explore our collection of case studies that showcase how our custom Angular JS development solutions have solved complex problems for diverse clients. Get a glimpse of the talented team driving these successes.",
+                "imgSrc": "/images/home/expert-team-img.webp",
+                "style": {
+                    "height": "600px"
+                },
+                "sliderData": [
+                    {
+                        "title": "Education Platform",
+                        "organization": "Online Learning Provider",
+                        "challenge": "Increase student interaction and make complex course journeys easier to navigate.",
+                        "initiativeTextOne": "Developed interactive Angular quizzes and learning modules.",
+                        "initiativeTextTwo": "Enhanced real-time chat and discussion workflows.",
+                        "initiativeTextThree": "Streamlined course navigation with route-level optimization.",
+                        "percentage": "65%",
+                        "increase": "INCREASE IN STUDENT PARTICIPATION"
+                    },
+                    {
+                        "title": "Healthcare Portal",
+                        "organization": "U.S. Healthcare Company",
+                        "challenge": "Modernize a slow patient portal while protecting critical workflows.",
+                        "initiativeTextOne": "Rebuilt reusable interface components with typed data contracts.",
+                        "initiativeTextTwo": "Improved authentication, validation, and error handling.",
+                        "initiativeTextThree": "Reduced initial bundle weight with lazy-loaded routes.",
+                        "percentage": "48%",
+                        "increase": "FASTER CORE WORKFLOWS"
+                    },
+                    {
+                        "title": "Commerce Dashboard",
+                        "organization": "Multi-Store Retailer",
+                        "challenge": "Unify inventory, orders, and performance data in one responsive dashboard.",
+                        "initiativeTextOne": "Created reusable reporting and visualization components.",
+                        "initiativeTextTwo": "Integrated inventory and order-management APIs.",
+                        "initiativeTextThree": "Added role-based views for operations and leadership teams.",
+                        "percentage": "40%",
+                        "increase": "LESS MANUAL REPORTING"
+                    },
+                    {
+                        "title": "Logistics Application",
+                        "organization": "Regional Logistics Provider",
+                        "challenge": "Give dispatch teams reliable real-time visibility across active deliveries.",
+                        "initiativeTextOne": "Implemented live status updates and resilient loading states.",
+                        "initiativeTextTwo": "Optimized data refreshes to reduce unnecessary requests.",
+                        "initiativeTextThree": "Improved mobile layouts for teams working in the field.",
+                        "percentage": "2X",
+                        "increase": "FASTER STATUS UPDATES"
+                    },
+                    {
+                        "title": "SaaS Administration",
+                        "organization": "B2B Software Company",
+                        "challenge": "Scale an administration interface as products, roles, and customers grew.",
+                        "initiativeTextOne": "Introduced a reusable component and form architecture.",
+                        "initiativeTextTwo": "Standardized permissions and route guards.",
+                        "initiativeTextThree": "Expanded automated coverage for business-critical flows.",
+                        "percentage": "55%",
+                        "increase": "FASTER FEATURE DELIVERY"
+                    },
+                    {
+                        "title": "Financial Reporting",
+                        "organization": "Professional Services Firm",
+                        "challenge": "Turn complex reporting workflows into a clear, responsive application.",
+                        "initiativeTextOne": "Built accessible tables, filters, and export workflows.",
+                        "initiativeTextTwo": "Integrated secure reporting APIs and validation.",
+                        "initiativeTextThree": "Improved rendering performance for data-heavy views.",
+                        "percentage": "35%",
+                        "increase": "IMPROVEMENT IN TASK COMPLETION"
+                    }
+                ],
+                "imgWidth": 500,
+                "imgHeight": 500
+            }
+        },
+        {
+            "id": "benefits",
+            "type": "featureComparison",
+            "enabled": true,
+            "data": {
+                "heading": "Angular Development Built for Sustainable Digital Growth",
+                "icon": {
+                    "src": "/images/service/angular-icon.svg",
+                    "alt": "Angular"
+                },
+                "comparisonTableData": {
+                    "headings": {
+                        "left": "WITH BRIDGEWAY DIGITAL",
+                        "right": "WITHOUT BRIDGEWAY DIGITAL"
+                    },
+                    "rows": [
+                        {
+                            "left": "Scalable, component-based architecture designed for future growth",
+                            "right": "Tightly coupled code that becomes expensive to extend"
+                        },
+                        {
+                            "left": "SEO-aware rendering and content structure for stronger discoverability",
+                            "right": "Client-only rendering that can limit crawlability and content visibility"
+                        },
+                        {
+                            "left": "Performance budgets and Core Web Vitals optimization",
+                            "right": "Slow interactions, oversized bundles, and avoidable user drop-off"
+                        },
+                        {
+                            "left": "Tested API integrations with clear error and loading states",
+                            "right": "Fragile integrations that interrupt critical user journeys"
+                        },
+                        {
+                            "left": "Planned upgrades, documentation, and maintainable coding standards",
+                            "right": "Technical debt and risky framework upgrades"
+                        }
+                    ]
+                },
+                "rightData": {
+                    "comment": "Bridgeway Digital improved our Angular application’s speed, reliability, and maintainability while giving our team a clear foundation for future releases.",
+                    "customerName": "Alex P., Senior Executive",
+                    "achivements": [
+                        {
+                            "value": "65%",
+                            "detail": "increase in student participation for a featured Angular learning platform."
+                        },
+                        {
+                            "value": "98%",
+                            "detail": "client satisfaction across our Angular delivery engagements."
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "sub-service-2",
+            "type": "subService",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Your search for Angular JS web development services ends here",
+                "desc": "Learn more about why businesses choose us for their long-term Angular JS development needs:",
+                "btnText": "SEND ME A PROPOSAL ➜",
+                "SubServiceData": [
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-two-1.webp",
+                        "title": "AngularJS Template Development",
+                        "desc": "Elevate your brand's online presence with our custom AngularJS theme and template development services. We create visually stunning, responsive, and user-friendly designs that reflect your brand identity, enhancing user experience and driving engagement across all devices."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-two-2.webp",
+                        "title": "Custom Web Application Development",
+                        "desc": "We build high-performance, scalable web applications tailored to your business goals. From user-friendly interfaces to secure backend systems, our solutions are optimized for speed, stability, and long-term success."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-two-3.webp",
+                        "title": "API Integration & Development",
+                        "desc": "Connect your systems seamlessly with powerful custom API integrations. Our team specializes in building stable, secure, and efficient APIs that allow your platforms to communicate flawlessly and automate workflows."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-two-4.webp",
+                        "title": "AngularJS SEO Optimization",
+                        "desc": "Our AngularJS web development company ensures your site ranks high on search engines. We optimize AngularJS applications with SEO-friendly practices, including proper meta tags, URLs, and content structure, to improve visibility and attract organic traffic."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-two-5.webp",
+                        "title": "AngularJS Mobile Optimization",
+                        "desc": "Ensure your web application performs flawlessly across all devices with our AngularJS mobile optimization services. We adapt your AngularJS app for mobile users, ensuring fast load times, responsive design, and optimal performance on smartphones and tablets."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-two-6.webp",
+                        "title": "AngularJS Data Binding",
+                        "desc": "Leverage the power of AngularJS data binding to create dynamic, real-time applications. Our expertise in data binding ensures seamless integration between the model and view components, enabling efficient data handling and enhancing user interactions across your application."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-two-7.webp",
+                        "title": "AngularJS SEO Optimization",
+                        "desc": "Our AngularJS web development company ensures your site ranks high on search engines. We optimize AngularJS applications with SEO-friendly practices, including proper meta tags, URLs, and content structure, to improve visibility and attract organic traffic."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-two-8.webp",
+                        "title": "AngularJS Mobile Optimization",
+                        "desc": "Ensure your web application performs flawlessly across all devices with our AngularJS mobile optimization services. We adapt your AngularJS app for mobile users, ensuring fast load times, responsive design, and optimal performance on smartphones and tablets."
+                    },
+                    {
+                        "ImgSrc": "/images/service/Sub_Service-two-9.webp",
+                        "title": "AngularJS Data Binding",
+                        "desc": "Leverage the power of AngularJS data binding to create dynamic, real-time applications. Our expertise in data binding ensures seamless integration between the model and view components, enabling efficient data handling and enhancing user interactions across your application."
+                    }
+                ],
+                "btnHref": "/get-a-free-quote"
+            }
+        },
+        {
+            "id": "ser-why-business",
+            "type": "serWhyBusiness",
+            "enabled": true,
+            "data": {
+                "tabs": [
+                    {
+                        "id": "TechWave",
+                        "label": "Platform Performance"
+                    },
+                    {
+                        "id": "GreenLine",
+                        "label": "Delivery Velocity"
+                    },
+                    {
+                        "id": "Pioneer",
+                        "label": "Application Quality"
+                    },
+                    {
+                        "id": "Quantum",
+                        "label": "Scalable Architecture"
+                    }
+                ],
+                "tabContent": {
+                    "TechWave": {
+                        "title": "A focused Angular performance program made core user journeys faster and easier to maintain.",
+                        "para": "Bridgeway Digital improved route loading, component reuse, and rendering performance without interrupting our release roadmap.",
+                        "asideValue": "2X",
+                        "asideText": "Faster Core Experiences"
+                    },
+                    "GreenLine": {
+                        "title": "A reusable component architecture helped the product team ship consistent features more efficiently.",
+                        "para": "Clear patterns, shared components, and practical documentation reduced duplicated implementation work.",
+                        "asideValue": "+45%",
+                        "asideText": "Delivery Efficiency"
+                    },
+                    "Pioneer": {
+                        "title": "Automated testing and stronger data contracts reduced regressions across business-critical workflows.",
+                        "para": "The application became easier to validate and safer to release as its feature set expanded.",
+                        "asideValue": "-38%",
+                        "asideText": "Release Regressions"
+                    },
+                    "Quantum": {
+                        "title": "A modular Angular foundation gave a growing SaaS platform room to add products, roles, and integrations.",
+                        "para": "The new architecture supports incremental growth without forcing teams to rebuild established workflows.",
+                        "asideValue": "3X",
+                        "asideText": "Feature Scalability"
+                    }
+                },
+                "heading": {
+                    "beforeIcon": "Here’s why businesses",
+                    "afterIcon": "Bridgeway Digital",
+                    "icon": {
+                        "src": "/images/home/headt-img.webp",
+                        "alt": "choose",
+                        "width": 50,
+                        "height": 50
+                    },
+                    "ratingImage": {
+                        "src": "/images/home/why-businesses-star.webp",
+                        "alt": "Five-star rating",
+                        "width": 180,
+                        "height": 24
+                    }
+                },
+                "initialTab": "TechWave"
+            }
+        },
+        {
+            "id": "goals",
+            "type": "goals",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Yes. We cover your Angular JS development needs.",
+                "desc": "Our expert team of Angular JS developers have every possible contingency covered for you!",
+                "cards": [
+                    "Component Architecture",
+                    "Responsive Interfaces",
+                    "API Integration",
+                    "SEO-Friendly Rendering",
+                    "Performance Optimization",
+                    "Automated Testing",
+                    "Accessible UX",
+                    "Component Architecture",
+                    "Responsive Interfaces",
+                    "API Integration",
+                    "SEO-Friendly Rendering",
+                    "Performance Optimization",
+                    "Automated Testing",
+                    "Accessible UX"
+                ],
+                "bottomCards": [
+                    "State Management",
+                    "Route Optimization",
+                    "Secure Authentication",
+                    "Real-Time Data",
+                    "Cross-Browser Support",
+                    "Analytics Integration",
+                    "Ongoing Maintenance",
+                    "Version Upgrades",
+                    "State Management",
+                    "Route Optimization",
+                    "Secure Authentication",
+                    "Real-Time Data",
+                    "Cross-Browser Support",
+                    "Analytics Integration",
+                    "Ongoing Maintenance",
+                    "Version Upgrades"
+                ],
+                "heading": "Yes. We cover your Angular JS development needs.",
+                "description": "Our expert team of Angular JS developers have every possible contingency covered for you!",
+                "goalsList": [
+                    {
+                        "text": "Customizable Components"
+                    },
+                    {
+                        "text": "Two-Way Data Binding"
+                    },
+                    {
+                        "text": "Dependency Injection"
+                    },
+                    {
+                        "text": "Modular Architecture"
+                    },
+                    {
+                        "text": "Directives"
+                    },
+                    {
+                        "text": "Reactive Programming"
+                    },
+                    {
+                        "text": "Routing and Navigation"
+                    },
+                    {
+                        "text": "Form Validation"
+                    },
+                    {
+                        "text": "Testing Capabilities"
+                    },
+                    {
+                        "text": "Reusable Services"
+                    },
+                    {
+                        "text": "Performance Optimization"
+                    },
+                    {
+                        "text": "Security Best Practices"
+                    },
+                    {
+                        "text": "API Integration"
+                    },
+                    {
+                        "text": "State Management"
+                    },
+                    {
+                        "text": "Cross-Platform Compatibility"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "why-us",
+            "type": "whyTrust",
+            "enabled": true,
+            "data": {
+                "tag": "Why Companies Trust",
+                "heading": "Why Companies Trust BridgeWay Digital As the Best",
+                "description": "BridgeWay Digital excels in harnessing the power of Angular JS to deliver dynamic web applications. We prioritize the client experience by focusing on seamless, scalable solutions that drive business growth and enhance user engagement.",
+                "cardContent": [
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon.svg",
+                        "title": "Performance-Driven Development",
+                        "desc": "We optimize Angular applications for fast rendering, responsive interactions, efficient bundles, and a dependable user experience."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-2.webp",
+                        "title": "Scalable Architecture",
+                        "desc": "Reusable components, clear module boundaries, and maintainable patterns keep your application ready for new users and features."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-3.webp",
+                        "title": "SEO-Aware Implementation",
+                        "desc": "Server rendering, semantic structure, metadata, and crawlable content help search engines understand your application."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-4.webp",
+                        "title": "Secure Integrations",
+                        "desc": "We connect APIs and third-party platforms with careful validation, error handling, and secure data practices."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-5.webp",
+                        "title": "Quality-Focused Delivery",
+                        "desc": "Testing, code review, and production checks reduce regressions and support confident releases."
+                    },
+                    {
+                        "imgSrc": "/images/service/WhyTrust-icon-6.webp",
+                        "title": "Long-Term Support",
+                        "desc": "Documentation, upgrades, monitoring, and ongoing improvements protect your investment after launch."
+                    }
+                ],
+                "cards": [
+                    {
+                        "icon": "/new_assets/images/vector-performance-illustration-for-data-analysis.webp",
+                        "title": "Performance-Driven Development",
+                        "description": "Our commitment to performance is evident in every line of code. We leverage Angular JS's powerful framework to create fast, responsive applications that meet the needs of modern businesses. Our dedicated team ensures that each project is optimized for speed and efficiency, providing a superior user experience."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-scalable-illustration-for-business-growth.webp",
+                        "title": "Scalable Solutions",
+                        "description": "We believe in building solutions that grow with your business. Our Angular JS development services are designed to be scalable, allowing your application to expand and evolve as your business needs change. With a focus on modular development and flexibility, we ensure your web application can adapt to future demands."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-data-illustration-for-analytics.webp",
+                        "title": "Data-Driven Insights",
+                        "description": "At BridgeWay Digital, data drives our decisions. We implement analytics and tracking features within your Angular JS application to provide real-time insights into user behavior. This data helps us fine-tune your application, ensuring it meets the needs of your target audience and contributes to your business goals."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-user-illustration-for-user-experience.webp",
+                        "title": "User-Centric Design",
+                        "description": "Our approach to design revolves around the end user. We use Angular JS to create intuitive, engaging interfaces that are easy to navigate. By focusing on user experience, we help you retain visitors, reduce bounce rates, and improve overall satisfaction."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-secure-illustration-for-cybersecurity.webp",
+                        "title": "Secure Coding Practices",
+                        "description": "Security is a top priority at BridgeWay Digital. Our developers follow best practices to ensure your Angular JS application is protected against vulnerabilities. We implement robust security measures to safeguard your data and maintain the trust of your users."
+                    },
+                    {
+                        "icon": "/new_assets/images/vector-shield-illustration-for-security.webp",
+                        "title": "Continuous Improvement",
+                        "description": "The digital landscape is always evolving, and so are we. Our team stays up-to-date with the latest Angular JS updates and trends, allowing us to continually enhance your web application. We provide ongoing support and updates to keep your application performing at its best."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "real-world-ticker",
+            "type": "realWorldTicker",
+            "enabled": true,
+            "data": {
+                "title": "Real World Success With Angular JS Development",
+                "items": [
+                    {
+                        "count": "500+",
+                        "title": "Websites Developed",
+                        "description": "Enhancing businesses with Angular JS expertise."
+                    },
+                    {
+                        "count": "98%",
+                        "title": "Client Satisfaction",
+                        "description": "Delivering reliable and scalable Angular solutions."
+                    },
+                    {
+                        "count": "15+",
+                        "title": "Years Experience",
+                        "description": "Building enterprise-grade web applications."
+                    }
+                ],
+                "heading": "Real World Success With Angular JS Development",
+                "tickerData": [
+                    {
+                        "value": "500+",
+                        "title": "websites developed",
+                        "description": "enhancing businesses with Angular JS expertise."
+                    },
+                    {
+                        "value": "15",
+                        "title": "technology partnerships",
+                        "description": "awarded for Angular JS development excellence."
+                    },
+                    {
+                        "value": "12%",
+                        "title": "average increase",
+                        "description": "in startups utilizing Angular JS solutions effectively."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "packages",
+            "type": "serTable",
+            "enabled": true,
+            "data": {
+                "heading": "Angular Development Packages & Deliverables",
+                "description": "Compare scalable Angular development options designed for different application sizes, integration needs, and delivery goals.",
+                "tableData": {
+                    "title": "Features",
+                    "columns": [
+                        "Starter Application",
+                        "Growth Application",
+                        "Enterprise Application"
+                    ],
+                    "features": [
+                        {
+                            "title": "Discovery and technical planning",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Responsive Angular interface",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Reusable component system",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "API integration",
+                            "values": [
+                                "text:Core APIs",
+                                "text:Multiple APIs",
+                                "text:Complex ecosystem"
+                            ]
+                        },
+                        {
+                            "title": "Authentication and roles",
+                            "values": [
+                                "text:Standard",
+                                "text:Advanced",
+                                "text:Enterprise"
+                            ]
+                        },
+                        {
+                            "title": "SEO-ready content structure",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Performance optimization",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Accessibility review",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Automated testing",
+                            "values": [
+                                "text:Core flows",
+                                "text:Expanded suite",
+                                "text:Comprehensive suite"
+                            ]
+                        },
+                        {
+                            "title": "Deployment support",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Documentation",
+                            "values": [
+                                "tick",
+                                "tick",
+                                "tick"
+                            ]
+                        },
+                        {
+                            "title": "Post-launch support",
+                            "values": [
+                                "text:Standard",
+                                "text:Extended",
+                                "text:Custom SLA"
+                            ]
+                        }
+                    ]
+                },
+                "scrollHint": "👉 Swipe to view more"
+            }
+        },
+        {
+            "id": "ser-cta",
+            "type": "serCta",
+            "enabled": true,
+            "data": {
+                "title": "Bridgeway Digital has earned hundreds of reviews praising our efficiency, expertise, and client-focused approach.",
+                "button": {
+                    "text": "Client Testimonials ➜",
+                    "href": "/portfolio"
+                },
+                "image": {
+                    "src": "/images/service/ser-cta-img.webp",
+                    "alt": "Bridgeway Digital client testimonials",
+                    "width": 258,
+                    "height": 255
+                },
+                "rating": {
+                    "label": "BRIDGEWAY DIGITAL AGENCY RATING",
+                    "value": "4.9/5",
+                    "detail": "BASED ON OVER 500 THIRD-PARTY REVIEWS",
+                    "stars": {
+                        "src": "/images/service/ser-star.svg",
+                        "alt": "4.9 out of 5 stars",
+                        "width": 114,
+                        "height": 18
+                    }
+                }
+            }
+        },
+        {
+            "id": "faq",
+            "type": "serFaq",
+            "enabled": true,
+            "data": {
+                "MainTitle": "Frequently Asked Questions",
+                "faqData": [
+                    {
+                        "question": "What is Angular JS, and why should I choose it for my web development project?",
+                        "answer": "Angular JS is a popular open-source framework maintained by Google that allows developers to build dynamic, single-page applications. Its two-way data binding and dependency injection make development more efficient and robust, providing a seamless user experience."
+                    },
+                    {
+                        "question": "What types of applications can be built with Angular JS?",
+                        "answer": "Angular JS is versatile and can be used to build a wide range of applications, including single-page applications (SPAs), enterprise-level applications, e-commerce platforms, and real-time applications like chat apps."
+                    },
+                    {
+                        "question": "How does Angular JS improve the performance of web applications?",
+                        "answer": "Angular JS enhances performance through features like two-way data binding, which reduces the amount of code developers need to write, and directives, which help create custom HTML elements and components that are reusable and efficient."
+                    },
+                    {
+                        "question": "Is Angular JS suitable for large-scale projects?",
+                        "answer": "Yes, Angular JS is well-suited for large-scale projects due to its modular architecture. It allows developers to break down the application into smaller, manageable parts, making it easier to maintain and scale as the project grows."
+                    },
+                    {
+                        "question": "Can Angular JS be integrated with other technologies?",
+                        "answer": "Absolutely! Angular JS can be integrated with various backend technologies like Node.js, Python, and PHP, as well as front-end frameworks like Bootstrap and jQuery to enhance functionality and performance."
+                    },
+                    {
+                        "question": "How does Angular JS handle security?",
+                        "answer": "Angular JS has built-in security features, such as strict contextual escaping, to protect against common web vulnerabilities like cross-site scripting (XSS) attacks. Additionally, we implement best practices and additional security layers to ensure your application is secure."
+                    },
+                    {
+                        "question": "How long does it take to develop a web application with Angular JS?",
+                        "answer": "The development timeline depends on the complexity and scope of your project. Typically, a simple application might take a few weeks, while a more complex, large-scale application could take several months."
+                    },
+                    {
+                        "question": "Can you migrate my existing application to Angular JS?",
+                        "answer": "Yes, we offer migration services to upgrade your existing application to Angular JS. We ensure that the migration process is smooth, with minimal downtime, while preserving the functionality and enhancing the performance of your application."
+                    },
+                    {
+                        "question": "What are the benefits of Angular JS’s two-way data binding?",
+                        "answer": "Two-way data binding in Angular JS allows real-time synchronization between the model and view components. This means any changes made in the user interface are immediately reflected in the application data, and vice versa, making development more efficient."
+                    },
+                    {
+                        "question": "Do you provide post-launch support for Angular JS applications?",
+                        "answer": "Yes, BridgeWay Digital provides ongoing support and maintenance services to ensure your Angular JS application continues to perform optimally. We offer various support packages tailored to your needs."
+                    },
+                    {
+                        "question": "How does Angular JS handle SEO optimization?",
+                        "answer": "Angular JS has improved SEO capabilities with the introduction of Angular Universal, which allows server-side rendering of your application, making it more discoverable by search engines. We implement best practices to ensure your Angular JS application is SEO-friendly."
+                    },
+                    {
+                        "question": "What makes Angular JS different from other JavaScript frameworks?",
+                        "answer": "Angular JS stands out due to its powerful features like two-way data binding, dependency injection, and a comprehensive suite of tools for testing. These features make it a highly efficient framework for building dynamic and scalable web applications."
+                    },
+                    {
+                        "question": "Can Angular JS applications be optimized for mobile devices?",
+                        "answer": "Yes, Angular JS is fully capable of building responsive applications that work seamlessly across all devices. We use Angular JS along with mobile optimization techniques to ensure your application provides a great user experience on smartphones and tablets."
+                    },
+                    {
+                        "question": "How do you ensure the quality of an Angular JS project?",
+                        "answer": "At BridgeWay Digital, we follow industry best practices and a rigorous testing process, including unit testing and end-to-end testing, to ensure the quality and reliability of your Angular JS application."
+                    },
+                    {
+                        "question": "What is the cost of developing an Angular JS application with BridgeWay Digital?",
+                        "answer": "The cost of Angular JS web development varies depending on the project's complexity and requirements. Contact us for a custom quote tailored to your specific needs."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ser-cta-two",
+            "type": "serCtaTwo",
+            "enabled": true,
+            "data": {
+                "title": "Transform Your Web Presence Today With Our Angular JS Solutions!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/get-a-free-quote"
+                },
+                "description": "Get an Angular development plan tailored to your application, users, integrations, and growth goals.",
+                "highlightText": "Start your project with us today.",
+                "image": {
+                    "src": "/images/service/SerCtaTwo-img.webp",
+                    "alt": "Angular JS Development",
+                    "width": 600,
+                    "height": 280
+                }
+            }
+        },
+        {
+            "id": "development-cost",
+            "type": "developmentCost",
+            "enabled": true,
+            "data": {
+                "MainTitle": "How Much Does Angular JS Website Development Cost?",
+                "desc": "The cost of Angular JS website development can vary significantly depending on the scope and complexity of the project. Prices typically start at around $3,500 for basic applications and can go up to $60,000 for more advanced, feature-rich solutions. Each project is tailored to meet specific needs and budget requirements.",
+                "tabs": [
+                    {
+                        "label": "01   Project Complexity"
+                    },
+                    {
+                        "label": "02   Custom Features"
+                    },
+                    {
+                        "label": "03   Third-Party Integrations"
+                    },
+                    {
+                        "label": "04   Design Requirements"
+                    },
+                    {
+                        "label": "05   Cross-Platform Support"
+                    },
+                    {
+                        "label": "06   Team Expertise"
+                    }
+                ],
+                "tabContent": [
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Project Complexity",
+                        "para": "Application scope, number of user journeys, and architectural complexity shape the engineering effort."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Custom Features",
+                        "para": "Authentication, dashboards, real-time updates, and other custom features influence design, development, and testing."
+                    },
+                    {
+                        "ImgSrc": "/images/home/success-graph-img.webp",
+                        "title": "Third-Party Integrations",
+                        "para": "Payment providers, CRMs, analytics tools, and custom APIs add integration and validation work."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Design Requirements",
+                        "para": "A custom design system and advanced interactions require additional UX and frontend implementation time."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Cross-Platform Support",
+                        "para": "Responsive behavior and platform-specific requirements expand testing across devices and browsers."
+                    },
+                    {
+                        "ImgSrc": "/images/service/DevelopmentCost-img.webp",
+                        "title": "Team Expertise",
+                        "para": "Senior Angular expertise can reduce technical debt, improve delivery quality, and simplify long-term maintenance."
+                    }
+                ],
+                "button": {
+                    "text": "GET YOUR FREE QUOTE →",
+                    "href": "/get-a-free-quote"
+                },
+                "points": [
+                    {
+                        "number": "01",
+                        "title": "Project Complexity",
+                        "description": "The overall complexity of your Angular JS project significantly impacts the cost. For basic projects, with minimal features and simple functionality, the cost might range from $400 to $800. However, as the complexity increases with advanced features like dynamic data processing or multi-layered architecture, the cost can escalate, contributing significantly to the overall project budget."
+                    },
+                    {
+                        "number": "02",
+                        "title": "Custom Features",
+                        "description": "Custom features are a key cost driver. At a basic level, implementing standard functionalities might add around $500 to $800 to the project. However, more sophisticated customizations, such as unique user interfaces or specialized workflows, require additional development time and resources, potentially increasing the overall project cost significantly."
+                    },
+                    {
+                        "number": "03",
+                        "title": "Third-Party Integrations",
+                        "description": "The cost of third-party integrations can vary widely. Basic integrations, using pre-built solutions, typically cost between $400 and $700. However, if the project requires more complex integrations, such as custom API development or extensive third-party service integration, these can add up to $7,000 per integration, increasing the total project cost considerably."
+                    }
+                ]
+            }
+        },
+        {
+            "id": "table-of-content",
+            "type": "tableOfContent",
+            "enabled": true,
+            "data": {
+                "content": [
+                    {
+                        "className": "box-text-1",
+                        "text": "Enhance Your Web Presence with Expert Angular JS Development"
+                    },
+                    {
+                        "className": "box-text-2",
+                        "text": "Elevate your website's performance with our specialized Angular JS development services, designed to create dynamic and scalable web applications that meet modern business needs. By implementing Angular JS, we enhance your site's responsiveness, ensure a seamless user experience, and boost your online engagement. Our development team employs the latest tools and techniques to create web solutions that not only look good but also perform efficiently under heavy user loads."
+                    },
+                    {
+                        "className": "box-text-5",
+                        "beforePhone": "Call us at ",
+                        "phone": "{{contact.phone.display}}",
+                        "phoneHref": "{{contact.phone.href}}",
+                        "betweenText": " or email us at ",
+                        "email": "{{contact.email}}",
+                        "emailHref": "mailto:{{contact.email}}",
+                        "afterText": " to unlock the BridgeWayDigital advantage today!"
+                    }
+                ],
+                "toc": {
+                    "title": "Table of Contents",
+                    "arrowIcon": "/images/service/black-arrow.svg",
+                    "links": [
+                        {
+                            "text": "Angular Development Services",
+                            "href": "#angular-development-services"
+                        },
+                        {
+                            "text": "Benefits of Professional Angular Development",
+                            "href": "#benefits"
+                        },
+                        {
+                            "text": "Why Choose Bridgeway Digital",
+                            "href": "#why-us"
+                        },
+                        {
+                            "text": "Angular Packages & Deliverables",
+                            "href": "#packages"
+                        },
+                        {
+                            "text": "Frequently Asked Questions",
+                            "href": "#faq"
+                        }
+                    ],
+                    "button": {
+                        "text": "LEARN MORE",
+                        "href": "/get-a-free-quote"
+                    }
+                }
+            }
+        },
+        {
+            "id": "ser-cta-three",
+            "type": "serCtaThree",
+            "enabled": true,
+            "data": {
+                "title": "Start Building Dynamic Web Applications with Angular JS Today!",
+                "button": {
+                    "text": "GET STARTED NOW ➜",
+                    "href": "/get-a-free-quote"
+                },
+                "image": {
+                    "src": "/images/service/cta-three-img.webp",
+                    "width": 409,
+                    "height": 350,
+                    "alt": "Angular web development"
+                },
+                "stats": {
+                    "value": "98%",
+                    "label": "CLIENT SATISFACTION"
+                }
+            }
+        },
+        {
+            "id": "ser-contact-form",
+            "type": "serContactForm",
+            "enabled": true,
+            "data": {
+                "uploadLabel": "Upload Reference/Sample (can send later as well)",
+                "uploadAccessibleLabel": "Upload reference or sample file",
+                "heading": "Get Angular JS Web Solutions in the shortest possible time across the globe!",
+                "eyebrow": "Engage with us on your terms.",
+                "steps": [
+                    "Fill in our quick form",
+                    "Our consultant will contact you to discuss your needs",
+                    "Receive a clear project plan, timeline, and next steps"
+                ],
+                "formTitle": "Book a Consultation",
+                "formNotice": "No payment or credit card is required.",
+                "formDescription": "Complete the form below and we’ll contact you with next steps for your Angular project.",
+                "fields": {
+                    "name": {
+                        "label": "Name",
+                        "placeholder": "Name:"
+                    },
+                    "email": {
+                        "label": "Email",
+                        "placeholder": "Email:"
+                    },
+                    "phone": {
+                        "label": "Phone Number",
+                        "placeholder": "Phone Number:"
+                    },
+                    "projectDetails": {
+                        "label": "Define Your Project",
+                        "placeholder": "Define Your Project (Optional)"
+                    }
+                },
+                "submitText": "Submit"
+            }
+        }
+    ]
+}
