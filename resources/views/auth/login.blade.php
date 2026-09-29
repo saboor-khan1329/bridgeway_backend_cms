@@ -6,6 +6,10 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>{{ $title ?? 'Login' }} | Bridgeway Digital CMS</title>
 
+    <link rel="icon" type="image/webp" href="{{ asset('images/favicon-32x32.webp') }}">
+    <link rel="shortcut icon" href="{{ asset('images/favicon-32x32.webp') }}">
+    <link rel="apple-touch-icon" href="{{ asset('images/favicon-32x32.webp') }}">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lexend+Deca:wght@400;500;600;700&display=swap">

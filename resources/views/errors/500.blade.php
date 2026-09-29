@@ -5,6 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>500 | Server Error</title>
+    <link rel="icon" type="image/webp" href="{{ asset('images/favicon-32x32.webp') }}">
+    <link rel="shortcut icon" href="{{ asset('images/favicon-32x32.webp') }}">
+    <link rel="apple-touch-icon" href="{{ asset('images/favicon-32x32.webp') }}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
